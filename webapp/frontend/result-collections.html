@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Result Collections</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+</head>
+<body>
+  <div id="app">
+    <header-component></header-component>
+    <navbar-component></navbar-component>
+
+    <div class="container my-3">
+      <!-- Operation Feedback -->
+      <div v-if="operationStatus === 'success'" class="alert alert-success alert-dismissible fade show" role="alert">
+        {{ operationMessage }}
+        <button type="button" class="btn-close" @click="clearStatus()" aria-label="Close"></button>
+      </div>
+
+      <div v-if="operationStatus === 'error'" class="alert alert-danger alert-dismissible fade show" role="alert">
+        {{ operationMessage }}
+        <button type="button" class="btn-close" @click="clearStatus()" aria-label="Close"></button>
+      </div>
+
+      <!-- Main content of the page -->
+      <main class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb">
+              <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/test-collections">Collections</a></li>
+                <li class="breadcrumb-item active" aria-current="page">{{ metadata.name }}</li>
+              </ol>
+            </nav>
+            
+            <h2>{{ metadata.name }}</h2>
+            <p class="text-muted">{{ metadata.description }}</p>
+        
+            <table class="table table-striped">
+              <thead>
+                <tr>
+                  <th>ID</th>
+                  <th>Timestamp</th>
+                  <th>Recall@10</th>
+                  <th>MRR</th>
+                  <th>Actions</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr v-for="result in results" :key="result.id">
+                  <td>{{ result.id }}</td>
+                  <td>{{ new Date(result.timestamp).toLocaleString() }}</td>
+                  <td>{{ result.recallAt10.toFixed(3) }}</td>
+                  <td>{{ result.mrr.toFixed(3) }}</td>
+                  <td>
+                    <div class="btn-group btn-group-sm" role="group">
+                      <a :href="'/test-collections/' + metadata.id + '/results/' + result.id" class="btn btn-outline-primary">
+                        Details
+                      </a>
+                      <a :href="'/api/result-collections/' + result.id + '/csv'" class="btn btn-outline-secondary">
+                        CSV
+                      </a>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+      </main>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <script src="/static/scripts/header.js"></script>
+  <script src="/static/scripts/navbar.js"></script>
+  <script>
+    const { createApp } = Vue
+    var app = createApp({
+      data() {
+        return {
+          metadata: {},
+          results: [],
+          operationStatus: null,
+          operationMessage: '',
+        }
+      },
+      computed: {},
+      methods: {
+        clearStatus() {
+          this.operationStatus = null
+          this.operationMessage = ''
+        },
+        fetchResults(collectionId) {
+          fetch(`/api/test-collections/${collectionId}/results`)
+          .then(res => {
+            if (!res.ok) throw new Error("Failed to fetch results")
+            return res.json()
+          })
+          .then(data => {
+            this.metadata = data.metadata
+            this.results = data.results
+          })
+          .catch(err => {
+            this.operationStatus = 'error'
+            this.operationMessage = err.message
+          })
+        },
+      },
+      mounted() {
+        const match = window.location.pathname.match(/\/test-collections\/(\d+)\/results/);
+        if (match) {
+          const collectionId = match[1]
+          this.fetchResults(collectionId)
+        } else {
+          this.operationStatus = 'error'
+          this.operationMessage = 'Invalid URL format: Collection ID not found.'
+        }
+      },
+    })
+    app.component('navbar-component', NavbarComponent)
+    app.component('header-component', HeaderComponent)
+    app.mount('#app')
+  </script>
+</body>
+</html>

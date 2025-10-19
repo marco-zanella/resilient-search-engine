@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Search Engine</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+
+  <style>
+    .collapse.show + .collapse-arrow,
+    .collapse-arrow.collapsed {
+      transform: rotate(0deg);
+      transition: transform 0.3s ease;
+    }
+  
+    .collapse.show ~ .collapse-arrow {
+      transform: rotate(180deg);
+    }
+  
+    .collapse-arrow {
+      transition: transform 0.3s ease;
+    }
+
+    a[aria-expanded="true"] .collapse-arrow {
+      transform: rotate(180deg);
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <header-component></header-component>
+    <navbar-component></navbar-component>
+
+    <main class="container my-3">
+      <div class="row">
+        <div class="col-12">
+          <div class="input-group">
+            <input type="text" v-model="query" class="form-control" placeholder="Enter your query..." aria-label="Search input">
+            <button @click="search" class="btn btn-primary" type="button">Search</button>
+            <button @click="toggleAdvanced" class="btn btn-outline-secondary" type="button">Advanced</button>
+          </div>
+        </div>
+
+        <div class="col-12 mt-3" v-if="showAdvanced">
+          <div class="card">
+            <form class="card-body">
+              <div class="row mb-3">
+                <label for="language" class="col-sm-2 col-form-label">Language</label>
+                <div class="col-sm-10">
+                  <select v-model="language" class="form-select" id="language">
+                    <option value="greek">Greek</option>
+                    <option value="latin">Latin</option>
+                    <option value="arabic">Arabic</option>
+                  </select>
+                </div>
+              </div>
+        
+              <div class="row mb-3">
+                <label for="preset" class="col-sm-2 col-form-label">Results</label>
+                <div class="col-sm-10">
+                  <input v-model="results_size" class="form-control" type="number" min="0">
+                </div>
+              </div>
+        
+              <div class="row mb-3">
+                <label for="preset" class="col-sm-2 col-form-label">Weight Preset</label>
+                <div class="col-sm-10">
+                  <select v-model="preset" class="form-select" id="preset">
+                    <option v-for="(w, key) in presets" :key="key" :value="key">{{ key }}</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="row mb-3">
+                <label for="preset" class="col-sm-2 col-form-label">Custom Weights</label>
+                <div class="col-sm-10">
+                  <div class="row">
+                    <div v-for="(w, key) in weights" :key="key" class="col-md-6 mb-2">
+                      <div class="row">
+                        <label :for="key" class="col-sm-6 col-form-label text-capitalize">{{ key }}</label>
+                        <div class="col-sm-6">
+                          <input type="number" class="form-control" v-model.number="weights[key]" :id="key" min="0" step="0.01">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row mb-3">
+                <div class="col-sm-10 offset-sm-2">
+                  <div class="form-check">
+                    <input v-model="show_score_stats" class="form-check-input" type="checkbox" id="scoreStatsCheckbox">
+                    <label class="form-check-label" for="scoreStatsCheckbox">
+                      Show score stats
+                    </label>
+                  </div>
+                </div>
+              </div>            
+            </form>
+          </div>
+        </div>
+
+
+        <div class="col-7 mt-4">
+          <div v-if="loading"class="alert alert-secondary" role="alert">
+            <div class="spinner-border" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            Loading results...
+          </div>          
+          <div v-else-if="results.count">
+            <h5>{{ results.count }} Results in {{ results.time }} ms</h5>
+            <div v-for="result in results.results" :key="result.id" class="card mb-3">
+              <div class="card-body">
+                <h6 class="card-title">
+                  {{ result.book }} {{ result.chapter }}:{{ result.verse }} <small class="text-muted">[{{ result.source }}]</small>
+                </h6>
+                <p class="card-text">{{ result.content }}</p>
+                <div v-if="result.variant && result.variant.length">
+                  <h6>Variants:</h6>
+                  <ul class="list-group list-group-flush">
+                    <li v-for="(v, i) in result.variant" :key="i" class="list-group-item">
+                      <b>[{{ v.source }}]</b> {{ v.content }}
+                    </li>
+                  </ul>
+                </div>
+                <small class="text-muted">
+                  Scores: {{ result.score.toFixed(3) }},
+                  {{ calculateNormalizedScore(result.score).toFixed(3) }} (normalized),
+                  {{ calculateStandardizedScore(result.score).toFixed(3) }} (standardized)
+                </small>
+              </div>
+            </div>
+          </div>
+
+          <div v-else-if="!loading && queryComplete">
+            <p>No results found.</p>
+          </div>
+        </div>
+
+        <aside v-show="queryComplete" class="col-5 mt-3">
+          <!-- Filters -->
+          <div class="card mb-4">
+            <div class="card-body">
+              <h3 class="card-title">Filters</h3>
+              <div class="mb-3">
+                <div>
+                  <h5>
+                    <a 
+                      class="text-decoration-none d-flex justify-content-between align-items-center"
+                      data-bs-toggle="collapse"
+                      href="#source-filter"
+                      role="button"
+                      aria-expanded="false"
+                      aria-controls="book-filter"
+                    >
+                      <span>Sources</span>
+                      <i class="ms-2 bi bi-chevron-down collapse-arrow"></i>
+                    </a>
+                  </h5>
+                  <div id="source-filter" class="collapse multi-collapse">
+                    <div v-for="bucket in stats.unfiltered.by_source.buckets" :key="bucket.key" class="form-check">
+                      <input
+                        class="form-check-input"
+                        type="checkbox"
+                        :id="'source-' + bucket.key"
+                        :value="bucket.key"
+                        v-model="sources"
+                      />
+                      <label class="form-check-label" :for="'source-' + bucket.key">
+                        {{ bucket.key }} ({{ bucket.doc_count }})
+                      </label>
+              
+                      <!-- Book breakdown per source -->
+                      <dl v-if="bucket.by_book && sources.includes(bucket.key)" class="row">
+                        <template v-for="book in bucket.by_book.buckets" :key="book.key" class="form-check">
+                          <dt class="col-sm-8">{{ book.key }}</dt>
+                          <dd class="col-sm-4 text-end">{{ book.doc_count }}</dd>
+                        </template>
+                      </dl>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Filters on book -->
+                <div class="mt-4">
+                  <h5>
+                    <a 
+                      class="text-decoration-none d-flex justify-content-between align-items-center"
+                      data-bs-toggle="collapse"
+                      href="#book-filter"
+                      role="button"
+                      aria-expanded="false"
+                      aria-controls="book-filter"
+                    >
+                      <span>Books</span>
+                      <i class="ms-2 bi bi-chevron-down collapse-arrow"></i>
+                    </a>
+                  </h5>
+                  <div id="book-filter" class="collapse multi-collapse">
+                    <div v-for="bucket in stats.unfiltered.by_book.buckets" :key="bucket.key" class="form-check">
+                      <input
+                        class="form-check-input"
+                        type="checkbox"
+                        :id="'source-' + bucket.key"
+                        :value="bucket.key"
+                        v-model="books"
+                      />
+                      <label class="form-check-label" :for="'source-' + bucket.key">
+                        {{ bucket.key }} ({{ bucket.doc_count }})
+                      </label>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Score Stats -->
+          <div v-if="stats.score_stats.min" class="card mb-4">
+            <div class="card-body">
+              <h3 class="card-title">Score Stats</h3>
+              <table class="table table-sm table-borderless">
+                <thead>
+                  <tr>
+                    <th scope="col">min</th>
+                    <th scope="col">max</th>
+                    <th scope="col">avg</th>
+                    <th scope="col">var</th>
+                    <th scope="col">std dev</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>{{ stats.score_stats?.min?.toFixed(3) }}</td>
+                    <td>{{ stats.score_stats?.max?.toFixed(3) }}</td>
+                    <td>{{ stats.score_stats?.avg?.toFixed(3) }}</td>
+                    <td>{{ stats.score_stats?.variance?.toFixed(3) }}</td>
+                    <td>{{ stats.score_stats?.std_deviation?.toFixed(3) }}</td>
+                  </tr>
+                </tbody>
+              </table>
+        
+              <h5>Percentiles</h5>
+              <div v-if="stats.score_percentiles">
+                <dl class="row" v-if="stats.score_percentiles">
+                  <template v-for="(v, key) in stats.score_percentiles.values" :key="key">
+                    <dt class="col-sm-8">{{ key }}%</dt>
+                    <dd class="col-sm-4 text-end">{{ v.toFixed(3) }}</dd>
+                  </template>
+                </dl>
+              </div>
+            </div>
+          </div>
+
+          <!-- Score visualization -->
+          <div class="card mb-4">
+            <div class="card-body">
+              <h3 class="card-title">Score Distribution</h3> 
+              <div class="my-4">
+                <canvas id="chartElastic"></canvas>
+              </div>
+              <div v-show="stats.score_stats.min" class="my-4">
+                <canvas id="chartNormalized"></canvas>
+              </div>
+              <div v-show="stats.score_stats.min" class="my-4">
+                <canvas id="chartStandardized"></canvas>
+              </div>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </main>
+  </div>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="/static/scripts/header.js"></script>
+  <script src="/static/scripts/navbar.js"></script>
+  <script>
+    const { createApp } = Vue;
+
+    const presets = {
+      'balanced': {
+        text: 0.1,
+        variantText: 0.05,
+        shingle: 0.1,
+        variantShingle: 0.05,
+        trigram: 0.1,
+        variantTrigram: 0.05,
+        semantic: 0.9,
+        variantSemantic: 0.45,
+      },
+      'text-reuse': {
+        text: 1.0,
+        variantText: 0.5,
+        shingle: 0.75,
+        variantShingle: 0.32,
+        trigram: 0.5,
+        variantTrigram: 0.25,
+        semantic: 0.0,
+        variantSemantic: 0.0,
+      },
+      'allusion': {
+        text: 0.0,
+        variantText: 0.0,
+        shingle: 0.0,
+        variantShingle: 0.0,
+        trigram: 0.0,
+        variantTrigram: 0.0,
+        semantic: 1.0,
+        variantSemantic: 0.5,
+      },
+    }
+
+    var app = createApp({
+      data() {
+        return {
+          query: '',
+          language: 'greek',
+          results_size: 50,
+          show_score_stats: true,
+          results: [],
+          loading: false,
+          queryComplete: false,
+          error: null,
+          showAdvanced: false,
+          presets: presets,
+          preset: 'balanced',
+          weights: { ...presets['balanced'] },
+          books: [],
+          sources: [],
+          stats: {
+            unfiltered: { by_source: { buckets: [] }, by_book: { buckets: [] } },
+            score_stats: {},
+            score_percentiles: { values: {} }
+          },
+        }
+      },
+
+      methods: {
+        async search() {
+          this.loading = true;
+          this.error = null;
+          try {
+            const payload = {
+              query: this.query,
+              text_weight: this.weights.text,
+              shingle_weight: this.weights.shingle,
+              trigram_weight: this.weights.trigram,
+              variant_text_weight: this.weights.variantText,
+              variant_shingle_weight: this.weights.variantShingle,
+              variant_trigram_weight: this.weights.variantTrigram,
+              semantic_weight: this.weights.semantic,
+              variant_semantic_weight: this.weights.variantSemantic,
+              books: this.books.length > 0 ? this.books : null,
+              sources: this.sources.length > 0 ? this.sources : null,
+              size: this.results_size,
+              score_stats: this.show_score_stats,
+            }
+
+            const response = await fetch("/api/search/" + this.language, {
+              method: "POST",
+              headers: {
+                "Content-Type": "application/json"
+              },
+              body: JSON.stringify(payload)
+            });
+
+            if (!response.ok) {
+              throw new Error("Search failed: " + response.statusText);
+            }
+
+            const data = await response.json()
+            this.results = data || []
+            this.stats = data.stats
+            this.drawChart(
+              'chartElastic',
+              'Simimlarity Score',
+              data.results.map(r => r.score),
+              'rgba(54, 162, 235, 0.5)'
+            )
+            if (!data.stats.score_stats?.min) {
+              data.stats.score_stats = {}
+            }
+            else {
+              this.drawChart(
+                'chartNormalized',
+                'Normalized Score',
+                data.results.map(r => this.calculateNormalizedScore(r.score)),
+                'rgba(75, 192, 192, 0.5)'
+              )
+              this.drawChart(
+                'chartStandardized',
+                'Standardized Score',
+                data.results.map(r => this.calculateStandardizedScore(r.score)),
+                'rgba(255, 99, 132, 0.5)'
+              )
+            }
+          } catch (err) {
+            console.error(err);
+            this.error = err.message;
+          } finally {
+            this.loading = false;
+            this.queryComplete = true
+          }
+        },
+        toggleAdvanced() {
+          this.showAdvanced = !this.showAdvanced
+        },
+        toggleBook(book) {
+          const index = this.books.indexOf(book)
+          if (index === -1) {
+            this.books.push(book)
+          } else {
+            this.books.splice(index, 1)
+          }
+        },
+        toggleSource(source) {
+          const index = this.sources.indexOf(source)
+          if (index === -1) {
+            this.sources.push(source)
+          } else {
+            this.sources.splice(index, 1)
+          }
+        },
+        setPreset() {
+          this.weights = presets['balanced']
+        },
+        calculateNormalizedScore(score) {
+          const min = this.stats.score_stats.min
+          const max = this.stats.score_stats.max
+          if (max === min) return 0
+          return (score - min) / (max - min)
+        },
+        calculateStandardizedScore(score) {
+          const mean = this.stats.score_stats.avg
+          const stdDev = this.stats.score_stats.std_deviation
+          return (score - mean) / stdDev
+        },
+        drawChart(canvasId, label, data, color) {
+          const existingChart = Chart.getChart(canvasId);
+          if (existingChart) {
+            existingChart.destroy();
+          }
+
+          const labels = this.results.results.map((_, i) => `#${i + 1}`)
+          new Chart(document.getElementById(canvasId).getContext('2d'), {
+            type: 'bar',
+            data: {
+              labels,
+              datasets: [{
+                label,
+                data,
+                backgroundColor: color,
+                borderColor: color.replace('0.5', '1'),
+                borderWidth: 0,
+              }]
+            },
+            options: {
+              responsive: true,
+              plugins: {
+                title: {
+                  display: false
+                },
+                tooltip: {
+                  callbacks: {
+                    label: context => `${label}: ${context.formattedValue}`
+                  }
+                }
+              },
+              scales: {
+                y: {
+                  beginAtZero: true,
+                  title: {
+                    display: true,
+                    text: label
+                  }
+                }
+              }
+            }
+          })
+        }
+      },
+
+      watch: {
+        preset(newVal) {
+          if (newVal && presets[newVal]) {
+            this.weights = { ...presets[newVal] }
+          }
+        },
+        sources() {
+          this.search()
+        },
+        books() {
+          this.search()
+        }
+      }
+    })
+    
+    app.component('navbar-component', NavbarComponent)
+    app.component('header-component', HeaderComponent)
+    app.mount('#app')
+  </script>
+</body>
+</html>

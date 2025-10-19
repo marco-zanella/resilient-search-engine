@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Test Collections</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+</head>
+<body>
+  <div id="app">
+    <header-component></header-component>
+    <navbar-component></navbar-component>
+
+    <main class="container my-3">
+      <!-- Operation Feedback -->
+      <div v-if="operationStatus === 'success'" class="alert alert-success alert-dismissible fade show" role="alert">
+        {{ operationMessage }}
+        <button type="button" class="btn-close" @click="clearStatus()" aria-label="Close"></button>
+      </div>
+
+      <div v-if="operationStatus === 'error'" class="alert alert-danger alert-dismissible fade show" role="alert">
+        {{ operationMessage }}
+        <button type="button" class="btn-close" @click="clearStatus()" aria-label="Close"></button>
+      </div>
+
+      <!-- Modal for Managing Test Cases in Collection -->
+      <div class="modal fade" id="manageTestCasesModal" tabindex="-1" aria-labelledby="manageTestCasesModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="manageTestCasesModalLabel">Manage Test Cases for Collection</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <!-- Section for existing test cases in the collection -->
+              <h5>Test Cases in this Collection</h5>
+              <table class="table table-borderless table-sm">
+                <thead>
+                  <tr>
+                    <th>Source</th>
+                    <th>Content</th>
+                    <th>Target</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr v-for="testCase in collectionTestCases" :key="testCase.id">
+                    <td>{{ testCase.source }}</td>
+                    <td>{{ testCase.content }}</td>
+                    <td>{{ testCase.target }}</td>
+                    <td>
+                      <button class="btn btn-danger btn-sm" @click="removeTestCaseFromCollection(testCase.id)">
+                        Remove
+                      </button>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+
+              <!-- Section for adding new test cases -->
+              <hr>
+              <h5>Add New Test Cases</h5>
+              <input type="text" v-model="filterTag" class="form-control" placeholder="Filter by tag...">
+              <table class="table table-borderless table-sm mt-2">
+                <thead>
+                  <tr>
+                    <th>Source</th>
+                    <th>Content</th>
+                    <th>Target</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr v-for="testCase in filteredTestCases" :key="testCase.id">
+                    <td>{{ testCase.source }}</td>
+                    <td>{{ testCase.content }}</td>
+                    <td>{{ testCase.target }}</td>
+                    <td>
+                      <button class="btn btn-success btn-sm" @click="addTestCaseToCollection(testCase.id)">
+                        Add
+                      </button>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <!-- Collection List -->
+        <div class="col-7">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title">Test Collections</h5>
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Actions</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr v-for="collection in collections" :key="collection.id">
+                    <td>{{ collection.name }}</td>
+                    <td>{{ collection.description }}</td>
+                    <td>
+                      <div class="btn-group btn-group-sm">
+                        <button class="btn btn-primary" @click="runCollection(collection.id)">Run</button>
+                        <a class="btn btn-primary" :href="`/test-collections/${collection.id}/results`">Results</a>
+                        <button class="btn btn-warning" @click="editCollection(collection)">Edit</button>
+                        <button class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#manageTestCasesModal" @click="editCollection(collection)">Test Cases</button>
+                        <button class="btn btn-danger" @click="deleteCollection(collection.id)">Delete</button>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <!-- Collection form -->
+        <div class="col-5">
+          <div class="card mb-4">
+            <div class="card-body">
+              <h5 class="card-title">{{ editingCollection ? 'Edit Collection' : 'New Test Collection' }}</h5>
+              <form @submit.prevent="saveCollection">
+                <div class="row mb-3">
+                  <label class="col-form-label col-3">Name</label>
+                  <div class="col-9">
+                    <input v-model="collectionForm.name" class="form-control" required />
+                  </div>
+                </div>
+                <div class="row mb-3">
+                  <label class="col-form-label col-3">Desc.</label>
+                  <div class="col-9">
+                    <input v-model="collectionForm.description" class="form-control" />
+                  </div>
+                </div>
+                <div class="row mb-3">
+                  <label class="col-form-label col-3">Sources</label>
+                  <div class="col-9">
+                    <input v-model="collectionForm.sources" class="form-control" placeholder="comma-separated"/>
+                  </div>
+                </div>
+                <div class="row mb-3">
+                  <label class="col-form-label col-3">Books</label>
+                  <div class="col-9">
+                    <input v-model="collectionForm.books" class="form-control" placeholder="comma-separated"/>
+                  </div>
+                </div>
+                <div class="row">
+                  <label class="form-label">Weights</label>
+                  <div v-for="(value, key) in collectionForm.weights" :key="key" class="mb-2 row">
+                    <label :for="'weight-' + key" class="col-form-label col-7">{{ key }}</label>
+                    <div class="col-5">
+                      <input
+                        :id="'weight-' + key"
+                        type="number"
+                        class="form-control"
+                        step="0.001"
+                        min="0"
+                        v-model.number="collectionForm.weights[key]"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12">
+                  <div class="btn-group">
+                    <button class="btn btn-primary" type="submit">Save</button>
+                    <button class="btn btn-secondary" type="button" @click="resetForm">Cancel</button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <script src="/static/scripts/header.js"></script>
+  <script src="/static/scripts/navbar.js"></script>
+  <script>
+    const { createApp } = Vue;
+    const defaultWeights = {
+      text: 0.1,
+      variantText: 0.05,
+      shingle: 0.1,
+      variantShingle: 0.05,
+      trigram: 0.1,
+      variantTrigram: 0.05,
+      semantic: 0.9,
+      variantSemantic: 0.45
+    }
+    var app = createApp({
+      data() {
+        return {
+          collections: [],
+          testCases: [],
+          collectionTestCases: [],
+          filterTag: '',
+          selectedCollection: null,
+          collectionForm: {
+            name: '',
+            description: '',
+            sources: '',
+            books: '',
+            weights: {...defaultWeights}
+          },
+          editingId: null,
+          selectedCollectionId: null,
+          selectedMemberships: [],
+          operationStatus: null,
+          operationMessage: '',
+        }
+      },
+      computed: {
+        editingCollection() {
+          return this.editingId !== null;
+        },
+        filteredTestCases() {
+          return this.testCases.filter(testCase => 
+            testCase.tags.some(tag => tag.toLowerCase().includes(this.filterTag.toLowerCase()))
+          );
+        },
+      },
+      methods: {
+        loadCollections() {
+          fetch('/api/test-collections')
+            .then(res => res.json())
+            .then(data => { this.collections = data });
+        },
+        loadTestCases() {
+          fetch('/api/test-cases')
+            .then(res => res.json())
+            .then(data => { this.testCases = data });
+        },
+        saveCollection() {
+          const payload = {
+            ...this.collectionForm,
+            weights: this.collectionForm.weights,
+            sources: this.collectionForm.sources.split(',').map(s => s.trim()).filter(Boolean),
+            books: this.collectionForm.books.split(',').map(s => s.trim()).filter(Boolean)
+          };
+          const method = this.editingId ? 'PUT' : 'POST';
+          const url = this.editingId ? `/api/test-collections/${this.editingId}` : '/api/test-collections';
+
+          fetch(url, {
+            method,
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload)
+          })
+          .then(res => res.ok ? res.json() : Promise.reject(res))
+          .then(() => {
+            this.loadCollections();
+            this.resetForm();
+            this.operationStatus = 'success';
+            this.operationMessage = 'Collection saved!';
+          })
+          .catch(() => {
+            this.operationStatus = 'error';
+            this.operationMessage = 'Error saving collection.';
+          });
+        },
+        async editCollection(col) {
+          this.editingId = col.id;
+          this.collectionForm = {
+            name: col.name,
+            description: col.description || '',
+            sources: (col.sources || []).join(', '),
+            books: (col.books || []).join(', '),
+            weights: col.weights
+          };
+          const testCaseRes = await fetch(`/api/test-collections/${col.id}/tests`);
+          caseIds = await testCaseRes.json();
+          this.collectionTestCases = this.testCases.filter(testCase => caseIds.includes(testCase.id));
+        },
+        async addTestCaseToCollection(testCaseId) {
+          await fetch(`/api/test-collections/${this.editingId}/tests/${testCaseId}`, {
+            method: "POST"
+          });
+          const testCaseRes = await fetch(`/api/test-collections/${this.editingId}/tests`);
+          caseIds = await testCaseRes.json();
+          this.collectionTestCases = this.testCases.filter(testCase => caseIds.includes(testCase.id));
+        },
+        async removeTestCaseFromCollection(testCaseId) {
+          await fetch(`/api/test-collections/${this.editingId}/tests/${testCaseId}`, {
+            method: "DELETE"
+          });
+          const testCaseRes = await fetch(`/api/test-collections/${this.editingId}/tests`);
+          caseIds = await testCaseRes.json();
+          this.collectionTestCases = this.testCases.filter(testCase => caseIds.includes(testCase.id));
+        },
+        resetForm() {
+          this.editingId = null;
+          this.collectionForm = { name: '', description: '', sources: '', books: '', weights: {...defaultWeights} };
+        },
+        deleteCollection(id) {
+          if (!confirm('Delete this collection?')) return;
+          fetch(`/api/test-collections/${id}`, { method: 'DELETE' })
+            .then(() => {
+              this.loadCollections();
+              this.operationStatus = 'success';
+              this.operationMessage = 'Collection deleted!';
+            })
+            .catch(() => {
+              this.operationStatus = 'error';
+              this.operationMessage = 'Error deleting collection.';
+            });
+        },
+        async runCollection(id) {
+          this.operationMessage = 'Running tests...'
+          const url = `/api/test-collections/${id}/run`
+          fetch(url, { method: 'POST' })
+          .then(res => res.ok ? res.json() : Promise.reject(res))
+          .then(() => {
+            this.operationStatus = 'success'
+            this.operationMessage = 'Tests successfully run!'
+          })
+          .catch(() => {
+            this.operationStatus = 'error'
+            this.operationMessage = 'Error running tests.'
+          })
+        },
+        clearStatus() {
+          this.operationStatus = null;
+          this.operationMessage = '';
+        }
+      },
+      mounted() {
+        this.loadCollections();
+        this.loadTestCases();
+      }
+    })
+    app.component('navbar-component', NavbarComponent)
+    app.component('header-component', HeaderComponent)
+    app.mount('#app')
+  </script>
+</body>
+</html>

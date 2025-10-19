@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Result Collection</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+</head>
+<body>
+  <div id="app">
+    <header-component></header-component>
+    <navbar-component></navbar-component>
+
+    <div class="container my-3">
+      <!-- Operation Feedback -->
+      <div v-if="operationStatus === 'success'" class="alert alert-success alert-dismissible fade show" role="alert">
+        {{ operationMessage }}
+        <button type="button" class="btn-close" @click="clearStatus()" aria-label="Close"></button>
+      </div>
+
+      <div v-if="operationStatus === 'error'" class="alert alert-danger alert-dismissible fade show" role="alert">
+        {{ operationMessage }}
+        <button type="button" class="btn-close" @click="clearStatus()" aria-label="Close"></button>
+      </div>
+
+      <!-- Main content of the page -->
+      <main class="row">
+        <div class="col-12">
+          <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+              <li class="breadcrumb-item"><a href="/test-collections">Collections</a></li>
+              <li class="breadcrumb-item"><a :href="'/test-collections/' + metadata.test_collection_id + '/results'">{{ metadata.name }}</a></li>
+              <li class="breadcrumb-item active" aria-current="page">Result {{ metadata.id }}</li>
+            </ol>
+          </nav>
+        </div>
+
+        <div class="col-7 mb-2">
+          <h2>Result Collection #{{ metadata?.id }} - {{ metadata?.name }}</h2>
+          <p>{{ metadata?.description }}</p>
+          <p class="text-muted">Tests run on {{ metadata?.timestamp }}</p>
+        
+          <h3>Configuration</h3>
+          <div class="row">
+            <div class="col-6">
+              <h4>Weights</h4>
+              <pre class="bg-light p-2 rounded"><code>{{ metadata?.weights }}</code></pre>
+            </div>
+            <div class="col-6">
+              <h4>Filters</h4>
+              <p><strong>Sources:</strong> {{ metadata?.sources?.join(", ") || 'None' }}</p>
+              <p><strong>Books:</strong> {{ metadata?.books?.join(", ") || 'None' }}</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-5">
+          <h3>Comments</h3>
+          <div class="overflow-y-scroll mb-4" style="height: 15vh;">
+            <div v-for="comment in comments" class="card mb-2">
+              <div class="card-body py-1">
+                <p class="card-text mb-1">{{ comment.content }}</p>
+                <p class="card-text text-muted text-end">
+                  <span v-if="comment.author">{{ comment.author }} - </span>
+                  {{ formatDate(comment.created_at) }}
+                  <button class="btn btn-outline-danger btn-sm" @click="deleteComment(comment.id)">Delete</button>
+                </p>
+              </div>
+            </div>
+          </div>
+          <form>
+            <div class="mb-1">
+              <textarea v-model="commentForm.content" class="form-control" id="commentInput"></textarea>
+            </div>
+            <div class="input-group">
+              <input v-model="commentForm.author" type="text" class="form-control" placeholder="Your name">
+              <button type="button" class="btn btn-outline-primary" @click="createComment()">Comment</button>
+            </div>
+          </form>
+        </div>
+        
+        <div class="col-12 mb-4">
+          <h3>Statistics</h3>
+          <div class="row">
+            <div class="col-6">
+              <canvas id="recallChart"></canvas>
+            </div>
+
+            <div class="col-3">
+              <canvas id="rankBoxPlot"></canvas>
+            </div>
+
+            <div class="col-3">
+              <div class="alert alert-primary fs-5" role="alert">
+                <strong>Recall@10</strong>: {{ statistics?.recallAtK?.[10]?.toFixed(2) }}
+              </div>
+              <div class="alert alert-secondary fs-5" role="alert">
+                <strong>MRR</strong>: {{ statistics?.mrr?.toFixed(2) }}
+              </div>
+              <div class="alert alert-secondary fs-5" role="alert">
+                <strong>Mean Rank</strong>: {{ statistics?.meanRank?.toFixed(2) }}
+              </div>
+              <table class="table table-borderless table-sm">
+                <tbody>
+                  <tr>
+                    <th scope="row">k</td>
+                    <td>1</td>
+                    <td>5</td>
+                    <td>10</td>
+                    <td>20</td>
+                    <td>50</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Recall@K</th>
+                    <td>{{ statistics?.recallAtK?.[1]?.toFixed(2) }}</td>
+                    <td>{{ statistics?.recallAtK?.[5]?.toFixed(2) }}</td>
+                    <td>{{ statistics?.recallAtK?.[10]?.toFixed(2) }}</td>
+                    <td>{{ statistics?.recallAtK?.[20]?.toFixed(2) }}</td>
+                    <td>{{ statistics?.recallAtK?.[50]?.toFixed(2) }}</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-12">
+          <h3>Result Cases ({{ statistics?.total }})</h3>
+          <table class="table table-sm table-striped">
+            <thead>
+              <tr>
+                <th>Source</th>
+                <th>Content</th>
+                <th>Target</th>
+                <th>Rank</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-for="c in cases" :key="c.id">
+                <td>{{ c.source }}</td>
+                <td>{{ c.content.length > 32 ? c.content.slice(0, 32) + '…' : c.content }}</td>
+                <td>{{ c.target }}</td>
+                <td v-if="c.rank_of_expected === -1" class="text-danger">not found</td>
+                <td v-else-if="c.rank_of_expected > 10" class="text-secondary">{{ c.rank_of_expected }}</td>
+                <td v-else-if="c.rank_of_expected > 1" class="text-primary">{{ c.rank_of_expected }}</td>
+                <td v-else class="text-success">{{ c.rank_of_expected }}</td>
+                <td>
+                  <a :href="`/test-collections/${metadata.test_collection_id}/results/${metadata.id}/cases/${c.id}`" class="btn btn-sm btn-outline-primary">Details</a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@sgratzl/chartjs-chart-boxplot@4.4.4/build/index.umd.min.js"></script>
+  <script src="/static/scripts/header.js"></script>
+  <script src="/static/scripts/navbar.js"></script>
+  <script>
+    const { createApp } = Vue
+    var app = createApp({
+      data() {
+        return {
+          operationStatus: null,
+          operationMessage: '',
+          metadata: {},
+          statistics: {},
+          comments: [],
+          commentForm: {content: '', author: ''},
+          cases: [],
+        }
+      },
+      computed: {},
+      methods: {
+        clearStatus() {
+          this.operationStatus = null
+          this.operationMessage = ''
+        },
+        async fetchResultData(resultId) {
+          fetch(`/api/result-collections/${resultId}`)
+          .then(res => {
+            if (!res.ok) throw new Error("Failed to fetch result collection data")
+            return res.json()
+          })
+          .then(data => {
+            this.metadata = data.metadata
+            this.statistics = data.statistics
+            this.cases = data.cases
+            this.renderRecallChart()
+            this.renderBoxPlot()
+            this.fetchComments()
+          })
+          .catch(err => {
+            this.operationStatus = 'error'
+            this.operationMessage = err.message
+          })
+        },
+        async fetchComments() {
+          const result = await fetch(`/api/result-collections/${this.metadata.id}/comments`)
+          this.comments = await result.json()
+        },
+        formatDate(dateString) {
+          const date = new Date(dateString);
+          return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDay()).padStart(2, '0')} ${String(date.getHours()).padStart(2, '0')}:${String(date.getMinutes()).padStart(2, '0')}:${String(date.getSeconds()).padStart(2, '0')}`
+        },
+        async createComment() {
+          if (!this.commentForm.content) return
+          await fetch(`/api/result-collections/${this.metadata.id}/comments`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(this.commentForm)
+          })
+          this.commentForm.content = ''
+          this.fetchComments()
+        },
+        async deleteComment(commentId) {
+          if (!confirm("Are you sure you want to delete this comment?")) return
+          await fetch(`/api/comments/${commentId}`, { method: 'DELETE' })
+          this.fetchComments()
+        },
+        renderRecallChart() {
+          const ctx = document.getElementById('recallChart').getContext('2d')
+          new Chart(ctx, {
+            type: 'line',
+            data: {
+              labels: Array.from({length: this.statistics.recallAtK.length - 1}, (_, i) => i + 1),
+              datasets: [{
+                label: 'Recall@K',
+                data: this.statistics.recallAtK.slice(1),
+                borderColor: 'rgba(54, 162, 235, 1)',
+                backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                fill: true,
+              }]
+            },
+            options: {
+              responsive: true,
+              plugins: {
+                title: {
+                  display: true,
+                  text: 'Recall@K'
+                }
+              }
+            }
+          })
+        },
+        renderBoxPlot() {
+          const ctx = document.getElementById('rankBoxPlot').getContext('2d')
+          const ranks = this.cases.map(c => c.rank_of_expected).filter(r => r > 0)
+          new Chart(ctx, {
+            type: 'boxplot',
+            data: {
+              labels: ['Rank Distribution'],
+              datasets: [{
+                label: 'Ranks',
+                data: [ranks],
+                backgroundColor: 'rgba(255, 99, 132, 0.5)',
+                borderColor: 'rgb(255, 99, 132)'
+              }]
+            },
+            options: {
+              responsive: true,
+              plugins: {
+                title: {
+                  display: true,
+                  text: 'Rank Distribution'
+                }
+              }
+            }
+          })
+        },
+      },
+      mounted() {
+        const match = window.location.pathname.match(/\/test-collections\/(\d+)\/results\/(\d+)/);
+        if (match) {
+          const resultId = match[2];
+          this.fetchResultData(resultId);
+        } else {
+          this.operationStatus = 'error';
+          this.operationMessage = 'Invalid URL format: Result Collection ID not found.';
+        }
+      },
+    })
+    app.component('navbar-component', NavbarComponent)
+    app.component('header-component', HeaderComponent)
+    app.mount('#app')
+  </script>
+</body>
+</html>

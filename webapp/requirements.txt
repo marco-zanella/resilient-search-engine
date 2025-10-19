@@ -1,0 +1,8 @@
+accelerate
+elasticsearch==8.18.0
+fastapi
+psycopg2-binary
+PyYAML
+sentence_transformers
+transformers
+uvicorn[standard]

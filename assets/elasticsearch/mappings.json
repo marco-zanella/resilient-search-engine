@@ -1,0 +1,92 @@
+{
+    "_source": {
+        "excludes": [
+            "embedding",
+            "variant.embedding"
+        ]
+    },
+    "properties": {
+        "suggestion": {
+            "type": "text",
+            "fields": {
+                "trigram": {
+                    "type": "text",
+                    "analyzer": "trigram"
+                },
+                "reverse": {
+                    "type": "text",
+                    "analyzer": "reverse"
+                }
+            }
+        },
+        "type": {
+            "type": "keyword"
+        },
+        "source": {
+            "type": "keyword"
+        },
+        "book": {
+            "type": "keyword"
+        },
+        "chapter": {
+            "type": "keyword"
+        },
+        "verse": {
+            "type": "keyword"
+        },
+        "content": {
+            "type": "keyword",
+            "fields": {
+                "text": {
+                    "type": "text",
+                    "analyzer": "text",
+                    "search_analyzer": "text"
+                },
+                "shingle": {
+                    "type": "text",
+                    "analyzer": "shingle",
+                    "search_analyzer": "shingle"
+                },
+                "trigram": {
+                    "type": "text",
+                    "analyzer": "trigram",
+                    "search_analyzer": "trigram"
+                }
+            }
+        },
+        "embedding": {
+            "type": "dense_vector"
+        },
+        "variant": {
+            "type": "nested",
+            "properties": {
+                "source": {
+                    "type": "keyword"
+                },
+                "content": {
+                    "type": "keyword",
+                    "fields": {
+                        "text": {
+                            "type": "text",
+                            "analyzer": "text",
+                            "search_analyzer": "text"
+                        },
+                        "shingle": {
+                            "type": "text",
+                            "analyzer": "shingle",
+                            "search_analyzer": "shingle"
+                        },
+                        "trigram": {
+                            "type": "text",
+                            "analyzer": "trigram",
+                            "search_analyzer": "trigram"
+                        }
+                    }
+                },
+                "embedding": {
+                    "type": "dense_vector"
+                }
+            }
+        }
+    }
+}

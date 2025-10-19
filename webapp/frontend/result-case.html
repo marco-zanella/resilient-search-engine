@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Result Case Detail</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <div id="app">
+    <header-component></header-component>
+    <navbar-component></navbar-component>
+
+    <div class="container my-3">
+      <!-- Alerts -->
+      <div v-if="operationStatus === 'success'" class="alert alert-success alert-dismissible fade show" role="alert">
+        {{ operationMessage }}
+        <button type="button" class="btn-close" @click="clearStatus()" aria-label="Close"></button>
+      </div>
+
+      <div v-if="operationStatus === 'error'" class="alert alert-danger alert-dismissible fade show" role="alert">
+        {{ operationMessage }}
+        <button type="button" class="btn-close" @click="clearStatus()" aria-label="Close"></button>
+      </div>
+
+      <main class="row">
+        <div class="col-12">
+          <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+              <li class="breadcrumb-item"><a href="/test-collections">Collections</a></li>
+              <li class="breadcrumb-item"><a :href="'/test-collections/' + collectionId + '/results'"> Collection {{ collectionId }} </a></li>
+              <li class="breadcrumb-item"><a :href="'/test-collections/' + collectionId + '/results/' + resultCollectionId">Result {{ resultCollectionId }}</a></li>
+              <li class="breadcrumb-item active" aria-current="page">Case {{ caseId }} </li>
+            </ol>
+          </nav>
+        </div>
+
+        <div class="col-12 mb-2">
+            <h2 class="mb-4">Result Case Details</h2>
+        </div>
+
+        <div class="col-7">
+          <!-- Results -->
+          <h3>{{ resultCase.results?.count }} Results in {{ resultCase.results?.time }} ms</h3>
+          <div v-for="result in results" :key="result.id" class="card mb-3" :class="{ 'border-success' : result.id === resultCase.target }">
+            <div class="card-body">
+              <h6 class="card-title">
+                {{ result.book }} {{ result.chapter }}:{{ result.verse }} <small class="text-muted">[{{ result.source }}]</small>
+              </h6>
+              <p class="card-text">{{ result.content }}</p>
+              <div v-if="result.variant && result.variant.length">
+                <h6>Variants:</h6>
+                <ul class="list-group list-group-flush">
+                  <li v-for="(v, i) in result.variant" :key="i" class="list-group-item">
+                    <b>[{{ v.source }}]</b> {{ v.content }}
+                  </li>
+                </ul>
+              </div>
+              <small class="text-muted">
+                Scores: {{ result.score.toFixed(3) }},
+                {{ calculateNormalizedScore(result.score).toFixed(3) }} (normalized),
+                {{ calculateStandardizedScore(result.score).toFixed(3) }} (standardized)
+              </small>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-5">
+          <!-- Result Case Metadata -->
+          <div class="card mb-4">
+            <div class="card-body">
+              <h3 class="card-title">Base Info</h3>
+              <p class="card-test"><strong>Source:</strong> {{ resultCase.source }}</p>
+              <p class="card-test"><strong>Content:</strong> {{ resultCase.content }}</p>
+              <p v-if="resultCase.context" class="card-test"><strong>Context:</strong> {{ resultCase.context }}</p>
+              <p class="card-test"><strong>Target:</strong> {{ resultCase.target }}</p>
+              <p class="card-test"><strong>Language:</strong> {{ resultCase.language }}</p>
+              <p class="card-test">
+                <strong>Rank of Expected:</strong>
+                <span v-if="resultCase.rank_of_expected >= 0"> {{ resultCase.rank_of_expected }}</span>
+                <span v-else class="text-danger"> Not found</span>
+              </p>
+            </div>
+          </div>
+
+          <!-- Score Statistics -->
+          <div class="card mb-4">
+            <div class="card-body">
+              <h3 class="card-title">Score Statistics</h3>
+              <table class="table table-sm table-borderless">
+                <thead>
+                  <tr>
+                    <th scope="col">min</th>
+                    <th scope="col">max</th>
+                    <th scope="col">avg</th>
+                    <th scope="col">var</th>
+                    <th scope="col">std dev</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>{{ stats.stats?.min.toFixed(3) }}</td>
+                    <td>{{ stats.stats?.max.toFixed(3) }}</td>
+                    <td>{{ stats.stats?.avg.toFixed(3) }}</td>
+                    <td>{{ stats.stats?.variance.toFixed(3) }}</td>
+                    <td>{{ stats.stats?.std_deviation.toFixed(3) }}</td>
+                  </tr>
+                </tbody>
+              </table>
+          
+              <h4>Percentiles</h4>
+              <div v-if="stats.percentiles">
+                <dl class="row" v-if="stats.percentiles">
+                  <template v-for="(v, key) in stats.percentiles.values" :key="key">
+                    <dt class="col-sm-8">{{ key }}%</dt>
+                    <dd class="col-sm-4 text-end">{{ v.toFixed(3) }}</dd>
+                  </template>
+                </dl>
+              </div>
+            </div>
+          </div>
+
+          <!-- Score visualization -->
+          <div class="card mb-4">
+            <div class="card-body">
+              <h3 class="card-title">Score Distribution</h3> 
+              <div class="my-4">
+                <canvas id="chartElastic" height="150"></canvas>
+              </div>
+              <div class="my-4">
+                <canvas id="chartNormalized" height="150"></canvas>
+              </div>
+              <div class="my-4">
+                <canvas id="chartStandardized" height="150"></canvas>
+              </div>
+            </div>
+          </div>
+
+          <!-- Comments -->
+          <div class="card mb-4">
+            <div class="card-body">
+              <h3 class="card-title">Comments</h3>
+              <div class="overflow-y-scroll mb-4" style="max-height: 25vh;">
+                <div v-for="comment in comments" class="card mb-2">
+                  <div class="card-body py-1">
+                    <p class="card-text mb-1">{{ comment.content }}</p>
+                    <p class="card-text text-muted text-end">
+                      <span v-if="comment.author">{{ comment.author }} - </span>
+                      {{ formatDate(comment.created_at) }}
+                      <button class="btn btn-outline-danger btn-sm" @click="deleteComment(comment.id)">Delete</button>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <form>
+                <div class="mb-1">
+                  <textarea v-model="commentForm.content" class="form-control" id="commentInput"></textarea>
+                </div>
+                <div class="input-group">
+                  <input v-model="commentForm.author" type="text" class="form-control" placeholder="Your name">
+                  <button type="button" class="btn btn-outline-primary" @click="createComment()">Comment</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="/static/scripts/header.js"></script>
+  <script src="/static/scripts/navbar.js"></script>
+  <script>
+    const { createApp } = Vue
+    const app = createApp({
+      data() {
+        return {
+          operationStatus: null,
+          operationMessage: '',
+          collectionId: null,
+          resultCollectionId: null,
+          caseId: null,
+          resultCase: {},
+          stats: {},
+          results: [],
+          comments: [],
+          commentForm: {content: '', author: ''},
+        }
+      },
+      methods: {
+        clearStatus() {
+          this.operationStatus = null
+          this.operationMessage = ''
+        },
+        fetchData(collectionId, caseId) {
+          fetch(`/api/result-collections/${collectionId}/cases/${caseId}`)
+          .then(res => res.json())
+          .then(data => {
+            this.resultCase = data
+            this.stats = {
+              "stats": data["results"]["stats"]["score_stats"],
+              "percentiles": data["results"]["stats"]["score_percentiles"],
+            }
+            this.results = data["results"]["results"]
+            this.drawCharts()
+            this.fetchComments()
+          })
+          .catch(err => {
+            this.operationStatus = 'error'
+            this.operationMessage = 'Failed to fetch result case data.' + err
+          })
+        },
+        calculateNormalizedScore(score) {
+          const min = this.stats.stats.min
+          const max = this.stats.stats.max
+          if (max === min) return 0
+          return (score - min) / (max - min)
+        },
+        calculateStandardizedScore(score) {
+          const mean = this.stats.stats.avg
+          const stdDev = this.stats.stats.std_deviation
+          return (score - mean) / stdDev
+        },
+        async fetchComments() {
+          const result = await fetch(`/api/result-collections/${this.resultCollectionId}/cases/${this.caseId}/comments`)
+          this.comments = await result.json()
+        },
+        formatDate(dateString) {
+          const date = new Date(dateString);
+          return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDay()).padStart(2, '0')} ${String(date.getHours()).padStart(2, '0')}:${String(date.getMinutes()).padStart(2, '0')}:${String(date.getSeconds()).padStart(2, '0')}`
+        },
+        async createComment() {
+          if (!this.commentForm.content) return
+          await fetch(`/api/result-collections/${this.resultCollectionId}/cases/${this.caseId}/comments`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(this.commentForm)
+          })
+          this.commentForm.content = ''
+          this.fetchComments()
+        },
+        async deleteComment(commentId) {
+          if (!confirm("Are you sure you want to delete this comment?")) return
+          await fetch(`/api/comments/${commentId}`, { method: 'DELETE' })
+          this.fetchComments()
+        },
+        drawCharts() {
+          const highlightIndex = this.resultCase.rank_of_expected > 0 ? this.resultCase.rank_of_expected - 1 : null;
+          const labels = this.results.map((_, i) => `#${i + 1}`)
+
+          const makeBarColors = (index, baseColor) => {
+            return this.results.map((_, i) =>
+              i === index ? baseColor.replace('0.5', '0.9') : baseColor
+            )
+          }
+
+          const drawChart = (canvasId, label, data, color) => {
+            new Chart(document.getElementById(canvasId).getContext('2d'), {
+              type: 'bar',
+              data: {
+                labels,
+                datasets: [{
+                  label,
+                  data,
+                  backgroundColor: makeBarColors(highlightIndex, color),
+                  borderColor: makeBarColors(highlightIndex, color.replace('0.5', '1')),
+                  borderWidth: this.results.map((_, i) => i === highlightIndex ? 2 : 0),
+                }]
+              },
+              options: {
+                responsive: true,
+                plugins: {
+                  title: {
+                    display: false
+                  },
+                  tooltip: {
+                    callbacks: {
+                      label: context => `${label}: ${context.formattedValue}`
+                    }
+                  }
+                },
+                scales: {
+                  y: {
+                    beginAtZero: true,
+                    title: {
+                      display: true,
+                      text: label
+                    }
+                  }
+                }
+              }
+            })
+          }
+
+          drawChart(
+            'chartElastic',
+            'Simimlarity Score',
+            this.results.map(r => r.score),
+            'rgba(54, 162, 235, 0.5)'
+          )
+          drawChart(
+            'chartNormalized',
+            'Normalized Score',
+            this.results.map(r => this.calculateNormalizedScore(r.score)),
+            'rgba(75, 192, 192, 0.5)'
+          )
+          drawChart(
+            'chartStandardized',
+            'Standardized Score',
+            this.results.map(r => this.calculateStandardizedScore(r.score)),
+            'rgba(255, 99, 132, 0.5)'
+          )
+        }
+      },
+      mounted() {
+        const match = window.location.pathname.match(/\/test-collections\/(\d+)\/results\/(\d+)\/cases\/(\d+)/)
+        if (match) {
+          this.collectionId = match[1]
+          this.resultCollectionId = match[2]
+          this.caseId = match[3]
+          this.fetchData(this.resultCollectionId, this.caseId)
+        } else {
+          this.operationStatus = 'error'
+          this.operationMessage = 'Invalid URL format: Result Collection ID not found.'
+        }
+      },
+    });
+
+    app.component('navbar-component', NavbarComponent);
+    app.component('header-component', HeaderComponent);
+    app.mount('#app');
+  </script>
+</body>
+</html>
