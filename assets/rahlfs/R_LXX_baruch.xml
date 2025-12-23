@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="rlxx_baruch" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="rlxx_baruch">
+        <title>Baruch</title>
+        <creator>ITSERR-Italian Strengthening of the ESFRI RI RESILIENCE: WP8-uBIQUity; PRIN 2022- Resilient Septuagint. An Initial Exploration of the Semantics of Killing and Healing in the Septuagint and its Reception in Patristic and Late Antique Sources (3rd cent. BCE – 5th cent. CE)</creator>
+        <subject>Baruch</subject>
+        <date event="original">3rd-1st cent. BCE</date>
+        <date event="eversion">2025-07-23</date>
+        <date event="edition">2006 (1rst ed.: A. Rahlfs, 1935)</date>
+        <description type="x-edition">A. Rahlfs - R. Hanhart (eds.), Septuaginta: Id est Vetus
+                    Testamentum graece iuxta LXX interpretes. Editio altera, Stuttgart: Deutsche
+                    Bibelgesellschaft, 2006 (1rst ed.: A. Rahlfs, 1935)</description>
+        <description type="x-apparatus_n">1</description>
+        <identifier type="ISBN">978-3-438-05119-6</identifier>
+        <relation type="x-isAPartOf">R-LXX</relation>
+        <rights>© Deutsche Bibelgesellschaft, Stuttgart. All rights reserved.</rights>
+        <refSystem>Greek: Scriptures</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="rlxx_baruch">
+      <title>ΒΑΡΟΥΧ</title>
+      <chapter sID="rlxx_baruch.1" osisID="rlxx_baruch.1" />
+      <title>Chapter 1</title>
+      <p>
+        <verse sID="rlxx_baruch.1.1" osisID="rlxx_baruch.1.1" />Καὶ οὗτοι οἱ λόγοι τοῦ βιβλίου, οὓς ἔγραψεν Βαρουχ υἱὸς Νηριου υἱοῦ Μαασαιου υἱοῦ Σεδεκιου υἱοῦ Ασαδιου υἱοῦ Χελκιου ἐν Βαβυλῶνι<verse eID="rlxx_baruch.1.1" />
+        <verse sID="rlxx_baruch.1.2" osisID="rlxx_baruch.1.2" />ἐν τῷ ἔτει τῷ πέμπτῳ ἐν ἑβδόμῃ τοῦ μηνὸς ἐν τῷ καιρῷ, ᾧ ἔλαβον οἱ Χαλδαῖοι τὴν Ιερουσαλημ καὶ ἐνέπρησαν αὐτὴν ἐν πυρί.<verse eID="rlxx_baruch.1.2" />
+        <verse sID="rlxx_baruch.1.3" osisID="rlxx_baruch.1.3" />καὶ ἀνέγνω Βαρουχ τοὺς λόγους τοῦ βιβλίου τούτου ἐν ὠσὶν Ιεχονιου υἱοῦ Ιωακιμ βασιλέως Ιουδα καὶ ἐν ὠσὶ παντὸς τοῦ λαοῦ τῶν ἐρχομένων πρὸς τὴν βίβλον<verse eID="rlxx_baruch.1.3" />
+        <verse sID="rlxx_baruch.1.4" osisID="rlxx_baruch.1.4" />καὶ ἐν ὠσὶν τῶν δυνατῶν καὶ υἱῶν τῶν βασιλέων καὶ ἐν ὠσὶ τῶν πρεσβυτέρων καὶ ἐν ὠσὶ παντὸς τοῦ λαοῦ ἀπὸ μικροῦ ἕως μεγάλου, πάντων τῶν κατοικούντων ἐν Βαβυλῶνι ἐπὶ ποταμοῦ Σουδ.<verse eID="rlxx_baruch.1.4" />
+        <verse sID="rlxx_baruch.1.5" osisID="rlxx_baruch.1.5" />καὶ ἔκλαιον καὶ ἐνήστευον καὶ ηὔχοντο ἐναντίον κυρίου<verse eID="rlxx_baruch.1.5" />
+        <verse sID="rlxx_baruch.1.6" osisID="rlxx_baruch.1.6" />καὶ συνήγαγον ἀργύριον, καθὰ ἑκάστου ἠδύνατο ἡ χείρ,<verse eID="rlxx_baruch.1.6" />
+        <verse sID="rlxx_baruch.1.7" osisID="rlxx_baruch.1.7" />καὶ ἀπέστειλαν εἰς Ιερουσαλημ πρὸς Ιωακιμ υἱὸν Χελκιου υἱοῦ Σαλωμ τὸν ἱερέα καὶ πρὸς τοὺς ἱερεῖς καὶ πρὸς πάντα τὸν λαὸν τοὺς εὑρεθέντας μετ' αὐτοῦ ἐν Ιερουσαλημ<verse eID="rlxx_baruch.1.7" />
+        <verse sID="rlxx_baruch.1.8" osisID="rlxx_baruch.1.8" />ἐν τῷ λαβεῖν αὐτὸν τὰ σκεύη οἴκου κυρίου τὰ ἐξενεχθέντα ἐκ τοῦ ναοῦ ἀποστρέψαι εἰς γῆν Ιουδα τῇ δεκάτῃ τοῦ Σιουαν, σκεύη ἀργυρᾶ, ἃ ἐποίησεν Σεδεκιας υἱὸς Ιωσια βασιλεὺς Ιουδα<verse eID="rlxx_baruch.1.8" />
+        <verse sID="rlxx_baruch.1.9" osisID="rlxx_baruch.1.9" />μετὰ τὸ ἀποικίσαι Ναβουχοδονοσορ βασιλέα Βαβυλῶνος τὸν Ιεχονιαν καὶ τοὺς ἄρχοντας καὶ τοὺς δεσμώτας καὶ τοὺς δυνατοὺς καὶ τὸν λαὸν τῆς γῆς ἀπὸ Ιερουσαλημ καὶ ἤγαγεν αὐτὸν εἰς Βαβυλῶνα.<verse eID="rlxx_baruch.1.9" />
+        <verse sID="rlxx_baruch.1.10" osisID="rlxx_baruch.1.10" />καὶ εἶπαν Ἰδοὺ ἀπεστείλαμεν πρὸς ὑμᾶς ἀργύριον, καὶ ἀγοράσατε τοῦ ἀργυρίου ὁλοκαυτώματα καὶ περὶ ἁμαρτίας καὶ λίβανον καὶ ποιήσατε μαννα καὶ ἀνοίσατε ἐπὶ τὸ θυσιαστήριον κυρίου θεοῦ ἡμῶν<verse eID="rlxx_baruch.1.10" />
+        <verse sID="rlxx_baruch.1.11" osisID="rlxx_baruch.1.11" />καὶ προσεύξασθε περὶ τῆς ζωῆς Ναβουχοδονοσορ βασιλέως Βαβυλῶνος καὶ εἰς ζωὴν Βαλτασαρ υἱοῦ αὐτοῦ, ἵνα ὦσιν αἱ ἡμέραι αὐτῶν ὡς αἱ ἡμέραι τοῦ οὐρανοῦ ἐπὶ τῆς γῆς.<verse eID="rlxx_baruch.1.11" />
+        <verse sID="rlxx_baruch.1.12" osisID="rlxx_baruch.1.12" />καὶ δώσει κύριος ἰσχὺν ἡμῖν καὶ φωτίσει τοὺς ὀφθαλμοὺς ἡμῶν, καὶ ζησόμεθα ὑπὸ τὴν σκιὰν Ναβουχοδονοσορ βασιλέως Βαβυλῶνος καὶ ὑπὸ τὴν σκιὰν Βαλτασαρ υἱοῦ αὐτοῦ καὶ δουλεύσομεν αὐτοῖς ἡμέρας πολλὰς καὶ εὑρήσομεν χάριν ἐναντίον αὐτῶν.<verse eID="rlxx_baruch.1.12" />
+        <verse sID="rlxx_baruch.1.13" osisID="rlxx_baruch.1.13" />καὶ προσεύξασθε περὶ ἡμῶν πρὸς κύριον τὸν θεὸν ἡμῶν, ὅτι ἡμάρτομεν τῷ κυρίῳ θεῷ ἡμῶν, καὶ οὐκ ἀπέστρεψεν ὁ θυμὸς κυρίου καὶ ἡ ὀργὴ αὐτοῦ ἀφ' ἡμῶν ἕως τῆς ἡμέρας ταύτης.<verse eID="rlxx_baruch.1.13" />
+        <verse sID="rlxx_baruch.1.14" osisID="rlxx_baruch.1.14" />καὶ ἀναγνώσεσθε τὸ βιβλίον τοῦτο, ὃ ἀπεστείλαμεν πρὸς ὑμᾶς ἐξαγορεῦσαι ἐν οἴκῳ κυρίου ἐν ἡμέρᾳ ἑορτῆς καὶ ἐν ἡμέραις καιροῦ,<verse eID="rlxx_baruch.1.14" />
+        <verse sID="rlxx_baruch.1.15" osisID="rlxx_baruch.1.15" />καὶ ἐρεῖτε Τῷ κυρίῳ θεῷ ἡμῶν ἡ δικαιοσύνη, ἡμῖν δὲ αἰσχύνη τῶν προσώπων ὡς ἡ ἡμέρα αὕτη, ἀνθρώπῳ Ιουδα καὶ τοῖς κατοικοῦσιν Ιερουσαλημ<verse eID="rlxx_baruch.1.15" />
+        <verse sID="rlxx_baruch.1.16" osisID="rlxx_baruch.1.16" />καὶ τοῖς βασιλεῦσιν ἡμῶν καὶ τοῖς ἄρχουσιν ἡμῶν καὶ τοῖς ἱερεῦσιν ἡμῶν καὶ τοῖς προφήταις ἡμῶν καὶ τοῖς πατράσιν ἡμῶν,<verse eID="rlxx_baruch.1.16" />
+        <verse sID="rlxx_baruch.1.17" osisID="rlxx_baruch.1.17" />ὧν ἡμάρτομεν ἔναντι κυρίου<verse eID="rlxx_baruch.1.17" />
+        <verse sID="rlxx_baruch.1.18" osisID="rlxx_baruch.1.18" />καὶ ἠπειθήσαμεν αὐτῷ καὶ οὐκ ἠκούσαμεν τῆς φωνῆς κυρίου θεοῦ ἡμῶν πορεύεσθαι τοῖς προστάγμασιν κυρίου, οἷς ἔδωκεν κατὰ πρόσωπον ἡμῶν.<verse eID="rlxx_baruch.1.18" />
+        <verse sID="rlxx_baruch.1.19" osisID="rlxx_baruch.1.19" />ἀπὸ τῆς ἡμέρας, ἧς ἐξήγαγεν κύριος τοὺς πατέρας ἡμῶν ἐκ γῆς Αἰγύπτου, καὶ ἕως τῆς ἡμέρας ταύτης ἤμεθα ἀπειθοῦντες πρὸς κύριον θεὸν ἡμῶν καὶ ἐσχεδιάζομεν πρὸς τὸ μὴ ἀκούειν τῆς φωνῆς αὐτοῦ.<verse eID="rlxx_baruch.1.19" />
+        <verse sID="rlxx_baruch.1.20" osisID="rlxx_baruch.1.20" />καὶ ἐκολλήθη εἰς ἡμᾶς τὰ κακὰ καὶ ἡ ἀρά, ἣν συνέταξεν κύριος τῷ Μωυσῇ παιδὶ αὐτοῦ ἐν ἡμέρᾳ, ᾗ ἐξήγαγεν τοὺς πατέρας ἡμῶν ἐκ γῆς Αἰγύπτου δοῦναι ἡμῖν γῆν ῥέουσαν γάλα καὶ μέλι ὡς ἡ ἡμέρα αὕτη.<verse eID="rlxx_baruch.1.20" />
+        <verse sID="rlxx_baruch.1.21" osisID="rlxx_baruch.1.21" />καὶ οὐκ ἠκούσαμεν τῆς φωνῆς κυρίου τοῦ θεοῦ ἡμῶν κατὰ πάντας τοὺς λόγους τῶν προφητῶν, ὧν ἀπέστειλεν πρὸς ἡμᾶς,<verse eID="rlxx_baruch.1.21" />
+        <verse sID="rlxx_baruch.1.22" osisID="rlxx_baruch.1.22" />καὶ ᾠχόμεθα ἕκαστος ἐν διανοίᾳ καρδίας αὐτοῦ τῆς πονηρᾶς ἐργάζεσθαι θεοῖς ἑτέροις ποιῆσαι τὰ κακὰ κατ' ὀφθαλμοὺς κυρίου θεοῦ ἡμῶν.<verse eID="rlxx_baruch.1.22" />
+      </p>
+      <chapter eID="rlxx_baruch.1" />
+      <chapter sID="rlxx_baruch.2" osisID="rlxx_baruch.2" />
+      <title>Chapter 2</title>
+      <p>
+        <verse sID="rlxx_baruch.2.1" osisID="rlxx_baruch.2.1" />καὶ ἔστησεν κύριος τὸν λόγον αὐτοῦ, ὃν ἐλάλησεν ἐφ' ἡμᾶς καὶ ἐπὶ τοὺς δικαστὰς ἡμῶν τοὺς δικάσαντας τὸν Ισραηλ καὶ ἐπὶ τοὺς βασιλεῖς ἡμῶν καὶ ἐπὶ τοὺς ἄρχοντας ἡμῶν καὶ ἐπὶ ἄνθρωπον Ισραηλ καὶ Ιουδα.<verse eID="rlxx_baruch.2.1" />
+        <verse sID="rlxx_baruch.2.2" osisID="rlxx_baruch.2.2" />οὐκ ἐποιήθη ὑποκάτω παντὸς τοῦ οὐρανοῦ καθὰ ἐποίησεν ἐν Ιερουσαλημ κατὰ τὰ γεγραμμένα ἐν τῷ νόμῳ Μωυσῆ<verse eID="rlxx_baruch.2.2" />
+        <verse sID="rlxx_baruch.2.3" osisID="rlxx_baruch.2.3" />τοῦ φαγεῖν ἡμᾶς ἄνθρωπον σάρκας υἱοῦ αὐτοῦ καὶ ἄνθρωπον σάρκας θυγατρὸς αὐτοῦ.<verse eID="rlxx_baruch.2.3" />
+        <verse sID="rlxx_baruch.2.4" osisID="rlxx_baruch.2.4" />καὶ ἔδωκεν αὐτοὺς ὑποχειρίους πάσαις ταῖς βασιλείαις ταῖς κύκλῳ ἡμῶν εἰς ὀνειδισμὸν καὶ εἰς ἄβατον ἐν πᾶσι τοῖς λαοῖς τοῖς κύκλῳ, οὗ διέσπειρεν αὐτοὺς κύριος ἐκεῖ.<verse eID="rlxx_baruch.2.4" />
+        <verse sID="rlxx_baruch.2.5" osisID="rlxx_baruch.2.5" />καὶ ἐγενήθησαν ὑποκάτω καὶ οὐκ ἐπάνω, ὅτι ἡμάρτομεν κυρίῳ θεῷ ἡμῶν πρὸς τὸ μὴ ἀκούειν τῆς φωνῆς αὐτοῦ.–<verse eID="rlxx_baruch.2.5" />
+        <verse sID="rlxx_baruch.2.6" osisID="rlxx_baruch.2.6" />τῷ κυρίῳ θεῷ ἡμῶν ἡ δικαιοσύνη, ἡμῖν δὲ καὶ τοῖς πατράσιν ἡμῶν ἡ αἰσχύνη τῶν προσώπων ὡς ἡ ἡμέρα αὕτη.<verse eID="rlxx_baruch.2.6" />
+        <verse sID="rlxx_baruch.2.7" osisID="rlxx_baruch.2.7" />ἃ ἐλάλησεν κύριος ἐφ' ἡμᾶς, πάντα τὰ κακὰ ταῦτα ἦλθεν ἐφ' ἡμᾶς.<verse eID="rlxx_baruch.2.7" />
+        <verse sID="rlxx_baruch.2.8" osisID="rlxx_baruch.2.8" />καὶ οὐκ ἐδεήθημεν τοῦ προσώπου κυρίου τοῦ ἀποστρέψαι ἕκαστον ἀπὸ τῶν νοημάτων τῆς καρδίας αὐτῶν τῆς πονηρᾶς.<verse eID="rlxx_baruch.2.8" />
+        <verse sID="rlxx_baruch.2.9" osisID="rlxx_baruch.2.9" />καὶ ἐγρηγόρησεν κύριος ἐπὶ τοῖς κακοῖς, καὶ ἐπήγαγε κύριος ἐφ' ἡμᾶς, ὅτι δίκαιος ὁ κύριος ἐπὶ πάντα τὰ ἔργα αὐτοῦ, ἃ ἐνετείλατο ἡμῖν.<verse eID="rlxx_baruch.2.9" />
+        <verse sID="rlxx_baruch.2.10" osisID="rlxx_baruch.2.10" />καὶ οὐκ ἠκούσαμεν τῆς φωνῆς αὐτοῦ πορεύεσθαι τοῖς προστάγμασιν κυρίου, οἷς ἔδωκεν κατὰ πρόσωπον ἡμῶν.–<verse eID="rlxx_baruch.2.10" />
+        <verse sID="rlxx_baruch.2.11" osisID="rlxx_baruch.2.11" />καὶ νῦν, κύριε ὁ θεὸς Ισραηλ, ὃς ἐξήγαγες τὸν λαόν σου ἐκ γῆς Αἰγύπτου ἐν χειρὶ κραταιᾷ καὶ ἐν σημείοις καὶ ἐν τέρασιν καὶ ἐν δυνάμει μεγάλῃ καὶ ἐν βραχίονι ὑψηλῷ καὶ ἐποίησας σεαυτῷ ὄνομα ὡς ἡ ἡμέρα αὕτη,<verse eID="rlxx_baruch.2.11" />
+        <verse sID="rlxx_baruch.2.12" osisID="rlxx_baruch.2.12" />ἡμάρτομεν ἠσεβήσαμεν ἠδικήσαμεν, κύριε ὁ θεὸς ἡμῶν, ἐπὶ πᾶσιν τοῖς δικαιώμασίν σου.<verse eID="rlxx_baruch.2.12" />
+        <verse sID="rlxx_baruch.2.13" osisID="rlxx_baruch.2.13" />ἀποστραφήτω ὁ θυμός σου ἀφ' ἡμῶν, ὅτι κατελείφθημεν ὀλίγοι ἐν τοῖς ἔθνεσιν, οὗ διέσπειρας ἡμᾶς ἐκεῖ.<verse eID="rlxx_baruch.2.13" />
+        <verse sID="rlxx_baruch.2.14" osisID="rlxx_baruch.2.14" />εἰσάκουσον, κύριε, τῆς προσευχῆς ἡμῶν καὶ τῆς δεήσεως ἡμῶν καὶ ἐξελοῦ ἡμᾶς ἕνεκεν σοῦ καὶ δὸς ἡμῖν χάριν κατὰ πρόσωπον τῶν ἀποικισάντων ἡμᾶς,<verse eID="rlxx_baruch.2.14" />
+        <verse sID="rlxx_baruch.2.15" osisID="rlxx_baruch.2.15" />ἵνα γνῷ πᾶσα ἡ γῆ ὅτι σὺ κύριος ὁ θεὸς ἡμῶν, ὅτι τὸ ὄνομά σου ἐπεκλήθη ἐπὶ Ισραηλ καὶ ἐπὶ τὸ γένος αὐτοῦ.<verse eID="rlxx_baruch.2.15" />
+        <verse sID="rlxx_baruch.2.16" osisID="rlxx_baruch.2.16" />κύριε, κάτιδε ἐκ τοῦ οἴκου τοῦ ἁγίου σου καὶ ἐν- νόησον εἰς ἡμᾶς· κλῖνον, κύριε, τὸ οὖς σου καὶ ἄκουσον·<verse eID="rlxx_baruch.2.16" />
+        <verse sID="rlxx_baruch.2.17" osisID="rlxx_baruch.2.17" />ἄνοιξον, κύριε, τοὺς ὀφθαλμούς σου καὶ ἰδέ· ὅτι οὐχ οἱ τεθνηκότες ἐν τῷ ᾅδῃ, ὧν ἐλήμφθη τὸ πνεῦμα αὐτῶν ἀπὸ τῶν σπλάγχνων αὐτῶν, δώσουσιν δόξαν καὶ δικαίωμα τῷ κυρίῳ,<verse eID="rlxx_baruch.2.17" />
+        <verse sID="rlxx_baruch.2.18" osisID="rlxx_baruch.2.18" />ἀλλὰ ἡ ψυχὴ ἡ λυπουμένη ἐπὶ τὸ μέγεθος, ὃ βαδίζει κύπτον καὶ ἀσθενοῦν καὶ οἱ ὀφθαλμοὶ οἱ ἐκλείποντες καὶ ἡ ψυχὴ ἡ πεινῶσα δώσουσίν σοι δόξαν καὶ δικαιοσύνην, κύριε.<verse eID="rlxx_baruch.2.18" />
+        <verse sID="rlxx_baruch.2.19" osisID="rlxx_baruch.2.19" />ὅτι οὐκ ἐπὶ τὰ δικαιώματα τῶν πατέρων ἡμῶν καὶ τῶν βασιλέων ἡμῶν ἡμεῖς καταβάλλομεν τὸν ἔλεον ἡμῶν κατὰ πρόσωπόν σου, κύριε ὁ θεὸς ἡμῶν,<verse eID="rlxx_baruch.2.19" />
+        <verse sID="rlxx_baruch.2.20" osisID="rlxx_baruch.2.20" />ὅτι ἐνῆκας τὸν θυμόν σου καὶ τὴν ὀργήν σου εἰς ἡμᾶς, καθάπερ ἐλάλησας ἐν χειρὶ τῶν παίδων σου τῶν προφητῶν λέγων<verse eID="rlxx_baruch.2.20" />
+        <verse sID="rlxx_baruch.2.21" osisID="rlxx_baruch.2.21" />Οὕτως εἶπεν κύριος Κλίνατε τὸν ὦμον ὑμῶν καὶ ἐργάσασθε τῷ βασιλεῖ Βαβυλῶνος καὶ καθίσατε ἐπὶ τὴν γῆν, ἣν ἔδωκα τοῖς πατράσιν ὑμῶν·<verse eID="rlxx_baruch.2.21" />
+        <verse sID="rlxx_baruch.2.22" osisID="rlxx_baruch.2.22" />καὶ ἐὰν μὴ ἀκούσητε τῆς φωνῆς κυρίου ἐργάσασθαι τῷ βασιλεῖ Βαβυλῶνος,<verse eID="rlxx_baruch.2.22" />
+        <verse sID="rlxx_baruch.2.23" osisID="rlxx_baruch.2.23" />ἐκλείψειν ποιήσω ἐκ πόλεων Ιουδα καὶ ἔξωθεν Ιερουσαλημ φωνὴν εὐφροσύνης καὶ φωνὴν χαρμοσύνης, φωνὴν νυμφίου καὶ φωνὴν νύμφης, καὶ ἔσται πᾶσα ἡ γῆ εἰς ἄβατον ἀπὸ ἐνοικούντων.<verse eID="rlxx_baruch.2.23" />
+        <verse sID="rlxx_baruch.2.24" osisID="rlxx_baruch.2.24" />καὶ οὐκ ἠκούσαμεν τῆς φωνῆς σου ἐργάσασθαι τῷ βασιλεῖ Βαβυλῶνος, καὶ ἔστησας τοὺς λόγους σου, οὓς ἐλάλησας ἐν χερσὶν τῶν παίδων σου τῶν προφητῶν τοῦ ἐξενεχθῆναι τὰ ὀστᾶ βασιλέων ἡμῶν καὶ τὰ ὀστᾶ τῶν πατέρων ἡμῶν ἐκ τοῦ τόπου αὐτῶν,<verse eID="rlxx_baruch.2.24" />
+        <verse sID="rlxx_baruch.2.25" osisID="rlxx_baruch.2.25" />καὶ ἰδού ἐστιν ἐξερριμμένα τῷ καύματι τῆς ἡμέρας καὶ τῷ παγετῷ τῆς νυκτός, καὶ ἀπεθάνοσαν ἐν πόνοις πονηροῖς, ἐν λιμῷ καὶ ἐν ῥομφαίᾳ καὶ ἐν ἀποστολῇ.<verse eID="rlxx_baruch.2.25" />
+        <verse sID="rlxx_baruch.2.26" osisID="rlxx_baruch.2.26" />καὶ ἔθηκας τὸν οἶκον, οὗ ἐπεκλήθη τὸ ὄνομά σου ἐπ' αὐτῷ, ὡς ἡ ἡμέρα αὕτη διὰ πονηρίαν οἴκου Ισραηλ καὶ οἴκου Ιουδα.–<verse eID="rlxx_baruch.2.26" />
+        <verse sID="rlxx_baruch.2.27" osisID="rlxx_baruch.2.27" />καὶ ἐποίησας εἰς ἡμᾶς, κύριε ὁ θεὸς ἡμῶν, κατὰ πᾶσαν ἐπιείκειάν σου καὶ κατὰ πάντα οἰκτιρμόν σου τὸν μέγαν,<verse eID="rlxx_baruch.2.27" />
+        <verse sID="rlxx_baruch.2.28" osisID="rlxx_baruch.2.28" />καθὰ ἐλάλησας ἐν χειρὶ παιδός σου Μωυσῆ ἐν ἡμέρᾳ ἐντειλαμένου σου αὐτῷ γράψαι τὸν νόμον σου ἐναντίον υἱῶν Ισραηλ λέγων<verse eID="rlxx_baruch.2.28" />
+        <verse sID="rlxx_baruch.2.29" osisID="rlxx_baruch.2.29" />Ἐὰν μὴ ἀκούσητε τῆς φωνῆς μου, ἦ μὴν ἡ βόμβησις ἡ μεγάλη ἡ πολλὴ αὕτη ἀποστρέψει εἰς μικρὰν ἐν τοῖς ἔθνεσιν, οὗ διασπερῶ αὐτοὺς ἐκεῖ·<verse eID="rlxx_baruch.2.29" />
+        <verse sID="rlxx_baruch.2.30" osisID="rlxx_baruch.2.30" />ὅτι ἔγνων ὅτι οὐ μὴ ἀκούσωσίν μου, ὅτι λαὸς σκληροτράχηλός ἐστιν. καὶ ἐπιστρέψουσιν ἐπὶ καρδίαν αὐτῶν ἐν γῇ ἀποικισμοῦ αὐτῶν<verse eID="rlxx_baruch.2.30" />
+        <verse sID="rlxx_baruch.2.31" osisID="rlxx_baruch.2.31" />καὶ γνώσονται ὅτι ἐγὼ κύριος ὁ θεὸς αὐτῶν. καὶ δώσω αὐτοῖς καρδίαν καὶ ὦτα ἀκούοντα,<verse eID="rlxx_baruch.2.31" />
+        <verse sID="rlxx_baruch.2.32" osisID="rlxx_baruch.2.32" />καὶ αἰνέσουσίν με ἐν γῇ ἀποικισμοῦ αὐτῶν καὶ μνησθήσονται τοῦ ὀνόματός μου<verse eID="rlxx_baruch.2.32" />
+        <verse sID="rlxx_baruch.2.33" osisID="rlxx_baruch.2.33" />καὶ ἀποστρέψουσιν ἀπὸ τοῦ νώτου αὐτῶν τοῦ σκληροῦ καὶ ἀπὸ πονηρῶν πραγμάτων αὐτῶν, ὅτι μνησθήσονται τῆς ὁδοῦ πατέρων αὐτῶν τῶν ἁμαρτόντων ἔναντι κυρίου.<verse eID="rlxx_baruch.2.33" />
+        <verse sID="rlxx_baruch.2.34" osisID="rlxx_baruch.2.34" />καὶ ἀποστρέψω αὐτοὺς εἰς τὴν γῆν, ἣν ὤμοσα τοῖς πατράσιν αὐτῶν τῷ Αβρααμ καὶ τῷ Ισαακ καὶ τῷ Ιακωβ, καὶ κυριεύσουσιν αὐτῆς· καὶ πληθυνῶ αὐτούς, καὶ οὐ μὴ σμικρυνθῶσιν·<verse eID="rlxx_baruch.2.34" />
+        <verse sID="rlxx_baruch.2.35" osisID="rlxx_baruch.2.35" />καὶ στήσω αὐτοῖς διαθήκην αἰώνιον τοῦ εἶναί με αὐτοῖς εἰς θεὸν καὶ αὐτοὶ ἔσονταί μοι εἰς λαόν· καὶ οὐ κινήσω ἔτι τὸν λαόν μου Ισραηλ ἀπὸ τῆς γῆς, ἧς ἔδωκα αὐτοῖς.–<verse eID="rlxx_baruch.2.35" />
+      </p>
+      <chapter eID="rlxx_baruch.2" />
+      <chapter sID="rlxx_baruch.3" osisID="rlxx_baruch.3" />
+      <title>Chapter 3</title>
+      <p>
+        <verse sID="rlxx_baruch.3.1" osisID="rlxx_baruch.3.1" />κύριε παντοκράτωρ ὁ θεὸς Ισραηλ, ψυχὴ ἐν στενοῖς καὶ πνεῦμα ἀκηδιῶν κέκραγεν πρὸς σέ.<verse eID="rlxx_baruch.3.1" />
+        <verse sID="rlxx_baruch.3.2" osisID="rlxx_baruch.3.2" />ἄκουσον, κύριε, καὶ ἐλέησον, ὅτι ἡμάρτομεν ἐναντίον σου·<verse eID="rlxx_baruch.3.2" />
+        <verse sID="rlxx_baruch.3.3" osisID="rlxx_baruch.3.3" />ὅτι σὺ καθήμενος τὸν αἰῶνα, καὶ ἡμεῖς ἀπολλύμενοι τὸν αἰῶνα.<verse eID="rlxx_baruch.3.3" />
+        <verse sID="rlxx_baruch.3.4" osisID="rlxx_baruch.3.4" />κύριε παντοκράτωρ ὁ θεὸς Ισραηλ, ἄκουσον δὴ τῆς προσευχῆς τῶν τεθνηκότων Ισραηλ καὶ υἱῶν τῶν ἁμαρτανόντων ἐναντίον σου, οἳ οὐκ ἤκουσαν τῆς φωνῆς κυρίου θεοῦ αὐτῶν καὶ ἐκολλήθη ἡμῖν τὰ κακά.<verse eID="rlxx_baruch.3.4" />
+        <verse sID="rlxx_baruch.3.5" osisID="rlxx_baruch.3.5" />μὴ μνησθῇς ἀδικιῶν πατέρων ἡμῶν, ἀλλὰ μνήσθητι χειρός σου καὶ ὀνόματός σου ἐν τῷ καιρῷ τούτῳ·<verse eID="rlxx_baruch.3.5" />
+        <verse sID="rlxx_baruch.3.6" osisID="rlxx_baruch.3.6" />ὅτι σὺ κύριος ὁ θεὸς ἡμῶν, καὶ αἰνέσομέν σε, κύριε.<verse eID="rlxx_baruch.3.6" />
+        <verse sID="rlxx_baruch.3.7" osisID="rlxx_baruch.3.7" />ὅτι διὰ τοῦτο ἔδωκας τὸν φόβον σου ἐπὶ καρδίαν ἡμῶν τοῦ ἐπικαλεῖσθαι τὸ ὄνομά σου, καὶ αἰνέσομέν σε ἐν τῇ ἀποικίᾳ ἡμῶν, ὅτι ἀπεστρέψαμεν ἀπὸ καρδίας ἡμῶν πᾶσαν ἀδικίαν πατέρων ἡμῶν τῶν ἡμαρτηκότων ἐναντίον σου.<verse eID="rlxx_baruch.3.7" />
+        <verse sID="rlxx_baruch.3.8" osisID="rlxx_baruch.3.8" />ἰδοὺ ἡμεῖς σήμερον ἐν τῇ ἀποικίᾳ ἡμῶν, οὗ διέσπειρας ἡμᾶς ἐκεῖ εἰς ὀνειδισμὸν καὶ εἰς ἀρὰν καὶ εἰς ὄφλησιν κατὰ πάσας τὰς ἀδικίας πατέρων ἡμῶν, οἳ ἀπέστησαν ἀπὸ κυρίου θεοῦ ἡμῶν.<verse eID="rlxx_baruch.3.8" />
+        <verse sID="rlxx_baruch.3.9" osisID="rlxx_baruch.3.9" />Ἄκουε, Ισραηλ, ἐντολὰς ζωῆς, ἐνωτίσασθε γνῶναι φρόνησιν.<verse eID="rlxx_baruch.3.9" />
+        <verse sID="rlxx_baruch.3.10" osisID="rlxx_baruch.3.10" />τί ἐστιν, Ισραηλ, τί ὅτι ἐν γῇ τῶν ἐχθρῶν εἶ, ἐπαλαιώθης ἐν γῇ ἀλλοτρίᾳ,<verse eID="rlxx_baruch.3.10" />
+        <verse sID="rlxx_baruch.3.11" osisID="rlxx_baruch.3.11" />συνεμιάνθης τοῖς νεκροῖς, προσελογίσθης μετὰ τῶν εἰς ᾅδου;<verse eID="rlxx_baruch.3.11" />
+        <verse sID="rlxx_baruch.3.12" osisID="rlxx_baruch.3.12" />ἐγκατέλιπες τὴν πηγὴν τῆς σοφίας.<verse eID="rlxx_baruch.3.12" />
+        <verse sID="rlxx_baruch.3.13" osisID="rlxx_baruch.3.13" />τῇ ὁδῷ τοῦ θεοῦ εἰ ἐπορεύθης, κατῴκεις ἂν ἐν εἰρήνῃ τὸν αἰῶνα.<verse eID="rlxx_baruch.3.13" />
+        <verse sID="rlxx_baruch.3.14" osisID="rlxx_baruch.3.14" />μάθε ποῦ ἐστιν φρόνησις, ποῦ ἐστιν ἰσχύς, ποῦ ἐστιν σύνεσις τοῦ γνῶναι ἅμα, ποῦ ἐστιν μακροβίωσις καὶ ζωή, ποῦ ἐστιν φῶς ὀφθαλμῶν καὶ εἰρήνη.–<verse eID="rlxx_baruch.3.14" />
+        <verse sID="rlxx_baruch.3.15" osisID="rlxx_baruch.3.15" />τίς εὗρεν τὸν τόπον αὐτῆς, καὶ τίς εἰσῆλθεν εἰς τοὺς θησαυροὺς αὐτῆς;<verse eID="rlxx_baruch.3.15" />
+        <verse sID="rlxx_baruch.3.16" osisID="rlxx_baruch.3.16" />ποῦ εἰσιν οἱ ἄρχοντες τῶν ἐθνῶν καὶ οἱ κυριεύοντες τῶν θηρίων τῶν ἐπὶ τῆς γῆς,<verse eID="rlxx_baruch.3.16" />
+        <verse sID="rlxx_baruch.3.17" osisID="rlxx_baruch.3.17" />οἱ ἐν τοῖς ὀρνέοις τοῦ οὐρανοῦ ἐμπαίζοντες καὶ τὸ ἀργύριον θησαυρίζοντες καὶ τὸ χρυσίον, ᾧ ἐπεποίθεισαν ἄνθρωποι, καὶ οὐκ ἔστιν τέλος τῆς κτήσεως αὐτῶν,<verse eID="rlxx_baruch.3.17" />
+        <verse sID="rlxx_baruch.3.18" osisID="rlxx_baruch.3.18" />οἱ τὸ ἀργύριον τεκταίνοντες καὶ μεριμνῶντες, καὶ οὐκ ἔστιν ἐξεύρεσις τῶν ἔργων αὐτῶν;<verse eID="rlxx_baruch.3.18" />
+        <verse sID="rlxx_baruch.3.19" osisID="rlxx_baruch.3.19" />ἠφανίσθησαν καὶ εἰς ᾅδου κατέβησαν, καὶ ἄλλοι ἀντανέστησαν ἀντ' αὐτῶν.<verse eID="rlxx_baruch.3.19" />
+        <verse sID="rlxx_baruch.3.20" osisID="rlxx_baruch.3.20" />νεώτεροι εἶδον φῶς καὶ κατῴκησαν ἐπὶ τῆς γῆς, ὁδὸν δὲ ἐπιστήμης οὐκ ἔγνωσαν<verse eID="rlxx_baruch.3.20" />
+        <verse sID="rlxx_baruch.3.21" osisID="rlxx_baruch.3.21" />οὐδὲ συνῆκαν τρίβους αὐτῆς οὐδὲ ἀντελάβοντο αὐτῆς· οἱ υἱοὶ αὐτῶν ἀπὸ τῆς ὁδοῦ αὐτῶν πόρρω ἐγενήθησαν.<verse eID="rlxx_baruch.3.21" />
+        <verse sID="rlxx_baruch.3.22" osisID="rlxx_baruch.3.22" />οὐδὲ ἠκούσθη ἐν Χανααν οὐδὲ ὤφθη ἐν Θαιμαν,<verse eID="rlxx_baruch.3.22" />
+        <verse sID="rlxx_baruch.3.23" osisID="rlxx_baruch.3.23" />οὔτε υἱοὶ Αγαρ οἱ ἐκζητοῦντες τὴν σύνεσιν ἐπὶ τῆς γῆς, οἱ ἔμποροι τῆς Μερραν καὶ Θαιμαν οἱ μυθολόγοι καὶ οἱ ἐκζητηταὶ τῆς συνέσεως ὁδὸν τῆς σοφίας οὐκ ἔγνωσαν οὐδὲ ἐμνήσθησαν τὰς τρίβους αὐτῆς.–<verse eID="rlxx_baruch.3.23" />
+        <verse sID="rlxx_baruch.3.24" osisID="rlxx_baruch.3.24" />ὦ Ισραηλ, ὡς μέγας ὁ οἶκος τοῦ θεοῦ καὶ ἐπιμήκης ὁ τόπος τῆς κτήσεως αὐτοῦ·<verse eID="rlxx_baruch.3.24" />
+        <verse sID="rlxx_baruch.3.25" osisID="rlxx_baruch.3.25" />μέγας καὶ οὐκ ἔχει τελευτήν, ὑψηλὸς καὶ ἀμέτρητος.<verse eID="rlxx_baruch.3.25" />
+        <verse sID="rlxx_baruch.3.26" osisID="rlxx_baruch.3.26" />ἐκεῖ ἐγεννήθησαν οἱ γίγαντες οἱ ὀνομαστοὶ οἱ ἀπ' ἀρχῆς, γενόμενοι εὐμεγέθεις, ἐπιστάμενοι πόλεμον.<verse eID="rlxx_baruch.3.26" />
+        <verse sID="rlxx_baruch.3.27" osisID="rlxx_baruch.3.27" />οὐ τούτους ἐξελέξατο ὁ θεὸς οὐδὲ ὁδὸν ἐπιστήμης ἔδωκεν αὐτοῖς·<verse eID="rlxx_baruch.3.27" />
+        <verse sID="rlxx_baruch.3.28" osisID="rlxx_baruch.3.28" />καὶ ἀπώλοντο παρὰ τὸ μὴ ἔχειν φρόνησιν, ἀπώλοντο διὰ τὴν ἀβουλίαν αὐτῶν.–<verse eID="rlxx_baruch.3.28" />
+        <verse sID="rlxx_baruch.3.29" osisID="rlxx_baruch.3.29" />τίς ἀνέβη εἰς τὸν οὐρανὸν καὶ ἔλαβεν αὐτὴν καὶ κατεβίβασεν αὐτὴν ἐκ τῶν νεφελῶν;<verse eID="rlxx_baruch.3.29" />
+        <verse sID="rlxx_baruch.3.30" osisID="rlxx_baruch.3.30" />τίς διέβη πέραν τῆς θαλάσσης καὶ εὗρεν αὐτὴν καὶ οἴσει αὐτὴν χρυσίου ἐκλεκτοῦ;<verse eID="rlxx_baruch.3.30" />
+        <verse sID="rlxx_baruch.3.31" osisID="rlxx_baruch.3.31" />οὐκ ἔστιν ὁ γινώσκων τὴν ὁδὸν αὐτῆς οὐδὲ ὁ ἐνθυμούμενος τὴν τρίβον αὐτῆς·<verse eID="rlxx_baruch.3.31" />
+        <verse sID="rlxx_baruch.3.32" osisID="rlxx_baruch.3.32" />ἀλλὰ ὁ εἰδὼς τὰ πάντα γινώσκει αὐτήν, ἐξεῦρεν αὐτὴν τῇ συνέσει αὐτοῦ· ὁ κατασκευάσας τὴν γῆν εἰς τὸν αἰῶνα χρόνον, ἐνέπλησεν αὐτὴν κτηνῶν τετραπόδων·<verse eID="rlxx_baruch.3.32" />
+        <verse sID="rlxx_baruch.3.33" osisID="rlxx_baruch.3.33" />ὁ ἀποστέλλων τὸ φῶς, καὶ πορεύεται, ἐκάλεσεν αὐτό, καὶ ὑπήκουσεν αὐτῷ τρόμῳ·<verse eID="rlxx_baruch.3.33" />
+        <verse sID="rlxx_baruch.3.34" osisID="rlxx_baruch.3.34" />οἱ δὲ ἀστέρες ἔλαμψαν ἐν ταῖς φυλακαῖς αὐτῶν καὶ εὐφράνθησαν,<verse eID="rlxx_baruch.3.34" />
+        <verse sID="rlxx_baruch.3.35" osisID="rlxx_baruch.3.35" />ἐκάλεσεν αὐτοὺς καὶ εἶπον Πάρεσμεν, ἔλαμψαν μετ' εὐφροσύνης τῷ ποιήσαντι αὐτούς.<verse eID="rlxx_baruch.3.35" />
+        <verse sID="rlxx_baruch.3.36" osisID="rlxx_baruch.3.36" />οὗτος ὁ θεὸς ἡμῶν, οὐ λογισθήσεται ἕτερος πρὸς αὐτόν.<verse eID="rlxx_baruch.3.36" />
+        <verse sID="rlxx_baruch.3.37" osisID="rlxx_baruch.3.37" />ἐξεῦρεν πᾶσαν ὁδὸν ἐπιστήμης καὶ ἔδωκεν αὐτὴν Ιακωβ τῷ παιδὶ αὐτοῦ καὶ Ισραηλ τῷ ἠγαπημένῳ ὑπ' αὐτοῦ·<verse eID="rlxx_baruch.3.37" />
+        <verse sID="rlxx_baruch.3.38" osisID="rlxx_baruch.3.38" />μετὰ τοῦτο ἐπὶ τῆς γῆς ὤφθη καὶ ἐν τοῖς ἀνθρώποις συνανεστράφη.<verse eID="rlxx_baruch.3.38" />
+      </p>
+      <chapter eID="rlxx_baruch.3" />
+      <chapter sID="rlxx_baruch.4" osisID="rlxx_baruch.4" />
+      <title>Chapter 4</title>
+      <p>
+        <verse sID="rlxx_baruch.4.1" osisID="rlxx_baruch.4.1" />αὕτη ἡ βίβλος τῶν προσταγμάτων τοῦ θεοῦ καὶ ὁ νόμος ὁ ὑπάρχων εἰς τὸν αἰῶνα· πάντες οἱ κρατοῦντες αὐτῆς εἰς ζωήν, οἱ δὲ καταλείποντες αὐτὴν ἀποθανοῦνται.–<verse eID="rlxx_baruch.4.1" />
+        <verse sID="rlxx_baruch.4.2" osisID="rlxx_baruch.4.2" />ἐπιστρέφου, Ιακωβ, καὶ ἐπιλαβοῦ αὐτῆς, διόδευσον πρὸς τὴν λάμψιν κατέναντι τοῦ φωτὸς αὐτῆς.<verse eID="rlxx_baruch.4.2" />
+        <verse sID="rlxx_baruch.4.3" osisID="rlxx_baruch.4.3" />μὴ δῷς ἑτέρῳ τὴν δόξαν σου καὶ τὰ συμφέροντά σοι ἔθνει ἀλλοτρίῳ.<verse eID="rlxx_baruch.4.3" />
+        <verse sID="rlxx_baruch.4.4" osisID="rlxx_baruch.4.4" />μακάριοί ἐσμεν, Ισραηλ, ὅτι τὰ ἀρεστὰ τῷ θεῷ ἡμῖν γνωστά ἐστιν.<verse eID="rlxx_baruch.4.4" />
+        <verse sID="rlxx_baruch.4.5" osisID="rlxx_baruch.4.5" />Θαρσεῖτε, λαός μου, μνημόσυνον Ισραηλ.<verse eID="rlxx_baruch.4.5" />
+        <verse sID="rlxx_baruch.4.6" osisID="rlxx_baruch.4.6" />ἐπράθητε τοῖς ἔθνεσιν οὐκ εἰς ἀπώλειαν, διὰ δὲ τὸ παροργίσαι ὑμᾶς τὸν θεὸν παρεδόθητε τοῖς ὑπεναντίοις·<verse eID="rlxx_baruch.4.6" />
+        <verse sID="rlxx_baruch.4.7" osisID="rlxx_baruch.4.7" />παρωξύνατε γὰρ τὸν ποιήσαντα ὑμᾶς θύσαντες δαιμονίοις καὶ οὐ θεῷ.<verse eID="rlxx_baruch.4.7" />
+        <verse sID="rlxx_baruch.4.8" osisID="rlxx_baruch.4.8" />ἐπελάθεσθε δὲ τὸν τροφεύσαντα ὑμᾶς θεὸν αἰώνιον, ἐλυπήσατε δὲ καὶ τὴν ἐκθρέψασαν ὑμᾶς Ιερουσαλημ·<verse eID="rlxx_baruch.4.8" />
+        <verse sID="rlxx_baruch.4.9" osisID="rlxx_baruch.4.9" />εἶδεν γὰρ τὴν ἐπελθοῦσαν ὑμῖν ὀργὴν παρὰ τοῦ θεοῦ καὶ εἶπεν Ἀκούσατε, αἱ πάροικοι Σιων, ἐπήγαγέν μοι ὁ θεὸς πένθος μέγα·<verse eID="rlxx_baruch.4.9" />
+        <verse sID="rlxx_baruch.4.10" osisID="rlxx_baruch.4.10" />εἶδον γὰρ τὴν αἰχμαλωσίαν τῶν υἱῶν μου καὶ τῶν θυγατέρων, ἣν ἐπήγαγεν αὐτοῖς ὁ αἰώνιος·<verse eID="rlxx_baruch.4.10" />
+        <verse sID="rlxx_baruch.4.11" osisID="rlxx_baruch.4.11" />ἔθρεψα γὰρ αὐτοὺς μετ' εὐφροσύνης, ἐξαπέστειλα δὲ μετὰ κλαυθμοῦ καὶ πένθους.<verse eID="rlxx_baruch.4.11" />
+        <verse sID="rlxx_baruch.4.12" osisID="rlxx_baruch.4.12" />μηδεὶς ἐπιχαιρέτω μοι τῇ χήρᾳ καὶ καταλειφθείσῃ ὑπὸ πολλῶν· ἠρημώθην διὰ τὰς ἁμαρτίας τῶν τέκνων μου, διότι ἐξέκλιναν ἐκ νόμου θεοῦ,<verse eID="rlxx_baruch.4.12" />
+        <verse sID="rlxx_baruch.4.13" osisID="rlxx_baruch.4.13" />δικαιώματα δὲ αὐτοῦ οὐκ ἔγνωσαν οὐδὲ ἐπορεύθησαν ὁδοῖς ἐντολῶν θεοῦ οὐδὲ τρίβους παιδείας ἐν δικαιοσύνῃ αὐτοῦ ἐπέβησαν.<verse eID="rlxx_baruch.4.13" />
+        <verse sID="rlxx_baruch.4.14" osisID="rlxx_baruch.4.14" />ἐλθάτωσαν αἱ πάροικοι Σιων, καὶ μνήσθητε τὴν αἰχμαλωσίαν τῶν υἱῶν μου καὶ θυγατέρων, ἣν ἐπήγαγεν αὐτοῖς ὁ αἰώνιος·<verse eID="rlxx_baruch.4.14" />
+        <verse sID="rlxx_baruch.4.15" osisID="rlxx_baruch.4.15" />ἐπήγαγεν γὰρ ἐπ' αὐτοὺς ἔθνος μακρόθεν, ἔθνος ἀναιδὲς καὶ ἀλλόγλωσσον, οἳ οὐκ ᾐσχύνθησαν πρεσβύτην οὐδὲ παιδίον ἠλέησαν<verse eID="rlxx_baruch.4.15" />
+        <verse sID="rlxx_baruch.4.16" osisID="rlxx_baruch.4.16" />καὶ ἀπήγαγον τοὺς ἀγαπητοὺς τῆς χήρας καὶ ἀπὸ τῶν θυγατέρων τὴν μόνην ἠρήμωσαν.<verse eID="rlxx_baruch.4.16" />
+        <verse sID="rlxx_baruch.4.17" osisID="rlxx_baruch.4.17" />ἐγὼ δὲ τί δυνατὴ βοηθῆσαι ὑμῖν;<verse eID="rlxx_baruch.4.17" />
+        <verse sID="rlxx_baruch.4.18" osisID="rlxx_baruch.4.18" />ὁ γὰρ ἐπαγαγὼν τὰ κακὰ ὑμῖν ἐξελεῖται ὑμᾶς ἐκ χειρὸς ἐχθρῶν ὑμῶν.<verse eID="rlxx_baruch.4.18" />
+        <verse sID="rlxx_baruch.4.19" osisID="rlxx_baruch.4.19" />βαδίζετε, τέκνα, βαδίζετε, ἐγὼ γὰρ κατελείφθην ἔρημος·<verse eID="rlxx_baruch.4.19" />
+        <verse sID="rlxx_baruch.4.20" osisID="rlxx_baruch.4.20" />ἐξεδυσάμην τὴν στολὴν τῆς εἰρήνης, ἐνεδυσάμην δὲ σάκκον τῆς δεήσεώς μου, κεκράξομαι πρὸς τὸν αἰώνιον ἐν ταῖς ἡμέραις μου.–<verse eID="rlxx_baruch.4.20" />
+        <verse sID="rlxx_baruch.4.21" osisID="rlxx_baruch.4.21" />θαρσεῖτε, τέκνα, βοήσατε πρὸς τὸν θεόν, καὶ ἐξελεῖται ὑμᾶς ἐκ δυναστείας, ἐκ χειρὸς ἐχθρῶν.<verse eID="rlxx_baruch.4.21" />
+        <verse sID="rlxx_baruch.4.22" osisID="rlxx_baruch.4.22" />ἐγὼ γὰρ ἤλπισα ἐπὶ τῷ αἰωνίῳ τὴν σωτηρίαν ὑμῶν, καὶ ἦλθέν μοι χαρὰ παρὰ τοῦ ἁγίου ἐπὶ τῇ ἐλεημοσύνῃ, ἣ ἥξει ὑμῖν ἐν τάχει παρὰ τοῦ αἰωνίου σωτῆρος ὑμῶν.<verse eID="rlxx_baruch.4.22" />
+        <verse sID="rlxx_baruch.4.23" osisID="rlxx_baruch.4.23" />ἐξέπεμψα γὰρ ὑμᾶς μετὰ πένθους καὶ κλαυθμοῦ, ἀποδώσει δέ μοι ὁ θεὸς ὑμᾶς μετὰ χαρμοσύνης καὶ εὐφροσύνης εἰς τὸν αἰῶνα.<verse eID="rlxx_baruch.4.23" />
+        <verse sID="rlxx_baruch.4.24" osisID="rlxx_baruch.4.24" />ὥσπερ γὰρ νῦν ἑωράκασιν αἱ πάροικοι Σιων τὴν ὑμετέραν αἰχμαλωσίαν, οὕτως ὄψονται ἐν τάχει τὴν παρὰ τοῦ θεοῦ ὑμῶν σωτηρίαν, ἣ ἐπελεύσεται ὑμῖν μετὰ δόξης μεγάλης καὶ λαμπρότητος τοῦ αἰωνίου.<verse eID="rlxx_baruch.4.24" />
+        <verse sID="rlxx_baruch.4.25" osisID="rlxx_baruch.4.25" />τέκνα, μακροθυμήσατε τὴν παρὰ τοῦ θεοῦ ἐπελθοῦσαν ὑμῖν ὀργήν· κατεδίωξέν σε ὁ ἐχθρός σου, καὶ ὄψει αὐτοῦ τὴν ἀπώλειαν ἐν τάχει καὶ ἐπὶ τραχήλους αὐτῶν ἐπιβήσῃ.<verse eID="rlxx_baruch.4.25" />
+        <verse sID="rlxx_baruch.4.26" osisID="rlxx_baruch.4.26" />οἱ τρυφεροί μου ἐπορεύθησαν ὁδοὺς τραχείας, ἤρθησαν ὡς ποίμνιον ἡρπασμένον ὑπὸ ἐχθρῶν.–<verse eID="rlxx_baruch.4.26" />
+        <verse sID="rlxx_baruch.4.27" osisID="rlxx_baruch.4.27" />θαρσήσατε, τέκνα, καὶ βοήσατε πρὸς τὸν θεόν, ἔσται γὰρ ὑμῶν ὑπὸ τοῦ ἐπάγοντος μνεία.<verse eID="rlxx_baruch.4.27" />
+        <verse sID="rlxx_baruch.4.28" osisID="rlxx_baruch.4.28" />ὥσπερ γὰρ ἐγένετο ἡ διάνοια ὑμῶν εἰς τὸ πλανηθῆναι ἀπὸ τοῦ θεοῦ, δεκαπλασιάσατε ἐπιστραφέντες ζητῆσαι αὐτόν.<verse eID="rlxx_baruch.4.28" />
+        <verse sID="rlxx_baruch.4.29" osisID="rlxx_baruch.4.29" />ὁ γὰρ ἐπαγαγὼν ὑμῖν τὰ κακὰ ἐπάξει ὑμῖν τὴν αἰώνιον εὐφροσύνην μετὰ τῆς σωτηρίας ὑμῶν.<verse eID="rlxx_baruch.4.29" />
+        <verse sID="rlxx_baruch.4.30" osisID="rlxx_baruch.4.30" />Θάρσει, Ιερουσαλημ, παρακαλέσει σε ὁ ὀνομάσας σε.<verse eID="rlxx_baruch.4.30" />
+        <verse sID="rlxx_baruch.4.31" osisID="rlxx_baruch.4.31" />δείλαιοι οἱ σὲ κακώσαντες καὶ ἐπιχαρέντες τῇ σῇ πτώσει,<verse eID="rlxx_baruch.4.31" />
+        <verse sID="rlxx_baruch.4.32" osisID="rlxx_baruch.4.32" />δείλαιαι αἱ πόλεις αἷς ἐδούλευσαν τὰ τέκνα σου, δειλαία ἡ δεξαμένη τοὺς υἱούς σου.<verse eID="rlxx_baruch.4.32" />
+        <verse sID="rlxx_baruch.4.33" osisID="rlxx_baruch.4.33" />ὥσπερ γὰρ ἐχάρη ἐπὶ τῇ σῇ πτώσει καὶ εὐφράνθη ἐπὶ τῷ πτώματί σου, οὕτως λυπηθήσεται ἐπὶ τῇ ἑαυτῆς ἐρημίᾳ.<verse eID="rlxx_baruch.4.33" />
+        <verse sID="rlxx_baruch.4.34" osisID="rlxx_baruch.4.34" />καὶ περιελῶ αὐτῆς τὸ ἀγαλλίαμα τῆς πολυοχλίας, καὶ τὸ ἀγαυρίαμα αὐτῆς ἔσται εἰς πένθος.<verse eID="rlxx_baruch.4.34" />
+        <verse sID="rlxx_baruch.4.35" osisID="rlxx_baruch.4.35" />πῦρ γὰρ ἐπελεύσεται αὐτῇ παρὰ τοῦ αἰωνίου εἰς ἡμέρας μακράς, καὶ κατοικηθήσεται ὑπὸ δαιμονίων τὸν πλείονα χρόνον.–<verse eID="rlxx_baruch.4.35" />
+        <verse sID="rlxx_baruch.4.36" osisID="rlxx_baruch.4.36" />περίβλεψαι πρὸς ἀνατολάς, Ιερουσαλημ, καὶ ἰδὲ τὴν εὐφροσύνην τὴν παρὰ τοῦ θεοῦ σοι ἐρχομένην.<verse eID="rlxx_baruch.4.36" />
+        <verse sID="rlxx_baruch.4.37" osisID="rlxx_baruch.4.37" />ἰδοὺ ἔρχονται οἱ υἱοί σου, οὓς ἐξαπέστειλας, ἔρχονται συνηγμένοι ἀπ' ἀνατολῶν ἕως δυσμῶν τῷ ῥήματι τοῦ ἁγίου χαίροντες τῇ τοῦ θεοῦ δόξῃ.–<verse eID="rlxx_baruch.4.37" />
+      </p>
+      <chapter eID="rlxx_baruch.4" />
+      <chapter sID="rlxx_baruch.5" osisID="rlxx_baruch.5" />
+      <title>Chapter 5</title>
+      <p>
+        <verse sID="rlxx_baruch.5.1" osisID="rlxx_baruch.5.1" />ἔκδυσαι, Ιερουσαλημ, τὴν στολὴν τοῦ πένθους καὶ τῆς κακώσεώς σου καὶ ἔνδυσαι τὴν εὐπρέπειαν τῆς παρὰ τοῦ θεοῦ δόξης εἰς τὸν αἰῶνα.<verse eID="rlxx_baruch.5.1" />
+        <verse sID="rlxx_baruch.5.2" osisID="rlxx_baruch.5.2" />περιβαλοῦ τὴν διπλοΐδα τῆς παρὰ τοῦ θεοῦ δικαιοσύνης, ἐπίθου τὴν μίτραν ἐπὶ τὴν κεφαλήν σου τῆς δόξης τοῦ αἰωνίου.<verse eID="rlxx_baruch.5.2" />
+        <verse sID="rlxx_baruch.5.3" osisID="rlxx_baruch.5.3" />ὁ γὰρ θεὸς δείξει τῇ ὑπ' οὐρανὸν πάσῃ τὴν σὴν λαμπρότητα.<verse eID="rlxx_baruch.5.3" />
+        <verse sID="rlxx_baruch.5.4" osisID="rlxx_baruch.5.4" />κληθήσεται γάρ σου τὸ ὄνομα παρὰ τοῦ θεοῦ εἰς τὸν αἰῶνα Εἰρήνη δικαιοσύνης καὶ δόξα θεοσεβείας.–<verse eID="rlxx_baruch.5.4" />
+        <verse sID="rlxx_baruch.5.5" osisID="rlxx_baruch.5.5" />ἀνάστηθι, Ιερουσαλημ, καὶ στῆθι ἐπὶ τοῦ ὑψηλοῦ καὶ περίβλεψαι πρὸς ἀνατολὰς καὶ ἰδέ σου συνηγμένα τὰ τέκνα ἀπὸ ἡλίου δυσμῶν ἕως ἀνατολῶν τῷ ῥήματι τοῦ ἁγίου χαίροντας τῇ τοῦ θεοῦ μνείᾳ.<verse eID="rlxx_baruch.5.5" />
+        <verse sID="rlxx_baruch.5.6" osisID="rlxx_baruch.5.6" />ἐξῆλθον γὰρ παρὰ σοῦ πεζοὶ ἀγόμενοι ὑπὸ ἐχθρῶν, εἰσάγει δὲ αὐτοὺς ὁ θεὸς πρὸς σὲ αἰρομένους μετὰ δόξης ὡς θρόνον βασιλείας.<verse eID="rlxx_baruch.5.6" />
+        <verse sID="rlxx_baruch.5.7" osisID="rlxx_baruch.5.7" />συνέταξεν γὰρ ὁ θεὸς ταπεινοῦσθαι πᾶν ὄρος ὑψηλὸν καὶ θῖνας ἀενάους καὶ φάραγγας πληροῦσθαι εἰς ὁμαλισμὸν τῆς γῆς, ἵνα βαδίσῃ Ισραηλ ἀσφαλῶς τῇ τοῦ θεοῦ δόξῃ·<verse eID="rlxx_baruch.5.7" />
+        <verse sID="rlxx_baruch.5.8" osisID="rlxx_baruch.5.8" />ἐσκίασαν δὲ καὶ οἱ δρυμοὶ καὶ πᾶν ξύλον εὐωδίας τῷ Ισραηλ προστάγματι τοῦ θεοῦ·<verse eID="rlxx_baruch.5.8" />
+        <verse sID="rlxx_baruch.5.9" osisID="rlxx_baruch.5.9" />ἡγήσεται γὰρ ὁ θεὸς Ισραηλ μετ' εὐφροσύνης τῷ φωτὶ τῆς δόξης αὐτοῦ σὺν ἐλεημοσύνῃ καὶ δικαιοσύνῃ τῇ παρ' αὐτοῦ.<verse eID="rlxx_baruch.5.9" />
+      </p>
+      <chapter eID="rlxx_baruch.5" />
+    </div>
+  </osisText>
+</osis>

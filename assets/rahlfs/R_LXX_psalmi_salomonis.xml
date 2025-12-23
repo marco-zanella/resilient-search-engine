@@ -1,0 +1,1618 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+    http://www.bibletechnologies.net/OSIS/osisCore.2.1.xsd">
+
+    <osisText osisIDWork="R_LXX_psalmi_salomonis" xml:lang="el" canonical="true">
+        <header>
+            <work osisWork="R_LXX_psalmi_salomonis">
+                <title>RLXX: Psalmi Salomonis</title>
+                <creator>ITSERR-Italian Strengthening of the ESFRI RI RESILIENCE: WP8-uBIQUity; PRIN 2022- Resilient Septuagint. An Initial Exploration of the Semantics of Killing and Healing in the Septuagint and its Reception in Patristic and Late Antique Sources (3rd cent. BCE – 5th cent. CE)</creator>
+                <subject>Psalmi Salomonis</subject>
+                <date event="original">3rd-1st cent. BCE</date>
+                <!-- Cannot insert dates in MRF; the valid range for all editions is –0299 to –0001 -->
+                <!-- <origPlace> <country> Egypt (ISO: EG) / Palestine (ISO: PSE) </country> </origPlace> -->
+                <date event="eversion">07-31-2025</date>
+                <description>A. Rahlfs, R. Hanhart (eds), Septuaginta: Id est Vetus
+                    Testamentum graece iuxta LXX interpretes. Editio altera, Stuttgart: Deutsche
+                    Bibelgesellschaft, 2006 (A. Rahlfs, 1935)</description>
+                <relation type="x-isAPartOf">Septuaginta: Id est Vetus
+                    Testamentum graece iuxta LXX interpretes (R-LXX)</relation>
+                <rights>© Deutsche Bibelgesellschaft. All rights reserved.</rights>
+                <refSystem>Septuaginta: Greek Bible</refSystem>
+                <!-- For metadata concerning chapter and verse counts, refer to the encoding. -->
+            </work>
+        </header>
+        <div type="book" osisID="rlxx_psalmi_salomonis">
+            <title>ΨΑΛΜΟΙ ΣΟΛΟΜΩΝΤΟΣ</title>
+            <chapter sID="rlxx_psalmi_salomonis.1" osisID="rlxx_psalmi_salomonis.1"/>
+        <p>
+                <verse sID="r_lxx_psalmi_salomonis.1.1" osisID="r_lxx_psalmi_salomonis.1.1"/>
+                ﻿Ἐβόησα πρὸς κύριον ἐν τῷ θλίβεσθαί με εἰς τέλος, πρὸς τὸν θεὸν ἐν τῷ ἐπιθέσθαι ἁμαρτωλούς·
+                <verse eID="rlxx_psalmi_salomonis.1.1"/>
+  
+                <verse sID="r_lxx_psalmi_salomonis.1.2" osisID="r_lxx_psalmi_salomonis.1.2"/>
+                ﻿ἐξάπινα ἠκούσθη κραυγὴ πολέμου ἐνώπιόν μου· 
+                εἶπα Ἐπακούσεταί μου, ὅτι ἐπλήσθην δικαιοσύνης.
+                <verse eID="rlxx_psalmi_salomonis.1.2"/>
+                
+                <verse sID="r_lxx_psalmi_salomonis.1.3" osisID="r_lxx_psalmi_salomonis.1.3"/>
+                ἐλογισάμην ἐν καρδίᾳ μου ὅτι ἐπλήσθην δικαιοσύνης 
+                ἐν τῷ εὐθηνῆσαί με καὶ πολλὴν γενέσθαι ἐν τέκνοις.
+                <verse eID="rlxx_psalmi_salomonis.1.3"/>
+            
+                <verse sID="r_lxx_psalmi_salomonis.1.4" osisID="r_lxx_psalmi_salomonis.1.4"/>
+                ﻿ὁ πλοῦτος αὐτῶν διεδόθη εἰς πᾶσαν τὴν γῆν 
+                καὶ ἡ δόξα αὐτῶν ἕως ἐσχάτου τῆς γῆς.
+                <verse eID="rlxx_psalmi_salomonis.1.4"/>
+          
+                <verse sID="r_lxx_psalmi_salomonis.1.5" osisID="r_lxx_psalmi_salomonis.1.5"/>
+                ὑψώθησαν ἕως τῶν ἄστρων, 
+                εἶπαν Οὐ μὴ πέσωσιν·
+                <verse eID="rlxx_psalmi_salomonis.1.5"/>
+          
+                <verse sID="r_lxx_psalmi_salomonis.1.6" osisID="r_lxx_psalmi_salomonis.1.6"/>
+                ﻿καὶ ἐξύβρισαν ἐν τοῖς ἀγαθοῖς αὐτῶν 
+                καὶ οὐκ ἤνεγκαν.
+                <verse eID="rlxx_psalmi_salomonis.1.6"/>
+            
+                <verse sID="r_lxx_psalmi_salomonis.1.7" osisID="r_lxx_psalmi_salomonis.1.7"/>
+                ﻿αἱ ἁμαρτίαι αὐτῶν ἐν ἀποκρύφοις, 
+                καὶ ἐγὼ οὐκ ᾔδειν·
+                <verse eID="rlxx_psalmi_salomonis.1.7"/>
+             
+                <verse sID="r_lxx_psalmi_salomonis.1.8" osisID="r_lxx_psalmi_salomonis.1.8"/>
+                ﻿αἱ ἀνομίαι αὐτῶν ὑπὲρ τὰ πρὸ αὐτῶν ἔθνη, 
+                ἐβεβήλωσαν τὰ ἅγια κυρίου ἐν βεβηλώσει.
+                <verse eID="rlxx_psalmi_salomonis.1.8"/>
+            
+              </p>  
+            <chapter eID="rlxx_psalmi_salomonis.1"/>
+            <chapter sID="rlxx_psalmi_salomonis.2" osisID="rlxx_psalmi_salomonis.2"/>
+            <p>
+                <verse sID="rlxx_psalmi_salomonis.2.0" osisID="rlxx_psalmi_salomonis.2.0"/>
+                Ψαλμὸς τῷ Σαλωμων· περὶ Ιερουσαλημ.†
+                <verse eID="rlxx_psalmi_salomonis.2.0"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.1" osisID="rlxx_psalmi_salomonis.2.1"/>
+                ﻿Ἐν τῷ ὑπερηφανεύεσθαι τὸν ἁμαρτωλὸν ἐν κριῷ κατέβαλε τείχη ὀχυρά, καὶ οὐκ ἐκώλυσας.†
+                <verse eID="rlxx_psalmi_salomonis.2.1"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.2" osisID="rlxx_psalmi_salomonis.2.2"/>
+                ﻿ἀνέβησαν ἐπὶ τὸ θυσιαστήριόν σου ἔθνη ἀλλότρια, κατεπατοῦσαν ἐν ὑποδήμασιν αὐτῶν ἐν ὑπερηφανίᾳ,
+                <verse eID="rlxx_psalmi_salomonis.2.2"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.3" osisID="rlxx_psalmi_salomonis.2.3"/>
+                ﻿ἀνθʼ ὧν οἱ υἱοὶ Ιερουσαλημ ἐμίαναν τὰ ἅγια κυρίου, ἐβεβηλοῦσαν τὰ δῶρα τοῦ θεοῦ ἐν ἀνομίαις.
+                <verse eID="rlxx_psalmi_salomonis.2.3"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.4" osisID="rlxx_psalmi_salomonis.2.4"/>
+                ﻿ἕνεκεν τούτων εἶπεν Ἀπορρίψατε αὐτὰ μακρὰν ἀπʼ ἐμοῦ, οὐκ εὐδοκῶ ἐν αὐτοῖς.†
+                <verse eID="rlxx_psalmi_salomonis.2.4"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.5" osisID="rlxx_psalmi_salomonis.2.5"/>
+                ﻿τὸ κάλλος τῆς δόξης αὐτῆς ἐξουθενώθη ἐνώπιον τοῦ θεοῦ, ἠτιμώθη ἕως εἰς τέλος.†
+                <verse eID="rlxx_psalmi_salomonis.2.5"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.6" osisID="rlxx_psalmi_salomonis.2.6"/>
+                ﻿οἱ υἱοὶ καὶ αἱ θυγατέρες ἐν αἰχμαλωσίᾳ πονηρᾷ, ἐν σφραγῖδι ὁ τράχηλος αὐτῶν, ἐν ἐπισήμῳ ἐν τοῖς ἔθνεσιν.†
+                <verse eID="rlxx_psalmi_salomonis.2.6"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.7" osisID="rlxx_psalmi_salomonis.2.7"/>
+                ﻿Κατὰ τὰς ἁμαρτίας αὐτῶν ἐποίησεν αὐτοῖς, ὅτι ἐγκατέλιπεν αὐτοὺς εἰς χεῖρας κατισχυόντων.
+                <verse eID="rlxx_psalmi_salomonis.2.7"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.8" osisID="rlxx_psalmi_salomonis.2.8"/>
+                ﻿ἀπέστρεψεν γὰρ τὸ πρόσωπον αὐτοῦ ἀπὸ ἐλέους αὐτῶν, νέον καὶ πρεσβύτην καὶ τέκνα αὐτῶν εἰς ἅπαξ, ὅτι πονηρὰ ἐποίησαν εἰς ἅπαξ τοῦ μὴ ἀκούειν.
+                <verse eID="rlxx_psalmi_salomonis.2.8"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.9" osisID="rlxx_psalmi_salomonis.2.9"/>
+                ﻿καὶ ὁ οὐρανὸς ἐβαρυθύμησεν, καὶ ἡ γῆ ἐβδελύξατο αὐτούς, ὅτι οὐκ ἐποίησε πᾶς ἄνθρωπος ἐπʼ αὐτῆς ὅσα ἐποίησαν.
+                <verse eID="rlxx_psalmi_salomonis.2.9"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.10" osisID="rlxx_psalmi_salomonis.2.10"/>
+                ﻿καὶ γνώσεται ἡ γῆ τὰ κρίματά σου πάντα τὰ δίκαια, ὁ θεός.
+                <verse eID="rlxx_psalmi_salomonis.2.10"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.11" osisID="rlxx_psalmi_salomonis.2.11"/>
+                ﻿Ἔστησαν τοὺς υἱοὺς Ιερουσαλημ εἰς ἐμπαιγμὸν ἀντὶ πορνῶν ἐν αὐτῇ· πᾶς ὁ παραπορευόμενος εἰσεπορεύετο κατέναντι τοῦ ἡλίου.†
+                <verse eID="rlxx_psalmi_salomonis.2.11"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.12" osisID="rlxx_psalmi_salomonis.2.12"/>
+                ﻿ἐνέπαιζον ταῖς ἀνομίαις αὐτῶν καθὰ ἐποίουν αὐτοί, ἀπέναντι τοῦ ἡλίου παρεδειγμάτισαν ἀδικίας αὐτῶν.†
+                <verse eID="rlxx_psalmi_salomonis.2.12"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.13" osisID="rlxx_psalmi_salomonis.2.13"/>
+                ﻿καὶ θυγατέρες Ιερουσαλημ βέβηλοι κατὰ τὸ κρίμα σου, ἀνθʼ ὧν αὐταὶ ἐμιαίωσαν αὑτὰς ἐν φυρμῷ ἀναμείξεως.
+                <verse eID="rlxx_psalmi_salomonis.2.13"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.14" osisID="rlxx_psalmi_salomonis.2.14"/>
+                ﻿τὴν κοιλίαν μου καὶ τὰ σπλάγχνα μου πονῶ ἐπὶ τούτοις.
+                <verse eID="rlxx_psalmi_salomonis.2.14"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.15" osisID="rlxx_psalmi_salomonis.2.15"/>
+                ﻿Ἐγὼ δικαιώσω σε, ὁ θεός, ἐν εὐθύτητι καρδίας, ὅτι ἐν τοῖς κρίμασίν σου ἡ δικαιοσύνη σου, ὁ θεός.
+                <verse eID="rlxx_psalmi_salomonis.2.15"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.16" osisID="rlxx_psalmi_salomonis.2.16"/>
+                ﻿ὅτι ἀπέδωκας τοῖς ἁμαρτωλοῖς κατὰ τὰ ἔργα αὐτῶν καὶ κατὰ τὰς ἁμαρτίας αὐτῶν τὰς πονηρὰς σφόδρα.
+                <verse eID="rlxx_psalmi_salomonis.2.16"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.17" osisID="rlxx_psalmi_salomonis.2.17"/>
+                ﻿ἀνεκάλυψας τὰς ἁμαρτίας αὐτῶν, ἵνα φανῇ τὸ κρίμα σου, ἐξήλειψας τὸ μνημόσυνον αὐτῶν ἀπὸ τῆς γῆς.
+                <verse eID="rlxx_psalmi_salomonis.2.17"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.18" osisID="rlxx_psalmi_salomonis.2.18"/>
+                ﻿ὁ θεὸς κριτὴς δίκαιος καὶ οὐ θαυμάσει πρόσωπον.
+                <verse eID="rlxx_psalmi_salomonis.2.18"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.19" osisID="rlxx_psalmi_salomonis.2.19"/>
+                ﻿Ὠνείδισαν γὰρ ἔθνη Ιερουσαλημ ἐν καταπατήσει, κατεσπάσθη τὸ κάλλος αὐτῆς ἀπὸ θρόνου δόξης.†
+                <verse eID="rlxx_psalmi_salomonis.2.19"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.20" osisID="rlxx_psalmi_salomonis.2.20"/>
+                ﻿περιεζώσατο σάκκον ἀντὶ ἐνδύματος εὐπρεπείας, σχοινίον περὶ τὴν κεφαλὴν αὐτῆς ἀντὶ στεφάνου.
+                <verse eID="rlxx_psalmi_salomonis.2.20"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.21" osisID="rlxx_psalmi_salomonis.2.21"/>
+                ﻿περιείλατο μίτραν δόξης, ἣν περιέθηκεν αὐτῇ ὁ θεός· ἐν ἀτιμίᾳ τὸ κάλλος αὐτῆς, ἀπερρίφη ἐπὶ τὴν γῆν.
+                <verse eID="rlxx_psalmi_salomonis.2.21"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.22" osisID="rlxx_psalmi_salomonis.2.22"/>
+                ﻿Καὶ ἐγὼ εἶδον καὶ ἐδεήθην τοῦ προσώπου κυρίου καὶ εἶπον Ἱκάνωσον, κύριε, τοῦ βαρύνεσθαι χεῖρά σου ἐπὶ Ιερουσαλημ ἐν ἐπαγωγῇ ἐθνῶν·†
+                <verse eID="rlxx_psalmi_salomonis.2.22"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.23" osisID="rlxx_psalmi_salomonis.2.23"/>
+                ﻿ὅτι ἐνέπαιξαν καὶ οὐκ ἐφείσαντο ἐν ὀργῇ καὶ θυμῷ μετὰ μηνίσεως· καὶ συντελεσθήσονται, ἐὰν μὴ σύ, κύριε, ἐπιτιμήσῃς αὐτοῖς ἐν ὀργῇ σου.
+                <verse eID="rlxx_psalmi_salomonis.2.23"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.24" osisID="rlxx_psalmi_salomonis.2.24"/>
+                ﻿ὅτι οὐκ ἐν ζήλει ἐποίησαν, ἀλλʼ ἐν ἐπιθυμίᾳ ψυχῆς ἐκχέαι τὴν ὀργὴν αὐτῶν εἰς ἡμᾶς ἐν ἁρπάγματι.
+                <verse eID="rlxx_psalmi_salomonis.2.24"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.25" osisID="rlxx_psalmi_salomonis.2.25"/>
+                ﻿μὴ χρονίσῃς, ὁ θεός, τοῦ ἀποδοῦναι αὐτοῖς εἰς κεφαλάς, τοῦ εἰπεῖν τὴν ὑπερηφανίαν τοῦ δράκοντος ἐν ἀτιμίᾳ.†
+                <verse eID="rlxx_psalmi_salomonis.2.25"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.26" osisID="rlxx_psalmi_salomonis.2.26"/>
+                ﻿Καὶ οὐκ ἐχρόνισα ἕως ἔδειξέν μοι ὁ θεὸς τὴν ὕβριν αὐτοῦ, ἐκκεκεντημένον ἐπὶ τῶν ὀρέων Αἰγύπτου ὑπὲρ ἐλάχιστον ἐξουδενωμένον ἐπὶ γῆς καὶ θαλάσσης·†
+                <verse eID="rlxx_psalmi_salomonis.2.26"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.27" osisID="rlxx_psalmi_salomonis.2.27"/>
+                ﻿τὸ σῶμα αὐτοῦ διαφερόμενον ἐπὶ κυμάτων ἐν ὕβρει πολλῇ, καὶ οὐκ ἦν ὁ θάπτων, ὅτι ἐξουθένωσεν αὐτὸν ἐν ἀτιμίᾳ.
+                <verse eID="rlxx_psalmi_salomonis.2.27"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.28" osisID="rlxx_psalmi_salomonis.2.28"/>
+                ﻿Οὐκ ἐλογίσατο ὅτι ἄνθρωπός ἐστιν, καὶ τὸ ὕστερον οὐκ ἐλογίσατο.
+                <verse eID="rlxx_psalmi_salomonis.2.28"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.29" osisID="rlxx_psalmi_salomonis.2.29"/>
+                ﻿εἶπεν Ἐγὼ κύριος γῆς καὶ θαλάσσης ἔσομαι· καὶ οὐκ ἐπέγνω ὅτι ὁ θεὸς μέγας, κραταιὸς ἐν ἰσχύι αὐτοῦ τῇ μεγάλῃ.
+                <verse eID="rlxx_psalmi_salomonis.2.29"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.30" osisID="rlxx_psalmi_salomonis.2.30"/>
+                ﻿αὐτὸς βασιλεὺς ἐπὶ τῶν οὐρανῶν καὶ κρίνων βασιλεῖς καὶ ἀρχάς·
+                <verse eID="rlxx_psalmi_salomonis.2.30"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.31" osisID="rlxx_psalmi_salomonis.2.31"/>
+                ﻿ὁ ἀνιστῶν ἐμὲ εἰς δόξαν καὶ κοιμίζων ὑπερηφάνους εἰς ἀπώλειαν αἰῶνος ἐν ἀτιμίᾳ, ὅτι οὐκ ἔγνωσαν αὐτόν.†
+                <verse eID="rlxx_psalmi_salomonis.2.31"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.32" osisID="rlxx_psalmi_salomonis.2.32"/>
+                ﻿Καὶ νῦν ἴδετε, οἱ μεγιστᾶνες τῆς γῆς, τὸ κρίμα τοῦ κυρίου, ὅτι μέγας βασιλεὺς καὶ δίκαιος κρίνων τὴν ὑπʼ οὐρανόν.
+                <verse eID="rlxx_psalmi_salomonis.2.32"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.33" osisID="rlxx_psalmi_salomonis.2.33"/>
+                ﻿εὐλογεῖτε τὸν θεόν, οἱ φοβούμενοι τὸν κύριον ἐν ἐπιστήμῃ, ὅτι τὸ ἔλεος κυρίου ἐπὶ τοὺς φοβουμένους αὐτὸν μετὰ κρίματος
+                <verse eID="rlxx_psalmi_salomonis.2.33"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.34" osisID="rlxx_psalmi_salomonis.2.34"/>
+                ﻿τοῦ διαστεῖλαι ἀνὰ μέσον δικαίου καὶ ἁμαρτωλοῦ ἀποδοῦναι ἁμαρτωλοῖς εἰς τὸν αἰῶνα κατὰ τὰ ἔργα αὐτῶν
+                <verse eID="rlxx_psalmi_salomonis.2.34"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.35" osisID="rlxx_psalmi_salomonis.2.35"/>
+                ﻿καὶ ἐλεῆσαι δίκαιον ἀπὸ ταπεινώσεως ἁμαρτωλοῦ καὶ ἀποδοῦναι ἁμαρτωλῷ ἀνθʼ ὧν ἐποίησεν δικαίῳ.
+                <verse eID="rlxx_psalmi_salomonis.2.35"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.36" osisID="rlxx_psalmi_salomonis.2.36"/>
+                ﻿ὅτι χρηστὸς ὁ κύριος τοῖς ἐπικαλουμένοις αὐτὸν ἐν ὑπομονῇ ποιῆσαι κατὰ τὸ ἔλεος αὐτοῦ τοῖς ὁσίοις αὐτοῦ παρεστάναι διὰ παντὸς ἐνώπιον αὐτοῦ ἐν ἰσχύι.
+                <verse eID="rlxx_psalmi_salomonis.2.36"/>
+                
+                <verse sID="rlxx_psalmi_salomonis.2.37" osisID="rlxx_psalmi_salomonis.2.37"/>
+                ﻿εὐλογητὸς κύριος εἰς τὸν αἰῶνα ἐνώπιον δούλων αὐτοῦ.
+                <verse eID="rlxx_psalmi_salomonis.2.37"/>
+            </p>
+            <chapter eID="rlxx_psalmi_salomonis.2"/>
+            <chapter sID="rlxx_psalmi_salomonis.3" osisID="rlxx_psalmi_salomonis.3"/>
+    <p>
+        <verse sID="rlxx_psalmi_salomonis.3.0" osisID="rlxx_psalmi_salomonis.3.0"/>
+        Ψαλμὸς τῷ Σαλωμων· περὶ δικαίων.†
+        <verse eID="rlxx_psalmi_salomonis.3.0"/>
+
+        <verse sID="rlxx_psalmi_salomonis.3.1" osisID="rlxx_psalmi_salomonis.3.1"/>
+        ﻿Ἵνα τί ὑπνοῖς, ψυχή, καὶ οὐκ εὐλογεῖς τὸν κύριον; 
+        ὕμνον καινὸν ψάλατε τῷ θεῷ τῷ αἰνετῷ.†
+        <verse eID="rlxx_psalmi_salomonis.3.1"/>
+
+        <verse sID="rlxx_psalmi_salomonis.3.2" osisID="rlxx_psalmi_salomonis.3.2"/>
+        ﻿ψάλλε καὶ γρηγόρησον ἐπὶ τὴν γρηγόρησιν αὐτοῦ, 
+        ὅτι ἀγαθὸς ψαλμὸς τῷ θεῷ ἐξ ἀγαθῆς καρδίας.
+        <verse eID="rlxx_psalmi_salomonis.3.2"/>
+
+        <verse sID="rlxx_psalmi_salomonis.3.3" osisID="rlxx_psalmi_salomonis.3.3"/>
+        ﻿δίκαιοι μνημονεύουσιν διὰ παντὸς τοῦ κυρίου, 
+        ἐν ἐξομολογήσει καὶ δικαιώσει τὰ κρίματα κυρίου.†
+        <verse eID="rlxx_psalmi_salomonis.3.3"/>
+
+        <verse sID="rlxx_psalmi_salomonis.3.4" osisID="rlxx_psalmi_salomonis.3.4"/>
+        ﻿οὐκ ὀλιγωρήσει δίκαιος παιδευόμενος ὑπὸ κυρίου, 
+        ἡ εὐδοκία αὐτοῦ διὰ παντὸς ἔναντι κυρίου.
+        <verse eID="rlxx_psalmi_salomonis.3.4"/>
+
+        <verse sID="rlxx_psalmi_salomonis.3.5" osisID="rlxx_psalmi_salomonis.3.5"/>
+        ﻿Προσέκοψεν ὁ δίκαιος καὶ ἐδικαίωσεν τὸν κύριον, 
+        ἔπεσεν καὶ ἀποβλέπει τί ποιήσει αὐτῷ ὁ θεός, 
+        ἀποσκοπεύει ὅθεν ἥξει σωτηρία αὐτοῦ.†
+        <verse eID="rlxx_psalmi_salomonis.3.5"/>
+
+        <verse sID="rlxx_psalmi_salomonis.3.6" osisID="rlxx_psalmi_salomonis.3.6"/>
+        ﻿ἀλήθεια τῶν δικαίων παρὰ θεοῦ σωτῆρος αὐτῶν, 
+        οὐκ αὐλίζεται ἐν οἴκῳ δικαίου ἁμαρτία ἐφʼ ἁμαρτίαν·
+        <verse eID="rlxx_psalmi_salomonis.3.6"/>
+
+        <verse sID="rlxx_psalmi_salomonis.3.7" osisID="rlxx_psalmi_salomonis.3.7"/>
+        ﻿ἐπισκέπτεται διὰ παντὸς τὸν οἶκον αὐτοῦ ὁ δίκαιος 
+        τοῦ ἐξᾶραι ἀδικίαν ἐν παραπτώματι αὐτοῦ.
+        <verse eID="rlxx_psalmi_salomonis.3.7"/>
+
+        <verse sID="rlxx_psalmi_salomonis.3.8" osisID="rlxx_psalmi_salomonis.3.8"/>
+        ﻿ἐξιλάσατο περὶ ἀγνοίας ἐν νηστείᾳ καὶ ταπεινώσει ψυχῆς αὐτοῦ, 
+        καὶ ὁ κύριος καθαρίζει πᾶν ἄνδρα ὅσιον καὶ τὸν οἶκον αὐτοῦ.†
+        <verse eID="rlxx_psalmi_salomonis.3.8"/>
+
+        <verse sID="rlxx_psalmi_salomonis.3.9" osisID="rlxx_psalmi_salomonis.3.9"/>
+        ﻿Προσέκοψεν ἁμαρτωλὸς καὶ καταρᾶται ζωὴν αὐτοῦ, 
+        τὴν ἡμέραν γενέσεως αὐτοῦ καὶ ὠδῖνας μητρός.
+        <verse eID="rlxx_psalmi_salomonis.3.9"/>
+
+        <verse sID="rlxx_psalmi_salomonis.3.10" osisID="rlxx_psalmi_salomonis.3.10"/>
+        ﻿προσέθηκεν ἁμαρτίας ἐφʼ ἁμαρτίας τῇ ζωῇ αὐτοῦ· 
+        ἔπεσεν, ὅτι πονηρὸν τὸ πτῶμα αὐτοῦ, καὶ οὐκ ἀναστήσεται.†
+        <verse eID="rlxx_psalmi_salomonis.3.10"/>
+
+        <verse sID="rlxx_psalmi_salomonis.3.11" osisID="rlxx_psalmi_salomonis.3.11"/>
+        ﻿ἡ ἀπώλεια τοῦ ἁμαρτωλοῦ εἰς τὸν αἰῶνα, 
+        καὶ οὐ μνησθήσεται, ὅταν ἐπισκέπτηται δικαίους.†
+        <verse eID="rlxx_psalmi_salomonis.3.11"/>
+
+        <verse sID="rlxx_psalmi_salomonis.3.12" osisID="rlxx_psalmi_salomonis.3.12"/>
+        ﻿αὕτη ἡ μερὶς τῶν ἁμαρτωλῶν εἰς τὸν αἰῶνα· 
+        οἱ δὲ φοβούμενοι τὸν κύριον ἀναστήσονται εἰς ζωὴν αἰώνιον, 
+        καὶ ἡ ζωὴ αὐτῶν ἐν φωτὶ κυρίου καὶ οὐκ ἐκλείψει ἔτι.†
+        <verse eID="rlxx_psalmi_salomonis.3.12"/>
+    </p>
+<chapter eID="rlxx_psalmi_salomonis.3"/>
+
+            <chapter sID="rlxx_psalmi_salomonis.4" osisID="rlxx_psalmi_salomonis.4"/>
+    <p>
+        <verse sID="rlxx_psalmi_salomonis.4.0" osisID="rlxx_psalmi_salomonis.4.0"/>
+        Διαλογὴ τοῦ Σαλωμων· τοῖς ἀνθρωπαρέσκοις.†
+        <verse eID="rlxx_psalmi_salomonis.4.0"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.1" osisID="rlxx_psalmi_salomonis.4.1"/>
+        ﻿Ἵνα τί σύ, βέβηλε, κάθησαι ἐν συνεδρίῳ ὁσίων 
+        καὶ ἡ καρδία σου μακρὰν ἀφέστηκεν ἀπὸ τοῦ κυρίου 
+        ἐν παρανομίαις παροργίζων τὸν θεὸν Ισραηλ;†
+        <verse eID="rlxx_psalmi_salomonis.4.1"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.2" osisID="rlxx_psalmi_salomonis.4.2"/>
+        ﻿περισσὸς ἐν λόγοις, περισσὸς ἐν σημειώσει ὑπὲρ πάντας, 
+        ὁ σκληρὸς ἐν λόγοις κατακρῖναι ἁμαρτωλοὺς ἐν κρίσει·
+        <verse eID="rlxx_psalmi_salomonis.4.2"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.3" osisID="rlxx_psalmi_salomonis.4.3"/>
+        ﻿καὶ ἡ χεὶρ αὐτοῦ ἐν πρώτοις ἐπʼ αὐτὸν ὡς ἐν ζήλει, 
+        καὶ αὐτὸς ἔνοχος ἐν ποικιλίᾳ ἁμαρτιῶν καὶ ἐν ἀκρασίαις.†
+        <verse eID="rlxx_psalmi_salomonis.4.3"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.4" osisID="rlxx_psalmi_salomonis.4.4"/>
+        ﻿οἱ ὀφθαλμοὶ αὐτοῦ ἐπὶ πᾶσαν γυναῖκα ἄνευ διαστολῆς, 
+        ἡ γλῶσσα αὐτοῦ ψευδὴς ἐν συναλλάγματι μεθʼ ὅρκου.†
+        <verse eID="rlxx_psalmi_salomonis.4.4"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.5" osisID="rlxx_psalmi_salomonis.4.5"/>
+        ﻿ἐν νυκτὶ καὶ ἐν ἀποκρύφοις ἁμαρτάνει ὡς οὐχ ὁρώμενος, 
+        ἐν ὀφθαλμοῖς αὐτοῦ λαλεῖ πάσῃ γυναικὶ ἐν συνταγῇ κακίας· 
+        ταχὺς εἰσόδῳ εἰς πᾶσαν οἰκίαν ἐν ἱλαρότητι ὡς ἄκακος.†
+        <verse eID="rlxx_psalmi_salomonis.4.5"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.6" osisID="rlxx_psalmi_salomonis.4.6"/>
+        ﻿Ἐξάραι ὁ θεὸς τοὺς ἐν ὑποκρίσει ζῶντας μετὰ ὁσίων, 
+        ἐν φθορᾷ σαρκὸς αὐτοῦ καὶ πενίᾳ τὴν ζωὴν αὐτοῦ·
+        <verse eID="rlxx_psalmi_salomonis.4.6"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.7" osisID="rlxx_psalmi_salomonis.4.7"/>
+        ﻿ἀνακαλύψαι ὁ θεὸς τὰ ἔργα ἀνθρώπων ἀνθρωπαρέσκων, 
+        ἐν καταγέλωτι καὶ μυκτηρισμῷ τὰ ἔργα αὐτοῦ.
+        <verse eID="rlxx_psalmi_salomonis.4.7"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.8" osisID="rlxx_psalmi_salomonis.4.8"/>
+        ﻿καὶ δικαιώσαισαν ὅσιοι τὸ κρίμα τοῦ θεοῦ αὐτῶν 
+        ἐν τῷ ἐξαίρεσθαι ἁμαρτωλοὺς ἀπὸ προσώπου δικαίου, 
+        ἀνθρωπάρεσκον λαλοῦντα νόμον μετὰ δόλου.†
+        <verse eID="rlxx_psalmi_salomonis.4.8"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.9" osisID="rlxx_psalmi_salomonis.4.9"/>
+        ﻿καὶ οἱ ὀφθαλμοὶ αὐτῶν ἐπʼ οἶκον ἀνδρὸς ἐν εὐσταθείᾳ 
+        ὡς ὄφις διαλῦσαι σοφίαν ἀλλήλων ἐν λόγοις παρανόμων.
+        <verse eID="rlxx_psalmi_salomonis.4.9"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.10" osisID="rlxx_psalmi_salomonis.4.10"/>
+        ﻿οἱ λόγοι αὐτοῦ παραλογισμοὶ εἰς πρᾶξιν ἐπιθυμίας ἀδίκου, 
+        οὐκ ἀπέστη, ἕως ἐνίκησεν σκορπίσαι ὡς ἐν ὀρφανίᾳ·†
+        <verse eID="rlxx_psalmi_salomonis.4.10"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.11" osisID="rlxx_psalmi_salomonis.4.11"/>
+        ﻿καὶ ἠρήμωσεν οἶκον ἕνεκεν ἐπιθυμίας παρανόμου, 
+        παρελογίσατο ἐν λόγοις, ὅτι οὐκ ἔστιν ὁρῶν καὶ κρίνων·
+        <verse eID="rlxx_psalmi_salomonis.4.11"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.12" osisID="rlxx_psalmi_salomonis.4.12"/>
+        ﻿ἐπλήσθη ἐν παρανομίᾳ ἐν ταύτῃ, 
+        καὶ οἱ ὀφθαλμοὶ αὐτοῦ ἐπʼ οἶκον ἕτερον 
+        ὀλεθρεῦσαι ἐν λόγοις ἀναπτερώσεως.
+        <verse eID="rlxx_psalmi_salomonis.4.12"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.13" osisID="rlxx_psalmi_salomonis.4.13"/>
+        ﻿οὐκ ἐμπίπλαται ἡ ψυχὴ αὐτοῦ ὡς ᾅδης ἐν πᾶσι τούτοις.
+        <verse eID="rlxx_psalmi_salomonis.4.13"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.14" osisID="rlxx_psalmi_salomonis.4.14"/>
+        ﻿Γένοιτο, κύριε, ἡ μερὶς αὐτοῦ ἐν ἀτιμίᾳ ἐνώπιόν σου, 
+        ἡ ἔξοδος αὐτοῦ ἐν στεναγμοῖς καὶ ἡ εἴσοδος αὐτοῦ ἐν ἀρᾷ·
+        <verse eID="rlxx_psalmi_salomonis.4.14"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.15" osisID="rlxx_psalmi_salomonis.4.15"/>
+        ﻿ἐν ὀδύναις καὶ πενίᾳ καὶ ἀπορίᾳ ἡ ζωὴ αὐτοῦ, κύριε, 
+        ὁ ὕπνος αὐτοῦ ἐν λύπαις καὶ ἡ ἐξέγερσις αὐτοῦ ἐν ἀπορίαις.
+        <verse eID="rlxx_psalmi_salomonis.4.15"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.16" osisID="rlxx_psalmi_salomonis.4.16"/>
+        ﻿ἀφαιρεθείη ὕπνος ἀπὸ κροτάφων αὐτοῦ ἐν νυκτί, 
+        ἀποπέσοι ἀπὸ παντὸς ἔργου χειρῶν αὐτοῦ ἐν ἀτιμίᾳ.†
+        <verse eID="rlxx_psalmi_salomonis.4.16"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.17" osisID="rlxx_psalmi_salomonis.4.17"/>
+        ﻿κενὸς χερσὶν αὐτοῦ εἰσέλθοι εἰς τὸν οἶκον αὐτοῦ, 
+        καὶ ἐλλιπὴς ὁ οἶκος αὐτοῦ ἀπὸ παντός, οὗ ἐμπλήσει ψυχὴν αὐτοῦ·†
+        <verse eID="rlxx_psalmi_salomonis.4.17"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.18" osisID="rlxx_psalmi_salomonis.4.18"/>
+        ﻿ἐν μονώσει ἀτεκνίας τὸ γῆρας αὐτοῦ εἰς ἀνάλημψιν.†
+        <verse eID="rlxx_psalmi_salomonis.4.18"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.19" osisID="rlxx_psalmi_salomonis.4.19"/>
+        ﻿Σκορπισθείησαν σάρκες ἀνθρωπαρέσκων ὑπὸ θηρίων, 
+        καὶ ὀστᾶ παρανόμων κατέναντι τοῦ ἡλίου ἐν ἀτιμίᾳ.
+        <verse eID="rlxx_psalmi_salomonis.4.19"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.20" osisID="rlxx_psalmi_salomonis.4.20"/>
+        ﻿ὀφθαλμοὺς ἐκκόψαισαν κόρακες ὑποκρινομένων, 
+        ὅτι ἠρήμωσαν οἴκους πολλοὺς ἀνθρώπων ἐν ἀτιμίᾳ 
+        καὶ ἐσκόρπισαν ἐν ἐπιθυμίᾳ†
+        <verse eID="rlxx_psalmi_salomonis.4.20"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.21" osisID="rlxx_psalmi_salomonis.4.21"/>
+        ﻿καὶ οὐκ ἐμνήσθησαν θεοῦ 
+        καὶ οὐκ ἐφοβήθησαν τὸν θεὸν ἐν ἅπασι τούτοις 
+        καὶ παρώργισαν τὸν θεὸν καὶ παρώξυναν.†
+        <verse eID="rlxx_psalmi_salomonis.4.21"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.22" osisID="rlxx_psalmi_salomonis.4.22"/>
+        ﻿ἐξάραι αὐτοὺς ἀπὸ τῆς γῆς, 
+        ὅτι ψυχὰς ἀκάκων παραλογισμῷ ὑπεκρίνοντο.
+        <verse eID="rlxx_psalmi_salomonis.4.22"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.23" osisID="rlxx_psalmi_salomonis.4.23"/>
+        ﻿Μακάριοι οἱ φοβούμενοι τὸν κύριον ἐν ἀκακίᾳ αὐτῶν· 
+        ὁ κύριος ῥύσεται αὐτοὺς ἀπὸ ἀνθρώπων δολίων καὶ ἁμαρτωλῶν 
+        καὶ ῥύσεται ἡμᾶς ἀπὸ παντὸς σκανδάλου παρανόμου.†
+        <verse eID="rlxx_psalmi_salomonis.4.23"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.24" osisID="rlxx_psalmi_salomonis.4.24"/>
+        ﻿ἐξάραι ὁ θεὸς τοὺς ποιοῦντας ἐν ὑπερηφανίᾳ πᾶσαν ἀδικίαν, 
+        ὅτι κριτὴς μέγας καὶ κραταιὸς κύριος ὁ θεὸς ἡμῶν ἐν δικαιοσύνῃ.
+        <verse eID="rlxx_psalmi_salomonis.4.24"/>
+
+        <verse sID="rlxx_psalmi_salomonis.4.25" osisID="rlxx_psalmi_salomonis.4.25"/>
+        ﻿γένοιτο, κύριε, τὸ ἔλεός σου ἐπὶ πάντας τοὺς ἀγαπῶντάς σε.
+        <verse eID="rlxx_psalmi_salomonis.4.25"/>
+    </p>
+<chapter eID="rlxx_psalmi_salomonis.4"/>
+
+            <chapter sID="rlxx_psalmi_salomonis.5" osisID="rlxx_psalmi_salomonis.5"/>
+    <p>
+        <verse sID="rlxx_psalmi_salomonis.5.0" osisID="rlxx_psalmi_salomonis.5.0"/>
+        Ψαλμὸς τῷ Σαλωμων.†
+        <verse eID="rlxx_psalmi_salomonis.5.0"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.1" osisID="rlxx_psalmi_salomonis.5.1"/>
+        ﻿Κύριε ὁ θεός, αἰνέσω τῷ ὀνόματί σου ἐν ἀγαλλιάσει, 
+        ἐν μέσῳ ἐπισταμένων τὰ κρίματά σου τὰ δίκαια·
+        <verse eID="rlxx_psalmi_salomonis.5.1"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.2" osisID="rlxx_psalmi_salomonis.5.2"/>
+        ﻿ὅτι σὺ χρηστὸς καὶ ἐλεήμων, ἡ καταφυγὴ τοῦ πτωχοῦ· 
+        ἐν τῷ κεκραγέναι με πρὸς σὲ μὴ παρασιωπήσῃς ἀπʼ ἐμοῦ.†
+        <verse eID="rlxx_psalmi_salomonis.5.2"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.3" osisID="rlxx_psalmi_salomonis.5.3"/>
+        ﻿οὐ γὰρ λήψεταί τις σκῦλα παρὰ ἀνδρὸς δυνατοῦ· 
+        καὶ τίς λήψεται ἀπὸ πάντων, ὧν ἐποίησας, ἐὰν μὴ σὺ δῷς;†
+        <verse eID="rlxx_psalmi_salomonis.5.3"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.4" osisID="rlxx_psalmi_salomonis.5.4"/>
+        ﻿ὅτι ἄνθρωπος καὶ ἡ μερὶς αὐτοῦ παρὰ σοῦ ἐν σταθμῷ· 
+        οὐ προσθήσει τοῦ πλεονάσαι παρὰ τὸ κρίμα σου, ὁ θεός.
+        <verse eID="rlxx_psalmi_salomonis.5.4"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.5" osisID="rlxx_psalmi_salomonis.5.5"/>
+        ﻿Ἐν τῷ θλίβεσθαι ἡμᾶς ἐπικαλεσόμεθά σε εἰς βοήθειαν, 
+        καὶ σὺ οὐκ ἀποστρέψῃ τὴν δέησιν ἡμῶν, 
+        ὅτι σὺ ὁ θεὸς ἡμῶν εἶ.†
+        <verse eID="rlxx_psalmi_salomonis.5.5"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.6" osisID="rlxx_psalmi_salomonis.5.6"/>
+        ﻿μὴ βαρύνῃς τὴν χεῖρά σου ἐφʼ ἡμᾶς, 
+        ἵνα μὴ διʼ ἀνάγκην ἁμάρτωμεν.
+        <verse eID="rlxx_psalmi_salomonis.5.6"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.7" osisID="rlxx_psalmi_salomonis.5.7"/>
+        ﻿καὶ ἐὰν μὴ ἐπιστρέψῃς ἡμᾶς, οὐκ ἀφεξόμεθα, 
+        ἀλλʼ ἐπὶ σὲ ἥξομεν.
+        <verse eID="rlxx_psalmi_salomonis.5.7"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.8" osisID="rlxx_psalmi_salomonis.5.8"/>
+        ﻿ἐὰν γὰρ πεινάσω, πρὸς σὲ κεκράξομαι, ὁ θεός, 
+        καὶ σὺ δώσεις μοι.
+        <verse eID="rlxx_psalmi_salomonis.5.8"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.9" osisID="rlxx_psalmi_salomonis.5.9"/>
+        ﻿Τὰ πετεινὰ καὶ τοὺς ἰχθύας σὺ τρέφεις 
+        ἐν τῷ διδόναι σε ὑετὸν ἐρήμοις εἰς ἀνατολὴν χλόης·
+        <verse eID="rlxx_psalmi_salomonis.5.9"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.10" osisID="rlxx_psalmi_salomonis.5.10"/>
+        ﻿ἡτοίμασας χορτάσματα ἐν ἐρήμῳ παντὶ ζῶντι, 
+        καὶ ἐὰν πεινάσωσιν, πρὸς σὲ ἀροῦσιν πρόσωπον αὐτῶν.†
+        <verse eID="rlxx_psalmi_salomonis.5.10"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.11" osisID="rlxx_psalmi_salomonis.5.11"/>
+        ﻿τοὺς βασιλεῖς καὶ ἄρχοντας καὶ λαοὺς σὺ τρέφεις, ὁ θεός, 
+        καὶ πτωχοῦ καὶ πένητος ἡ ἐλπὶς τίς ἐστιν εἰ μὴ σύ, κύριε;
+        <verse eID="rlxx_psalmi_salomonis.5.11"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.12" osisID="rlxx_psalmi_salomonis.5.12"/>
+        ﻿καὶ σὺ ἐπακούσῃ· ὅτι τίς χρηστὸς καὶ ἐπιεικὴς ἀλλʼ ἢ σὺ 
+        εὐφρᾶναι ψυχὴν ταπεινοῦ ἐν τῷ ἀνοῖξαι χεῖρά σου ἐν ἐλέει;
+        <verse eID="rlxx_psalmi_salomonis.5.12"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.13" osisID="rlxx_psalmi_salomonis.5.13"/>
+        ﻿Ἡ χρηστότης ἀνθρώπου ἐν φειδοῖ καὶ ἡ αὔριον, 
+        καὶ ἐὰν δευτερώσῃ ἄνευ γογγυσμοῦ, καὶ τοῦτο θαυμάσειας.†
+        <verse eID="rlxx_psalmi_salomonis.5.13"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.14" osisID="rlxx_psalmi_salomonis.5.14"/>
+        ﻿τὸ δὲ δόμα σου πολὺ μετὰ χρηστότητος καὶ πλούσιον, 
+        καὶ οὗ ἐστιν ἡ ἐλπὶς ἐπὶ σέ, οὐ φείσεται ἐν δόματι.
+        <verse eID="rlxx_psalmi_salomonis.5.14"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.15" osisID="rlxx_psalmi_salomonis.5.15"/>
+        ﻿ἐπὶ πᾶσαν τὴν γῆν τὸ ἔλεός σου, κύριε, ἐν χρηστότητι.
+        <verse eID="rlxx_psalmi_salomonis.5.15"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.16" osisID="rlxx_psalmi_salomonis.5.16"/>
+        ﻿Μακάριος οὗ μνημονεύει ὁ θεὸς ἐν συμμετρίᾳ αὐταρκείας· 
+        ἐὰν ὑπερπλεονάσῃ ὁ ἄνθρωπος, ἐξαμαρτάνει.
+        <verse eID="rlxx_psalmi_salomonis.5.16"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.17" osisID="rlxx_psalmi_salomonis.5.17"/>
+        ﻿ἱκανὸν τὸ μέτριον ἐν δικαιοσύνῃ, 
+        καὶ ἐν τούτῳ ἡ εὐλογία κυρίου εἰς πλησμονὴν ἐν δικαιοσύνῃ.
+        <verse eID="rlxx_psalmi_salomonis.5.17"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.18" osisID="rlxx_psalmi_salomonis.5.18"/>
+        ﻿εὐφρανθείησαν οἱ φοβούμενοι κύριον ἐν ἀγαθοῖς, 
+        καὶ ἡ χρηστότης σου ἐπὶ Ισραηλ ἐν τῇ βασιλείᾳ σου.†
+        <verse eID="rlxx_psalmi_salomonis.5.18"/>
+
+        <verse sID="rlxx_psalmi_salomonis.5.19" osisID="rlxx_psalmi_salomonis.5.19"/>
+        εὐλογημένη ἡ δόξα κυρίου, ὅτι αὐτὸς βασιλεὺς ἡμῶν.
+        <verse eID="rlxx_psalmi_salomonis.5.19"/>
+    </p>
+<chapter eID="rlxx_psalmi_salomonis.5"/>
+            <chapter sID="rlxx_psalmi_salomonis.6" osisID="rlxx_psalmi_salomonis.6"/>
+  <p>
+    <verse sID="rlxx_psalmi_salomonis.6.0" osisID="rlxx_psalmi_salomonis.6.0"/>
+    Ἐν ἐλπίδι· τῷ Σαλωμων.†
+    <verse eID="rlxx_psalmi_salomonis.6.0"/>
+
+    <verse sID="rlxx_psalmi_salomonis.6.1" osisID="rlxx_psalmi_salomonis.6.1"/>
+    ﻿Μακάριος ἀνήρ, οὗ ἡ καρδία αὐτοῦ ἑτοίμη ἐπικαλέσασθαι τὸ ὄνομα κυρίου· 
+    ἐν τῷ μνημονεύειν αὐτὸν τὸ ὄνομα κυρίου σωθήσεται.
+    <verse eID="rlxx_psalmi_salomonis.6.1"/>
+
+    <verse sID="rlxx_psalmi_salomonis.6.2" osisID="rlxx_psalmi_salomonis.6.2"/>
+    ﻿αἱ ὁδοὶ αὐτοῦ κατευθύνονται ὑπὸ κυρίου, 
+    καὶ πεφυλαγμένα ἔργα χειρῶν αὐτοῦ ὑπὸ κυρίου θεοῦ αὐτοῦ.
+    <verse eID="rlxx_psalmi_salomonis.6.2"/>
+
+    <verse sID="rlxx_psalmi_salomonis.6.3" osisID="rlxx_psalmi_salomonis.6.3"/>
+    ﻿ἀπὸ ὁράσεως πονηρῶν ἐνυπνίων αὐτοῦ οὐ ταραχθήσεται ἡ ψυχὴ αὐτοῦ, 
+    ἐν διαβάσει ποταμῶν καὶ σάλῳ θαλασσῶν οὐ πτοηθήσεται.†
+    <verse eID="rlxx_psalmi_salomonis.6.3"/>
+
+    <verse sID="rlxx_psalmi_salomonis.6.4" osisID="rlxx_psalmi_salomonis.6.4"/>
+    ﻿ἐξανέστη ἐξ ὕπνου αὐτοῦ καὶ ηὐλόγησεν τῷ ὀνόματι κυρίου, 
+    ἐπʼ εὐσταθείᾳ καρδίας αὐτοῦ ἐξύμνησεν τῷ ὀνόματι τοῦ θεοῦ αὐτοῦ·†
+    <verse eID="rlxx_psalmi_salomonis.6.4"/>
+
+    <verse sID="rlxx_psalmi_salomonis.6.5" osisID="rlxx_psalmi_salomonis.6.5"/>
+    ﻿καὶ ἐδεήθη τοῦ προσώπου κυρίου περὶ παντὸς τοῦ οἴκου αὐτοῦ, 
+    καὶ κύριος εἰσήκουσεν προσευχὴν παντὸς ἐν φόβῳ θεοῦ.
+    <verse eID="rlxx_psalmi_salomonis.6.5"/>
+
+    <verse sID="rlxx_psalmi_salomonis.6.6" osisID="rlxx_psalmi_salomonis.6.6"/>
+    ﻿καὶ πᾶν αἴτημα ψυχῆς ἐλπιζούσης πρὸς αὐτὸν ἐπιτελεῖ ὁ κύριος· 
+    εὐλογητὸς κύριος ὁ ποιῶν ἔλεος τοῖς ἀγαπῶσίν αὐτὸν ἐν ἀληθείᾳ.
+    <verse eID="rlxx_psalmi_salomonis.6.6"/>
+  </p>
+<chapter eID="rlxx_psalmi_salomonis.6"/>
+
+            <chapter sID="rlxx_psalmi_salomonis.7" osisID="rlxx_psalmi_salomonis.7"/>
+  <p>
+    <verse sID="rlxx_psalmi_salomonis.7.0" osisID="rlxx_psalmi_salomonis.7.0"/>
+    Τῷ Σαλωμων· ἐπιστροφῆς.†
+    <verse eID="rlxx_psalmi_salomonis.7.0"/>
+
+    <verse sID="rlxx_psalmi_salomonis.7.1" osisID="rlxx_psalmi_salomonis.7.1"/>
+    ﻿Μὴ ἀποσκηνώσῃς ἀφʼ ἡμῶν, ὁ θεός, 
+    ἵνα μὴ ἐπιθῶνται ἡμῖν οἳ ἐμίσησαν ἡμᾶς δωρεάν.
+    <verse eID="rlxx_psalmi_salomonis.7.1"/>
+
+    <verse sID="rlxx_psalmi_salomonis.7.2" osisID="rlxx_psalmi_salomonis.7.2"/>
+    ﻿ὅτι ἀπώσω αὐτούς, ὁ θεός· 
+    μὴ πατησάτω ὁ ποὺς αὐτῶν κληρονομίαν ἁγιάσματός σου.
+    <verse eID="rlxx_psalmi_salomonis.7.2"/>
+
+    <verse sID="rlxx_psalmi_salomonis.7.3" osisID="rlxx_psalmi_salomonis.7.3"/>
+    ﻿σὺ ἐν θελήματί σου παίδευσον ἡμᾶς 
+    καὶ μὴ δῷς ἔθνεσιν.
+    <verse eID="rlxx_psalmi_salomonis.7.3"/>
+
+    <verse sID="rlxx_psalmi_salomonis.7.4" osisID="rlxx_psalmi_salomonis.7.4"/>
+    ﻿ἐὰν γὰρ ἀποστείλῃς θάνατον, 
+    σὺ ἐντελῇ αὐτῷ περὶ ἡμῶν·
+    <verse eID="rlxx_psalmi_salomonis.7.4"/>
+
+    <verse sID="rlxx_psalmi_salomonis.7.5" osisID="rlxx_psalmi_salomonis.7.5"/>
+    ﻿ὅτι σὺ ἐλεήμων 
+    καὶ οὐκ ὀργισθήσῃ τοῦ συντελέσαι ἡμᾶς.
+    <verse eID="rlxx_psalmi_salomonis.7.5"/>
+
+    <verse sID="rlxx_psalmi_salomonis.7.6" osisID="rlxx_psalmi_salomonis.7.6"/>
+    ﻿Ἐν τῷ κατασκηνοῦν τὸ ὄνομά σου ἐν μέσῳ ἡμῶν ἐλεηθησόμεθα, 
+    καὶ οὐκ ἰσχύσει πρὸς ἡμᾶς ἔθνος.
+    <verse eID="rlxx_psalmi_salomonis.7.6"/>
+
+    <verse sID="rlxx_psalmi_salomonis.7.7" osisID="rlxx_psalmi_salomonis.7.7"/>
+    ﻿ὅτι σὺ ὑπερασπιστὴς ἡμῶν, 
+    καὶ ἡμεῖς ἐπικαλεσόμεθά σε, καὶ σὺ ἐπακούσῃ ἡμῶν.
+    <verse eID="rlxx_psalmi_salomonis.7.7"/>
+
+    <verse sID="rlxx_psalmi_salomonis.7.8" osisID="rlxx_psalmi_salomonis.7.8"/>
+    ﻿ὅτι σὺ οἰκτιρήσεις τὸ γένος Ισραηλ εἰς τὸν αἰῶνα καὶ οὐκ ἀπώσῃ.
+    <verse eID="rlxx_psalmi_salomonis.7.8"/>
+
+    <verse sID="rlxx_psalmi_salomonis.7.9" osisID="rlxx_psalmi_salomonis.7.9"/>
+    ﻿καὶ ἡμεῖς ὑπὸ ζυγόν σου τὸν αἰῶνα 
+    καὶ μάστιγα παιδείας σου.
+    <verse eID="rlxx_psalmi_salomonis.7.9"/>
+
+    <verse sID="rlxx_psalmi_salomonis.7.10" osisID="rlxx_psalmi_salomonis.7.10"/>
+    ﻿κατευθυνεῖς ἡμᾶς ἐν καιρῷ ἀντιλήψεώς σου 
+    τοῦ ἐλεῆσαι τὸν οἶκον Ιακωβ εἰς ἡμέραν ἐν ᾗ ἐπηγγείλω αὐτοῖς.
+    <verse eID="rlxx_psalmi_salomonis.7.10"/>
+  </p>
+<chapter eID="rlxx_psalmi_salomonis.7"/>
+
+            <chapter sID="rlxx_psalmi_salomonis.8" osisID="rlxx_psalmi_salomonis.8"/>
+  <p>
+    <verse sID="rlxx_psalmi_salomonis.8.0" osisID="rlxx_psalmi_salomonis.8.0"/>
+    Τῷ Σαλωμων· εἰς νῖκος.†
+    <verse eID="rlxx_psalmi_salomonis.8.0"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.1" osisID="rlxx_psalmi_salomonis.8.1"/>
+    ﻿Θλῖψιν καὶ φωνὴν πολέμου ἤκουσεν τὸ οὖς μου, 
+    φωνὴν σάλπιγγος ἠχούσης σφαγὴν καὶ ὄλεθρον·
+    <verse eID="rlxx_psalmi_salomonis.8.1"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.2" osisID="rlxx_psalmi_salomonis.8.2"/>
+    ﻿φωνὴ λαοῦ πολλοῦ ὡς ἀνέμου πολλοῦ σφόδρα, 
+    ὡς καταιγὶς πυρὸς πολλοῦ φερομένου διʼ ἐρήμου.
+    <verse eID="rlxx_psalmi_salomonis.8.2"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.3" osisID="rlxx_psalmi_salomonis.8.3"/>
+    ﻿καὶ εἶπα ἐν τῇ καρδίᾳ μου 
+    Ποῦ ἄρα κρινεῖ αὐτὸν ὁ θεός;
+    <verse eID="rlxx_psalmi_salomonis.8.3"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.4" osisID="rlxx_psalmi_salomonis.8.4"/>
+    ﻿φωνὴν ἤκουσα εἰς Ιερουσαλημ πόλιν ἁγιάσματος·
+    <verse eID="rlxx_psalmi_salomonis.8.4"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.5" osisID="rlxx_psalmi_salomonis.8.5"/>
+    ﻿συνετρίβη ἡ ὀσφύς μου ἀπὸ ἀκοῆς, 
+    παρελύθη γόνατά μου, ἐφοβήθη ἡ καρδία μου, 
+    ἐταράχθη τὰ ὀστᾶ μου ὡς λίνον.
+    <verse eID="rlxx_psalmi_salomonis.8.5"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.6" osisID="rlxx_psalmi_salomonis.8.6"/>
+    ﻿εἶπα Κατευθυνοῦσιν ὁδοὺς αὐτῶν ἐν δικαιοσύνῃ.
+    <verse eID="rlxx_psalmi_salomonis.8.6"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.7" osisID="rlxx_psalmi_salomonis.8.7"/>
+    ﻿Ἀνελογισάμην τὰ κρίματα τοῦ θεοῦ ἀπὸ κτίσεως οὐρανοῦ καὶ γῆς, 
+    ἐδικαίωσα τὸν θεὸν ἐν τοῖς κρίμασιν αὐτοῦ τοῖς ἀπʼ αἰῶνος.
+    <verse eID="rlxx_psalmi_salomonis.8.7"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.8" osisID="rlxx_psalmi_salomonis.8.8"/>
+    ﻿ἀνεκάλυψεν ὁ θεὸς τὰς ἁμαρτίας αὐτῶν ἐναντίον τοῦ ἡλίου, 
+    ἔγνω πᾶσα ἡ γῆ τὰ κρίματα τοῦ θεοῦ τὰ δίκαια.
+    <verse eID="rlxx_psalmi_salomonis.8.8"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.9" osisID="rlxx_psalmi_salomonis.8.9"/>
+    ﻿ἐν καταγαίοις κρυφίοις αἱ παρανομίαι αὐτῶν ἐν παροργισμῷ· 
+    υἱὸς μετὰ μητρὸς καὶ πατὴρ μετὰ θυγατρὸς συνεφύροντο.
+    <verse eID="rlxx_psalmi_salomonis.8.9"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.10" osisID="rlxx_psalmi_salomonis.8.10"/>
+    ﻿ἐμοιχῶντο ἕκαστος τὴν γυναῖκα τοῦ πλησίον αὐτοῦ, 
+    συνέθεντο αὑτοῖς συνθήκας μετὰ ὅρκου περὶ τούτων.
+    <verse eID="rlxx_psalmi_salomonis.8.10"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.11" osisID="rlxx_psalmi_salomonis.8.11"/>
+    ﻿τὰ ἅγια τοῦ θεοῦ διηρπάζοσαν 
+    ὡς μὴ ὄντος κληρονόμου λυτρουμένου.
+    <verse eID="rlxx_psalmi_salomonis.8.11"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.12" osisID="rlxx_psalmi_salomonis.8.12"/>
+    ﻿ἐπατοῦσαν τὸ θυσιαστήριον κυρίου ἀπὸ πάσης ἀκαθαρσίας 
+    καὶ ἐν ἀφέδρῳ αἵματος ἐμίαναν τὰς θυσίας ὡς κρέα βέβηλα.
+    <verse eID="rlxx_psalmi_salomonis.8.12"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.13" osisID="rlxx_psalmi_salomonis.8.13"/>
+    ﻿οὐ παρέλιπον ἁμαρτίαν, ἣν οὐκ ἐποίησαν ὑπὲρ τὰ ἔθνη.
+    <verse eID="rlxx_psalmi_salomonis.8.13"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.14" osisID="rlxx_psalmi_salomonis.8.14"/>
+    ﻿Διὰ τοῦτο ἐκέρασεν αὐτοῖς ὁ θεὸς πνεῦμα πλανήσεως, 
+    ἐπότισεν αὐτοὺς ποτήριον οἴνου ἀκράτου εἰς μέθην.
+    <verse eID="rlxx_psalmi_salomonis.8.14"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.15" osisID="rlxx_psalmi_salomonis.8.15"/>
+    ﻿ἤγαγεν τὸν ἀπʼ ἐσχάτου τῆς γῆς, τὸν παίοντα κραταιῶς, 
+    ἔκρινεν τὸν πόλεμον ἐπὶ Ιερουσαλημ καὶ τὴν γῆν αὐτῆς.
+    <verse eID="rlxx_psalmi_salomonis.8.15"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.16" osisID="rlxx_psalmi_salomonis.8.16"/>
+    ﻿ἀπήντησαν αὐτῷ οἱ ἄρχοντες τῆς γῆς μετὰ χαρᾶς, 
+    εἶπαν αὐτῷ Ἐπευκτὴ ἡ ὁδός σου, δεῦτε εἰσέλθατε μετʼ εἰρήνης.†
+    <verse eID="rlxx_psalmi_salomonis.8.16"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.17" osisID="rlxx_psalmi_salomonis.8.17"/>
+    ﻿ὡμάλισαν ὁδοὺς τραχείας ἀπὸ εἰσόδου αὐτοῦ, 
+    ἤνοιξαν πύλας ἐπὶ Ιερουσαλημ, ἐστεφάνωσαν τείχη αὐτῆς.
+    <verse eID="rlxx_psalmi_salomonis.8.17"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.18" osisID="rlxx_psalmi_salomonis.8.18"/>
+    ﻿Εἰσῆλθεν ὡς πατὴρ εἰς οἶκον υἱῶν αὐτοῦ μετʼ εἰρήνης, 
+    ἔστησεν τοὺς πόδας αὐτοῦ μετὰ ἀσφαλείας πολλῆς.
+    <verse eID="rlxx_psalmi_salomonis.8.18"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.19" osisID="rlxx_psalmi_salomonis.8.19"/>
+    ﻿κατελάβετο τὰς πυργοβάρεις αὐτῆς καὶ τὸ τεῖχος Ιερουσαλημ, 
+    ὅτι ὁ θεὸς ἤγαγεν αὐτὸν μετὰ ἀσφαλείας ἐν τῇ πλανήσει αὐτῶν.
+    <verse eID="rlxx_psalmi_salomonis.8.19"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.20" osisID="rlxx_psalmi_salomonis.8.20"/>
+    ﻿ἀπώλεσεν ἄρχοντας αὐτῶν καὶ πᾶν σοφὸν ἐν βουλῇ, 
+    ἐξέχεεν τὸ αἷμα τῶν οἰκούντων Ιερουσαλημ ὡς ὕδωρ ἀκαθαρσίας.†
+    <verse eID="rlxx_psalmi_salomonis.8.20"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.21" osisID="rlxx_psalmi_salomonis.8.21"/>
+    ﻿ἀπήγαγεν τοὺς υἱοὺς καὶ τὰς θυγατέρας αὐτῶν, ἃ ἐγέννησαν ἐν βεβηλώσει.
+    <verse eID="rlxx_psalmi_salomonis.8.21"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.22" osisID="rlxx_psalmi_salomonis.8.22"/>
+    ﻿Ἐποίησαν κατὰ τὰς ἀκαθαρσίας αὐτῶν καθὼς οἱ πατέρες αὐτῶν, 
+    ἐμίαναν Ιερουσαλημ καὶ τὰ ἡγιασμένα τῷ ὀνόματι τοῦ θεοῦ.†
+    <verse eID="rlxx_psalmi_salomonis.8.22"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.23" osisID="rlxx_psalmi_salomonis.8.23"/>
+    ﻿ἐδικαιώθη ὁ θεὸς ἐν τοῖς κρίμασιν αὐτοῦ ἐν τοῖς ἔθνεσιν τῆς γῆς, 
+    καὶ οἱ ὅσιοι τοῦ θεοῦ ὡς ἀρνία ἐν ἀκακίᾳ ἐν μέσῳ αὐτῶν.
+    <verse eID="rlxx_psalmi_salomonis.8.23"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.24" osisID="rlxx_psalmi_salomonis.8.24"/>
+    ﻿αἰνετὸς κύριος ὁ κρίνων πᾶσαν τὴν γῆν ἐν δικαιοσύνῃ αὐτοῦ.
+    <verse eID="rlxx_psalmi_salomonis.8.24"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.25" osisID="rlxx_psalmi_salomonis.8.25"/>
+    ﻿Ἰδοὺ δή, ὁ θεός, ἔδειξας ἡμῖν τὸ κρίμα σου ἐν τῇ δικαιοσύνῃ σου, 
+    εἴδοσαν οἱ ὀφθαλμοὶ ἡμῶν τὰ κρίματά σου, ὁ θεός.
+    <verse eID="rlxx_psalmi_salomonis.8.25"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.26" osisID="rlxx_psalmi_salomonis.8.26"/>
+    ﻿ἐδικαιώσαμεν τὸ ὄνομά σου τὸ ἔντιμον εἰς αἰῶνας, 
+    ὅτι σὺ ὁ θεὸς τῆς δικαιοσύνης κρίνων τὸν Ισραηλ ἐν παιδείᾳ.
+    <verse eID="rlxx_psalmi_salomonis.8.26"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.27" osisID="rlxx_psalmi_salomonis.8.27"/>
+    ﻿ἐπίστρεψον, ὁ θεός, τὸ ἔλεός σου ἐφʼ ἡμᾶς 
+    καὶ οἰκτίρησον ἡμᾶς·
+    <verse eID="rlxx_psalmi_salomonis.8.27"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.28" osisID="rlxx_psalmi_salomonis.8.28"/>
+    ﻿συνάγαγε τὴν διασπορὰν Ισραηλ μετὰ ἐλέους καὶ χρηστότητος, 
+    ὅτι ἡ πίστις σου μεθʼ ἡμῶν.†
+    <verse eID="rlxx_psalmi_salomonis.8.28"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.29" osisID="rlxx_psalmi_salomonis.8.29"/>
+    ﻿καὶ ἡμεῖς ἐσκληρύναμεν τὸν τράχηλον ἡμῶν, 
+    καὶ σὺ παιδευτὴς ἡμῶν εἶ.†
+    <verse eID="rlxx_psalmi_salomonis.8.29"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.30" osisID="rlxx_psalmi_salomonis.8.30"/>
+    ﻿μὴ ὑπερίδῃς ἡμᾶς, ὁ θεὸς ἡμῶν, 
+    ἵνα μὴ καταπίωσιν ἡμᾶς ἔθνη ὡς μὴ ὄντος λυτρουμένου.
+    <verse eID="rlxx_psalmi_salomonis.8.30"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.31" osisID="rlxx_psalmi_salomonis.8.31"/>
+    ﻿καὶ σὺ ὁ θεὸς ἡμῶν ἀπʼ ἀρχῆς, 
+    καὶ ἐπὶ σὲ ἡ ἐλπὶς ἡμῶν, κύριε·
+    <verse eID="rlxx_psalmi_salomonis.8.31"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.32" osisID="rlxx_psalmi_salomonis.8.32"/>
+    ﻿καὶ ἡμεῖς οὐκ ἀφεξόμεθά σου, 
+    ὅτι χρηστὰ τὰ κρίματά σου ἐφʼ ἡμᾶς.†
+    <verse eID="rlxx_psalmi_salomonis.8.32"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.33" osisID="rlxx_psalmi_salomonis.8.33"/>
+    ﻿ἡμῖν καὶ τοῖς τέκνοις ἡμῶν ἡ εὐδοκία εἰς τὸν αἰῶνα· 
+    κύριε σωτὴρ ἡμῶν, οὐ σαλευθησόμεθα ἔτι τὸν αἰῶνα χρόνον.
+    <verse eID="rlxx_psalmi_salomonis.8.33"/>
+
+    <verse sID="rlxx_psalmi_salomonis.8.34" osisID="rlxx_psalmi_salomonis.8.34"/>
+    ﻿αἰνετὸς κύριος ἐν τοῖς κρίμασιν αὐτοῦ ἐν στόματι ὁσίων, 
+    καὶ εὐλογημένος Ισραηλ ὑπὸ κυρίου εἰς τὸν αἰῶνα.
+    <verse eID="rlxx_psalmi_salomonis.8.34"/>
+  </p>
+<chapter eID="rlxx_psalmi_salomonis.8"/>
+
+            <chapter sID="rlxx_psalmi_salomonis.9" osisID="rlxx_psalmi_salomonis.9"/>
+  <p>
+    <verse sID="rlxx_psalmi_salomonis.9.0" osisID="rlxx_psalmi_salomonis.9.0"/>
+    Τῷ Σαλωμων· εἰς ἔλεγχον.†
+    <verse eID="rlxx_psalmi_salomonis.9.0"/>
+
+    <verse sID="rlxx_psalmi_salomonis.9.1" osisID="rlxx_psalmi_salomonis.9.1"/>
+    ﻿Ἐν τῷ ἀπαχθῆναι Ισραηλ ἐν ἀποικεσίᾳ εἰς γῆν ἀλλοτρίαν 
+    ἐν τῷ ἀποστῆναι αὐτοὺς ἀπὸ κυρίου τοῦ λυτρωσαμένου αὐτοὺς 
+    ἀπερρίφησαν ἀπὸ κληρονομίας, ἧς ἔδωκεν αὐτοῖς κύριος.
+    <verse eID="rlxx_psalmi_salomonis.9.1"/>
+
+    <verse sID="rlxx_psalmi_salomonis.9.2" osisID="rlxx_psalmi_salomonis.9.2"/>
+    ﻿ἐν παντὶ ἔθνει ἡ διασπορὰ τοῦ Ισραηλ κατὰ τὸ ῥῆμα τοῦ θεοῦ, 
+    ἵνα δικαιωθῇς, ὁ θεός, ἐν τῇ δικαιοσύνῃ σου ἐν ταῖς ἀνομίαις ἡμῶν, 
+    ὅτι σὺ κριτὴς δίκαιος ἐπὶ πάντας τοὺς λαοὺς τῆς γῆς.
+    <verse eID="rlxx_psalmi_salomonis.9.2"/>
+
+    <verse sID="rlxx_psalmi_salomonis.9.3" osisID="rlxx_psalmi_salomonis.9.3"/>
+    ﻿οὐ γὰρ κρυβήσεται ἀπὸ τῆς γνώσεώς σου πᾶς ποιῶν ἄδικα, 
+    καὶ αἱ δικαιοσύναι τῶν ὁσίων σου ἐνώπιόν σου, κύριε· 
+    καὶ ποῦ κρυβήσεται ἄνθρωπος ἀπὸ τῆς γνώσεώς σου, ὁ θεός;
+    <verse eID="rlxx_psalmi_salomonis.9.3"/>
+
+    <verse sID="rlxx_psalmi_salomonis.9.4" osisID="rlxx_psalmi_salomonis.9.4"/>
+    ﻿Τὰ ἔργα ἡμῶν ἐν ἐκλογῇ καὶ ἐξουσίᾳ τῆς ψυχῆς ἡμῶν 
+    τοῦ ποιῆσαι δικαιοσύνην καὶ ἀδικίαν ἐν ἔργοις χειρῶν ἡμῶν· 
+    καὶ ἐν τῇ δικαιοσύνῃ σου ἐπισκέπτῃ υἱοὺς ἀνθρώπων.†
+    <verse eID="rlxx_psalmi_salomonis.9.4"/>
+
+    <verse sID="rlxx_psalmi_salomonis.9.5" osisID="rlxx_psalmi_salomonis.9.5"/>
+    ﻿ὁ ποιῶν δικαιοσύνην θησαυρίζει ζωὴν αὑτῷ παρὰ κυρίῳ, 
+    καὶ ὁ ποιῶν ἀδικίαν αὐτὸς αἴτιος τῆς ψυχῆς ἐν ἀπωλείᾳ· 
+    τὰ γὰρ κρίματα κυρίου ἐν δικαιοσύνῃ κατʼ ἄνδρα καὶ οἶκον.
+    <verse eID="rlxx_psalmi_salomonis.9.5"/>
+
+    <verse sID="rlxx_psalmi_salomonis.9.6" osisID="rlxx_psalmi_salomonis.9.6"/>
+    ﻿Τίνι χρηστεύσῃ, ὁ θεός, εἰ μὴ τοῖς ἐπικαλουμένοις τὸν κύριον; 
+    καθαριεῖς ἐν ἁμαρτίαις ψυχὴν ἐν ἐξομολογήσει, ἐν ἐξαγορίαις, 
+    ὅτι αἰσχύνη ἡμῖν καὶ τοῖς προσώποις ἡμῶν περὶ ἁπάντων.†
+    <verse eID="rlxx_psalmi_salomonis.9.6"/>
+
+    <verse sID="rlxx_psalmi_salomonis.9.7" osisID="rlxx_psalmi_salomonis.9.7"/>
+    ﻿καὶ τίνι ἀφήσεις ἁμαρτίας εἰ μὴ τοῖς ἡμαρτηκόσιν; 
+    δικαίους εὐλογήσεις καὶ οὐκ εὐθυνεῖς περὶ ὧν ἡμάρτοσαν, 
+    καὶ ἡ χρηστότης σου ἐπὶ ἁμαρτάνοντας ἐν μεταμελείᾳ.†
+    <verse eID="rlxx_psalmi_salomonis.9.7"/>
+
+    <verse sID="rlxx_psalmi_salomonis.9.8" osisID="rlxx_psalmi_salomonis.9.8"/>
+    ﻿Καὶ νῦν σὺ ὁ θεός, καὶ ἡμεῖς λαός, ὃν ἠγάπησας· 
+    ἰδὲ καὶ οἰκτίρησον, ὁ θεὸς Ισραηλ, ὅτι σοί ἐσμεν, 
+    καὶ μὴ ἀποστήσῃς ἔλεός σου ἀφʼ ἡμῶν, ἵνα μὴ ἐπιθῶνται ἡμῖν.†
+    <verse eID="rlxx_psalmi_salomonis.9.8"/>
+
+    <verse sID="rlxx_psalmi_salomonis.9.9" osisID="rlxx_psalmi_salomonis.9.9"/>
+    ﻿ὅτι σὺ ᾑρετίσω τὸ σπέρμα Αβρααμ παρὰ πάντα τὰ ἔθνη 
+    καὶ ἔθου τὸ ὄνομά σου ἐφʼ ἡμᾶς, κύριε, 
+    καὶ οὐκ ἀπώσῃ εἰς τὸν αἰῶνα.†
+    <verse eID="rlxx_psalmi_salomonis.9.9"/>
+
+    <verse sID="rlxx_psalmi_salomonis.9.10" osisID="rlxx_psalmi_salomonis.9.10"/>
+    ﻿ἐν διαθήκῃ διέθου τοῖς πατράσιν ἡμῶν περὶ ἡμῶν, 
+    καὶ ἡμεῖς ἐλπιοῦμεν ἐπὶ σὲ ἐν ἐπιστροφῇ ψυχῆς ἡμῶν.
+    <verse eID="rlxx_psalmi_salomonis.9.10"/>
+
+    <verse sID="rlxx_psalmi_salomonis.9.11" osisID="rlxx_psalmi_salomonis.9.11"/>
+    ﻿τοῦ κυρίου ἡ ἐλεημοσύνη ἐπὶ οἶκον Ισραηλ εἰς τὸν αἰῶνα καὶ ἔτι.†
+    <verse eID="rlxx_psalmi_salomonis.9.11"/>
+  </p>
+<chapter eID="rlxx_psalmi_salomonis.9"/>
+            <chapter sID="rlxx_psalmi_salomonis.10" osisID="rlxx_psalmi_salomonis.10"/>
+  <p>
+    <verse sID="rlxx_psalmi_salomonis.10.0" osisID="rlxx_psalmi_salomonis.10.0"/>
+    Ἐν ὕμνοις· τῷ Σαλωμων.†
+    <verse eID="rlxx_psalmi_salomonis.10.0"/>
+
+    <verse sID="rlxx_psalmi_salomonis.10.1" osisID="rlxx_psalmi_salomonis.10.1"/>
+    ﻿Μακάριος ἀνήρ, οὗ ὁ κύριος ἐμνήσθη ἐν ἐλεγμῷ, 
+    καὶ ἐκυκλώθη ἀπὸ ὁδοῦ πονηρᾶς ἐν μάστιγι 
+    καθαρισθῆναι ἀπὸ ἁμαρτίας τοῦ μὴ πληθῦναι.
+    <verse eID="rlxx_psalmi_salomonis.10.1"/>
+
+    <verse sID="rlxx_psalmi_salomonis.10.2" osisID="rlxx_psalmi_salomonis.10.2"/>
+    ﻿ὁ ἑτοιμάζων νῶτον εἰς μάστιγας καθαρισθήσεται· 
+    χρηστὸς γὰρ ὁ κύριος τοῖς ὑπομένουσιν παιδείαν.†
+    <verse eID="rlxx_psalmi_salomonis.10.2"/>
+
+    <verse sID="rlxx_psalmi_salomonis.10.3" osisID="rlxx_psalmi_salomonis.10.3"/>
+    ﻿ὀρθώσει γὰρ ὁδοὺς δικαίων καὶ οὐ διαστρέψει ἐν παιδείᾳ, 
+    καὶ τὸ ἔλεος κυρίου ἐπὶ τοὺς ἀγαπῶντας αὐτὸν ἐν ἀληθείᾳ.†
+    <verse eID="rlxx_psalmi_salomonis.10.3"/>
+
+    <verse sID="rlxx_psalmi_salomonis.10.4" osisID="rlxx_psalmi_salomonis.10.4"/>
+    ﻿καὶ μνησθήσεται κύριος τῶν δούλων αὐτοῦ ἐν ἐλέει· 
+    ἡ γὰρ μαρτυρία ἐν νόμῳ διαθήκης αἰωνίου, 
+    ἡ μαρτυρία κυρίου ἐπὶ ὁδοὺς ἀνθρώπων ἐν ἐπισκοπῇ.†
+    <verse eID="rlxx_psalmi_salomonis.10.4"/>
+
+    <verse sID="rlxx_psalmi_salomonis.10.5" osisID="rlxx_psalmi_salomonis.10.5"/>
+    ﻿Δίκαιος καὶ ὅσιος ὁ κύριος ἡμῶν ἐν κρίμασιν αὐτοῦ εἰς τὸν αἰῶνα, 
+    καὶ Ισραηλ αἰνέσει τῷ ὀνόματι κυρίου ἐν εὐφροσύνῃ.†
+    <verse eID="rlxx_psalmi_salomonis.10.5"/>
+
+    <verse sID="rlxx_psalmi_salomonis.10.6" osisID="rlxx_psalmi_salomonis.10.6"/>
+    ﻿καὶ ὅσιοι ἐξομολογήσονται ἐν ἐκκλησίᾳ λαοῦ, 
+    καὶ πτωχοὺς ἐλεήσει ὁ θεὸς ἐν εὐφροσύνῃ Ισραηλ·
+    <verse eID="rlxx_psalmi_salomonis.10.6"/>
+
+    <verse sID="rlxx_psalmi_salomonis.10.7" osisID="rlxx_psalmi_salomonis.10.7"/>
+    ﻿ὅτι χρηστὸς καὶ ἐλεήμων ὁ θεὸς εἰς τὸν αἰῶνα, 
+    καὶ συναγωγαὶ Ισραηλ δοξάσουσιν τὸ ὄνομα κυρίου.
+    <verse eID="rlxx_psalmi_salomonis.10.7"/>
+
+    <verse sID="rlxx_psalmi_salomonis.10.8" osisID="rlxx_psalmi_salomonis.10.8"/>
+    ﻿τοῦ κυρίου ἡ σωτηρία ἐπὶ οἶκον Ισραηλ εἰς εὐφροσύνην αἰώνιον.†
+    <verse eID="rlxx_psalmi_salomonis.10.8"/>
+  </p>
+<chapter eID="rlxx_psalmi_salomonis.10"/>
+
+            <chapter sID="rlxx_psalmi_salomonis.11" osisID="rlxx_psalmi_salomonis.11"/>
+  <p>
+    <verse sID="rlxx_psalmi_salomonis.11.0" osisID="rlxx_psalmi_salomonis.11.0"/>
+    Τῷ Σαλωμων· εἰς προσδοκίαν.†
+    <verse eID="rlxx_psalmi_salomonis.11.0"/>
+
+    <verse sID="rlxx_psalmi_salomonis.11.1" osisID="rlxx_psalmi_salomonis.11.1"/>
+    ﻿Σαλπίσατε ἐν Σιων ἐν σάλπιγγι σημασίας ἁγίων, 
+    κηρύξατε ἐν Ιερουσαλημ φωνὴν εὐαγγελιζομένου· 
+    ὅτι ἠλέησεν ὁ θεὸς Ισραηλ ἐν τῇ ἐπισκοπῇ αὐτῶν.
+    <verse eID="rlxx_psalmi_salomonis.11.1"/>
+
+    <verse sID="rlxx_psalmi_salomonis.11.2" osisID="rlxx_psalmi_salomonis.11.2"/>
+    ﻿στῆθι, Ιερουσαλημ, ἐφʼ ὑψηλοῦ καὶ ἰδὲ τὰ τέκνα σου 
+    ἀπὸ ἀνατολῶν καὶ δυσμῶν συνηγμένα εἰς ἅπαξ ὑπὸ κυρίου.†
+    <verse eID="rlxx_psalmi_salomonis.11.2"/>
+
+    <verse sID="rlxx_psalmi_salomonis.11.3" osisID="rlxx_psalmi_salomonis.11.3"/>
+    ﻿ἀπὸ βορρᾶ ἔρχονται τῇ εὐφροσύνῃ τοῦ θεοῦ αὐτῶν, 
+    ἐκ νήσων μακρόθεν συνήγαγεν αὐτοὺς ὁ θεός.
+    <verse eID="rlxx_psalmi_salomonis.11.3"/>
+
+    <verse sID="rlxx_psalmi_salomonis.11.4" osisID="rlxx_psalmi_salomonis.11.4"/>
+    ﻿ὄρη ὑψηλὰ ἐταπείνωσεν εἰς ὁμαλισμὸν αὐτοῖς, 
+    οἱ βουνοὶ ἐφύγοσαν ἀπὸ εἰσόδου αὐτῶν·
+    <verse eID="rlxx_psalmi_salomonis.11.4"/>
+
+    <verse sID="rlxx_psalmi_salomonis.11.5" osisID="rlxx_psalmi_salomonis.11.5"/>
+    ﻿οἱ δρυμοὶ ἐσκίασαν αὐτοῖς ἐν τῇ παρόδῳ αὐτῶν, 
+    πᾶν ξύλον εὐωδίας ἀνέτειλεν αὐτοῖς ὁ θεός,
+    <verse eID="rlxx_psalmi_salomonis.11.5"/>
+
+    <verse sID="rlxx_psalmi_salomonis.11.6" osisID="rlxx_psalmi_salomonis.11.6"/>
+    ﻿ἵνα παρέλθῃ Ισραηλ ἐν ἐπισκοπῇ δόξης θεοῦ αὐτῶν.
+    <verse eID="rlxx_psalmi_salomonis.11.6"/>
+
+    <verse sID="rlxx_psalmi_salomonis.11.7" osisID="rlxx_psalmi_salomonis.11.7"/>
+    ﻿Ἔνδυσαι, Ιερουσαλημ, τὰ ἱμάτια τῆς δόξης σου, 
+    ἑτοίμασον τὴν στολὴν τοῦ ἁγιάσματός σου· 
+    ὅτι ὁ θεὸς ἐλάλησεν ἀγαθὰ Ισραηλ εἰς τὸν αἰῶνα καὶ ἔτι.
+    <verse eID="rlxx_psalmi_salomonis.11.7"/>
+
+    <verse sID="rlxx_psalmi_salomonis.11.8" osisID="rlxx_psalmi_salomonis.11.8"/>
+    ﻿ποιήσαι κύριος ἃ ἐλάλησεν ἐπὶ Ισραηλ καὶ Ιερουσαλημ, 
+    ἀναστήσαι κύριος τὸν Ισραηλ ἐν ὀνόματι δόξης αὐτοῦ·
+    <verse eID="rlxx_psalmi_salomonis.11.8"/>
+
+    <verse sID="rlxx_psalmi_salomonis.11.9" osisID="rlxx_psalmi_salomonis.11.9"/>
+    ﻿τοῦ κυρίου τὸ ἔλεος ἐπὶ τὸν Ισραηλ εἰς τὸν αἰῶνα καὶ ἔτι.
+    <verse eID="rlxx_psalmi_salomonis.11.9"/>
+  </p>
+<chapter eID="rlxx_psalmi_salomonis.11"/>
+
+            <chapter sID="rlxx_psalmi_salomonis.12" osisID="rlxx_psalmi_salomonis.12"/>
+  <p>
+    <verse sID="rlxx_psalmi_salomonis.12.0" osisID="rlxx_psalmi_salomonis.12.0"/>
+    Τῷ Σαλωμων· ἐν γλώσσῃ παρανόμων.†
+    <verse eID="rlxx_psalmi_salomonis.12.0"/>
+
+    <verse sID="rlxx_psalmi_salomonis.12.1" osisID="rlxx_psalmi_salomonis.12.1"/>
+    ﻿Κύριε, ῥῦσαι τὴν ψυχήν μου ἀπὸ ἀνδρὸς παρανόμου καὶ πονηροῦ, 
+    ἀπὸ γλώσσης παρανόμου καὶ ψιθύρου 
+    καὶ λαλούσης ψευδῆ καὶ δόλια.
+    <verse eID="rlxx_psalmi_salomonis.12.1"/>
+
+    <verse sID="rlxx_psalmi_salomonis.12.2" osisID="rlxx_psalmi_salomonis.12.2"/>
+    ﻿ἐν ποικιλίᾳ στροφῆς οἱ λόγοι τῆς γλώσσης ἀνδρὸς πονηροῦ 
+    ὥσπερ ἐν λαῷ πῦρ ἀνάπτον καλλονὴν αὐτοῦ.
+    <verse eID="rlxx_psalmi_salomonis.12.2"/>
+
+    <verse sID="rlxx_psalmi_salomonis.12.3" osisID="rlxx_psalmi_salomonis.12.3"/>
+    ﻿ἡ παροικία αὐτοῦ ἐμπρῆσαι οἴκους ἐν γλώσσῃ ψευδεῖ, 
+    ἐκκόψαι δένδρα εὐφροσύνης φλογιζούσης παρανόμους, 
+    συγχέαι οἴκους ἐν πολέμῳ χείλεσιν ψιθύροις.†
+    <verse eID="rlxx_psalmi_salomonis.12.3"/>
+
+    <verse sID="rlxx_psalmi_salomonis.12.4" osisID="rlxx_psalmi_salomonis.12.4"/>
+    ﻿Μακρύναι ὁ θεὸς ἀπὸ ἀκάκων χείλη παρανόμων ἐν ἀπορίᾳ, 
+    καὶ σκορπισθείησαν ὀστᾶ ψιθύρων ἀπὸ φοβουμένων κύριον· 
+    ἐν πυρὶ φλογὸς γλῶσσα ψίθυρος ἀπόλοιτο ἀπὸ ὁσίων.
+    <verse eID="rlxx_psalmi_salomonis.12.4"/>
+
+    <verse sID="rlxx_psalmi_salomonis.12.5" osisID="rlxx_psalmi_salomonis.12.5"/>
+    ﻿φυλάξαι κύριος ψυχὴν ἡσύχιον μισοῦσαν ἀδίκους, 
+    καὶ κατευθύναι κύριος ἄνδρα ποιοῦντα εἰρήνην ἐν οἴκῳ.
+    <verse eID="rlxx_psalmi_salomonis.12.5"/>
+
+    <verse sID="rlxx_psalmi_salomonis.12.6" osisID="rlxx_psalmi_salomonis.12.6"/>
+    ﻿τοῦ κυρίου ἡ σωτηρία ἐπὶ Ισραηλ παῖδα αὐτοῦ εἰς τὸν αἰῶνα· 
+    καὶ ἀπόλοιντο οἱ ἁμαρτωλοὶ ἀπὸ προσώπου κυρίου ἅπαξ, 
+    καὶ ὅσιοι κυρίου κληρονομήσαισαν ἐπαγγελίας κυρίου.†
+    <verse eID="rlxx_psalmi_salomonis.12.6"/>
+  </p>
+<chapter eID="rlxx_psalmi_salomonis.12"/>
+
+            <chapter sID="rlxx_psalmi_salomonis.13" osisID="rlxx_psalmi_salomonis.13"/>
+  <p>
+    <verse sID="rlxx_psalmi_salomonis.13.0" osisID="rlxx_psalmi_salomonis.13.0"/>
+    Τῷ Σαλωμων ψαλμός· παράκλησις τῶν δικαίων.†
+    <verse eID="rlxx_psalmi_salomonis.13.0"/>
+
+    <verse sID="rlxx_psalmi_salomonis.13.1" osisID="rlxx_psalmi_salomonis.13.1"/>
+    ﻿Δεξιὰ κυρίου ἐσκέπασέν με, 
+    δεξιὰ κυρίου ἐφείσατο ἡμῶν·
+    <verse eID="rlxx_psalmi_salomonis.13.1"/>
+
+    <verse sID="rlxx_psalmi_salomonis.13.2" osisID="rlxx_psalmi_salomonis.13.2"/>
+    ﻿ὁ βραχίων κυρίου ἔσωσεν ἡμᾶς ἀπὸ ῥομφαίας διαπορευομένης, 
+    ἀπὸ λιμοῦ καὶ θανάτου ἁμαρτωλῶν.
+    <verse eID="rlxx_psalmi_salomonis.13.2"/>
+
+    <verse sID="rlxx_psalmi_salomonis.13.3" osisID="rlxx_psalmi_salomonis.13.3"/>
+    ﻿θηρία ἐπεδράμοσαν αὐτοῖς πονηρά· 
+    ἐν τοῖς ὀδοῦσιν αὐτῶν ἐτίλλοσαν σάρκας αὐτῶν 
+    καὶ ἐν ταῖς μύλαις ἔθλων ὀστᾶ αὐτῶν·
+    <verse eID="rlxx_psalmi_salomonis.13.3"/>
+
+    <verse sID="rlxx_psalmi_salomonis.13.4" osisID="rlxx_psalmi_salomonis.13.4"/>
+    ﻿καὶ ἐκ τούτων ἁπάντων ἐρρύσατο ἡμᾶς κύριος.
+    <verse eID="rlxx_psalmi_salomonis.13.4"/>
+
+    <verse sID="rlxx_psalmi_salomonis.13.5" osisID="rlxx_psalmi_salomonis.13.5"/>
+    ﻿Ἐταράχθη ὁ εὐσεβὴς διὰ τὰ παραπτώματα αὐτοῦ, 
+    μήποτε συμπαραληφθῇ μετὰ τῶν ἁμαρτωλῶν·†
+    <verse eID="rlxx_psalmi_salomonis.13.5"/>
+
+    <verse sID="rlxx_psalmi_salomonis.13.6" osisID="rlxx_psalmi_salomonis.13.6"/>
+    ﻿ὅτι δεινὴ ἡ καταστροφὴ τοῦ ἁμαρτωλοῦ, 
+    καὶ οὐχ ἅψεται δικαίου οὐδὲν ἐκ πάντων τούτων.
+    <verse eID="rlxx_psalmi_salomonis.13.6"/>
+
+    <verse sID="rlxx_psalmi_salomonis.13.7" osisID="rlxx_psalmi_salomonis.13.7"/>
+    ﻿ὅτι οὐχ ὁμοία ἡ παιδεία τῶν δικαίων ἐν ἀγνοίᾳ 
+    καὶ ἡ καταστροφὴ τῶν ἁμαρτωλῶν.†
+    <verse eID="rlxx_psalmi_salomonis.13.7"/>
+
+    <verse sID="rlxx_psalmi_salomonis.13.8" osisID="rlxx_psalmi_salomonis.13.8"/>
+    ﻿ἐν περιστολῇ παιδεύεται δίκαιος, 
+    ἵνα μὴ ἐπιχαρῇ ὁ ἁμαρτωλὸς τῷ δικαίῳ·
+    <verse eID="rlxx_psalmi_salomonis.13.8"/>
+
+    <verse sID="rlxx_psalmi_salomonis.13.9" osisID="rlxx_psalmi_salomonis.13.9"/>
+    ﻿ὅτι νουθετήσει δίκαιον ὡς υἱὸν ἀγαπήσεως, 
+    καὶ ἡ παιδεία αὐτοῦ ὡς πρωτοτόκου.
+    <verse eID="rlxx_psalmi_salomonis.13.9"/>
+
+    <verse sID="rlxx_psalmi_salomonis.13.10" osisID="rlxx_psalmi_salomonis.13.10"/>
+    ﻿ὅτι φείσεται κύριος τῶν ὁσίων αὐτοῦ 
+    καὶ τὰ παραπτώματα αὐτῶν ἐξαλείψει ἐν παιδείᾳ.
+    <verse eID="rlxx_psalmi_salomonis.13.10"/>
+
+    <verse sID="rlxx_psalmi_salomonis.13.11" osisID="rlxx_psalmi_salomonis.13.11"/>
+    ﻿ἡ γὰρ ζωὴ τῶν δικαίων εἰς τὸν αἰῶνα· 
+    ἁμαρτωλοὶ δὲ ἀρθήσονται εἰς ἀπώλειαν, 
+    καὶ οὐχ εὑρεθήσεται μνημόσυνον αὐτῶν ἔτι·
+    <verse eID="rlxx_psalmi_salomonis.13.11"/>
+
+    <verse sID="rlxx_psalmi_salomonis.13.12" osisID="rlxx_psalmi_salomonis.13.12"/>
+    ﻿ἐπὶ δὲ τοὺς ὁσίους τὸ ἔλεος κυρίου, 
+    καὶ ἐπὶ τοὺς φοβουμένους αὐτὸν τὸ ἔλεος αὐτοῦ.†
+    <verse eID="rlxx_psalmi_salomonis.13.12"/>
+  </p>
+<chapter eID="rlxx_psalmi_salomonis.13"/>
+
+            <chapter sID="rlxx_psalmi_salomonis.14" osisID="rlxx_psalmi_salomonis.14"/>
+  <p>
+    <verse sID="rlxx_psalmi_salomonis.14.0" osisID="rlxx_psalmi_salomonis.14.0"/>
+    Ὕμνος τῷ Σαλωμων.†
+    <verse eID="rlxx_psalmi_salomonis.14.0"/>
+
+    <verse sID="rlxx_psalmi_salomonis.14.1" osisID="rlxx_psalmi_salomonis.14.1"/>
+    ﻿Πιστὸς κύριος τοῖς ἀγαπῶσίν αὐτὸν ἐν ἀληθείᾳ, 
+    τοῖς ὑπομένουσιν παιδείαν αὐτοῦ,
+    <verse eID="rlxx_psalmi_salomonis.14.1"/>
+
+    <verse sID="rlxx_psalmi_salomonis.14.2" osisID="rlxx_psalmi_salomonis.14.2"/>
+    ﻿τοῖς πορευομένοις ἐν δικαιοσύνῃ προσταγμάτων αὐτοῦ, 
+    ἐν νόμῳ, ᾧ ἐνετείλατο ἡμῖν εἰς ζωὴν ἡμῶν.
+    <verse eID="rlxx_psalmi_salomonis.14.2"/>
+
+    <verse sID="rlxx_psalmi_salomonis.14.3" osisID="rlxx_psalmi_salomonis.14.3"/>
+    ﻿ὅσιοι κυρίου ζήσονται ἐν αὐτῷ εἰς τὸν αἰῶνα· 
+    ὁ παράδεισος τοῦ κυρίου, τὰ ξύλα τῆς ζωῆς, ὅσιοι αὐτοῦ.
+    <verse eID="rlxx_psalmi_salomonis.14.3"/>
+
+    <verse sID="rlxx_psalmi_salomonis.14.4" osisID="rlxx_psalmi_salomonis.14.4"/>
+    ﻿ἡ φυτεία αὐτῶν ἐρριζωμένη εἰς τὸν αἰῶνα, 
+    οὐκ ἐκτιλήσονται πάσας τὰς ἡμέρας τοῦ οὐρανοῦ·
+    <verse eID="rlxx_psalmi_salomonis.14.4"/>
+
+    <verse sID="rlxx_psalmi_salomonis.14.5" osisID="rlxx_psalmi_salomonis.14.5"/>
+    ﻿ὅτι ἡ μερὶς καὶ κληρονομία τοῦ θεοῦ ἐστιν Ισραηλ.
+    <verse eID="rlxx_psalmi_salomonis.14.5"/>
+
+    <verse sID="rlxx_psalmi_salomonis.14.6" osisID="rlxx_psalmi_salomonis.14.6"/>
+    ﻿Καὶ οὐχ οὕτως οἱ ἁμαρτωλοὶ καὶ παράνομοι, 
+    οἳ ἠγάπησαν ἡμέραν ἐν μετοχῇ ἁμαρτίας αὐτῶν·
+    <verse eID="rlxx_psalmi_salomonis.14.6"/>
+
+    <verse sID="rlxx_psalmi_salomonis.14.7" osisID="rlxx_psalmi_salomonis.14.7"/>
+    ﻿ἐν μικρότητι σαπρίας ἡ ἐπιθυμία αὐτῶν, 
+    καὶ οὐκ ἐμνήσθησαν τοῦ θεοῦ.
+    <verse eID="rlxx_psalmi_salomonis.14.7"/>
+
+    <verse sID="rlxx_psalmi_salomonis.14.8" osisID="rlxx_psalmi_salomonis.14.8"/>
+    ﻿ὅτι ὁδοὶ ἀνθρώπων γνωσταὶ ἐνώπιον αὐτοῦ διὰ παντός, 
+    καὶ ταμιεῖα καρδίας ἐπίσταται πρὸ τοῦ γενέσθαι.
+    <verse eID="rlxx_psalmi_salomonis.14.8"/>
+
+    <verse sID="rlxx_psalmi_salomonis.14.9" osisID="rlxx_psalmi_salomonis.14.9"/>
+    ﻿διὰ τοῦτο ἡ κληρονομία αὐτῶν ᾅδης καὶ σκότος καὶ ἀπώλεια, 
+    καὶ οὐχ εὑρεθήσονται ἐν ἡμέρᾳ ἐλέους δικαίων·
+    <verse eID="rlxx_psalmi_salomonis.14.9"/>
+
+    <verse sID="rlxx_psalmi_salomonis.14.10" osisID="rlxx_psalmi_salomonis.14.10"/>
+    ﻿οἱ δὲ ὅσιοι κυρίου κληρονομήσουσιν ζωὴν ἐν εὐφροσύνῃ.
+    <verse eID="rlxx_psalmi_salomonis.14.10"/>
+  </p>
+<chapter eID="rlxx_psalmi_salomonis.14"/>
+
+            <chapter sID="rlxx_psalmi_salomonis.15" osisID="psalmi_salomonis.15"/>
+  <p>
+    <verse sID="rlxx_psalmi_salomonis.15.0" osisID="rlxx_psalmi_salomonis.15.0"/>
+    Ψαλμὸς τῷ Σαλωμων μετὰ ᾠδῆς.†
+    <verse eID="rlxx_psalmi_salomonis.15.0"/>
+
+    <verse sID="rlxx_psalmi_salomonis.15.1" osisID="rlxx_psalmi_salomonis.15.1"/>
+    ﻿Ἐν τῷ θλίβεσθαί με ἐπεκαλεσάμην τὸ ὄνομα κυρίου, 
+    εἰς βοήθειαν ἤλπισα τοῦ θεοῦ Ιακωβ καὶ ἐσώθην· 
+    ὅτι ἐλπὶς καὶ καταφυγὴ τῶν πτωχῶν σύ, ὁ θεός.
+    <verse eID="rlxx_psalmi_salomonis.15.1"/>
+
+    <verse sID="rlxx_psalmi_salomonis.15.2" osisID="rlxx_psalmi_salomonis.15.2"/>
+    ﻿τίς γὰρ ἰσχύει, ὁ θεός, εἰ μὴ ἐξομολογήσασθαί σοι ἐν ἀληθείᾳ; 
+    καὶ τί δυνατὸς ἄνθρωπος εἰ μὴ ἐξομολογήσασθαι τῷ ὀνόματί σου;
+    <verse eID="rlxx_psalmi_salomonis.15.2"/>
+
+    <verse sID="rlxx_psalmi_salomonis.15.3" osisID="rlxx_psalmi_salomonis.15.3"/>
+    ﻿ψαλμὸν καινὸν μετὰ ᾠδῆς ἐν εὐφροσύνῃ καρδίας, 
+    καρπὸν χειλέων ἐν ὀργάνῳ ἡρμοσμένῳ γλώσσης, 
+    ἀπαρχὴν χειλέων ἀπὸ καρδίας ὁσίας καὶ δικαίας,
+    <verse eID="rlxx_psalmi_salomonis.15.3"/>
+
+    <verse sID="rlxx_psalmi_salomonis.15.4" osisID="rlxx_psalmi_salomonis.15.4"/>
+    ﻿ὁ ποιῶν ταῦτα οὐ σαλευθήσεται εἰς τὸν αἰῶνα ἀπὸ κακοῦ, 
+    φλὸξ πυρὸς καὶ ὀργὴ ἀδίκων οὐχ ἅψεται αὐτοῦ,
+    <verse eID="rlxx_psalmi_salomonis.15.4"/>
+
+    <verse sID="rlxx_psalmi_salomonis.15.5" osisID="rlxx_psalmi_salomonis.15.5"/>
+    ﻿ὅταν ἐξέλθῃ ἐπὶ ἁμαρτωλοὺς ἀπὸ προσώπου κυρίου 
+    ὀλεθρεῦσαι πᾶσαν ὑπόστασιν ἁμαρτωλῶν·
+    <verse eID="rlxx_psalmi_salomonis.15.5"/>
+
+    <verse sID="rlxx_psalmi_salomonis.15.6" osisID="rlxx_psalmi_salomonis.15.6"/>
+    ﻿ὅτι τὸ σημεῖον τοῦ θεοῦ ἐπὶ δικαίους εἰς σωτηρίαν.
+    <verse eID="rlxx_psalmi_salomonis.15.6"/>
+
+    <verse sID="rlxx_psalmi_salomonis.15.7" osisID="rlxx_psalmi_salomonis.15.7"/>
+    ﻿Λιμὸς καὶ ῥομφαία καὶ θάνατος ἀπὸ δικαίων μακράν, 
+    φεύξονται γὰρ ὡς διωκόμενοι πολέμου ἀπὸ ὁσίων·†
+    <verse eID="rlxx_psalmi_salomonis.15.7"/>
+
+    <verse sID="rlxx_psalmi_salomonis.15.8" osisID="rlxx_psalmi_salomonis.15.8"/>
+    ﻿καταδιώξονται δὲ ἁμαρτωλοὺς καὶ καταλήμψονται, 
+    καὶ οὐκ ἐκφεύξονται οἱ ποιοῦντες ἀνομίαν τὸ κρίμα κυρίου·
+    <verse eID="rlxx_psalmi_salomonis.15.8"/>
+
+    <verse sID="rlxx_psalmi_salomonis.15.9" osisID="rlxx_psalmi_salomonis.15.9"/>
+    ﻿ὡς ὑπὸ πολεμίων ἐμπείρων καταλημφθήσονται, 
+    τὸ γὰρ σημεῖον τῆς ἀπωλείας ἐπὶ τοῦ μετώπου αὐτῶν.
+    <verse eID="rlxx_psalmi_salomonis.15.9"/>
+
+    <verse sID="rlxx_psalmi_salomonis.15.10" osisID="rlxx_psalmi_salomonis.15.10"/>
+    ﻿καὶ ἡ κληρονομία τῶν ἁμαρτωλῶν ἀπώλεια καὶ σκότος, 
+    καὶ αἱ ἀνομίαι αὐτῶν διώξονται αὐτοὺς ἕως ᾅδου κάτω.†
+    <verse eID="rlxx_psalmi_salomonis.15.10"/>
+
+    <verse sID="rlxx_psalmi_salomonis.15.11" osisID="rlxx_psalmi_salomonis.15.11"/>
+    ﻿ἡ κληρονομία αὐτῶν οὐχ εὑρεθήσεται τοῖς τέκνοις αὐτῶν, 
+    αἱ γὰρ ἁμαρτίαι ἐξερημώσουσιν οἴκους ἁμαρτωλῶν·
+    <verse eID="rlxx_psalmi_salomonis.15.11"/>
+
+    <verse sID="rlxx_psalmi_salomonis.15.12" osisID="rlxx_psalmi_salomonis.15.12"/>
+    ﻿καὶ ἀπολοῦνται ἁμαρτωλοὶ ἐν ἡμέρᾳ κρίσεως κυρίου εἰς τὸν αἰῶνα, 
+    ὅταν ἐπισκέπτηται ὁ θεὸς τὴν γῆν ἐν κρίματι αὐτοῦ·
+    <verse eID="rlxx_psalmi_salomonis.15.12"/>
+
+    <verse sID="rlxx_psalmi_salomonis.15.13" osisID="rlxx_psalmi_salomonis.15.13"/>
+    ﻿οἱ δὲ φοβούμενοι τὸν κύριον ἐλεηθήσονται ἐν αὐτῇ 
+    καὶ ζήσονται ἐν τῇ ἐλεημοσύνῃ τοῦ θεοῦ αὐτῶν· 
+    καὶ ἁμαρτωλοὶ ἀπολοῦνται εἰς τὸν αἰῶνα χρόνον.
+    <verse eID="rlxx_psalmi_salomonis.15.13"/>
+  </p>
+<chapter eID="rlxx_psalmi_salomonis.15"/>
+            <chapter sID="rlxx_psalmi_salomonis.16" osisID="rlxx_psalmi_salomonis.16"/>
+  <p>
+    <verse sID="rlxx_psalmi_salomonis.16.0" osisID="rlxx_psalmi_salomonis.16.0"/>
+    Ὕμνος τῷ Σαλωμων· εἰς ἀντίληψιν ὁσίοις.†
+    <verse eID="rlxx_psalmi_salomonis.16.0"/>
+
+    <verse sID="rlxx_psalmi_salomonis.16.1" osisID="rlxx_psalmi_salomonis.16.1"/>
+    ﻿Ἐν τῷ νυστάξαι ψυχήν μου ἀπὸ κυρίου παρὰ μικρὸν ὠλίσθησα 
+    ἐν καταφορᾷ ὑπνούντων μακρὰν ἀπὸ θεοῦ,†
+    <verse eID="rlxx_psalmi_salomonis.16.1"/>
+
+    <verse sID="rlxx_psalmi_salomonis.16.2" osisID="rlxx_psalmi_salomonis.16.2"/>
+    ﻿παρʼ ὀλίγον ἐξεχύθη ἡ ψυχή μου εἰς θάνατον 
+    σύνεγγυς πυλῶν ᾅδου μετὰ ἁμαρτωλοῦ
+    <verse eID="rlxx_psalmi_salomonis.16.2"/>
+
+    <verse sID="rlxx_psalmi_salomonis.16.3" osisID="rlxx_psalmi_salomonis.16.3"/>
+    ﻿ἐν τῷ διενεχθῆναι ψυχήν μου ἀπὸ κυρίου θεοῦ Ισραηλ, 
+    εἰ μὴ ὁ κύριος ἀντελάβετό μου τῷ ἐλέει αὐτοῦ εἰς τὸν αἰῶνα.
+    <verse eID="rlxx_psalmi_salomonis.16.3"/>
+
+    <verse sID="rlxx_psalmi_salomonis.16.4" osisID="rlxx_psalmi_salomonis.16.4"/>
+    ﻿ἔνυξέν με ὡς κέντρον ἵππου ἐπὶ τὴν γρηγόρησιν αὐτοῦ, 
+    ὁ σωτὴρ καὶ ἀντιλήπτωρ μου ἐν παντὶ καιρῷ ἔσωσέν με.
+    <verse eID="rlxx_psalmi_salomonis.16.4"/>
+
+    <verse sID="rlxx_psalmi_salomonis.16.5" osisID="rlxx_psalmi_salomonis.16.5"/>
+    ﻿Ἐξομολογήσομαί σοι, ὁ θεός, ὅτι ἀντελάβου μου εἰς σωτηρίαν 
+    καὶ οὐκ ἐλογίσω με μετὰ τῶν ἁμαρτωλῶν εἰς ἀπώλειαν.
+    <verse eID="rlxx_psalmi_salomonis.16.5"/>
+
+    <verse sID="rlxx_psalmi_salomonis.16.6" osisID="rlxx_psalmi_salomonis.16.6"/>
+    ﻿μὴ ἀποστήσῃς τὸ ἔλεός σου ἀπʼ ἐμοῦ, ὁ θεός, 
+    μηδὲ τὴν μνήμην σου ἀπὸ καρδίας μου ἕως θανάτου.†
+    <verse eID="rlxx_psalmi_salomonis.16.6"/>
+
+    <verse sID="rlxx_psalmi_salomonis.16.7" osisID="rlxx_psalmi_salomonis.16.7"/>
+    ﻿ἐπικράτησόν μου, ὁ θεός, ἀπὸ ἁμαρτίας πονηρᾶς 
+    καὶ ἀπὸ πάσης γυναικὸς πονηρᾶς σκανδαλιζούσης ἄφρονα.
+    <verse eID="rlxx_psalmi_salomonis.16.7"/>
+
+    <verse sID="rlxx_psalmi_salomonis.16.8" osisID="rlxx_psalmi_salomonis.16.8"/>
+    ﻿καὶ μὴ ἀπατησάτω με κάλλος γυναικὸς παρανομούσης 
+    καὶ παντὸς ὑποκειμένου ἀπὸ ἁμαρτίας ἀνωφελοῦς.
+    <verse eID="rlxx_psalmi_salomonis.16.8"/>
+
+    <verse sID="rlxx_psalmi_salomonis.16.9" osisID="rlxx_psalmi_salomonis.16.9"/>
+    ﻿Τὰ ἔργα τῶν χειρῶν μου κατεύθυνον ἐν τόπῳ σου 
+    καὶ τὰ διαβήματά μου ἐν τῇ μνήμῃ σου διαφύλαξον.
+    <verse eID="rlxx_psalmi_salomonis.16.9"/>
+
+    <verse sID="rlxx_psalmi_salomonis.16.10" osisID="rlxx_psalmi_salomonis.16.10"/>
+    ﻿τὴν γλῶσσάν μου καὶ τὰ χείλη μου ἐν λόγοις ἀληθείας περίστειλον, 
+    ὀργὴν καὶ θυμὸν ἄλογον μακρὰν ποίησον ἀπʼ ἐμοῦ.
+    <verse eID="rlxx_psalmi_salomonis.16.10"/>
+
+    <verse sID="rlxx_psalmi_salomonis.16.11" osisID="rlxx_psalmi_salomonis.16.11"/>
+    ﻿γογγυσμὸν καὶ ὀλιγοψυχίαν ἐν θλίψει μάκρυνον ἀπʼ ἐμοῦ, 
+    ἐὰν ἁμαρτήσω ἐν τῷ σε παιδεύειν εἰς ἐπιστροφήν.
+    <verse eID="rlxx_psalmi_salomonis.16.11"/>
+
+    <verse sID="rlxx_psalmi_salomonis.16.12" osisID="rlxx_psalmi_salomonis.16.12"/>
+    ﻿εὐδοκίᾳ δὲ μετὰ ἱλαρότητος στήρισον τὴν ψυχήν μου· 
+    ἐν τῷ ἐνισχῦσαί σε τὴν ψυχήν μου ἀρκέσει μοι τὸ δοθέν.
+    <verse eID="rlxx_psalmi_salomonis.16.12"/>
+
+    <verse sID="rlxx_psalmi_salomonis.16.13" osisID="rlxx_psalmi_salomonis.16.13"/>
+    ﻿ὅτι ἐὰν μὴ σὺ ἐνισχύσῃς, 
+    τίς ὑφέξεται παιδείαν ἐν πενίᾳ;
+    <verse eID="rlxx_psalmi_salomonis.16.13"/>
+
+    <verse sID="rlxx_psalmi_salomonis.16.14" osisID="rlxx_psalmi_salomonis.16.14"/>
+    ﻿ἐν τῷ ἐλέγχεσθαι ψυχὴν ἐν χειρὶ σαπρίας αὐτοῦ 
+    ἡ δοκιμασία σου ἐν σαρκὶ αὐτοῦ καὶ ἐν θλίψει πενίας·
+    <verse eID="rlxx_psalmi_salomonis.16.14"/>
+
+    <verse sID="rlxx_psalmi_salomonis.16.15" osisID="rlxx_psalmi_salomonis.16.15"/>
+    ﻿ἐν τῷ ὑπομεῖναι δίκαιον ἐν τούτοις ἐλεηθήσεται ὑπὸ κυρίου.
+    <verse eID="rlxx_psalmi_salomonis.16.15"/>
+  </p>
+<chapter eID="rlxx_psalmi_salomonis.16"/>
+
+            <chapter sID="rlxx_psalmi_salomonis.17" osisID="rlxx_psalmi_salomonis.17"/>
+  <p>
+    <verse sID="rlxx_psalmi_salomonis.17.0" osisID="rlxx_psalmi_salomonis.17.0"/>
+    Ψαλμὸς τῷ Σαλωμων μετὰ ᾠδῆς· τῷ βασιλεῖ.†
+    <verse eID="rlxx_psalmi_salomonis.17.0"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.1" osisID="rlxx_psalmi_salomonis.17.1"/>
+    ﻿Κύριε, σὺ αὐτὸς βασιλεὺς ἡμῶν εἰς τὸν αἰῶνα καὶ ἔτι· 
+    ὅτι ἐν σοί, ὁ θεός, καυχήσεται ἡ ψυχὴ ἡμῶν.†
+    <verse eID="rlxx_psalmi_salomonis.17.1"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.2" osisID="rlxx_psalmi_salomonis.17.2"/>
+    ﻿καὶ τίς ὁ χρόνος ζωῆς ἀνθρώπου ἐπὶ τῆς γῆς; 
+    κατὰ τὸν χρόνον αὐτοῦ καὶ ἡ ἐλπὶς αὐτοῦ ἐπʼ αὐτόν.
+    <verse eID="rlxx_psalmi_salomonis.17.2"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.3" osisID="rlxx_psalmi_salomonis.17.3"/>
+    ﻿ἡμεῖς δὲ ἐλπιοῦμεν ἐπὶ τὸν θεὸν σωτῆρα ἡμῶν· 
+    ὅτι τὸ κράτος τοῦ θεοῦ ἡμῶν εἰς τὸν αἰῶνα μετʼ ἐλέους, 
+    καὶ ἡ βασιλεία τοῦ θεοῦ ἡμῶν εἰς τὸν αἰῶνα ἐπὶ τὰ ἔθνη ἐν κρίσει.†
+    <verse eID="rlxx_psalmi_salomonis.17.3"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.4" osisID="rlxx_psalmi_salomonis.17.4"/>
+    ﻿Σύ, κύριε, ᾑρετίσω τὸν Δαυιδ βασιλέα ἐπὶ Ισραηλ, 
+    καὶ σὺ ὤμοσας αὐτῷ περὶ τοῦ σπέρματος αὐτοῦ εἰς τὸν αἰῶνα 
+    τοῦ μὴ ἐκλείπειν ἀπέναντί σου βασίλειον αὐτοῦ.†
+    <verse eID="rlxx_psalmi_salomonis.17.4"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.5" osisID="rlxx_psalmi_salomonis.17.5"/>
+    ﻿καὶ ἐν ταῖς ἁμαρτίαις ἡμῶν ἐπανέστησαν ἡμῖν ἁμαρτωλοί· 
+    ἐπέθεντο ἡμῖν καὶ ἔξωσαν ἡμᾶς οἷς οὐκ ἐπηγγείλω, 
+    μετὰ βίας ἀφείλαντο καὶ οὐκ ἐδόξασαν τὸ ὄνομά σου τὸ ἔντιμον.†
+    <verse eID="rlxx_psalmi_salomonis.17.5"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.6" osisID="rlxx_psalmi_salomonis.17.6"/>
+    ﻿ἐν δόξῃ ἔθεντο βασίλειον ἀντὶ ὕψους αὐτῶν, 
+    ἠρήμωσαν τὸν θρόνον Δαυιδ ἐν ὑπερηφανίᾳ ἀλλάγματος.
+    <verse eID="rlxx_psalmi_salomonis.17.6"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.7" osisID="rlxx_psalmi_salomonis.17.7"/>
+    ﻿Καὶ σύ, ὁ θεός, καταβαλεῖς αὐτοὺς καὶ ἀρεῖς τὸ σπέρμα αὐτῶν ἀπὸ τῆς γῆς 
+    ἐν τῷ ἐπαναστῆναι αὐτοῖς ἄνθρωπον ἀλλότριον γένους ἡμῶν.†
+    <verse eID="rlxx_psalmi_salomonis.17.7"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.8" osisID="rlxx_psalmi_salomonis.17.8"/>
+    ﻿κατὰ τὰ ἁμαρτήματα αὐτῶν ἀποδώσεις αὐτοῖς, ὁ θεός, 
+    εὑρεθῆναι αὐτοῖς κατὰ τὰ ἔργα αὐτῶν.
+    <verse eID="rlxx_psalmi_salomonis.17.8"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.9" osisID="rlxx_psalmi_salomonis.17.9"/>
+    ﻿οὐκ ἠλέησεν αὐτοὺς ὁ θεός, 
+    ἐξηρεύνησεν τὸ σπέρμα αὐτῶν καὶ οὐκ ἀφῆκεν αὐτῶν ἕνα.†
+    <verse eID="rlxx_psalmi_salomonis.17.9"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.10" osisID="rlxx_psalmi_salomonis.17.10"/>
+    ﻿πιστὸς ὁ κύριος ἐν πᾶσι τοῖς κρίμασιν αὐτοῦ, οἷς ποιεῖ ἐπὶ τὴν γῆν.
+    <verse eID="rlxx_psalmi_salomonis.17.10"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.11" osisID="rlxx_psalmi_salomonis.17.11"/>
+    ﻿Ἠρήμωσεν ὁ ἄνομος τὴν γῆν ἡμῶν ἀπὸ ἐνοικούντων αὐτήν, 
+    ἠφάνισαν νέον καὶ πρεσβύτην καὶ τέκνα αὐτῶν ἅμα·†
+    <verse eID="rlxx_psalmi_salomonis.17.11"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.12" osisID="rlxx_psalmi_salomonis.17.12"/>
+    ﻿ἐν ὀργῇ κάλλους αὐτοῦ ἐξαπέστειλεν αὐτὰ ἕως ἐπὶ δυσμῶν 
+    καὶ τοὺς ἄρχοντας τῆς γῆς εἰς ἐμπαιγμὸν καὶ οὐκ ἐφείσατο.
+    <verse eID="rlxx_psalmi_salomonis.17.12"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.13" osisID="rlxx_psalmi_salomonis.17.13"/>
+    ﻿ἐν ἀλλοτριότητι ὁ ἐχθρὸς ἐποίησεν ὑπερηφανίαν, 
+    καὶ ἡ καρδία αὐτοῦ ἀλλοτρία ἀπὸ τοῦ θεοῦ ἡμῶν.†
+    <verse eID="rlxx_psalmi_salomonis.17.13"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.14" osisID="rlxx_psalmi_salomonis.17.14"/>
+    ﻿καὶ πάντα, ὅσα ἐποίησεν ἐν Ιερουσαλημ, 
+    καθὼς καὶ τὰ ἔθνη ἐν ταῖς πόλεσι τοῦ σθένους αὐτῶν.†
+    <verse eID="rlxx_psalmi_salomonis.17.14"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.15" osisID="rlxx_psalmi_salomonis.17.15"/>
+    ﻿Καὶ ἐπεκρατοῦσαν αὐτῶν οἱ υἱοὶ τῆς διαθήκης ἐν μέσῳ ἐθνῶν συμμίκτων, 
+    οὐκ ἦν ἐν αὐτοῖς ὁ ποιῶν ἐν Ιερουσαλημ ἔλεος καὶ ἀλήθειαν.†
+    <verse eID="rlxx_psalmi_salomonis.17.15"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.16" osisID="rlxx_psalmi_salomonis.17.16"/>
+    ﻿ἐφύγοσαν ἀπʼ αὐτῶν οἱ ἀγαπῶντες συναγωγὰς ὁσίων, 
+    ὡς στρουθία ἐξεπετάσθησαν ἀπὸ κοίτης αὐτῶν.
+    <verse eID="rlxx_psalmi_salomonis.17.16"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.17" osisID="rlxx_psalmi_salomonis.17.17"/>
+    ﻿ἐπλανῶντο ἐν ἐρήμοις σωθῆναι ψυχὰς αὐτῶν ἀπὸ κακοῦ, 
+    καὶ τίμιον ἐν ὀφθαλμοῖς παροικίας ψυχὴ σεσῳσμένη ἐξ αὐτῶν.
+    <verse eID="rlxx_psalmi_salomonis.17.17"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.18" osisID="rlxx_psalmi_salomonis.17.18"/>
+    ﻿εἰς πᾶσαν τὴν γῆν ἐγενήθη ὁ σκορπισμὸς αὐτῶν ὑπὸ ἀνόμων, 
+    ὅτι ἀνέσχεν ὁ οὐρανὸς τοῦ στάξαι ὑετὸν ἐπὶ τὴν γῆν.†
+    <verse eID="rlxx_psalmi_salomonis.17.18"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.19" osisID="rlxx_psalmi_salomonis.17.19"/>
+    ﻿πηγαὶ συνεσχέθησαν αἰώνιοι ἐξ ἀβύσσων ἀπὸ ὀρέων ὑψηλῶν, 
+    ὅτι οὐκ ἦν ἐν αὐτοῖς ποιῶν δικαιοσύνην καὶ κρίμα.
+    <verse eID="rlxx_psalmi_salomonis.17.19"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.20" osisID="rlxx_psalmi_salomonis.17.20"/>
+    ﻿ἀπὸ ἄρχοντος αὐτῶν καὶ λαοῦ ἐλαχίστου ἐν πάσῃ ἁμαρτίᾳ, 
+    ὁ βασιλεὺς ἐν παρανομίᾳ καὶ ὁ κριτὴς ἐν ἀπειθείᾳ καὶ ὁ λαὸς ἐν ἁμαρτίᾳ.
+    <verse eID="rlxx_psalmi_salomonis.17.20"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.21" osisID="rlxx_psalmi_salomonis.17.21"/>
+    ﻿Ἰδέ, κύριε, καὶ ἀνάστησον αὐτοῖς τὸν βασιλέα αὐτῶν υἱὸν Δαυιδ 
+    εἰς τὸν καιρόν, ὃν εἵλου σύ, ὁ θεός, τοῦ βασιλεῦσαι ἐπὶ Ισραηλ παῖδά σου·†
+    <verse eID="rlxx_psalmi_salomonis.17.21"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.22" osisID="rlxx_psalmi_salomonis.17.22"/>
+    ﻿καὶ ὑπόζωσον αὐτὸν ἰσχὺν τοῦ θραῦσαι ἄρχοντας ἀδίκους, 
+    καθαρίσαι Ιερουσαλημ ἀπὸ ἐθνῶν καταπατούντων ἐν ἀπωλείᾳ,†
+    <verse eID="rlxx_psalmi_salomonis.17.22"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.23" osisID="rlxx_psalmi_salomonis.17.23"/>
+    ﻿ἐν σοφίᾳ δικαιοσύνης ἐξῶσαι ἁμαρτωλοὺς ἀπὸ κληρονομίας, 
+    ἐκτρῖψαι ὑπερηφανίαν ἁμαρτωλοῦ ὡς σκεύη κεραμέως,†
+    <verse eID="rlxx_psalmi_salomonis.17.23"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.24" osisID="rlxx_psalmi_salomonis.17.24"/>
+    ﻿ἐν ῥάβδῳ σιδηρᾷ συντρῖψαι πᾶσαν ὑπόστασιν αὐτῶν, 
+    ὀλεθρεῦσαι ἔθνη παράνομα ἐν λόγῳ στόματος αὐτοῦ,
+    <verse eID="rlxx_psalmi_salomonis.17.24"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.25" osisID="rlxx_psalmi_salomonis.17.25"/>
+    ﻿ἐν ἀπειλῇ αὐτοῦ φυγεῖν ἔθνη ἀπὸ προσώπου αὐτοῦ 
+    καὶ ἐλέγξαι ἁμαρτωλοὺς ἐν λόγῳ καρδίας αὐτῶν.
+    <verse eID="rlxx_psalmi_salomonis.17.25"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.26" osisID="rlxx_psalmi_salomonis.17.26"/>
+    ﻿Καὶ συνάξει λαὸν ἅγιον, οὗ ἀφηγήσεται ἐν δικαιοσύνῃ, 
+    καὶ κρινεῖ φυλὰς λαοῦ ἡγιασμένου ὑπὸ κυρίου θεοῦ αὐτοῦ·
+    <verse eID="rlxx_psalmi_salomonis.17.26"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.27" osisID="rlxx_psalmi_salomonis.17.27"/>
+    ﻿καὶ οὐκ ἀφήσει ἀδικίαν ἐν μέσῳ αὐτῶν αὐλισθῆναι ἔτι, 
+    καὶ οὐ κατοικήσει πᾶς ἄνθρωπος μετʼ αὐτῶν εἰδὼς κακίαν· 
+    γνώσεται γὰρ αὐτοὺς ὅτι πάντες υἱοὶ θεοῦ εἰσιν αὐτῶν.
+    <verse eID="rlxx_psalmi_salomonis.17.27"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.28" osisID="rlxx_psalmi_salomonis.17.28"/>
+    ﻿καὶ καταμερίσει αὐτοὺς ἐν ταῖς φυλαῖς αὐτῶν ἐπὶ τῆς γῆς, 
+    καὶ πάροικος καὶ ἀλλογενὴς οὐ παροικήσει αὐτοῖς ἔτι·
+    <verse eID="rlxx_psalmi_salomonis.17.28"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.29" osisID="rlxx_psalmi_salomonis.17.29"/>
+    ﻿κρινεῖ λαοὺς καὶ ἔθνη ἐν σοφίᾳ δικαιοσύνης αὐτοῦ. διάψαλμα.
+    <verse eID="rlxx_psalmi_salomonis.17.29"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.30" osisID="rlxx_psalmi_salomonis.17.30"/>
+    ﻿Καὶ ἕξει λαοὺς ἐθνῶν δουλεύειν αὐτῷ ὑπὸ τὸν ζυγὸν αὐτοῦ 
+    καὶ τὸν κύριον δοξάσει ἐν ἐπισήμῳ πάσης τῆς γῆς 
+    καὶ καθαριεῖ Ιερουσαλημ ἐν ἁγιασμῷ ὡς καὶ τὸ ἀπʼ ἀρχῆς
+    <verse eID="rlxx_psalmi_salomonis.17.30"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.31" osisID="rlxx_psalmi_salomonis.17.31"/>
+    ﻿ἔρχεσθαι ἔθνη ἀπʼ ἄκρου τῆς γῆς ἰδεῖν τὴν δόξαν αὐτοῦ 
+    φέροντες δῶρα τοὺς ἐξησθενηκότας υἱοὺς αὐτῆς 
+    καὶ ἰδεῖν τὴν δόξαν κυρίου, ἣν ἐδόξασεν αὐτὴν ὁ θεός.
+    <verse eID="rlxx_psalmi_salomonis.17.31"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.32" osisID="rlxx_psalmi_salomonis.17.32"/>
+    ﻿καὶ αὐτὸς βασιλεὺς δίκαιος διδακτὸς ὑπὸ θεοῦ ἐπʼ αὐτούς, 
+    καὶ οὐκ ἔστιν ἀδικία ἐν ταῖς ἡμέραις αὐτοῦ ἐν μέσῳ αὐτῶν, 
+    ὅτι πάντες ἅγιοι, καὶ βασιλεὺς αὐτῶν χριστὸς κυρίου.†
+    <verse eID="rlxx_psalmi_salomonis.17.32"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.33" osisID="rlxx_psalmi_salomonis.17.33"/>
+    ﻿οὐ γὰρ ἐλπιεῖ ἐπὶ ἵππον καὶ ἀναβάτην καὶ τόξον 
+    οὐδὲ πληθυνεῖ αὑτῷ χρυσίον οὐδὲ ἀργύριον εἰς πόλεμον 
+    καὶ πολλοῖς λαοῖς οὐ συνάξει ἐλπίδας εἰς ἡμέραν πολέμου.
+    <verse eID="rlxx_psalmi_salomonis.17.33"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.34" osisID="rlxx_psalmi_salomonis.17.34"/>
+    ﻿Κύριος αὐτὸς βασιλεὺς αὐτοῦ, ἐλπὶς τοῦ δυνατοῦ ἐλπίδι θεοῦ, 
+    καὶ ἐλεήσει πάντα τὰ ἔθνη ἐνώπιον αὐτοῦ ἐν φόβῳ.
+    <verse eID="rlxx_psalmi_salomonis.17.34"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.35" osisID="rlxx_psalmi_salomonis.17.35"/>
+    ﻿πατάξει γὰρ γῆν τῷ λόγῳ τοῦ στόματος αὐτοῦ εἰς αἰῶνα, 
+    εὐλογήσει λαὸν κυρίου ἐν σοφίᾳ μετʼ εὐφροσύνης·†
+    <verse eID="rlxx_psalmi_salomonis.17.35"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.36" osisID="rlxx_psalmi_salomonis.17.36"/>
+    ﻿καὶ αὐτὸς καθαρὸς ἀπὸ ἁμαρτίας τοῦ ἄρχειν λαοῦ μεγάλου, 
+    ἐλέγξαι ἄρχοντας καὶ ἐξᾶραι ἁμαρτωλοὺς ἐν ἰσχύι λόγου.†
+    <verse eID="rlxx_psalmi_salomonis.17.36"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.37" osisID="rlxx_psalmi_salomonis.17.37"/>
+    ﻿καὶ οὐκ ἀσθενήσει ἐν ταῖς ἡμέραις αὐτοῦ ἐπὶ θεῷ αὐτοῦ· 
+    ὅτι ὁ θεὸς κατειργάσατο αὐτὸν δυνατὸν ἐν πνεύματι ἁγίῳ 
+    καὶ σοφὸν ἐν βουλῇ συνέσεως μετὰ ἰσχύος καὶ δικαιοσύνης.
+    <verse eID="rlxx_psalmi_salomonis.17.37"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.38" osisID="rlxx_psalmi_salomonis.17.38"/>
+    ﻿καὶ εὐλογία κυρίου μετʼ αὐτοῦ ἐν ἰσχύι, 
+    καὶ οὐκ ἀσθενήσει.
+    <verse eID="rlxx_psalmi_salomonis.17.38"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.39" osisID="rlxx_psalmi_salomonis.17.39"/>
+    ﻿Ἡ ἐλπὶς αὐτοῦ ἐπὶ κύριον, 
+    καὶ τίς δύναται πρὸς αὐτόν;
+    <verse eID="rlxx_psalmi_salomonis.17.39"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.40" osisID="rlxx_psalmi_salomonis.17.40"/>
+    ﻿ἰσχυρὸς ἐν ἔργοις αὐτοῦ καὶ κραταιὸς ἐν φόβῳ θεοῦ 
+    ποιμαίνων τὸ ποίμνιον κυρίου ἐν πίστει καὶ δικαιοσύνῃ 
+    καὶ οὐκ ἀφήσει ἀσθενῆσαι ἐν αὐτοῖς ἐν τῇ νομῇ αὐτῶν.
+    <verse eID="rlxx_psalmi_salomonis.17.40"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.41" osisID="rlxx_psalmi_salomonis.17.41"/>
+    ﻿ἐν ἰσότητι πάντας αὐτοὺς ἄξει, 
+    καὶ οὐκ ἔσται ἐν αὐτοῖς ὑπερηφανία τοῦ καταδυναστευθῆναι ἐν αὐτοῖς.
+    <verse eID="rlxx_psalmi_salomonis.17.41"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.42" osisID="rlxx_psalmi_salomonis.17.42"/>
+    ﻿Αὕτη ἡ εὐπρέπεια τοῦ βασιλέως Ισραηλ, ἣν ἔγνω ὁ θεός, 
+    ἀναστῆσαι αὐτὸν ἐπʼ οἶκον Ισραηλ παιδεῦσαι αὐτόν.
+    <verse eID="rlxx_psalmi_salomonis.17.42"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.43" osisID="rlxx_psalmi_salomonis.17.43"/>
+    ﻿τὰ ῥήματα αὐτοῦ πεπυρωμένα ὑπὲρ χρυσίον τὸ πρῶτον τίμιον, 
+    ἐν συναγωγαῖς διακρινεῖ λαοῦ φυλὰς ἡγιασμένου, 
+    οἱ λόγοι αὐτοῦ ὡς λόγοι ἁγίων ἐν μέσῳ λαῶν ἡγιασμένων.†
+    <verse eID="rlxx_psalmi_salomonis.17.43"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.44" osisID="rlxx_psalmi_salomonis.17.44"/>
+    ﻿μακάριοι οἱ γενόμενοι ἐν ταῖς ἡμέραις ἐκείναις 
+    ἰδεῖν τὰ ἀγαθὰ Ισραηλ ἐν συναγωγῇ φυλῶν, ἃ ποιήσει ὁ θεός.†
+    <verse eID="rlxx_psalmi_salomonis.17.44"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.45" osisID="rlxx_psalmi_salomonis.17.45"/>
+    ﻿ταχύναι ὁ θεὸς ἐπὶ Ισραηλ τὸ ἔλεος αὐτοῦ, 
+    ῥύσαιτο ἡμᾶς ἀπὸ ἀκαθαρσίας ἐχθρῶν βεβήλων.†
+    <verse eID="rlxx_psalmi_salomonis.17.45"/>
+
+    <verse sID="rlxx_psalmi_salomonis.17.46" osisID="rlxx_psalmi_salomonis.17.46"/>
+    ﻿κύριος αὐτὸς βασιλεὺς ἡμῶν εἰς τὸν αἰῶνα καὶ ἔτι.
+    <verse eID="rlxx_psalmi_salomonis.17.46"/>
+  </p>
+<chapter eID="rlxx_psalmi_salomonis.17"/>
+
+            <chapter sID="rlxx_psalmi_salomonis.18" osisID="rlxx_psalmi_salomonis.18"/>
+  <p>
+    <verse sID="rlxx_psalmi_salomonis.18.0" osisID="rlxx_psalmi_salomonis.18.0"/>
+    Ψαλμὸς τῷ Σαλωμων· ἔτι τοῦ χριστοῦ κυρίου.†
+    <verse eID="rlxx_psalmi_salomonis.18.0"/>
+
+    <verse sID="rlxx_psalmi_salomonis.18.1" osisID="rlxx_psalmi_salomonis.18.1"/>
+    ﻿Κύριε, τὸ ἔλεός σου ἐπὶ τὰ ἔργα τῶν χειρῶν σου εἰς τὸν αἰῶνα, 
+    ἡ χρηστότης σου μετὰ δόματος πλουσίου ἐπὶ Ισραηλ·†
+    <verse eID="rlxx_psalmi_salomonis.18.1"/>
+
+    <verse sID="rlxx_psalmi_salomonis.18.2" osisID="rlxx_psalmi_salomonis.18.2"/>
+    ﻿οἱ ὀφθαλμοί σου ἐπιβλέποντες ἐπʼ αὐτά, καὶ οὐχ ὑστερήσει ἐξ αὐτῶν· 
+    τὰ ὦτά σου ἐπακούει εἰς δέησιν πτωχοῦ ἐν ἐλπίδι.
+    <verse eID="rlxx_psalmi_salomonis.18.2"/>
+
+    <verse sID="rlxx_psalmi_salomonis.18.3" osisID="rlxx_psalmi_salomonis.18.3"/>
+    ﻿τὰ κρίματά σου ἐπὶ πᾶσαν τὴν γῆν μετὰ ἐλέους, 
+    καὶ ἡ ἀγάπη σου ἐπὶ σπέρμα Αβρααμ υἱοὺς Ισραηλ.†
+    <verse eID="rlxx_psalmi_salomonis.18.3"/>
+
+    <verse sID="rlxx_psalmi_salomonis.18.4" osisID="rlxx_psalmi_salomonis.18.4"/>
+    ﻿ἡ παιδεία σου ἐφʼ ἡμᾶς ὡς υἱὸν πρωτότοκον μονογενῆ 
+    ἀποστρέψαι ψυχὴν εὐήκοον ἀπὸ ἀμαθίας ἐν ἀγνοίᾳ.
+    <verse eID="rlxx_psalmi_salomonis.18.4"/>
+
+    <verse sID="rlxx_psalmi_salomonis.18.5" osisID="rlxx_psalmi_salomonis.18.5"/>
+    ﻿καθαρίσαι ὁ θεὸς Ισραηλ εἰς ἡμέραν ἐλέους ἐν εὐλογίᾳ, 
+    εἰς ἡμέραν ἐκλογῆς ἐν ἀνάξει χριστοῦ αὐτοῦ.
+    <verse eID="rlxx_psalmi_salomonis.18.5"/>
+
+    <verse sID="rlxx_psalmi_salomonis.18.6" osisID="rlxx_psalmi_salomonis.18.6"/>
+    ﻿Μακάριοι οἱ γενόμενοι ἐν ταῖς ἡμέραις ἐκείναις 
+    ἰδεῖν τὰ ἀγαθὰ κυρίου, ἃ ποιήσει γενεᾷ τῇ ἐρχομένῃ†
+    <verse eID="rlxx_psalmi_salomonis.18.6"/>
+
+    <verse sID="rlxx_psalmi_salomonis.18.7" osisID="rlxx_psalmi_salomonis.18.7"/>
+    ﻿ὑπὸ ῥάβδον παιδείας χριστοῦ κυρίου ἐν φόβῳ θεοῦ αὐτοῦ 
+    ἐν σοφίᾳ πνεύματος καὶ δικαιοσύνης καὶ ἰσχύος
+    <verse eID="rlxx_psalmi_salomonis.18.7"/>
+
+    <verse sID="rlxx_psalmi_salomonis.18.8" osisID="rlxx_psalmi_salomonis.18.8"/>
+    ﻿κατευθῦναι ἄνδρα ἐν ἔργοις δικαιοσύνης φόβῳ θεοῦ 
+    καταστῆσαι πάντας αὐτοὺς ἐνώπιον κυρίου†
+    <verse eID="rlxx_psalmi_salomonis.18.8"/>
+
+    <verse sID="rlxx_psalmi_salomonis.18.9" osisID="rlxx_psalmi_salomonis.18.9"/>
+    ﻿γενεὰ ἀγαθὴ ἐν φόβῳ θεοῦ ἐν ἡμέραις ἐλέους. 
+    διάψαλμα.
+    <verse eID="rlxx_psalmi_salomonis.18.9"/>
+
+    <verse sID="rlxx_psalmi_salomonis.18.10" osisID="rlxx_psalmi_salomonis.18.10"/>
+    ﻿Μέγας ἡμῶν ὁ θεὸς καὶ ἔνδοξος ἐν ὑψίστοις κατοικῶν 
+    ὁ διατάξας ἐν πορείᾳ φωστῆρας εἰς καιροὺς ὡρῶν ἀφʼ ἡμερῶν εἰς ἡμέρας 
+    καὶ οὐ παρέβησαν ἀπὸ ὁδοῦ, ἧς ἐνετείλω αὐτοῖς·
+    <verse eID="rlxx_psalmi_salomonis.18.10"/>
+
+    <verse sID="rlxx_psalmi_salomonis.18.11" osisID="rlxx_psalmi_salomonis.18.11"/>
+    ﻿ἐν φόβῳ θεοῦ ἡ ὁδὸς αὐτῶν καθʼ ἑκάστην ἡμέραν 
+    ἀφʼ ἧς ἡμέρας ἔκτισεν αὐτοὺς ὁ θεὸς καὶ ἕως αἰῶνος·
+    <verse eID="rlxx_psalmi_salomonis.18.11"/>
+
+    <verse sID="rlxx_psalmi_salomonis.18.12" osisID="rlxx_psalmi_salomonis.18.12"/>
+    ﻿καὶ οὐκ ἐπλανήθησαν ἀφʼ ἧς ἡμέρας ἔκτισεν αὐτούς, 
+    ἀπὸ γενεῶν ἀρχαίων οὐκ ἀπέστησαν ὁδῶν αὐτῶν, 
+    εἰ μὴ ὁ θεὸς ἐνετείλατο αὐτοῖς ἐν ἐπιταγῇ δούλων αὐτοῦ.
+    <verse eID="rlxx_psalmi_salomonis.18.12"/>
+  </p>
+<chapter eID="rlxx_psalmi_salomonis.18"/>
+
+
+        </div>
+    </osisText>
+</osis>

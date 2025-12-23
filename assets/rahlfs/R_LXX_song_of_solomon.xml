@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="rlxx_song_of_solomon" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="rlxx_song_of_solomon">
+        <title>Song of Solomon</title>
+        <creator>ITSERR-Italian Strengthening of the ESFRI RI RESILIENCE: WP8-uBIQUity; PRIN 2022- Resilient Septuagint. An Initial Exploration of the Semantics of Killing and Healing in the Septuagint and its Reception in Patristic and Late Antique Sources (3rd cent. BCE – 5th cent. CE)</creator>
+        <subject>Song of Solomon</subject>
+        <date event="original">3rd-1st cent. BCE</date>
+        <date event="eversion">2025-07-23</date>
+        <date event="edition">2006 (1rst ed.: A. Rahlfs, 1935)</date>
+        <description type="x-edition">A. Rahlfs - R. Hanhart (eds.), Septuaginta: Id est Vetus
+                    Testamentum graece iuxta LXX interpretes. Editio altera, Stuttgart: Deutsche
+                    Bibelgesellschaft, 2006 (1rst ed.: A. Rahlfs, 1935)</description>
+        <description type="x-apparatus_n">1</description>
+        <identifier type="ISBN">978-3-438-05119-6</identifier>
+        <relation type="x-isAPartOf">R-LXX</relation>
+        <rights>© Deutsche Bibelgesellschaft, Stuttgart. All rights reserved.</rights>
+        <refSystem>Greek: Scriptures</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="rlxx_song_of_solomon">
+      <title>ΑΣΜΑ</title>
+      <chapter sID="rlxx_song_of_solomon.1" osisID="rlxx_song_of_solomon.1" />
+      <title>Chapter 1</title>
+      <p>
+        <verse sID="rlxx_song_of_solomon.1.1" osisID="rlxx_song_of_solomon.1.1" />Ἆισμα ᾀσμάτων, ὅ ἐστιν τῷ Σαλωμων.<verse eID="rlxx_song_of_solomon.1.1" />
+        <verse sID="rlxx_song_of_solomon.1.2" osisID="rlxx_song_of_solomon.1.2" />Φιλησάτω με ἀπὸ φιλημάτων στόματος αὐτοῦ, ὅτι ἀγαθοὶ μαστοί σου ὑπὲρ οἶνον,<verse eID="rlxx_song_of_solomon.1.2" />
+        <verse sID="rlxx_song_of_solomon.1.3" osisID="rlxx_song_of_solomon.1.3" />καὶ ὀσμὴ μύρων σου ὑπὲρ πάντα τὰ ἀρώματα, μύρον ἐκκενωθὲν ὄνομά σου. διὰ τοῦτο νεάνιδες ἠγάπησάν σε, εἵλκυσάν σε, ὀπίσω σου εἰς ὀσμὴν μύρων σου δραμοῦμεν. Εἰσήνεγκέν με ὁ βασιλεὺς εἰς τὸ ταμίειον αὐτοῦ. Ἀγαλλιασώμεθα καὶ εὐφρανθῶμεν ἐν σοί,<verse eID="rlxx_song_of_solomon.1.3" />
+        <verse sID="rlxx_song_of_solomon.1.4" osisID="rlxx_song_of_solomon.1.4" />ἀγαπήσομεν μαστούς σου ὑπὲρ οἶνον· εὐθύτης ἠγάπησέν σε.<verse eID="rlxx_song_of_solomon.1.4" />
+        <verse sID="rlxx_song_of_solomon.1.5" osisID="rlxx_song_of_solomon.1.5" />Μέλαινά εἰμι καὶ καλή, θυγατέρες Ιερουσαλημ, ὡς σκηνώματα Κηδαρ, ὡς δέρρεις Σαλωμων.<verse eID="rlxx_song_of_solomon.1.5" />
+        <verse sID="rlxx_song_of_solomon.1.6" osisID="rlxx_song_of_solomon.1.6" />μὴ βλέψητέ με, ὅτι ἐγώ εἰμι μεμελανωμένη, ὅτι παρέβλεψέν με ὁ ἥλιος· υἱοὶ μητρός μου ἐμαχέσαντο ἐν ἐμοί, ἔθεντό με φυλάκισσαν ἐν ἀμπελῶσιν· ἀμπελῶνα ἐμὸν οὐκ ἐφύλαξα.<verse eID="rlxx_song_of_solomon.1.6" />
+        <verse sID="rlxx_song_of_solomon.1.7" osisID="rlxx_song_of_solomon.1.7" />Ἀπάγγειλόν μοι, ὃν ἠγάπησεν ἡ ψυχή μου, ποῦ ποιμαίνεις, ποῦ κοιτάζεις ἐν μεσημβρίᾳ, μήποτε γένωμαι ὡς περιβαλλομένη ἐπ' ἀγέλαις ἑταίρων σου.<verse eID="rlxx_song_of_solomon.1.7" />
+        <verse sID="rlxx_song_of_solomon.1.8" osisID="rlxx_song_of_solomon.1.8" />Ἐὰν μὴ γνῷς σεαυτήν, ἡ καλὴ ἐν γυναιξίν, ἔξελθε σὺ ἐν πτέρναις τῶν ποιμνίων καὶ ποίμαινε τὰς ἐρίφους σου ἐπὶ σκηνώμασιν τῶν ποιμένων.<verse eID="rlxx_song_of_solomon.1.8" />
+        <verse sID="rlxx_song_of_solomon.1.9" osisID="rlxx_song_of_solomon.1.9" />Τῇ ἵππῳ μου ἐν ἅρμασιν Φαραω ὡμοίωσά σε, ἡ πλησίον μου.<verse eID="rlxx_song_of_solomon.1.9" />
+        <verse sID="rlxx_song_of_solomon.1.10" osisID="rlxx_song_of_solomon.1.10" />τί ὡραιώθησαν σιαγόνες σου ὡς τρυγόνες, τράχηλός σου ὡς ὁρμίσκοι;<verse eID="rlxx_song_of_solomon.1.10" />
+        <verse sID="rlxx_song_of_solomon.1.11" osisID="rlxx_song_of_solomon.1.11" />ὁμοιώματα χρυσίου ποιήσομέν σοι μετὰ στιγμάτων τοῦ ἀργυρίου.<verse eID="rlxx_song_of_solomon.1.11" />
+        <verse sID="rlxx_song_of_solomon.1.12" osisID="rlxx_song_of_solomon.1.12" />Ἕως οὗ ὁ βασιλεὺς ἐν ἀνακλίσει αὐτοῦ, νάρδος μου ἔδωκεν ὀσμὴν αὐτοῦ.<verse eID="rlxx_song_of_solomon.1.12" />
+        <verse sID="rlxx_song_of_solomon.1.13" osisID="rlxx_song_of_solomon.1.13" />ἀπόδεσμος τῆς στακτῆς ἀδελφιδός μου ἐμοί, ἀνὰ μέσον τῶν μαστῶν μου αὐλισθήσεται· βότρυς τῆς κύπρου ἀδελφιδός μου ἐμοὶ ἐν ἀμπελῶσιν Εγγαδδι.<verse eID="rlxx_song_of_solomon.1.13" />
+        <verse sID="rlxx_song_of_solomon.1.15" osisID="rlxx_song_of_solomon.1.15" />Ἰδοὺ εἶ καλή, ἡ πλησίον μου, ἰδοὺ εἶ καλή, ὀφθαλμοί σου περιστεραί.<verse eID="rlxx_song_of_solomon.1.15" />
+        <verse sID="rlxx_song_of_solomon.1.16" osisID="rlxx_song_of_solomon.1.16" />Ἰδοὺ εἶ καλός, ὁ ἀδελφιδός μου, καί γε ὡραῖος· πρὸς κλίνη ἡμῶν σύσκιος,<verse eID="rlxx_song_of_solomon.1.16" />
+        <verse sID="rlxx_song_of_solomon.1.17" osisID="rlxx_song_of_solomon.1.17" />δοκοὶ οἴκων ἡμῶν κέδροι, φατνώματα ἡμῶν κυπάρισσοι.<verse eID="rlxx_song_of_solomon.1.17" />
+      </p>
+      <chapter eID="rlxx_song_of_solomon.1" />
+      <chapter sID="rlxx_song_of_solomon.2" osisID="rlxx_song_of_solomon.2" />
+      <title>Chapter 2</title>
+      <p>
+        <verse sID="rlxx_song_of_solomon.2.1" osisID="rlxx_song_of_solomon.2.1" />Ἐγὼ ἄνθος τοῦ πεδίου, κρίνον τῶν κοιλάδων.<verse eID="rlxx_song_of_solomon.2.1" />
+        <verse sID="rlxx_song_of_solomon.2.2" osisID="rlxx_song_of_solomon.2.2" />Ὡς κρίνον ἐν μέσῳ ἀκανθῶν, οὕτως ἡ πλησίον μου ἀνὰ μέσον τῶν θυγατέρων.<verse eID="rlxx_song_of_solomon.2.2" />
+        <verse sID="rlxx_song_of_solomon.2.3" osisID="rlxx_song_of_solomon.2.3" />Ὡς μῆλον ἐν τοῖς ξύλοις τοῦ δρυμοῦ, οὕτως ἀδελφιδός μου ἀνὰ μέσον τῶν υἱῶν· ἐν τῇ σκιᾷ αὐτοῦ ἐπεθύμησα καὶ ἐκάθισα, καὶ καρπὸς αὐτοῦ γλυκὺς ἐν λάρυγγί μου.<verse eID="rlxx_song_of_solomon.2.3" />
+        <verse sID="rlxx_song_of_solomon.2.4" osisID="rlxx_song_of_solomon.2.4" />Εἰσαγάγετέ με εἰς οἶκον τοῦ οἴνου, τάξατε ἐπ' ἐμὲ ἀγάπην.<verse eID="rlxx_song_of_solomon.2.4" />
+        <verse sID="rlxx_song_of_solomon.2.5" osisID="rlxx_song_of_solomon.2.5" />στηρίσατέ με ἐν ἀμόραις, στοιβάσατέ με ἐν μήλοις, ὅτι τετρωμένη ἀγάπης ἐγώ.<verse eID="rlxx_song_of_solomon.2.5" />
+        <verse sID="rlxx_song_of_solomon.2.6" osisID="rlxx_song_of_solomon.2.6" />εὐώνυμος αὐτοῦ ὑπὸ τὴν κεφαλήν μου, καὶ ἡ δεξιὰ αὐτοῦ περιλήμψεταί με.<verse eID="rlxx_song_of_solomon.2.6" />
+        <verse sID="rlxx_song_of_solomon.2.7" osisID="rlxx_song_of_solomon.2.7" />ὥρκισα ὑμᾶς, θυγατέρες Ιερουσαλημ, ἐν ταῖς δυνάμεσιν καὶ ἐν ταῖς ἰσχύσεσιν τοῦ ἀγροῦ, ἐὰν ἐγείρητε καὶ ἐξεγείρητε τὴν ἀγάπην, ἕως οὗ θελήσῃ.<verse eID="rlxx_song_of_solomon.2.7" />
+        <verse sID="rlxx_song_of_solomon.2.8" osisID="rlxx_song_of_solomon.2.8" />Φωνὴ ἀδελφιδοῦ μου· ἰδοὺ οὗτος ἥκει πηδῶν ἐπὶ τὰ ὄρη διαλλόμενος ἐπὶ τοὺς βουνούς.<verse eID="rlxx_song_of_solomon.2.8" />
+        <verse sID="rlxx_song_of_solomon.2.9" osisID="rlxx_song_of_solomon.2.9" />ὅμοιός ἐστιν ἀδελφιδός μου τῇ δορκάδι ἢ νεβρῷ ἐλάφων ἐπὶ τὰ ὄρη Βαιθηλ. ἰδοὺ οὗτος ἕστηκεν ὀπίσω τοῦ τοίχου ἡμῶν παρακύπτων διὰ τῶν θυρίδων ἐκκύπτων διὰ τῶν δικτύων.<verse eID="rlxx_song_of_solomon.2.9" />
+        <verse sID="rlxx_song_of_solomon.2.10" osisID="rlxx_song_of_solomon.2.10" />ἀποκρίνεται ἀδελφιδός μου καὶ λέγει μοι Ἀνάστα ἐλθέ, ἡ πλησίον μου, καλή μου, περιστερά μου,<verse eID="rlxx_song_of_solomon.2.10" />
+        <verse sID="rlxx_song_of_solomon.2.11" osisID="rlxx_song_of_solomon.2.11" />ὅτι ἰδοὺ ὁ χειμὼν παρῆλθεν, ὁ ὑετὸς ἀπῆλθεν, ἐπορεύθη ἑαυτῷ,<verse eID="rlxx_song_of_solomon.2.11" />
+        <verse sID="rlxx_song_of_solomon.2.12" osisID="rlxx_song_of_solomon.2.12" />τὰ ἄνθη ὤφθη ἐν τῇ γῇ, καιρὸς τῆς τομῆς ἔφθακεν, φωνὴ τοῦ τρυγόνος ἠκούσθη ἐν τῇ γῇ ἡμῶν,<verse eID="rlxx_song_of_solomon.2.12" />
+        <verse sID="rlxx_song_of_solomon.2.13" osisID="rlxx_song_of_solomon.2.13" />ἡ συκῆ ἐξήνεγκεν ὀλύνθους αὐτῆς, αἱ ἄμπελοι κυπρίζουσιν, ἔδωκαν ὀσμήν. ἀνάστα ἐλθέ, ἡ πλησίον μου, καλή μου, περιστερά μου,<verse eID="rlxx_song_of_solomon.2.13" />
+        <verse sID="rlxx_song_of_solomon.2.14" osisID="rlxx_song_of_solomon.2.14" />καὶ ἐλθὲ σύ, περιστερά μου ἐν σκέπῃ τῆς πέτρας ἐχόμενα τοῦ προτειχίσματος, δεῖξόν μοι τὴν ὄψιν σου καὶ ἀκούτισόν με τὴν φωνήν σου, ὅτι ἡ φωνή σου ἡδεῖα, καὶ ἡ ὄψις σου ὡραία.<verse eID="rlxx_song_of_solomon.2.14" />
+        <verse sID="rlxx_song_of_solomon.2.15" osisID="rlxx_song_of_solomon.2.15" />Πιάσατε ἡμῖν ἀλώπεκας μικροὺς ἀφανίζοντας ἀμπελῶνας, καὶ αἱ ἄμπελοι ἡμῶν κυπρίζουσιν.<verse eID="rlxx_song_of_solomon.2.15" />
+        <verse sID="rlxx_song_of_solomon.2.16" osisID="rlxx_song_of_solomon.2.16" />Ἀδελφιδός μου ἐμοί, κἀγὼ αὐτῷ, ὁ ποιμαίνων ἐν τοῖς κρίνοις,<verse eID="rlxx_song_of_solomon.2.16" />
+        <verse sID="rlxx_song_of_solomon.2.17" osisID="rlxx_song_of_solomon.2.17" />ἕως οὗ διαπνεύσῃ ἡ ἡμέρα καὶ κινηθῶσιν αἱ σκιαί. ἀπόστρεψον ὁμοιώθητι σύ, ἀδελφιδέ μου, τῷ δόρκωνι ἢ νεβρῷ ἐλάφων ἐπὶ ὄρη κοιλωμάτων.<verse eID="rlxx_song_of_solomon.2.17" />
+      </p>
+      <chapter eID="rlxx_song_of_solomon.2" />
+      <chapter sID="rlxx_song_of_solomon.3" osisID="rlxx_song_of_solomon.3" />
+      <title>Chapter 3</title>
+      <p>
+        <verse sID="rlxx_song_of_solomon.3.1" osisID="rlxx_song_of_solomon.3.1" />Ἐπὶ κοίτην μου ἐν νυξὶν ἐζήτησα ὃν ἠγάπησεν ἡ ψυχή μου, ἐζήτησα αὐτὸν καὶ οὐχ εὗρον αὐτόν, ἐκάλεσα αὐτόν, καὶ οὐχ ὑπήκουσέν μου.<verse eID="rlxx_song_of_solomon.3.1" />
+        <verse sID="rlxx_song_of_solomon.3.2" osisID="rlxx_song_of_solomon.3.2" />ἀναστήσομαι δὴ καὶ κυκλώσω ἐν τῇ πόλει ἐν ταῖς ἀγοραῖς καὶ ἐν ταῖς πλατείαις καὶ ζητήσω ὃν ἠγάπησεν ἡ ψυχή μου· ἐζήτησα αὐτὸν καὶ οὐχ εὗρον αὐτόν.<verse eID="rlxx_song_of_solomon.3.2" />
+        <verse sID="rlxx_song_of_solomon.3.3" osisID="rlxx_song_of_solomon.3.3" />εὕροσάν με οἱ τηροῦντες οἱ κυκλοῦντες ἐν τῇ πόλει Μὴ ὃν ἠγάπησεν ἡ ψυχή μου εἴδετε;<verse eID="rlxx_song_of_solomon.3.3" />
+        <verse sID="rlxx_song_of_solomon.3.4" osisID="rlxx_song_of_solomon.3.4" />ὡς μικρὸν ὅτε παρῆλθον ἀπ' αὐτῶν, ἕως οὗ εὗρον ὃν ἠγάπησεν ἡ ψυχή μου· ἐκράτησα αὐτὸν καὶ οὐκ ἀφήσω αὐτόν, ἕως οὗ εἰσήγαγον αὐτὸν εἰς οἶκον μητρός μου καὶ εἰς ταμίειον τῆς συλλαβούσης με.<verse eID="rlxx_song_of_solomon.3.4" />
+        <verse sID="rlxx_song_of_solomon.3.5" osisID="rlxx_song_of_solomon.3.5" />ὥρκισα ὑμᾶς, θυγατέρες Ιερουσαλημ, ἐν ταῖς δυνάμεσιν καὶ ἐν ταῖς ἰσχύσεσιν τοῦ ἀγροῦ, ἐὰν ἐγείρητε καὶ ἐξεγείρητε τὴν ἀγάπην, ἕως ἂν θελήσῃ.<verse eID="rlxx_song_of_solomon.3.5" />
+        <verse sID="rlxx_song_of_solomon.3.6" osisID="rlxx_song_of_solomon.3.6" />Τίς αὕτη ἡ ἀναβαίνουσα ἀπὸ τῆς ἐρήμου ὡς στελέχη καπνοῦ τεθυμιαμένη σμύρναν καὶ λίβανον ἀπὸ πάντων κονιορτῶν μυρεψοῦ;<verse eID="rlxx_song_of_solomon.3.6" />
+        <verse sID="rlxx_song_of_solomon.3.7" osisID="rlxx_song_of_solomon.3.7" />ἰδοὺ ἡ κλίνη τοῦ Σαλωμων, ἑξήκοντα δυνατοὶ κύκλῳ αὐτῆς ἀπὸ δυνατῶν Ισραηλ,<verse eID="rlxx_song_of_solomon.3.7" />
+        <verse sID="rlxx_song_of_solomon.3.8" osisID="rlxx_song_of_solomon.3.8" />πάντες κατέχοντες ῥομφαίαν δεδιδαγμένοι πόλεμον, ἀνὴρ ῥομφαία αὐτοῦ ἐπὶ μηρὸν αὐτοῦ ἀπὸ θάμβους ἐν νυξίν.<verse eID="rlxx_song_of_solomon.3.8" />
+        <verse sID="rlxx_song_of_solomon.3.9" osisID="rlxx_song_of_solomon.3.9" />φορεῖον ἐποίησεν ἑαυτῷ ὁ βασιλεὺς Σαλωμων ἀπὸ ξύλων τοῦ Λιβάνου,<verse eID="rlxx_song_of_solomon.3.9" />
+        <verse sID="rlxx_song_of_solomon.3.10" osisID="rlxx_song_of_solomon.3.10" />στύλους αὐτοῦ ἐποίησεν ἀργύριον καὶ ἀνάκλιτον αὐτοῦ χρύσεον, ἐπίβασις αὐτοῦ πορφυρᾶ, ἐντὸς αὐτοῦ λιθόστρωτον, ἀγάπην ἀπὸ θυγατέρων Ιερουσαλημ.<verse eID="rlxx_song_of_solomon.3.10" />
+        <verse sID="rlxx_song_of_solomon.3.11" osisID="rlxx_song_of_solomon.3.11" />ἐξέλθατε καὶ ἴδετε ἐν τῷ βασιλεῖ Σαλωμων ἐν τῷ στεφάνῳ, ᾧ ἐστεφάνωσεν αὐτὸν ἡ μήτηρ αὐτοῦ ἐν ἡμέρᾳ νυμφεύσεως αὐτοῦ καὶ ἐν ἡμέρᾳ εὐφροσύνης καρδίας αὐτοῦ.<verse eID="rlxx_song_of_solomon.3.11" />
+      </p>
+      <chapter eID="rlxx_song_of_solomon.3" />
+      <chapter sID="rlxx_song_of_solomon.4" osisID="rlxx_song_of_solomon.4" />
+      <title>Chapter 4</title>
+      <p>
+        <verse sID="rlxx_song_of_solomon.4.1" osisID="rlxx_song_of_solomon.4.1" />Ἰδοὺ εἶ καλή, ἡ πλησίον μου, ἰδοὺ εἶ καλή. ὀφθαλμοί σου περιστεραὶ ἐκτὸς τῆς σιωπήσεώς σου. τρίχωμά σου ὡς ἀγέλαι τῶν αἰγῶν, αἳ ἀπεκαλύφθησαν ἀπὸ τοῦ Γαλααδ.<verse eID="rlxx_song_of_solomon.4.1" />
+        <verse sID="rlxx_song_of_solomon.4.2" osisID="rlxx_song_of_solomon.4.2" />ὀδόντες σου ὡς ἀγέλαι τῶν κεκαρμένων, αἳ ἀνέβησαν ἀπὸ τοῦ λουτροῦ, αἱ πᾶσαι διδυμεύουσαι, καὶ ἀτεκνοῦσα οὐκ ἔστιν ἐν αὐταῖς.<verse eID="rlxx_song_of_solomon.4.2" />
+        <verse sID="rlxx_song_of_solomon.4.3" osisID="rlxx_song_of_solomon.4.3" />ὡς σπαρτίον τὸ κόκκινον χείλη σου, καὶ ἡ λαλιά σου ὡραία. ὡς λέπυρον τῆς ῥόας μῆλόν σου ἐκτὸς τῆς σιωπήσεώς σου.<verse eID="rlxx_song_of_solomon.4.3" />
+        <verse sID="rlxx_song_of_solomon.4.4" osisID="rlxx_song_of_solomon.4.4" />ὡς πύργος Δαυιδ τράχηλός σου ὁ ᾠκοδομημένος εἰς θαλπιωθ· χίλιοι θυρεοὶ κρέμανται ἐπ' αὐτόν, πᾶσαι βολίδες τῶν δυνατῶν.<verse eID="rlxx_song_of_solomon.4.4" />
+        <verse sID="rlxx_song_of_solomon.4.5" osisID="rlxx_song_of_solomon.4.5" />δύο μαστοί σου ὡς δύο νεβροὶ δίδυμοι δορκάδος οἱ νεμόμενοι ἐν κρίνοις.<verse eID="rlxx_song_of_solomon.4.5" />
+        <verse sID="rlxx_song_of_solomon.4.6" osisID="rlxx_song_of_solomon.4.6" />ἕως οὗ διαπνεύσῃ ἡ ἡμέρα καὶ κινηθῶσιν αἱ σκιαί, πορεύσομαι ἐμαυτῷ πρὸς τὸ ὄρος τῆς σμύρνης καὶ πρὸς τὸν βουνὸν τοῦ Λιβάνου. ὅλη καλὴ εἶ, ἡ πλησίον μου, καὶ μῶμος οὐκ ἔστιν ἐν σοί.<verse eID="rlxx_song_of_solomon.4.6" />
+        <verse sID="rlxx_song_of_solomon.4.8" osisID="rlxx_song_of_solomon.4.8" />Δεῦρο ἀπὸ Λιβάνου, νύμφη, δεῦρο ἀπὸ Λιβάνου· ἐλεύσῃ καὶ διελεύσῃ ἀπὸ ἀρχῆς πίστεως, ἀπὸ κεφαλῆς Σανιρ καὶ Ερμων, ἀπὸ μανδρῶν λεόντων, ἀπὸ ὀρέων παρδάλεων.<verse eID="rlxx_song_of_solomon.4.8" />
+        <verse sID="rlxx_song_of_solomon.4.9" osisID="rlxx_song_of_solomon.4.9" />Ἐκαρδίωσας ἡμᾶς, ἀδελφή μου νύμφη, ἐκαρδίωσας ἡμᾶς ἑνὶ ἀπὸ ὀφθαλμῶν σου, ἐν μιᾷ ἐνθέματι τραχήλων σου.<verse eID="rlxx_song_of_solomon.4.9" />
+        <verse sID="rlxx_song_of_solomon.4.10" osisID="rlxx_song_of_solomon.4.10" />τί ἐκαλλιώθησαν μαστοί σου, ἀδελφή μου νύμφη, τί ἐκαλλιώθησαν μαστοί σου ἀπὸ οἴνου; καὶ ὀσμὴ ἱματίων σου ὑπὲρ πάντα τὰ ἀρώματα.<verse eID="rlxx_song_of_solomon.4.10" />
+        <verse sID="rlxx_song_of_solomon.4.11" osisID="rlxx_song_of_solomon.4.11" />κηρίον ἀποστάζουσιν χείλη σου, νύμφη, μέλι καὶ γάλα ὑπὸ τὴν γλῶσσάν σου, καὶ ὀσμὴ ἱματίων σου ὡς ὀσμὴ Λιβάνου.<verse eID="rlxx_song_of_solomon.4.11" />
+        <verse sID="rlxx_song_of_solomon.4.12" osisID="rlxx_song_of_solomon.4.12" />Κῆπος κεκλεισμένος ἀδελφή μου νύμφη, κῆπος κεκλεισμένος, πηγὴ ἐσφραγισμένη·<verse eID="rlxx_song_of_solomon.4.12" />
+        <verse sID="rlxx_song_of_solomon.4.13" osisID="rlxx_song_of_solomon.4.13" />ἀποστολαί σου παράδεισος ῥοῶν μετὰ καρποῦ ἀκροδρύων, κύπροι μετὰ νάρδων,<verse eID="rlxx_song_of_solomon.4.13" />
+        <verse sID="rlxx_song_of_solomon.4.14" osisID="rlxx_song_of_solomon.4.14" />νάρδος καὶ κρόκος, κάλαμος καὶ κιννάμωμον μετὰ πάντων ξύλων τοῦ Λιβάνου, σμύρνα αλωθ μετὰ πάντων πρώτων μύρων,<verse eID="rlxx_song_of_solomon.4.14" />
+        <verse sID="rlxx_song_of_solomon.4.15" osisID="rlxx_song_of_solomon.4.15" />πηγὴ κήπων, φρέαρ ὕδατος ζῶντος καὶ ῥοιζοῦντος ἀπὸ τοῦ Λιβάνου.<verse eID="rlxx_song_of_solomon.4.15" />
+        <verse sID="rlxx_song_of_solomon.4.16" osisID="rlxx_song_of_solomon.4.16" />Ἐξεγέρθητι, βορρᾶ, καὶ ἔρχου, νότε, διάπνευσον κῆπόν μου, καὶ ῥευσάτωσαν ἀρώματά μου· καταβήτω ἀδελφιδός μου εἰς κῆπον αὐτοῦ καὶ φαγέτω καρπὸν ἀκροδρύων αὐτοῦ.<verse eID="rlxx_song_of_solomon.4.16" />
+      </p>
+      <chapter eID="rlxx_song_of_solomon.4" />
+      <chapter sID="rlxx_song_of_solomon.5" osisID="rlxx_song_of_solomon.5" />
+      <title>Chapter 5</title>
+      <p>
+        <verse sID="rlxx_song_of_solomon.5.1" osisID="rlxx_song_of_solomon.5.1" />Εἰσῆλθον εἰς κῆπόν μου, ἀδελφή μου νύμφη, ἐτρύγησα σμύρναν μου μετὰ ἀρωμάτων μου, ἔφαγον ἄρτον μου μετὰ μέλιτός μου, ἔπιον οἶνόν μου μετὰ γάλακτός μου· φάγετε, πλησίοι, καὶ πίετε καὶ μεθύσθητε, ἀδελφοί,<verse eID="rlxx_song_of_solomon.5.1" />
+        <verse sID="rlxx_song_of_solomon.5.2" osisID="rlxx_song_of_solomon.5.2" />Ἐγὼ καθεύδω, καὶ ἡ καρδία μου ἀγρυπνεῖ. φωνὴ ἀδελφιδοῦ μου, κρούει ἐπὶ τὴν θύραν Ἄνοιξόν μοι, ἀδελφή μου, ἡ πλησίον μου, περιστερά μου, τελεία μου, ὅτι ἡ κεφαλή μου ἐπλήσθη δρόσου καὶ οἱ βόστρυχοί μου ψεκάδων νυκτός.<verse eID="rlxx_song_of_solomon.5.2" />
+        <verse sID="rlxx_song_of_solomon.5.3" osisID="rlxx_song_of_solomon.5.3" />Ἐξεδυσάμην τὸν χιτῶνά μου, πῶς ἐνδύσωμαι αὐτόν; ἐνιψάμην τοὺς πόδας μου, πῶς μολυνῶ αὐτούς;<verse eID="rlxx_song_of_solomon.5.3" />
+        <verse sID="rlxx_song_of_solomon.5.4" osisID="rlxx_song_of_solomon.5.4" />ἀδελφιδός μου ἀπέστειλεν χεῖρα αὐτοῦ ἀπὸ τῆς ὀπῆς, καὶ ἡ κοιλία μου ἐθροήθη ἐπ' αὐτόν.<verse eID="rlxx_song_of_solomon.5.4" />
+        <verse sID="rlxx_song_of_solomon.5.5" osisID="rlxx_song_of_solomon.5.5" />ἀνέστην ἐγὼ ἀνοῖξαι τῷ ἀδελφιδῷ μου, χεῖρές μου ἔσταξαν σμύρναν, δάκτυλοί μου σμύρναν πλήρη ἐπὶ χεῖρας τοῦ κλείθρου.<verse eID="rlxx_song_of_solomon.5.5" />
+        <verse sID="rlxx_song_of_solomon.5.6" osisID="rlxx_song_of_solomon.5.6" />ἤνοιξα ἐγὼ τῷ ἀδελφιδῷ μου, ἀδελφιδός μου παρῆλθεν· ψυχή μου ἐξῆλθεν ἐν λόγῳ αὐτοῦ, ἐζήτησα αὐτὸν καὶ οὐχ εὗρον αὐτόν, ἐκάλεσα αὐτόν, καὶ οὐχ ὑπήκουσέν μου.<verse eID="rlxx_song_of_solomon.5.6" />
+        <verse sID="rlxx_song_of_solomon.5.7" osisID="rlxx_song_of_solomon.5.7" />εὕροσάν με οἱ φύλακες οἱ κυκλοῦντες ἐν τῇ πόλει, ἐπάταξάν με, ἐτραυμάτισάν με, ἦραν τὸ θέριστρόν μου ἀπ' ἐμοῦ φύλακες τῶν τειχέων.<verse eID="rlxx_song_of_solomon.5.7" />
+        <verse sID="rlxx_song_of_solomon.5.8" osisID="rlxx_song_of_solomon.5.8" />ὥρκισα ὑμᾶς, θυγατέρες Ιερουσαλημ, ἐν ταῖς δυνάμεσιν καὶ ἐν ταῖς ἰσχύσεσιν τοῦ ἀγροῦ, ἐὰν εὕρητε τὸν ἀδελφιδόν μου, τί ἀπαγγείλητε αὐτῷ; ὅτι τετρωμένη ἀγάπης εἰμὶ ἐγώ.<verse eID="rlxx_song_of_solomon.5.8" />
+        <verse sID="rlxx_song_of_solomon.5.9" osisID="rlxx_song_of_solomon.5.9" />Τί ἀδελφιδός σου ἀπὸ ἀδελφιδοῦ, ἡ καλὴ ἐν γυναιξίν, τί ἀδελφιδός σου ἀπὸ ἀδελφιδοῦ, ὅτι οὕτως ὥρκισας ἡμᾶς;<verse eID="rlxx_song_of_solomon.5.9" />
+        <verse sID="rlxx_song_of_solomon.5.10" osisID="rlxx_song_of_solomon.5.10" />Ἀδελφιδός μου λευκὸς καὶ πυρρός, ἐκλελοχισμένος ἀπὸ μυριάδων·<verse eID="rlxx_song_of_solomon.5.10" />
+        <verse sID="rlxx_song_of_solomon.5.11" osisID="rlxx_song_of_solomon.5.11" />κεφαλὴ αὐτοῦ χρυσίον καὶ φαζ, βόστρυχοι αὐτοῦ ἐλάται, μέλανες ὡς κόραξ,<verse eID="rlxx_song_of_solomon.5.11" />
+        <verse sID="rlxx_song_of_solomon.5.12" osisID="rlxx_song_of_solomon.5.12" />ὀφθαλμοὶ αὐτοῦ ὡς περιστεραὶ ἐπὶ πληρώματα ὑδάτων λελουσμέναι ἐν γάλακτι καθήμεναι ἐπὶ πληρώματα ὑδάτων,<verse eID="rlxx_song_of_solomon.5.12" />
+        <verse sID="rlxx_song_of_solomon.5.13" osisID="rlxx_song_of_solomon.5.13" />σιαγόνες αὐτοῦ ὡς φιάλαι τοῦ ἀρώματος φύουσαι μυρεψικά, χείλη αὐτοῦ κρίνα στάζοντα σμύρναν πλήρη,<verse eID="rlxx_song_of_solomon.5.13" />
+        <verse sID="rlxx_song_of_solomon.5.14" osisID="rlxx_song_of_solomon.5.14" />χεῖρες αὐτοῦ τορευταὶ χρυσαῖ πεπληρωμέναι θαρσις, κοιλία αὐτοῦ πυξίον ἐλεφάντινον ἐπὶ λίθου σαπφείρου,<verse eID="rlxx_song_of_solomon.5.14" />
+        <verse sID="rlxx_song_of_solomon.5.15" osisID="rlxx_song_of_solomon.5.15" />κνῆμαι αὐτοῦ στῦλοι μαρμάρινοι τεθεμελιωμένοι ἐπὶ βάσεις χρυσᾶς, εἶδος αὐτοῦ ὡς Λίβανος, ἐκλεκτὸς ὡς κέδροι,<verse eID="rlxx_song_of_solomon.5.15" />
+        <verse sID="rlxx_song_of_solomon.5.16" osisID="rlxx_song_of_solomon.5.16" />φάρυγξ αὐτοῦ γλυκασμοὶ καὶ ὅλος ἐπιθυμία· οὗτος ἀδελφιδός μου, καὶ οὗτος πλησίον μου, θυγατέρες Ιερουσαλημ.<verse eID="rlxx_song_of_solomon.5.16" />
+      </p>
+      <chapter eID="rlxx_song_of_solomon.5" />
+      <chapter sID="rlxx_song_of_solomon.6" osisID="rlxx_song_of_solomon.6" />
+      <title>Chapter 6</title>
+      <p>
+        <verse sID="rlxx_song_of_solomon.6.1" osisID="rlxx_song_of_solomon.6.1" />Ποῦ ἀπῆλθεν ὁ ἀδελφιδός σου, ἡ καλὴ ἐν γυναιξίν; ποῦ ἀπέβλεψεν ὁ ἀδελφιδός σου; καὶ ζητήσομεν αὐτὸν μετὰ σοῦ.<verse eID="rlxx_song_of_solomon.6.1" />
+        <verse sID="rlxx_song_of_solomon.6.2" osisID="rlxx_song_of_solomon.6.2" />Ἀδελφιδός μου κατέβη εἰς κῆπον αὐτοῦ εἰς φιάλας τοῦ ἀρώματος ποιμαίνειν ἐν κήποις καὶ συλλέγειν κρίνα·<verse eID="rlxx_song_of_solomon.6.2" />
+        <verse sID="rlxx_song_of_solomon.6.3" osisID="rlxx_song_of_solomon.6.3" />ἐγὼ τῷ ἀδελφιδῷ μου, καὶ ἀδελφιδός μου ἐμοὶ ὁ ποιμαίνων ἐν τοῖς κρίνοις.<verse eID="rlxx_song_of_solomon.6.3" />
+        <verse sID="rlxx_song_of_solomon.6.4" osisID="rlxx_song_of_solomon.6.4" />Καλὴ εἶ, ἡ πλησίον μου, ὡς εὐδοκία, ὡραία ὡς Ιερουσαλημ, θάμβος ὡς τεταγμέναι.<verse eID="rlxx_song_of_solomon.6.4" />
+        <verse sID="rlxx_song_of_solomon.6.5" osisID="rlxx_song_of_solomon.6.5" />ἀπόστρεψον ὀφθαλμούς σου ἀπεναντίον μου, ὅτι αὐτοὶ ἀνεπτέρωσάν με. τρίχωμά σου ὡς ἀγέλαι τῶν αἰγῶν, αἳ ἀνεφάνησαν ἀπὸ τοῦ Γαλααδ.<verse eID="rlxx_song_of_solomon.6.5" />
+        <verse sID="rlxx_song_of_solomon.6.6" osisID="rlxx_song_of_solomon.6.6" />ὀδόντες σου ὡς ἀγέλαι τῶν κεκαρμένων, αἳ ἀνέβησαν ἀπὸ τοῦ λουτροῦ, αἱ πᾶσαι διδυμεύουσαι, καὶ ἀτεκνοῦσα οὐκ ἔστιν ἐν αὐταῖς.<verse eID="rlxx_song_of_solomon.6.6" />
+        <verse sID="rlxx_song_of_solomon.6.7" osisID="rlxx_song_of_solomon.6.7" />ὡς σπαρτίον τὸ κόκκινον χείλη σου, καὶ ἡ λαλιά σου ὡραία. ὡς λέπυρον τῆς ῥόας μῆλόν σου ἐκτὸς τῆς σιωπήσεώς σου.<verse eID="rlxx_song_of_solomon.6.7" />
+        <verse sID="rlxx_song_of_solomon.6.8" osisID="rlxx_song_of_solomon.6.8" />Ἑξήκοντά εἰσιν βασίλισσαι, καὶ ὀγδοήκοντα παλλακαί, καὶ νεάνιδες ὧν οὐκ ἔστιν ἀριθμός.<verse eID="rlxx_song_of_solomon.6.8" />
+        <verse sID="rlxx_song_of_solomon.6.9" osisID="rlxx_song_of_solomon.6.9" />μία ἐστὶν περιστερά μου, τελεία μου, μία ἐστὶν τῇ μητρὶ αὐτῆς, ἐκλεκτή ἐστιν τῇ τεκούσῃ αὐτῆς. εἴδοσαν αὐτὴν θυγατέρες καὶ μακαριοῦσιν αὐτήν, βασίλισσαι καὶ παλλακαὶ καὶ αἰνέσουσιν αὐτήν.<verse eID="rlxx_song_of_solomon.6.9" />
+        <verse sID="rlxx_song_of_solomon.6.10" osisID="rlxx_song_of_solomon.6.10" />Τίς αὕτη ἡ ἐκκύπτουσα ὡσεὶ ὄρθρος, καλὴ ὡς σελήνη, ἐκλεκτὴ ὡς ὁ ἥλιος, θάμβος ὡς τεταγμέναι;<verse eID="rlxx_song_of_solomon.6.10" />
+        <verse sID="rlxx_song_of_solomon.6.11" osisID="rlxx_song_of_solomon.6.11" />Εἰς κῆπον καρύας κατέβην ἰδεῖν ἐν γενήμασιν τοῦ χειμάρρου, ἰδεῖν εἰ ἤνθησεν ἡ ἄμπελος, ἐξήνθησαν αἱ ῥόαι· ἐκεῖ δώσω τοὺς μαστούς μου σοί.<verse eID="rlxx_song_of_solomon.6.11" />
+        <verse sID="rlxx_song_of_solomon.6.12" osisID="rlxx_song_of_solomon.6.12" />οὐκ ἔγνω ἡ ψυχή μου· ἔθετό με ἅρματα Αμιναδαβ.<verse eID="rlxx_song_of_solomon.6.12" />
+      </p>
+      <chapter eID="rlxx_song_of_solomon.6" />
+      <chapter sID="rlxx_song_of_solomon.7" osisID="rlxx_song_of_solomon.7" />
+      <title>Chapter 7</title>
+      <p>
+        <verse sID="rlxx_song_of_solomon.7.1" osisID="rlxx_song_of_solomon.7.1" />Ἐπίστρεφε ἐπίστρεφε, ἡ Σουλαμῖτις, ἐπίστρεφε ἐπίστρεφε, καὶ ὀψόμεθα ἐν σοί. Τί ὄψεσθε ἐν τῇ Σουλαμίτιδι; ἡ ἐρχομένη ὡς χοροὶ τῶν παρεμβολῶν. Τί ὡραιώθησαν διαβήματά σου ἐν ὑποδήμασιν, θύγατερ Ναδαβ; ῥυθμοὶ μηρῶν σου ὅμοιοι ὁρμίσκοις ἔργῳ χειρῶν τεχνίτου·<verse eID="rlxx_song_of_solomon.7.1" />
+        <verse sID="rlxx_song_of_solomon.7.3" osisID="rlxx_song_of_solomon.7.3" />ὀμφαλός σου κρατὴρ τορευτὸς μὴ ὑστερούμενος κρᾶμα· κοιλία σου θιμωνιὰ σίτου πεφραγμένη ἐν κρίνοις·<verse eID="rlxx_song_of_solomon.7.3" />
+        <verse sID="rlxx_song_of_solomon.7.4" osisID="rlxx_song_of_solomon.7.4" />δύο μαστοί σου ὡς δύο νεβροὶ δίδυμοι δορκάδος·<verse eID="rlxx_song_of_solomon.7.4" />
+        <verse sID="rlxx_song_of_solomon.7.5" osisID="rlxx_song_of_solomon.7.5" />τράχηλός σου ὡς πύργος ἐλεφάντινος· ὀφθαλμοί σου ὡς λίμναι ἐν Εσεβων ἐν πύλαις θυγατρὸς πολλῶν· μυκτήρ σου ὡς πύργος τοῦ Λιβάνου σκοπεύων πρόσωπον Δαμασκοῦ·<verse eID="rlxx_song_of_solomon.7.5" />
+        <verse sID="rlxx_song_of_solomon.7.6" osisID="rlxx_song_of_solomon.7.6" />κεφαλή σου ἐπὶ σὲ ὡς Κάρμηλος, καὶ πλόκιον κεφαλῆς σου ὡς πορφύρα, βασιλεὺς δεδεμένος ἐν παραδρομαῖς.<verse eID="rlxx_song_of_solomon.7.6" />
+        <verse sID="rlxx_song_of_solomon.7.7" osisID="rlxx_song_of_solomon.7.7" />Τί ὡραιώθης καὶ τί ἡδύνθης, ἀγάπη, ἐν τρυφαῖς σου;<verse eID="rlxx_song_of_solomon.7.7" />
+        <verse sID="rlxx_song_of_solomon.7.8" osisID="rlxx_song_of_solomon.7.8" />τοῦτο μέγεθός σου ὡμοιώθη τῷ φοίνικι καὶ οἱ μαστοί σου τοῖς βότρυσιν.<verse eID="rlxx_song_of_solomon.7.8" />
+        <verse sID="rlxx_song_of_solomon.7.9" osisID="rlxx_song_of_solomon.7.9" />εἶπα Ἀναβήσομαι ἐν τῷ φοίνικι, κρατήσω τῶν ὕψεων αὐτοῦ, καὶ ἔσονται δὴ μαστοί σου ὡς βότρυες τῆς ἀμπέλου καὶ ὀσμὴ ῥινός σου ὡς μῆλα<verse eID="rlxx_song_of_solomon.7.9" />
+        <verse sID="rlxx_song_of_solomon.7.10" osisID="rlxx_song_of_solomon.7.10" />καὶ λάρυγξ σου ὡς οἶνος ὁ ἀγαθὸς πορευόμενος τῷ ἀδελφιδῷ μου εἰς εὐθύθητα ἱκανούμενος χείλεσίν μου καὶ ὀδοῦσιν.<verse eID="rlxx_song_of_solomon.7.10" />
+        <verse sID="rlxx_song_of_solomon.7.11" osisID="rlxx_song_of_solomon.7.11" />Ἐγὼ τῷ ἀδελφιδῷ μου, καὶ ἐπ' ἐμὲ ἡ ἐπιστροφὴ αὐτοῦ.<verse eID="rlxx_song_of_solomon.7.11" />
+        <verse sID="rlxx_song_of_solomon.7.12" osisID="rlxx_song_of_solomon.7.12" />ἐλθέ, ἀδελφιδέ μου, ἐξέλθωμεν εἰς ἀγρόν, αὐλισθῶμεν ἐν κώμαις·<verse eID="rlxx_song_of_solomon.7.12" />
+        <verse sID="rlxx_song_of_solomon.7.13" osisID="rlxx_song_of_solomon.7.13" />ὀρθρίσωμεν εἰς ἀμπελῶνας, ἴδωμεν εἰ ἤνθησεν ἡ ἄμπελος, ἤνθησεν ὁ κυπρισμός, ἤνθησαν αἱ ῥόαι· ἐκεῖ δώσω τοὺς μαστούς μου σοί.<verse eID="rlxx_song_of_solomon.7.13" />
+        <verse sID="rlxx_song_of_solomon.7.14" osisID="rlxx_song_of_solomon.7.14" />οἱ μανδραγόραι ἔδωκαν ὀσμήν, καὶ ἐπὶ θύραις ἡμῶν πάντα ἀκρόδρυα, νέα πρὸς παλαιά, ἀδελφιδέ μου, ἐτήρησά σοι.<verse eID="rlxx_song_of_solomon.7.14" />
+      </p>
+      <chapter eID="rlxx_song_of_solomon.7" />
+      <chapter sID="rlxx_song_of_solomon.8" osisID="rlxx_song_of_solomon.8" />
+      <title>Chapter 8</title>
+      <p>
+        <verse sID="rlxx_song_of_solomon.8.1" osisID="rlxx_song_of_solomon.8.1" />Τίς δῴη σε ἀδελφιδόν μου θηλάζοντα μαστοὺς μητρός μου; εὑροῦσά σε ἔξω φιλήσω σε, καί γε οὐκ ἐξουδενώσουσίν μοι.<verse eID="rlxx_song_of_solomon.8.1" />
+        <verse sID="rlxx_song_of_solomon.8.2" osisID="rlxx_song_of_solomon.8.2" />παραλήμψομαί σε, εἰσάξω σε εἰς οἶκον μητρός μου καὶ εἰς ταμίειον τῆς συλλαβούσης με· ποτιῶ σε ἀπὸ οἴνου τοῦ μυρεψικοῦ, ἀπὸ νάματος ῥοῶν μου.<verse eID="rlxx_song_of_solomon.8.2" />
+        <verse sID="rlxx_song_of_solomon.8.3" osisID="rlxx_song_of_solomon.8.3" />Εὐώνυμος αὐτοῦ ὑπὸ τὴν κεφαλήν μου, καὶ ἡ δεξιὰ αὐτοῦ περιλήμψεταί με.<verse eID="rlxx_song_of_solomon.8.3" />
+        <verse sID="rlxx_song_of_solomon.8.4" osisID="rlxx_song_of_solomon.8.4" />ὥρκισα ὑμᾶς, θυγατέρες Ιερουσαλημ, ἐν ταῖς δυνάμεσιν καὶ ἐν ταῖς ἰσχύσεσιν τοῦ ἀγροῦ, τί ἐγείρητε καὶ τί ἐξεγείρητε τὴν ἀγάπην, ἕως ἂν θελήσῃ.<verse eID="rlxx_song_of_solomon.8.4" />
+        <verse sID="rlxx_song_of_solomon.8.5" osisID="rlxx_song_of_solomon.8.5" />Τίς αὕτη ἡ ἀναβαίνουσα λελευκανθισμένη ἐπιστηριζομένη ἐπὶ τὸν ἀδελφιδὸν αὐτῆς; Ὑπὸ μῆλον ἐξήγειρά σε· ἐκεῖ ὠδίνησέν σε ἡ μήτηρ σου, ἐκεῖ ὠδίνησέν σε ἡ τεκοῦσά σου.<verse eID="rlxx_song_of_solomon.8.5" />
+        <verse sID="rlxx_song_of_solomon.8.6" osisID="rlxx_song_of_solomon.8.6" />Θές με ὡς σφραγῖδα ἐπὶ τὴν καρδίαν σου, ὡς σφραγῖδα ἐπὶ τὸν βραχίονά σου· ὅτι κραταιὰ ὡς θάνατος ἀγάπη, σκληρὸς ὡς ᾅδης ζῆλος· περίπτερα αὐτῆς περίπτερα πυρός, φλόγες αὐτῆς· ὕδωρ πολὺ οὐ δυνήσεται σβέσαι τὴν ἀγάπην, καὶ ποταμοὶ οὐ συγκλύσουσιν αὐτήν· ἐὰν δῷ ἀνὴρ τὸν πάντα βίον αὐτοῦ ἐν τῇ ἀγάπῃ, ἐξουδενώσει ἐξουδενώσουσιν αὐτόν.<verse eID="rlxx_song_of_solomon.8.6" />
+        <verse sID="rlxx_song_of_solomon.8.8" osisID="rlxx_song_of_solomon.8.8" />Ἀδελφὴ ἡμῖν μικρὰ καὶ μαστοὺς οὐκ ἔχει· τί ποιήσωμεν τῇ ἀδελφῇ ἡμῶν ἐν ἡμέρᾳ, ᾗ ἐὰν λαληθῇ ἐν αὐτῇ;<verse eID="rlxx_song_of_solomon.8.8" />
+        <verse sID="rlxx_song_of_solomon.8.9" osisID="rlxx_song_of_solomon.8.9" />εἰ τεῖχός ἐστιν, οἰκοδομήσωμεν ἐπ' αὐτὴν ἐπάλξεις ἀργυρᾶς· καὶ εἰ θύρα ἐστίν, διαγράψωμεν ἐπ' αὐτὴν σανίδα κεδρίνην.<verse eID="rlxx_song_of_solomon.8.9" />
+        <verse sID="rlxx_song_of_solomon.8.10" osisID="rlxx_song_of_solomon.8.10" />Ἐγὼ τεῖχος, καὶ μαστοί μου ὡς πύργοι· ἐγὼ ἤμην ἐν ὀφθαλμοῖς αὐτοῦ ὡς εὑρίσκουσα εἰρήνην.<verse eID="rlxx_song_of_solomon.8.10" />
+        <verse sID="rlxx_song_of_solomon.8.11" osisID="rlxx_song_of_solomon.8.11" />Ἀμπελὼν ἐγενήθη τῷ Σαλωμων ἐν Βεελαμων· ἔδωκεν τὸν ἀμπελῶνα αὐτοῦ τοῖς τηροῦσιν, ἀνὴρ οἴσει ἐν καρπῷ αὐτοῦ χιλίους ἀργυρίου.<verse eID="rlxx_song_of_solomon.8.11" />
+        <verse sID="rlxx_song_of_solomon.8.12" osisID="rlxx_song_of_solomon.8.12" />ἀμπελών μου ἐμὸς ἐνώπιόν μου· οἱ χίλιοι σοί, Σαλωμων, καὶ οἱ διακόσιοι τοῖς τηροῦσι τὸν καρπὸν αὐτοῦ.<verse eID="rlxx_song_of_solomon.8.12" />
+        <verse sID="rlxx_song_of_solomon.8.13" osisID="rlxx_song_of_solomon.8.13" />Ὁ καθήμενος ἐν κήποις, ἑταῖροι προσέχοντες τῇ φωνῇ σου· ἀκούτισόν με.<verse eID="rlxx_song_of_solomon.8.13" />
+        <verse sID="rlxx_song_of_solomon.8.14" osisID="rlxx_song_of_solomon.8.14" />Φύγε, ἀδελφιδέ μου, καὶ ὁμοιώθητι τῇ δορκάδι ἢ τῷ νεβρῷ τῶν ἐλάφων ἐπὶ ὄρη ἀρωμάτων.<verse eID="rlxx_song_of_solomon.8.14" />
+      </p>
+      <chapter eID="rlxx_song_of_solomon.8" />
+    </div>
+  </osisText>
+</osis>

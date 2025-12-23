@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="rlxx_obadiah" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="rlxx_obadiah">
+        <title>Obadiah (Duodecim prophetae)</title>
+        <creator>ITSERR-Italian Strengthening of the ESFRI RI RESILIENCE: WP8-uBIQUity; PRIN 2022- Resilient Septuagint. An Initial Exploration of the Semantics of Killing and Healing in the Septuagint and its Reception in Patristic and Late Antique Sources (3rd cent. BCE – 5th cent. CE)</creator>
+        <subject>Obadiah</subject>
+        <date event="original">3rd-1st cent. BCE</date>
+        <date event="eversion">2025-07-23</date>
+        <date event="edition">2006 (1rst ed.: A. Rahlfs, 1935)</date>
+        <description type="x-edition">A. Rahlfs - R. Hanhart (eds.), Septuaginta: Id est Vetus
+                    Testamentum graece iuxta LXX interpretes. Editio altera, Stuttgart: Deutsche
+                    Bibelgesellschaft, 2006 (1rst ed.: A. Rahlfs, 1935)</description>
+        <description type="x-apparatus_n">1</description>
+        <identifier type="ISBN">978-3-438-05119-6</identifier>
+        <relation type="x-isAPartOf">R-LXX</relation>
+        <rights>© Deutsche Bibelgesellschaft, Stuttgart. All rights reserved.</rights>
+        <refSystem>Greek: Scriptures</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="rlxx_obadiah">
+      <title>ΑΒΔΙΟΥ</title>
+      <chapter sID="rlxx_obadiah.1" osisID="rlxx_obadiah.1" />
+      <title>Chapter 1</title>
+      <p>
+        <verse sID="rlxx_obadiah.1.1" osisID="rlxx_obadiah.1.1" />Ὅρασις Αβδιου. Τάδε λέγει κύριος ὁ θεὸς τῇ Ιδουμαίᾳ Ἀκοὴν ἤκουσα παρὰ κυρίου, καὶ περιοχὴν εἰς τὰ ἔθνη ἐξαπέστειλεν Ἀνάστητε καὶ ἐξαναστῶμεν ἐπ' αὐτὴν εἰς πόλεμον.<verse eID="rlxx_obadiah.1.1" />
+        <verse sID="rlxx_obadiah.1.2" osisID="rlxx_obadiah.1.2" />ἰδοὺ ὀλιγοστὸν δέδωκά σε ἐν τοῖς ἔθνεσιν, ἠτιμωμένος σὺ εἶ σφόδρα.<verse eID="rlxx_obadiah.1.2" />
+        <verse sID="rlxx_obadiah.1.3" osisID="rlxx_obadiah.1.3" />ὑπερηφανία τῆς καρδίας σου ἐπῆρέν σε κατασκηνοῦντα ἐν ταῖς ὀπαῖς τῶν πετρῶν, ὑψῶν κατοικίαν αὐτοῦ λέγων ἐν καρδίᾳ αὐτοῦ Τίς με κατάξει ἐπὶ τὴν γῆν;<verse eID="rlxx_obadiah.1.3" />
+        <verse sID="rlxx_obadiah.1.4" osisID="rlxx_obadiah.1.4" />ἐὰν μετεωρισθῇς ὡς ἀετὸς καὶ ἐὰν ἀνὰ μέσον τῶν ἄστρων θῇς νοσσιάν σου, ἐκεῖθεν κατάξω σε, λέγει κύριος.<verse eID="rlxx_obadiah.1.4" />
+        <verse sID="rlxx_obadiah.1.5" osisID="rlxx_obadiah.1.5" />εἰ κλέπται εἰσῆλθον πρὸς σὲ ἢ λῃσταὶ νυκτός, ποῦ ἂν ἀπερρίφης; οὐκ ἂν ἔκλεψαν τὰ ἱκανὰ ἑαυτοῖς; καὶ εἰ τρυγηταὶ εἰσῆλθον πρὸς σέ, οὐκ ἂν ὑπελίποντο ἐπιφυλλίδα;<verse eID="rlxx_obadiah.1.5" />
+        <verse sID="rlxx_obadiah.1.6" osisID="rlxx_obadiah.1.6" />πῶς ἐξηρευνήθη Ησαυ καὶ κατελήμφθη αὐτοῦ τὰ κεκρυμμένα.<verse eID="rlxx_obadiah.1.6" />
+        <verse sID="rlxx_obadiah.1.7" osisID="rlxx_obadiah.1.7" />ἕως τῶν ὁρίων σου ἐξαπέστειλάν σε πάντες οἱ ἄνδρες τῆς διαθήκης σου, ἀντέστησάν σοι ἠδυνάσθησαν πρὸς σὲ ἄνδρες εἰρηνικοί σου, ἔθηκαν ἔνεδρα ὑποκάτω σου, οὐκ ἔστιν σύνεσις αὐτοῖς.<verse eID="rlxx_obadiah.1.7" />
+        <verse sID="rlxx_obadiah.1.8" osisID="rlxx_obadiah.1.8" />ἐν ἐκείνῃ τῇ ἡμέρᾳ, λέγει κύριος, ἀπολῶ σοφοὺς ἐκ τῆς Ιδουμαίας καὶ σύνεσιν ἐξ ὄρους Ησαυ·<verse eID="rlxx_obadiah.1.8" />
+        <verse sID="rlxx_obadiah.1.9" osisID="rlxx_obadiah.1.9" />καὶ πτοηθήσονται οἱ μαχηταί σου οἱ ἐκ Θαιμαν, ὅπως ἐξαρθῇ ἄνθρωπος ἐξ ὄρους Ησαυ<verse eID="rlxx_obadiah.1.9" />
+        <verse sID="rlxx_obadiah.1.10" osisID="rlxx_obadiah.1.10" />διὰ τὴν σφαγὴν καὶ τὴν ἀσέβειαν τὴν εἰς τὸν ἀδελφόν σου Ιακωβ, καὶ καλύψει σε αἰσχύνη καὶ ἐξαρθήσῃ εἰς τὸν αἰῶνα.<verse eID="rlxx_obadiah.1.10" />
+        <verse sID="rlxx_obadiah.1.11" osisID="rlxx_obadiah.1.11" />Ἀφ' ἧς ἡμέρας ἀντέστης ἐξ ἐναντίας ἐν ἡμέρᾳ αἰχμαλωτευόντων ἀλλογενῶν δύναμιν αὐτοῦ καὶ ἀλλότριοι εἰσῆλθον εἰς πύλας αὐτοῦ καὶ ἐπὶ Ιερουσαλημ ἔβαλον κλήρους, καὶ σὺ ἦς ὡς εἷς ἐξ αὐτῶν.<verse eID="rlxx_obadiah.1.11" />
+        <verse sID="rlxx_obadiah.1.12" osisID="rlxx_obadiah.1.12" />καὶ μὴ ἐπίδῃς ἡμέραν ἀδελφοῦ σου ἐν ἡμέρᾳ ἀλλοτρίων καὶ μὴ ἐπιχαρῇς ἐπὶ τοὺς υἱοὺς Ιουδα ἐν ἡμέρᾳ ἀπωλείας αὐτῶν καὶ μὴ μεγαλορρημονήσῃς ἐν ἡμέρᾳ θλίψεως·<verse eID="rlxx_obadiah.1.12" />
+        <verse sID="rlxx_obadiah.1.13" osisID="rlxx_obadiah.1.13" />μηδὲ εἰσέλθῃς εἰς πύλας λαῶν ἐν ἡμέρᾳ πόνων αὐτῶν μηδὲ ἐπίδῃς καὶ σὺ τὴν συναγωγὴν αὐτῶν ἐν ἡμέρᾳ ὀλέθρου αὐτῶν μηδὲ συνεπιθῇ ἐπὶ τὴν δύναμιν αὐτῶν ἐν ἡμέρᾳ ἀπωλείας αὐτῶν·<verse eID="rlxx_obadiah.1.13" />
+        <verse sID="rlxx_obadiah.1.14" osisID="rlxx_obadiah.1.14" />μηδὲ ἐπιστῇς ἐπὶ τὰς διεκβολὰς αὐτῶν τοῦ ἐξολεθρεῦσαι τοὺς ἀνασῳζομένους αὐτῶν μηδὲ συγκλείσῃς τοὺς φεύγοντας ἐξ αὐτῶν ἐν ἡμέρᾳ θλίψεως.<verse eID="rlxx_obadiah.1.14" />
+        <verse sID="rlxx_obadiah.1.15" osisID="rlxx_obadiah.1.15" />διότι ἐγγὺς ἡμέρα κυρίου ἐπὶ πάντα τὰ ἔθνη· ὃν τρόπον ἐποίησας, οὕτως ἔσται σοι· τὸ ἀνταπόδομά σου ἀνταποδοθήσεται εἰς κεφαλήν σου·<verse eID="rlxx_obadiah.1.15" />
+        <verse sID="rlxx_obadiah.1.16" osisID="rlxx_obadiah.1.16" />διότι ὃν τρόπον ἔπιες ἐπὶ τὸ ὄρος τὸ ἅγιόν μου, πίονται πάντα τὰ ἔθνη οἶνον· πίονται καὶ καταβήσονται καὶ ἔσονται καθὼς οὐχ ὑπάρχοντες.<verse eID="rlxx_obadiah.1.16" />
+        <verse sID="rlxx_obadiah.1.17" osisID="rlxx_obadiah.1.17" />Ἐν δὲ τῷ ὄρει Σιων ἔσται ἡ σωτηρία, καὶ ἔσται ἅγιον· καὶ κατακληρονομήσουσιν ὁ οἶκος Ιακωβ τοὺς κατακληρονομήσαντας αὐτούς.<verse eID="rlxx_obadiah.1.17" />
+        <verse sID="rlxx_obadiah.1.18" osisID="rlxx_obadiah.1.18" />καὶ ἔσται ὁ οἶκος Ιακωβ πῦρ, ὁ δὲ οἶκος Ιωσηφ φλόξ, ὁ δὲ οἶκος Ησαυ εἰς καλάμην, καὶ ἐκκαυθήσονται εἰς αὐτοὺς καὶ καταφάγονται αὐτούς, καὶ οὐκ ἔσται πυροφόρος ἐν τῷ οἴκῳ Ησαυ, διότι κύριος ἐλάλησεν.<verse eID="rlxx_obadiah.1.18" />
+        <verse sID="rlxx_obadiah.1.19" osisID="rlxx_obadiah.1.19" />καὶ κατακληρονομήσουσιν οἱ ἐν Ναγεβ τὸ ὄρος τὸ Ησαυ καὶ οἱ ἐν τῇ Σεφηλα τοὺς ἀλλοφύλους καὶ κατακληρονομήσουσιν τὸ ὄρος Εφραιμ καὶ τὸ πεδίον Σαμαρείας καὶ Βενιαμιν καὶ τὴν Γαλααδῖτιν.<verse eID="rlxx_obadiah.1.19" />
+        <verse sID="rlxx_obadiah.1.20" osisID="rlxx_obadiah.1.20" />καὶ τῆς μετοικεσίας ἡ ἀρχὴ αὕτη· τοῖς υἱοῖς Ισραηλ γῆ τῶν Χαναναίων ἕως Σαρεπτων καὶ ἡ μετοικεσίαΙερουσαλημ ἕως Εφραθα, καὶ κληρονομήσουσιν τὰς πόλεις τοῦ Ναγεβ.<verse eID="rlxx_obadiah.1.20" />
+        <verse sID="rlxx_obadiah.1.21" osisID="rlxx_obadiah.1.21" />καὶ ἀναβήσονται ἄνδρες σεσῳσμένοι ἐξ ὄρους Σιων τοῦ ἐκδικῆσαι τὸ ὄρος Ησαυ, καὶ ἔσται τῷ κυρίῳ ἡ βασιλεία.<verse eID="rlxx_obadiah.1.21" />
+      </p>
+      <chapter eID="rlxx_obadiah.1" />
+    </div>
+  </osisText>
+</osis>

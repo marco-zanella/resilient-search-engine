@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="rlxx_zechariah" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="rlxx_zechariah">
+        <title>Zechariah (Duodecim prophetae)</title>
+        <creator>ITSERR-Italian Strengthening of the ESFRI RI RESILIENCE: WP8-uBIQUity; PRIN 2022- Resilient Septuagint. An Initial Exploration of the Semantics of Killing and Healing in the Septuagint and its Reception in Patristic and Late Antique Sources (3rd cent. BCE – 5th cent. CE)</creator>
+        <subject>Zechariah</subject>
+        <date event="original">3rd-1st cent. BCE</date>
+        <date event="eversion">2025-07-23</date>
+        <date event="edition">2006 (1rst ed.: A. Rahlfs, 1935)</date>
+        <description type="x-edition">A. Rahlfs - R. Hanhart (eds.), Septuaginta: Id est Vetus
+                    Testamentum graece iuxta LXX interpretes. Editio altera, Stuttgart: Deutsche
+                    Bibelgesellschaft, 2006 (1rst ed.: A. Rahlfs, 1935)</description>
+        <description type="x-apparatus_n">1</description>
+        <identifier type="ISBN">978-3-438-05119-6</identifier>
+        <relation type="x-isAPartOf">R-LXX</relation>
+        <rights>© Deutsche Bibelgesellschaft, Stuttgart. All rights reserved.</rights>
+        <refSystem>Greek: Scriptures</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="rlxx_zechariah">
+      <title>ΖΑΧΑΡΙΑΣ</title>
+      <chapter sID="rlxx_zechariah.1" osisID="rlxx_zechariah.1" />
+      <title>Chapter 1</title>
+      <p>
+        <verse sID="rlxx_zechariah.1.1" osisID="rlxx_zechariah.1.1" />Ἐν τῷ ὀγδόῳ μηνὶ ἔτους δευτέρου ἐπὶ Δαρείου ἐγένετο λόγος κυρίου πρὸς Ζαχαριαν τὸν τοῦ Βαραχιου υἱὸν Αδδω τὸν προφήτην λέγων<verse eID="rlxx_zechariah.1.1" />
+        <verse sID="rlxx_zechariah.1.2" osisID="rlxx_zechariah.1.2" />Ὠργίσθη κύριος ἐπὶ τοὺς πατέρας ὑμῶν ὀργὴν μεγάλην.<verse eID="rlxx_zechariah.1.2" />
+        <verse sID="rlxx_zechariah.1.3" osisID="rlxx_zechariah.1.3" />καὶ ἐρεῖς πρὸς αὐτούς Τάδε λέγει κύριος παντοκράτωρ Ἐπιστρέψατε πρός με, καὶ ἐπιστραφήσομαι πρὸς ὑμᾶς, λέγει κύριος.<verse eID="rlxx_zechariah.1.3" />
+        <verse sID="rlxx_zechariah.1.4" osisID="rlxx_zechariah.1.4" />καὶ μὴ γίνεσθε καθὼς οἱ πατέρες ὑμῶν, οἷς ἐνεκάλεσαν αὐτοῖς οἱ προφῆται οἱ ἔμπροσθεν λέγοντες Τάδε λέγει κύριος παντοκράτωρ Ἀποστρέψατε ἀπὸ τῶν ὁδῶν ὑμῶν τῶν πονηρῶν καὶ ἀπὸ τῶν ἐπιτηδευμάτων ὑμῶν τῶν πονηρῶν, καὶ οὐ προσέσχον τοῦ εἰσακοῦσαί μου, λέγει κύριος.<verse eID="rlxx_zechariah.1.4" />
+        <verse sID="rlxx_zechariah.1.5" osisID="rlxx_zechariah.1.5" />οἱ πατέρες ὑμῶν ποῦ εἰσιν; καὶ οἱ προφῆται μὴ τὸν αἰῶνα ζήσονται;<verse eID="rlxx_zechariah.1.5" />
+        <verse sID="rlxx_zechariah.1.6" osisID="rlxx_zechariah.1.6" />πλὴν τοὺς λόγους μου καὶ τὰ νόμιμά μου δέχεσθε, ὅσα ἐγὼ ἐντέλλομαι ἐν πνεύματί μου τοῖς δούλοις μου τοῖς προφήταις, οἳ κατελάβοσαν τοὺς πατέρας ὑμῶν. καὶ ἀπεκρίθησαν καὶ εἶπαν Καθὼς παρατέτακται κύριος παντοκράτωρ τοῦ ποιῆσαι κατὰ τὰς ὁδοὺς ὑμῶν καὶ κατὰ τὰ ἐπιτηδεύματα ὑμῶν, οὕτως ἐποίησεν ὑμῖν.<verse eID="rlxx_zechariah.1.6" />
+        <verse sID="rlxx_zechariah.1.7" osisID="rlxx_zechariah.1.7" />Τῇ τετράδι καὶ εἰκάδι τῷ ἑνδεκάτῳ μηνί – οὗτός ἐστιν ὁ μὴν Σαβατ – ἐν τῷ δευτέρῳ ἔτει ἐπὶ Δαρείου ἐγένετο λόγος κυρίου πρὸς Ζαχαριαν τὸν τοῦ Βαραχιου υἱὸν Αδδω τὸν προφήτην λέγων<verse eID="rlxx_zechariah.1.7" />
+        <verse sID="rlxx_zechariah.1.8" osisID="rlxx_zechariah.1.8" />Ἑώρακα τὴν νύκτα καὶ ἰδοὺ ἀνὴρ ἐπιβεβηκὼς ἐπὶ ἵππον πυρρόν, καὶ οὗτος εἱστήκει ἀνὰ μέσον τῶν δύο ὀρέων τῶν κατασκίων, καὶ ὀπίσω αὐτοῦ ἵπποι πυρροὶ καὶ ψαροὶ καὶ ποικίλοι καὶ λευκοί.<verse eID="rlxx_zechariah.1.8" />
+        <verse sID="rlxx_zechariah.1.9" osisID="rlxx_zechariah.1.9" />καὶ εἶπα Τί οὗτοι, κύριε; καὶ εἶπεν πρός με ὁ ἄγγελος ὁ λαλῶν ἐν ἐμοί Ἐγὼ δείξω σοι τί ἐστιν ταῦτα.<verse eID="rlxx_zechariah.1.9" />
+        <verse sID="rlxx_zechariah.1.10" osisID="rlxx_zechariah.1.10" />καὶ ἀπεκρίθη ὁ ἀνὴρ ὁ ἐφεστηκὼς ἀνὰ μέσον τῶν ὀρέων καὶ εἶπεν πρός με Οὗτοί εἰσιν οὓς ἐξαπέσταλκεν κύριος τοῦ περιοδεῦσαι τὴν γῆν.<verse eID="rlxx_zechariah.1.10" />
+        <verse sID="rlxx_zechariah.1.11" osisID="rlxx_zechariah.1.11" />καὶ ἀπεκρίθησαν τῷ ἀγγέλῳ κυρίου τῷ ἐφεστῶτι ἀνὰ μέσον τῶν ὀρέων καὶ εἶπον Περιωδεύκαμεν πᾶσαν τὴν γῆν, καὶ ἰδοὺ πᾶσα ἡ γῆ κατοικεῖται καὶ ἡσυχάζει.<verse eID="rlxx_zechariah.1.11" />
+        <verse sID="rlxx_zechariah.1.12" osisID="rlxx_zechariah.1.12" />καὶ ἀπεκρίθη ὁ ἄγγελος κυρίου καὶ εἶπεν Κύριε παντοκράτωρ, ἕως τίνος οὐ μὴ ἐλεήσῃς τὴν Ιερουσαλημ καὶ τὰς πόλεις Ιουδα, ἃς ὑπερεῖδες τοῦτο ἑβδομηκοστὸν ἔτος;<verse eID="rlxx_zechariah.1.12" />
+        <verse sID="rlxx_zechariah.1.13" osisID="rlxx_zechariah.1.13" />καὶ ἀπεκρίθη κύριος παντοκράτωρ τῷ ἀγγέλῳ τῷ λαλοῦντι ἐν ἐμοὶ ῥήματα καλὰ καὶ λόγους παρακλητικούς.<verse eID="rlxx_zechariah.1.13" />
+        <verse sID="rlxx_zechariah.1.14" osisID="rlxx_zechariah.1.14" />καὶ εἶπεν πρός με ὁ ἄγγελος ὁ λαλῶν ἐν ἐμοί Ἀνάκραγε λέγων Τάδε λέγει κύριος παντοκράτωρ Ἐζήλωκα τὴν Ιερουσαλημ καὶ τὴν Σιων ζῆλον μέγαν<verse eID="rlxx_zechariah.1.14" />
+        <verse sID="rlxx_zechariah.1.15" osisID="rlxx_zechariah.1.15" />καὶ ὀργὴν μεγάλην ἐγὼ ὀργίζομαι ἐπὶ τὰ ἔθνη τὰ συνεπιτιθέμενα ἀνθ' ὧν ἐγὼ μὲν ὠργίσθην ὀλίγα, αὐτοὶ δὲ συνεπέθεντο εἰς κακά.<verse eID="rlxx_zechariah.1.15" />
+        <verse sID="rlxx_zechariah.1.16" osisID="rlxx_zechariah.1.16" />διὰ τοῦτο τάδε λέγει κύριος Ἐπιστρέψω ἐπὶ Ιερουσαλημ ἐν οἰκτιρμῷ, καὶ ὁ οἶκός μου ἀνοικοδομηθήσεται ἐν αὐτῇ, λέγει κύριος παντοκράτωρ, καὶ μέτρον ἐκταθήσεται ἐπὶ Ιερουσαλημ ἔτι.<verse eID="rlxx_zechariah.1.16" />
+        <verse sID="rlxx_zechariah.1.17" osisID="rlxx_zechariah.1.17" />καὶ εἶπεν πρός με ὁ ἄγγελος ὁ λαλῶν ἐν ἐμοί Ἀνάκραγε λέγων Τάδε λέγει κύριος παντοκράτωρ Ἔτι διαχυθήσονται πόλεις ἐν ἀγαθοῖς, καὶ ἐλεήσει κύριος ἔτι τὴν Σιων καὶ αἱρετιεῖ ἔτι τὴν Ιερουσαλημ.<verse eID="rlxx_zechariah.1.17" />
+      </p>
+      <chapter eID="rlxx_zechariah.1" />
+      <chapter sID="rlxx_zechariah.2" osisID="rlxx_zechariah.2" />
+      <title>Chapter 2</title>
+      <p>
+        <verse sID="rlxx_zechariah.2.1" osisID="rlxx_zechariah.2.1" />Καὶ ἦρα τοὺς ὀφθαλμούς μου καὶ εἶδον καὶ ἰδοὺ τέσσαρα κέρατα.<verse eID="rlxx_zechariah.2.1" />
+        <verse sID="rlxx_zechariah.2.2" osisID="rlxx_zechariah.2.2" />καὶ εἶπα πρὸς τὸν ἄγγελον τὸν λαλοῦντα ἐν ἐμοί Τί ἐστιν ταῦτα, κύριε; καὶ εἶπεν πρός με Ταῦτα τὰ κέρατα τὰ διασκορπίσαντα τὸν Ιουδαν καὶ τὸν Ισραηλ.<verse eID="rlxx_zechariah.2.2" />
+        <verse sID="rlxx_zechariah.2.3" osisID="rlxx_zechariah.2.3" />καὶ ἔδειξέν μοι κύριος τέσσαρας τέκτονας.<verse eID="rlxx_zechariah.2.3" />
+        <verse sID="rlxx_zechariah.2.4" osisID="rlxx_zechariah.2.4" />καὶ εἶπα Τί οὗτοι ἔρχονται ποιῆσαι; καὶ εἶπεν πρός με Ταῦτα τὰ κέρατα τὰ διασκορπίσαντα τὸν Ιουδαν καὶ τὸν Ισραηλ κατέαξαν, καὶ οὐδεὶς αὐτῶν ἦρεν κεφαλήν· καὶ εἰσῆλθον οὗτοι τοῦ ὀξῦναι αὐτὰ εἰς χεῖρας αὐτῶν τὰ τέσσαρα κέρατα τὰ ἔθνη τὰ ἐπαιρόμενα κέρας ἐπὶ τὴν γῆν κυρίου τοῦ διασκορπίσαι αὐτήν.<verse eID="rlxx_zechariah.2.4" />
+        <verse sID="rlxx_zechariah.2.5" osisID="rlxx_zechariah.2.5" />Καὶ ἦρα τοὺς ὀφθαλμούς μου καὶ εἶδον καὶ ἰδοὺ ἀνὴρ καὶ ἐν τῇ χειρὶ αὐτοῦ σχοινίον γεωμετρικόν.<verse eID="rlxx_zechariah.2.5" />
+        <verse sID="rlxx_zechariah.2.6" osisID="rlxx_zechariah.2.6" />καὶ εἶπα πρὸς αὐτόν Ποῦ σὺ πορεύῃ; καὶ εἶπεν πρός με Διαμετρῆσαι τὴν Ιερουσαλημ τοῦ ἰδεῖν πηλίκον τὸ πλάτος αὐτῆς ἐστιν καὶ πηλίκον τὸ μῆκος.<verse eID="rlxx_zechariah.2.6" />
+        <verse sID="rlxx_zechariah.2.7" osisID="rlxx_zechariah.2.7" />καὶ ἰδοὺ ὁ ἄγγελος ὁ λαλῶν ἐν ἐμοὶ εἱστήκει, καὶ ἄγγελος ἕτερος ἐξεπορεύετο εἰς συνάντησιν αὐτῷ<verse eID="rlxx_zechariah.2.7" />
+        <verse sID="rlxx_zechariah.2.8" osisID="rlxx_zechariah.2.8" />καὶ εἶπεν πρὸς αὐτὸν λέγων Δράμε καὶ λάλησον πρὸς τὸν νεανίαν ἐκεῖνον λέγων Κατακάρπως κατοικηθήσεται Ιερουσαλημ ἀπὸ πλήθους ἀνθρώπων καὶ κτηνῶν ἐν μέσῳ αὐτῆς·<verse eID="rlxx_zechariah.2.8" />
+        <verse sID="rlxx_zechariah.2.9" osisID="rlxx_zechariah.2.9" />καὶ ἐγὼ ἔσομαι αὐτῇ, λέγει κύριος, τεῖχος πυρὸς κυκλόθεν καὶ εἰς δόξαν ἔσομαι ἐν μέσῳ αὐτῆς.<verse eID="rlxx_zechariah.2.9" />
+        <verse sID="rlxx_zechariah.2.10" osisID="rlxx_zechariah.2.10" />ὦ ὦ φεύγετε ἀπὸ γῆς βορρᾶ, λέγει κύριος, διότι ἐκ τῶν τεσσάρων ἀνέμων τοῦ οὐρανοῦ συνάξω ὑμᾶς, λέγει κύριος·<verse eID="rlxx_zechariah.2.10" />
+        <verse sID="rlxx_zechariah.2.11" osisID="rlxx_zechariah.2.11" />εἰς Σιων ἀνασῴζεσθε, οἱ κατοικοῦντες θυγατέρα Βαβυλῶνος.<verse eID="rlxx_zechariah.2.11" />
+        <verse sID="rlxx_zechariah.2.12" osisID="rlxx_zechariah.2.12" />διότι τάδε λέγει κύριος παντοκράτωρ Ὀπίσω δόξης ἀπέσταλκέν με ἐπὶ τὰ ἔθνη τὰ σκυλεύσαντα ὑμᾶς, διότι ὁ ἁπτόμενος ὑμῶν ὡς ἁπτόμενος τῆς κόρης τοῦ ὀφθαλμοῦ αὐτοῦ·<verse eID="rlxx_zechariah.2.12" />
+        <verse sID="rlxx_zechariah.2.13" osisID="rlxx_zechariah.2.13" />διότι ἰδοὺ ἐγὼ ἐπιφέρω τὴν χεῖρά μου ἐπ' αὐτούς, καὶ ἔσονται σκῦλα τοῖς δουλεύουσιν αὐτοῖς, καὶ γνώσεσθε διότι κύριος παντοκράτωρ ἀπέσταλκέν με.<verse eID="rlxx_zechariah.2.13" />
+        <verse sID="rlxx_zechariah.2.14" osisID="rlxx_zechariah.2.14" />τέρπου καὶ εὐφραίνου, θύγατερ Σιων, διότι ἰδοὺ ἐγὼ ἔρχομαι καὶ κατασκηνώσω ἐν μέσῳ σου, λέγει κύριος.<verse eID="rlxx_zechariah.2.14" />
+        <verse sID="rlxx_zechariah.2.15" osisID="rlxx_zechariah.2.15" />καὶ καταφεύξονται ἔθνη πολλὰ ἐπὶ τὸν κύριον ἐν τῇ ἡμέρᾳ ἐκείνῃ καὶ ἔσονται αὐτῷ εἰς λαὸν καὶ κατασκηνώσουσιν ἐν μέσῳ σου, καὶ ἐπιγνώσῃ ὅτι κύριος παντοκράτωρ ἐξαπέσταλκέν με πρὸς σέ.<verse eID="rlxx_zechariah.2.15" />
+        <verse sID="rlxx_zechariah.2.16" osisID="rlxx_zechariah.2.16" />καὶ κατακληρονομήσει κύριος τὸν Ιουδαν τὴν μερίδα αὐτοῦ ἐπὶ τὴν γῆν τὴν ἁγίαν καὶ αἱρετιεῖ ἔτι τὴν Ιερουσαλημ.<verse eID="rlxx_zechariah.2.16" />
+        <verse sID="rlxx_zechariah.2.17" osisID="rlxx_zechariah.2.17" />εὐλαβείσθω πᾶσα σὰρξ ἀπὸ προσώπου κυρίου, διότι ἐξεγήγερται ἐκ νεφελῶν ἁγίων αὐτοῦ.<verse eID="rlxx_zechariah.2.17" />
+      </p>
+      <chapter eID="rlxx_zechariah.2" />
+      <chapter sID="rlxx_zechariah.3" osisID="rlxx_zechariah.3" />
+      <title>Chapter 3</title>
+      <p>
+        <verse sID="rlxx_zechariah.3.1" osisID="rlxx_zechariah.3.1" />Καὶ ἔδειξέν μοι Ἰησοῦν τὸν ἱερέα τὸν μέγαν ἑστῶτα πρὸ προσώπουἀγγέλου κυρίου, καὶ ὁ διάβολος εἱστήκει ἐκ δεξιῶν αὐτοῦ τοῦ ἀντικεῖσθαι αὐτῷ.<verse eID="rlxx_zechariah.3.1" />
+        <verse sID="rlxx_zechariah.3.2" osisID="rlxx_zechariah.3.2" />καὶ εἶπεν κύριος πρὸς τὸν διάβολον Ἐπιτιμήσαι κύριος ἐν σοί, διάβολε, καὶ ἐπιτιμήσαι κύριος ἐν σοὶ ὁ ἐκλεξάμενος τὴν Ιερουσαλημ· οὐκ ἰδοὺ τοῦτο ὡς δαλὸς ἐξεσπασμένος ἐκ πυρός;<verse eID="rlxx_zechariah.3.2" />
+        <verse sID="rlxx_zechariah.3.3" osisID="rlxx_zechariah.3.3" />καὶ Ἰησοῦς ἦν ἐνδεδυμένος ἱμάτια ῥυπαρὰ καὶ εἱστήκει πρὸ προςώπουτοῦ ἀγγέλου.<verse eID="rlxx_zechariah.3.3" />
+        <verse sID="rlxx_zechariah.3.4" osisID="rlxx_zechariah.3.4" />καὶ ἀπεκρίθη καὶ εἶπεν πρὸς τοὺς ἑστηκότας πρὸ προσώπου αὐτοῦ λέγων Ἀφέλετε τὰ ἱμάτια τὰ ῥυπαρὰ ἀπ' αὐτοῦ. καὶ εἶπεν πρὸς αὐτόν Ἰδοὺ ἀφῄρηκα τὰς ἀνομίας σου, καὶ ἐνδύσατε αὐτὸν ποδήρη<verse eID="rlxx_zechariah.3.4" />
+        <verse sID="rlxx_zechariah.3.5" osisID="rlxx_zechariah.3.5" />καὶ ἐπίθετε κίδαριν καθαρὰν ἐπὶ τὴν κε- φαλὴν αὐτοῦ. καὶ περιέβαλον αὐτὸν ἱμάτια καὶ ἐπέθηκαν κίδαριν καθαρὰν ἐπὶ τὴν κεφαλὴν αὐτοῦ, καὶ ὁ ἄγγελος κυρίου εἱστήκει.<verse eID="rlxx_zechariah.3.5" />
+        <verse sID="rlxx_zechariah.3.6" osisID="rlxx_zechariah.3.6" />καὶ διεμαρτύρατο ὁ ἄγγελος κυρίου πρὸς Ἰησοῦν λέγων<verse eID="rlxx_zechariah.3.6" />
+        <verse sID="rlxx_zechariah.3.7" osisID="rlxx_zechariah.3.7" />Τάδε λέγει κύριος παντοκράτωρ Ἐὰν ἐν ταῖς ὁδοῖς μου πορεύῃ καὶ ἐὰν τὰ προστάγματά μου φυλάξῃς, καὶ σὺ διακρινεῖς τὸν οἶκόν μου· καὶ ἐὰν διαφυλάξῃς καί γε τὴν αὐλήν μου, καὶ δώσω σοι ἀναστρεφομένους ἐν μέσῳ τῶν ἑστηκότων τούτων.<verse eID="rlxx_zechariah.3.7" />
+        <verse sID="rlxx_zechariah.3.8" osisID="rlxx_zechariah.3.8" />ἄκουε δή, Ἰησοῦ ὁ ἱερεὺς ὁ μέγας, σὺ καὶ οἱ πλησίον σου οἱ καθήμενοι πρὸ προσώπουσου, διότι ἄνδρες τερατοσκόποι εἰσί· διότι ἰδοὺ ἐγὼ ἄγω τὸν δοῦλόν μου Ἀνατολήν·<verse eID="rlxx_zechariah.3.8" />
+        <verse sID="rlxx_zechariah.3.9" osisID="rlxx_zechariah.3.9" />διότι ὁ λίθος, ὃν ἔδωκα πρὸ προσώπουἸησοῦ, ἐπὶ τὸν λίθον τὸν ἕνα ἑπτὰ ὀφθαλμοί εἰσιν· ἰδοὺ ἐγὼ ὀρύσσω βόθρον, λέγει κύριος παντοκράτωρ, καὶ ψηλαφήσω πᾶσαν τὴν ἀδικίαν τῆς γῆς ἐκείνης ἐν ἡμέρᾳ μιᾷ.<verse eID="rlxx_zechariah.3.9" />
+        <verse sID="rlxx_zechariah.3.10" osisID="rlxx_zechariah.3.10" />ἐν τῇ ἡμέρᾳ ἐκείνῃ, λέγει κύριος παντοκράτωρ, συγκαλέσετε ἕκαστος τὸν πλησίον αὐτοῦ ὑποκάτω ἀμπέλου καὶ ὑποκάτω συκῆς.<verse eID="rlxx_zechariah.3.10" />
+      </p>
+      <chapter eID="rlxx_zechariah.3" />
+      <chapter sID="rlxx_zechariah.4" osisID="rlxx_zechariah.4" />
+      <title>Chapter 4</title>
+      <p>
+        <verse sID="rlxx_zechariah.4.1" osisID="rlxx_zechariah.4.1" />Καὶ ἐπέστρεψεν ὁ ἄγγελος ὁ λαλῶν ἐν ἐμοὶ καὶ ἐξήγειρέν με ὃν τρόπον ὅταν ἐξεγερθῇ ἄνθρωπος ἐξ ὕπνου αὐτοῦ<verse eID="rlxx_zechariah.4.1" />
+        <verse sID="rlxx_zechariah.4.2" osisID="rlxx_zechariah.4.2" />καὶ εἶπεν πρός με Τί σύ βλέπεις; καὶ εἶπα Ἑώρακα καὶ ἰδοὺ λυχνία χρυσῆ ὅλη, καὶ τὸ λαμπάδιον ἐπάνω αὐτῆς, καὶ ἑπτὰ λύχνοι ἐπάνω αὐτῆς, καὶ ἑπτὰ ἐπαρυστρίδες τοῖς λύχνοις τοῖς ἐπάνω αὐτῆς·<verse eID="rlxx_zechariah.4.2" />
+        <verse sID="rlxx_zechariah.4.3" osisID="rlxx_zechariah.4.3" />καὶ δύο ἐλαῖαι ἐπάνω αὐτῆς, μία ἐκ δεξιῶν τοῦ λαμπαδίου καὶ μία ἐξ εὐωνύμων.<verse eID="rlxx_zechariah.4.3" />
+        <verse sID="rlxx_zechariah.4.4" osisID="rlxx_zechariah.4.4" />καὶ ἐπηρώτησα καὶ εἶπον πρὸς τὸν ἄγγελον τὸν λαλοῦντα ἐν ἐμοὶ λέγων Τί ἐστιν ταῦτα, κύριε;<verse eID="rlxx_zechariah.4.4" />
+        <verse sID="rlxx_zechariah.4.5" osisID="rlxx_zechariah.4.5" />καὶ ἀπεκρίθη ὁ ἄγγελος ὁ λαλῶν ἐν ἐμοὶ καὶ εἶπεν πρός με Οὐ γινώσκεις τί ἐστιν ταῦτα; καὶ εἶπα Οὐχί, κύριε.<verse eID="rlxx_zechariah.4.5" />
+        <verse sID="rlxx_zechariah.4.6" osisID="rlxx_zechariah.4.6" />καὶ ἀπεκρίθη καὶ εἶπεν πρός με λέγων Οὗτος ὁ λόγος κυρίου πρὸς Ζοροβαβελ λέγων Οὐκ ἐν δυνάμει μεγάλῃ οὐδὲ ἐν ἰσχύι, ἀλλ' ἢ ἐν πνεύματί μου, λέγει κύριος παντοκράτωρ.<verse eID="rlxx_zechariah.4.6" />
+        <verse sID="rlxx_zechariah.4.7" osisID="rlxx_zechariah.4.7" />τίς εἶ σύ, τὸ ὄρος τὸ μέγα, πρὸ προσώπου Ζοροβαβελ τοῦ κατορθῶσαι; καὶ ἐξοίσω τὸν λίθον τῆς κληρονομίας ἰσότητα χάριτος χάριτα αὐτῆς.<verse eID="rlxx_zechariah.4.7" />
+        <verse sID="rlxx_zechariah.4.8" osisID="rlxx_zechariah.4.8" />καὶ ἐγένετο λόγος κυρίου πρός με λέγων<verse eID="rlxx_zechariah.4.8" />
+        <verse sID="rlxx_zechariah.4.9" osisID="rlxx_zechariah.4.9" />Αἱ χεῖρες Ζοροβαβελ ἐθεμελίωσαν τὸν οἶκον τοῦτον, καὶ αἱ χεῖρες αὐτοῦ ἐπιτελέσουσιν αὐτόν, καὶ ἐπιγνώσῃ διότι κύριος παντοκράτωρ ἐξαπέσταλκέν με πρὸς σέ.<verse eID="rlxx_zechariah.4.9" />
+        <verse sID="rlxx_zechariah.4.10" osisID="rlxx_zechariah.4.10" />διότι τίς ἐξουδένωσεν εἰς ἡμέρας μικράς; καὶ χαροῦνται καὶ ὄψονται τὸν λίθον τὸν κασσιτέρινον ἐν χειρὶ Ζοροβαβελ. ἑπτὰ οὗτοι ὀφθαλμοὶ κυρίου εἰσὶν οἱ ἐπιβλέποντες ἐπὶ πᾶσαν τὴν γῆν.<verse eID="rlxx_zechariah.4.10" />
+        <verse sID="rlxx_zechariah.4.11" osisID="rlxx_zechariah.4.11" />καὶ ἀπεκρίθην καὶ εἶπα πρὸς αὐτόν Τί αἱ δύο ἐλαῖαι αὗται αἱ ἐκ δεξιῶν τῆς λυχνίας καὶ ἐξ εὐωνύμων;<verse eID="rlxx_zechariah.4.11" />
+        <verse sID="rlxx_zechariah.4.12" osisID="rlxx_zechariah.4.12" />καὶ ἐπηρώτησα ἐκ δευτέρου καὶ εἶπα πρὸς αὐτόν Τί οἱ δύο κλάδοι τῶν ἐλαιῶν οἱ ἐν ταῖς χερσὶν τῶν δύο μυξωτήρων τῶν χρυσῶν τῶν ἐπιχεόντων καὶ ἐπαναγόντων τὰς ἐπαρυστρίδας τὰς χρυσᾶς;<verse eID="rlxx_zechariah.4.12" />
+        <verse sID="rlxx_zechariah.4.13" osisID="rlxx_zechariah.4.13" />καὶ εἶπεν πρός με Οὐκ οἶδας τί ἐστιν ταῦτα; καὶ εἶπα Οὐχί, κύριε.<verse eID="rlxx_zechariah.4.13" />
+        <verse sID="rlxx_zechariah.4.14" osisID="rlxx_zechariah.4.14" />καὶ εἶπεν Οὗτοι οἱ δύο υἱοὶ τῆς πιότητος παρεστήκασιν τῷ κυρίῳ πάσης τῆς γῆς.<verse eID="rlxx_zechariah.4.14" />
+      </p>
+      <chapter eID="rlxx_zechariah.4" />
+      <chapter sID="rlxx_zechariah.5" osisID="rlxx_zechariah.5" />
+      <title>Chapter 5</title>
+      <p>
+        <verse sID="rlxx_zechariah.5.1" osisID="rlxx_zechariah.5.1" />Καὶ ἐπέστρεψα καὶ ἦρα τοὺς ὀφθαλμούς μου καὶ εἶδον καὶ ἰδοὺ δρέπανον πετόμενον.<verse eID="rlxx_zechariah.5.1" />
+        <verse sID="rlxx_zechariah.5.2" osisID="rlxx_zechariah.5.2" />καὶ εἶπεν πρός με Τί σὺ βλέπεις; καὶ εἶπα Ἐγὼ ὁρῶ δρέπανον πετόμενον μῆκος πήχεων εἴκοσι καὶ πλάτος πήχεων δέκα.<verse eID="rlxx_zechariah.5.2" />
+        <verse sID="rlxx_zechariah.5.3" osisID="rlxx_zechariah.5.3" />καὶ εἶπεν πρός με Αὕτη ἡ ἀρὰ ἡ ἐκπορευομένη ἐπὶ πρόσωπον πάσης τῆς γῆς, διότι πᾶς ὁ κλέπτης ἐκ τούτου ἕως θανάτου ἐκδικηθήσεται, καὶ πᾶς ὁ ἐπίορκος ἐκ τούτου ἕως θανάτου ἐκδικηθήσεται·<verse eID="rlxx_zechariah.5.3" />
+        <verse sID="rlxx_zechariah.5.4" osisID="rlxx_zechariah.5.4" />καὶ ἐξοίσω αὐτό, λέγει κύριος παντοκράτωρ, καὶ εἰσελεύσεται εἰς τὸν οἶκον τοῦ κλέπτου καὶ εἰς τὸν οἶκον τοῦ ὀμνύοντος τῷ ὀνόματί μου ἐπὶ ψεύδει καὶ καταλύσει ἐν μέσῳ τοῦ οἴκου αὐτοῦ καὶ συντελέσει αὐτὸν καὶ τὰ ξύλα αὐτοῦ καὶ τοὺς λίθους αὐτοῦ.<verse eID="rlxx_zechariah.5.4" />
+        <verse sID="rlxx_zechariah.5.5" osisID="rlxx_zechariah.5.5" />Καὶ ἐξῆλθεν ὁ ἄγγελος ὁ λαλῶν ἐν ἐμοὶ καὶ εἶπεν πρός με Ἀνάβλεψον τοῖς ὀφθαλμοῖς σου καὶ ἰδὲ τί τὸ ἐκπορευόμενον τοῦτο.<verse eID="rlxx_zechariah.5.5" />
+        <verse sID="rlxx_zechariah.5.6" osisID="rlxx_zechariah.5.6" />καὶ εἶπα Τί ἐστιν; καὶ εἶπεν Τοῦτο τὸ μέτρον τὸ ἐκπορευόμενον. καὶ εἶπεν Αὕτη ἡ ἀδικία αὐτῶν ἐν πάσῃ τῇ γῇ.<verse eID="rlxx_zechariah.5.6" />
+        <verse sID="rlxx_zechariah.5.7" osisID="rlxx_zechariah.5.7" />καὶ ἰδοὺ τάλαντον μολίβου ἐξαιρόμενον, καὶ ἰδοὺ μία γυνὴ ἐκάθητο ἐν μέσῳ τοῦ μέτρου.<verse eID="rlxx_zechariah.5.7" />
+        <verse sID="rlxx_zechariah.5.8" osisID="rlxx_zechariah.5.8" />καὶ εἶπεν Αὕτη ἐστὶν ἡ ἀνομία· καὶ ἔρριψεν αὐτὴν ἐν μέσῳ τοῦ μέτρου καὶ ἔρριψεν τὸν λίθον τοῦ μολίβου εἰς τὸ στόμα αὐτῆς.<verse eID="rlxx_zechariah.5.8" />
+        <verse sID="rlxx_zechariah.5.9" osisID="rlxx_zechariah.5.9" />καὶ ἦρα τοὺς ὀφθαλμούς μου καὶ εἶδον καὶ ἰδοὺ δύο γυναῖκες ἐκπορευόμεναι, καὶ πνεῦμα ἐν ταῖς πτέρυξιν αὐτῶν, καὶ αὗται εἶχον πτέρυγας ὡς πτέρυγας ἔποπος· καὶ ἀνέλαβον τὸ μέτρον ἀνὰ μέσον τῆς γῆς καὶ ἀνὰ μέσον τοῦ οὐρανοῦ.<verse eID="rlxx_zechariah.5.9" />
+        <verse sID="rlxx_zechariah.5.10" osisID="rlxx_zechariah.5.10" />καὶ εἶπα πρὸς τὸν ἄγγελον τὸν λαλοῦντα ἐν ἐμοί Ποῦ αὗται ἀποφέρουσιν τὸ μέτρον;<verse eID="rlxx_zechariah.5.10" />
+        <verse sID="rlxx_zechariah.5.11" osisID="rlxx_zechariah.5.11" />καὶ εἶπεν πρός με Οἰκοδομῆσαι αὐτῷ οἰκίαν ἐν γῇ Βαβυλῶνος καὶ ἑτοιμάσαι, καὶ θήσουσιν αὐτὸ ἐκεῖ ἐπὶ τὴν ἑτοιμασίαν αὐτοῦ.<verse eID="rlxx_zechariah.5.11" />
+      </p>
+      <chapter eID="rlxx_zechariah.5" />
+      <chapter sID="rlxx_zechariah.6" osisID="rlxx_zechariah.6" />
+      <title>Chapter 6</title>
+      <p>
+        <verse sID="rlxx_zechariah.6.1" osisID="rlxx_zechariah.6.1" />Καὶ ἐπέστρεψα καὶ ἦρα τοὺς ὀφθαλμούς μου καὶ εἶδον καὶ ἰδοὺ τέσσαρα ἅρματα ἐκπορευόμενα ἐκ μέσου δύο ὀρέων, καὶ τὰ ὄρη ἦν ὄρη χαλκᾶ.<verse eID="rlxx_zechariah.6.1" />
+        <verse sID="rlxx_zechariah.6.2" osisID="rlxx_zechariah.6.2" />ἐν τῷ ἅρματι τῷ πρώτῳ ἵπποι πυρροί, καὶ ἐν τῷ ἅρματι τῷ δευτέρῳ ἵπποι μέλανες,<verse eID="rlxx_zechariah.6.2" />
+        <verse sID="rlxx_zechariah.6.3" osisID="rlxx_zechariah.6.3" />καὶ ἐν τῷ ἅρματι τῷ τρίτῳ ἵπποι λευκοί, καὶ ἐν τῷ ἅρματι τῷ τετάρτῳ ἵπποι ποικίλοι ψαροί.<verse eID="rlxx_zechariah.6.3" />
+        <verse sID="rlxx_zechariah.6.4" osisID="rlxx_zechariah.6.4" />καὶ ἀπεκρίθην καὶ εἶπα πρὸς τὸν ἄγγελον τὸν λαλοῦντα ἐν ἐμοί Τί ἐστιν ταῦτα, κύριε;<verse eID="rlxx_zechariah.6.4" />
+        <verse sID="rlxx_zechariah.6.5" osisID="rlxx_zechariah.6.5" />καὶ ἀπεκρίθη ὁ ἄγγελος ὁ λαλῶν ἐν ἐμοὶ καὶ εἶπεν Ταῦτά ἐστιν οἱ τέσσαρες ἄνεμοι τοῦ οὐρανοῦ, ἐκπορεύονται παραστῆναι τῷ κυρίῳ πάσης τῆς γῆς·<verse eID="rlxx_zechariah.6.5" />
+        <verse sID="rlxx_zechariah.6.6" osisID="rlxx_zechariah.6.6" />ἐν ᾧ ἦσαν οἱ ἵπποι οἱ μέλανες, ἐξεπορεύοντο ἐπὶ γῆν βορρᾶ, καὶ οἱ λευκοὶ ἐξεπορεύοντο κατόπισθεν αὐτῶν, καὶ οἱ ποικίλοι ἐξεπορεύοντο ἐπὶ γῆν νότου,<verse eID="rlxx_zechariah.6.6" />
+        <verse sID="rlxx_zechariah.6.7" osisID="rlxx_zechariah.6.7" />καὶ οἱ ψαροὶ ἐξεπορεύοντο καὶ ἐπέβλεπον τοῦ πορεύεσθαι τοῦ περιοδεῦσαι τὴν γῆν. καὶ εἶπεν Πορεύεσθε καὶ περιοδεύσατε τὴν γῆν· καὶ περιώδευσαν τὴν γῆν.<verse eID="rlxx_zechariah.6.7" />
+        <verse sID="rlxx_zechariah.6.8" osisID="rlxx_zechariah.6.8" />καὶ ἀνεβόησεν καὶ ἐλάλησεν πρός με λέγων Ἰδοὺ οἱ ἐκπορευόμενοι ἐπὶ γῆν βορρᾶ ἀνέπαυσαν τὸν θυμόν μου ἐν γῇ βορρᾶ.<verse eID="rlxx_zechariah.6.8" />
+        <verse sID="rlxx_zechariah.6.9" osisID="rlxx_zechariah.6.9" />Καὶ ἐγένετο λόγος κυρίου πρός με λέγων<verse eID="rlxx_zechariah.6.9" />
+        <verse sID="rlxx_zechariah.6.10" osisID="rlxx_zechariah.6.10" />Λαβὲ τὰ ἐκ τῆς αἰχμαλωσίας παρὰ τῶν ἀρχόντων καὶ παρὰ τῶν χρησίμων αὐτῆς καὶ παρὰ τῶν ἐπεγνωκότων αὐτὴν καὶ εἰσελεύσῃ σὺ ἐν τῇ ἡμέρᾳ ἐκείνῃ εἰς τὸν οἶκον Ιωσιου τοῦ Σοφονιου τοῦ ἥκοντος ἐκ Βαβυλῶνος<verse eID="rlxx_zechariah.6.10" />
+        <verse sID="rlxx_zechariah.6.11" osisID="rlxx_zechariah.6.11" />καὶ λήψῃ ἀργύριον καὶ χρυσίον καὶ ποιήσεις στεφάνους καὶ ἐπιθήσεις ἐπὶ τὴν κεφαλὴν Ἰησοῦ τοῦ Ιωσεδεκ τοῦ ἱερέως τοῦ μεγάλου<verse eID="rlxx_zechariah.6.11" />
+        <verse sID="rlxx_zechariah.6.12" osisID="rlxx_zechariah.6.12" />καὶ ἐρεῖς πρὸς αὐτόν Τάδε λέγει κύριος παντοκράτωρ Ἰδοὺ ἀνήρ, Ἀνατολὴ ὄνομα αὐτῷ, καὶ ὑποκάτωθεν αὐτοῦ ἀνατελεῖ, καὶ οἰκοδομήσει τὸν οἶκον κυρίου·<verse eID="rlxx_zechariah.6.12" />
+        <verse sID="rlxx_zechariah.6.13" osisID="rlxx_zechariah.6.13" />καὶ αὐτὸς λήμψεται ἀρετὴν καὶ καθίεται καὶ κατάρξει ἐπὶ τοῦ θρόνου αὐτοῦ, καὶ ἔσται ὁ ἱερεὺς ἐκ δεξιῶν αὐτοῦ, καὶ βουλὴ εἰρηνικὴ ἔσται ἀνὰ μέσον ἀμφοτέρων.<verse eID="rlxx_zechariah.6.13" />
+        <verse sID="rlxx_zechariah.6.14" osisID="rlxx_zechariah.6.14" />ὁ δὲ στέφανος ἔσται τοῖς ὑπομένουσιν καὶ τοῖς χρησίμοις αὐτῆς καὶ τοῖς ἐπεγνωκόσιν αὐτὴν καὶ εἰς χάριτα υἱοῦ Σοφονιου καὶ εἰς ψαλμὸν ἐν οἴκῳ κυρίου.<verse eID="rlxx_zechariah.6.14" />
+        <verse sID="rlxx_zechariah.6.15" osisID="rlxx_zechariah.6.15" />καὶ οἱ μακρὰν ἀπ' αὐτῶν ἥξουσιν καὶ οἰκοδομήσουσιν ἐν τῷ οἴκῳ κυρίου, καὶ γνώσεσθε διότι κύριος παντοκράτωρ ἀπέσταλκέν με πρὸς ὑμᾶς· καὶ ἔσται, ἐὰν εἰσακούοντες εἰσακούσητε τῆς φωνῆς κυρίου τοῦ θεοῦ ὑμῶν.<verse eID="rlxx_zechariah.6.15" />
+      </p>
+      <chapter eID="rlxx_zechariah.6" />
+      <chapter sID="rlxx_zechariah.7" osisID="rlxx_zechariah.7" />
+      <title>Chapter 7</title>
+      <p>
+        <verse sID="rlxx_zechariah.7.1" osisID="rlxx_zechariah.7.1" />Καὶ ἐγένετο ἐν τῷ τετάρτῳ ἔτει ἐπὶ Δαρείου τοῦ βασιλέως ἐγένετο λόγος κυρίου πρὸς Ζαχαριαν τετράδι τοῦ μηνὸς τοῦ ἐνάτου, ὅς ἐστιν Χασελευ,<verse eID="rlxx_zechariah.7.1" />
+        <verse sID="rlxx_zechariah.7.2" osisID="rlxx_zechariah.7.2" />καὶ ἐξαπέστειλεν εἰς Βαιθηλ Σαρασαρ καὶ Αρβεσεερ ὁ βασιλεὺς καὶ οἱ ἄνδρες αὐτοῦ τοῦ ἐξιλάσασθαι τὸν κύριον<verse eID="rlxx_zechariah.7.2" />
+        <verse sID="rlxx_zechariah.7.3" osisID="rlxx_zechariah.7.3" />λέγων πρὸς τοὺς ἱερεῖς τοὺς ἐν τῷ οἴκῳ κυρίου παντοκράτορος καὶ πρὸς τοὺς προφήτας λέγων Εἰσελήλυθεν ὧδε ἐν τῷ μηνὶ τῷ πέμπτῳ τὸ ἁγίασμα, καθότι ἐποίησα ἤδη ἱκανὰ ἔτη.<verse eID="rlxx_zechariah.7.3" />
+        <verse sID="rlxx_zechariah.7.4" osisID="rlxx_zechariah.7.4" />καὶ ἐγένετο λόγος κυρίου τῶν δυνάμεων πρός με λέγων<verse eID="rlxx_zechariah.7.4" />
+        <verse sID="rlxx_zechariah.7.5" osisID="rlxx_zechariah.7.5" />Εἰπὸν πρὸς ἅπαντα τὸν λαὸν τῆς γῆς καὶ πρὸς τοὺς ἱερεῖς λέγων Ἐὰν νηστεύσητε ἢ κόψησθε ἐν ταῖς πέμπταις ἢ ἐν ταῖς ἑβδόμαις, καὶ ἰδοὺ ἑβδομήκοντα ἔτη μὴ νηστείαν νενηστεύκατέ μοι;<verse eID="rlxx_zechariah.7.5" />
+        <verse sID="rlxx_zechariah.7.6" osisID="rlxx_zechariah.7.6" />καὶ ἐὰν φάγητε ἢ πίητε, οὐχ ὑμεῖς ἔσθετε καὶ ὑμεῖς πίνετε;<verse eID="rlxx_zechariah.7.6" />
+        <verse sID="rlxx_zechariah.7.7" osisID="rlxx_zechariah.7.7" />οὐχ οὗτοι οἱ λόγοι εἰσίν, οὓς ἐλάλησεν κύριος ἐν χερσὶν τῶν προφητῶν τῶν ἔμπροσθεν, ὅτε ἦν Ιερουσαλημ κατοικουμένη καὶ εὐθηνοῦσα καὶ αἱ πόλεις αὐτῆς κυκλόθεν καὶ ἡ ὀρεινὴ καὶ ἡ πεδινὴ κατῳκεῖτο;<verse eID="rlxx_zechariah.7.7" />
+        <verse sID="rlxx_zechariah.7.8" osisID="rlxx_zechariah.7.8" />καὶ ἐγένετο λόγος κυρίου πρὸς Ζαχαριαν λέγων<verse eID="rlxx_zechariah.7.8" />
+        <verse sID="rlxx_zechariah.7.9" osisID="rlxx_zechariah.7.9" />Τάδε λέγει κύριος παντοκράτωρ Κρίμα δίκαιον κρίνατε καὶ ἔλεος καὶ οἰκτιρμὸν ποιεῖτε ἕκαστος πρὸς τὸν ἀδελφὸν αὐτοῦ<verse eID="rlxx_zechariah.7.9" />
+        <verse sID="rlxx_zechariah.7.10" osisID="rlxx_zechariah.7.10" />καὶ χήραν καὶ ὀρφανὸν καὶ προσήλυτον καὶ πένητα μὴ καταδυναστεύετε, καὶ κακίαν ἕκαστος τοῦ ἀδελφοῦ αὐτοῦ μὴ μνησικακείτω ἐν ταῖς καρδίαις ὑμῶν.<verse eID="rlxx_zechariah.7.10" />
+        <verse sID="rlxx_zechariah.7.11" osisID="rlxx_zechariah.7.11" />καὶ ἠπείθησαν τοῦ προσέχειν καὶ ἔδωκαν νῶτον παραφρονοῦντα καὶ τὰ ὦτα αὐτῶν ἐβάρυναν τοῦ μὴ εἰσακούειν<verse eID="rlxx_zechariah.7.11" />
+        <verse sID="rlxx_zechariah.7.12" osisID="rlxx_zechariah.7.12" />καὶ τὴν καρδίαν αὐτῶν ἔταξαν ἀπειθῆ τοῦ μὴ εἰσακούειν τοῦ νόμου μου καὶ τοὺς λόγους, οὓς ἐξαπέστειλεν κύριος παντοκράτωρ ἐν πνεύματι αὐτοῦ ἐν χερσὶν τῶν προφητῶν τῶν ἔμπροσθεν· καὶ ἐγένετο ὀργὴ μεγάλη παρὰ κυρίου παντοκράτορος.<verse eID="rlxx_zechariah.7.12" />
+        <verse sID="rlxx_zechariah.7.13" osisID="rlxx_zechariah.7.13" />καὶ ἔσται ὃν τρόπον εἶπεν καὶ οὐκ εἰσήκουσαν αὐτοῦ, οὕτως κεκράξονται καὶ οὐ μὴ εἰσακούσω, λέγει κύριος παντοκράτωρ.<verse eID="rlxx_zechariah.7.13" />
+        <verse sID="rlxx_zechariah.7.14" osisID="rlxx_zechariah.7.14" />καὶ ἐκβαλῶ αὐτοὺς εἰς πάντα τὰ ἔθνη, ἃ οὐκ ἔγνωσαν, καὶ ἡ γῆ ἀφανισθήσεται κατόπισθεν αὐτῶν ἐκ διοδεύοντος καὶ ἐξ ἀναστρέφοντος· καὶ ἔταξαν γῆν ἐκλεκτὴν εἰς ἀφανισμόν.<verse eID="rlxx_zechariah.7.14" />
+      </p>
+      <chapter eID="rlxx_zechariah.7" />
+      <chapter sID="rlxx_zechariah.8" osisID="rlxx_zechariah.8" />
+      <title>Chapter 8</title>
+      <p>
+        <verse sID="rlxx_zechariah.8.1" osisID="rlxx_zechariah.8.1" />Καὶ ἐγένετο λόγος κυρίου παντοκράτορος λέγων<verse eID="rlxx_zechariah.8.1" />
+        <verse sID="rlxx_zechariah.8.2" osisID="rlxx_zechariah.8.2" />Τάδε λέγει κύριος παντοκράτωρ Ἐζήλωσα τὴν Ιερουσαλημ καὶ τὴν Σιων ζῆλον μέγαν καὶ θυμῷ μεγάλῳ ἐζήλωσα αὐτήν.<verse eID="rlxx_zechariah.8.2" />
+        <verse sID="rlxx_zechariah.8.3" osisID="rlxx_zechariah.8.3" />τάδε λέγει κύριος Καὶ ἐπιστρέψω ἐπὶ Σιων καὶ κατασκηνώσω ἐν μέσῳ Ιερουσαλημ, καὶ κληθήσεται ἡ Ιερουσαλημ πόλις ἡ ἀληθινὴ καὶ τὸ ὄρος κυρίου παντοκράτορος ὄρος ἅγιον.<verse eID="rlxx_zechariah.8.3" />
+        <verse sID="rlxx_zechariah.8.4" osisID="rlxx_zechariah.8.4" />τάδε λέγει κύριος παντοκράτωρ Ἔτι καθήσονται πρεσβύτεροι καὶ πρεσβύτεραι ἐν ταῖς πλατείαις Ιερουσαλημ, ἕκαστος τὴν ῥάβδον αὐτοῦ ἔχων ἐν τῇ χειρὶ αὐτοῦ ἀπὸ πλήθους ἡμερῶν·<verse eID="rlxx_zechariah.8.4" />
+        <verse sID="rlxx_zechariah.8.5" osisID="rlxx_zechariah.8.5" />καὶ αἱ πλατεῖαι τῆς πόλεως πλησθήσονται παιδαρίων καὶ κορασίων παιζόντων ἐν ταῖς πλατείαις αὐτῆς.<verse eID="rlxx_zechariah.8.5" />
+        <verse sID="rlxx_zechariah.8.6" osisID="rlxx_zechariah.8.6" />τάδε λέγει κύριος παντοκράτωρ Διότι εἰ ἀδυνατήσει ἐνώπιον τῶν καταλοίπων τοῦ λαοῦ τούτου ἐν ταῖς ἡμέραις ἐκείναις, μὴ καὶ ἐνώπιον ἐμοῦ ἀδυνατήσει; λέγει κύριος παντοκράτωρ.<verse eID="rlxx_zechariah.8.6" />
+        <verse sID="rlxx_zechariah.8.7" osisID="rlxx_zechariah.8.7" />τάδε λέγει κύριος παντοκράτωρ Ἰδοὺ ἐγὼ ἀνασῴζω τὸν λαόν μου ἀπὸ γῆς ἀνατολῶν καὶ ἀπὸ γῆς δυσμῶν<verse eID="rlxx_zechariah.8.7" />
+        <verse sID="rlxx_zechariah.8.8" osisID="rlxx_zechariah.8.8" />καὶ εἰσάξω αὐτοὺς καὶ κατασκηνώσω ἐν μέσῳ Ιερουσαλημ, καὶ ἔσονταί μοι εἰς λαόν, καὶ ἐγὼ ἔσομαι αὐτοῖς εἰς θεὸν ἐν ἀληθείᾳ καὶ ἐν δικαιοσύνῃ.<verse eID="rlxx_zechariah.8.8" />
+        <verse sID="rlxx_zechariah.8.9" osisID="rlxx_zechariah.8.9" />τάδε λέγει κύριος παντοκράτωρ Κατισχυέτωσαν αἱ χεῖρες ὑμῶν τῶν ἀκουόντων ἐν ταῖς ἡμέραις ταύταις τοὺς λόγους τούτους ἐκ στόματος τῶν προφητῶν, ἀφ' ἧς ἡμέρας τεθεμελίωται ὁ οἶκος κυρίου παντοκράτορος, καὶ ὁ ναὸς ἀφ' οὗ ᾠκοδόμηται.<verse eID="rlxx_zechariah.8.9" />
+        <verse sID="rlxx_zechariah.8.10" osisID="rlxx_zechariah.8.10" />διότι πρὸ τῶν ἡμερῶν ἐκείνων ὁ μισθὸς τῶν ἀνθρώπων οὐκ ἔσται εἰς ὄνησιν, καὶ ὁ μισθὸς τῶν κτηνῶν οὐχ ὑπάρξει, καὶ τῷ ἐκπορευομένῳ καὶ τῷ εἰσπορευομένῳ οὐκ ἔσται εἰρήνη ἀπὸ τῆς θλίψεως· καὶ ἐξαποστελῶ πάντας τοὺς ἀνθρώπους ἕκαστον ἐπὶ τὸν πλησίον αὐτοῦ.<verse eID="rlxx_zechariah.8.10" />
+        <verse sID="rlxx_zechariah.8.11" osisID="rlxx_zechariah.8.11" />καὶ νῦν οὐ κατὰ τὰς ἡμέρας τὰς ἔμπροσθεν ἐγὼ ποιῶ τοῖς καταλοίποις τοῦ λαοῦ τούτου, λέγει κύριος παντοκράτωρ,<verse eID="rlxx_zechariah.8.11" />
+        <verse sID="rlxx_zechariah.8.12" osisID="rlxx_zechariah.8.12" />ἀλλ' ἢ δείξω εἰρήνην· ἡ ἄμπελος δώσει τὸν καρπὸν αὐτῆς, καὶ ἡ γῆ δώσει τὰ γενήματα αὐτῆς, καὶ ὁ οὐρανὸς δώσει τὴν δρόσον αὐτοῦ, καὶ κατακληρονομήσω τοῖς καταλοίποις τοῦ λαοῦ μου πάντα ταῦτα.<verse eID="rlxx_zechariah.8.12" />
+        <verse sID="rlxx_zechariah.8.13" osisID="rlxx_zechariah.8.13" />καὶ ἔσται ὃν τρόπον ἦτε ἐν κατάρᾳ ἐν τοῖς ἔθνεσιν, οἶκος Ιουδα καὶ οἶκος Ισραηλ, οὕτως διασώσω ὑμᾶς καὶ ἔσεσθε ἐν εὐλογίᾳ· θαρσεῖτε καὶ κατισχύετε ἐν ταῖς χερσὶν ὑμῶν.<verse eID="rlxx_zechariah.8.13" />
+        <verse sID="rlxx_zechariah.8.14" osisID="rlxx_zechariah.8.14" />διότι τάδε λέγει κύριος παντοκράτωρ Ὃν τρόπον διενοήθην τοῦ κακῶσαι ὑμᾶς ἐν τῷ παροργίσαι με τοὺς πατέρας ὑμῶν, λέγει κύριος παντοκράτωρ, καὶ οὐ μετενόησα,<verse eID="rlxx_zechariah.8.14" />
+        <verse sID="rlxx_zechariah.8.15" osisID="rlxx_zechariah.8.15" />οὕτως παρατέταγμαι καὶ διανενόημαι ἐν ταῖς ἡμέραις ταύταις τοῦ καλῶς ποιῆσαι τὴν Ιερουσαλημ καὶ τὸν οἶκον Ιουδα· θαρσεῖτε.<verse eID="rlxx_zechariah.8.15" />
+        <verse sID="rlxx_zechariah.8.16" osisID="rlxx_zechariah.8.16" />οὗτοι οἱ λόγοι, οὓς ποιήσετε· λαλεῖτε ἀλήθειαν ἕκαστος πρὸς τὸν πλησίον αὐτοῦ καὶ κρίμα εἰρηνικὸν κρίνατε ἐν ταῖς πύλαις ὑμῶν<verse eID="rlxx_zechariah.8.16" />
+        <verse sID="rlxx_zechariah.8.17" osisID="rlxx_zechariah.8.17" />καὶ ἕκαστος τὴν κακίαν τοῦ πλησίον αὐτοῦ μὴ λογίζεσθε ἐν ταῖς καρδίαις ὑμῶν καὶ ὅρκον ψευδῆ μὴ ἀγαπᾶτε, διότι ταῦτα πάντα ἐμίσησα, λέγει κύριος παντοκράτωρ.<verse eID="rlxx_zechariah.8.17" />
+        <verse sID="rlxx_zechariah.8.18" osisID="rlxx_zechariah.8.18" />Καὶ ἐγένετο λόγος κύριου παντοκράτορος πρός με λέγων<verse eID="rlxx_zechariah.8.18" />
+        <verse sID="rlxx_zechariah.8.19" osisID="rlxx_zechariah.8.19" />Τάδε λέγει κύριος παντοκράτωρ Νηστεία ἡ τετρὰς καὶ νηστεία ἡ πέμπτη καὶ νηστεία ἡ ἑβδόμη καὶ νηστεία ἡ δεκάτη ἔσονται τῷ οἴκῳ Ιουδα εἰς χαρὰν καὶ εἰς εὐφροσύνην καὶ εἰς ἑορτὰς ἀγαθὰς καὶ εὐφρανθήσεσθε, καὶ τὴν ἀλήθειαν καὶ τὴν εἰρήνην ἀγαπήσατε.<verse eID="rlxx_zechariah.8.19" />
+        <verse sID="rlxx_zechariah.8.20" osisID="rlxx_zechariah.8.20" />τάδε λέγει κύριος παντοκράτωρ Ἔτι ἥξουσιν λαοὶ πολλοὶ καὶ κατοικοῦντες πόλεις πολλάς·<verse eID="rlxx_zechariah.8.20" />
+        <verse sID="rlxx_zechariah.8.21" osisID="rlxx_zechariah.8.21" />καὶ συνελεύσονται κατοικοῦντες πέντε πόλεις εἰς μίαν πόλιν λέγοντες Πορευθῶμεν δεηθῆναι τοῦ προσώπου κυρίου καὶ ἐκζητῆσαι τὸ πρόσωπον κυρίου παντοκράτορος· πορεύσομαι κἀγώ.<verse eID="rlxx_zechariah.8.21" />
+        <verse sID="rlxx_zechariah.8.22" osisID="rlxx_zechariah.8.22" />καὶ ἥξουσιν λαοὶ πολλοὶ καὶ ἔθνη πολλὰ ἐκζητῆσαι τὸ πρόσωπον κυρίου παντοκράτορος ἐν Ιερουσαλημ καὶ τοῦ ἐξιλάσκεσθαι τὸ πρόσωπον κυρίου.<verse eID="rlxx_zechariah.8.22" />
+        <verse sID="rlxx_zechariah.8.23" osisID="rlxx_zechariah.8.23" />τάδε λέγει κύριος παντοκράτωρ Ἐν ταῖς ἡμέραις ἐκείναις ἐὰν ἐπιλάβωνται δέκα ἄνδρες ἐκ πασῶν τῶν γλωσσῶν τῶν ἐθνῶν καὶ ἐπιλάβωνται τοῦ κρασπέδου ἀνδρὸς Ιουδαίου λέγοντες Πορευσόμεθα μετὰ σοῦ, διότι ἀκηκόαμεν ὅτι ὁ θεὸς μεθ' ὑμῶν ἐστιν.<verse eID="rlxx_zechariah.8.23" />
+      </p>
+      <chapter eID="rlxx_zechariah.8" />
+      <chapter sID="rlxx_zechariah.9" osisID="rlxx_zechariah.9" />
+      <title>Chapter 9</title>
+      <p>
+        <verse sID="rlxx_zechariah.9.1" osisID="rlxx_zechariah.9.1" />Λῆμμα λόγου κυρίου· ἐν γῇ Σεδραχ καὶ Δαμασκοῦ θυσία αὐτοῦ, διότι κύριος ἐφορᾷ ἀνθρώπους καὶ πάσας φυλὰς τοῦ Ισραηλ.<verse eID="rlxx_zechariah.9.1" />
+        <verse sID="rlxx_zechariah.9.2" osisID="rlxx_zechariah.9.2" />καὶ Εμαθ ἐν τοῖς ὁρίοις αὐτῆς, Τύρος καὶ Σιδών, διότι ἐφρόνησαν σφόδρα.<verse eID="rlxx_zechariah.9.2" />
+        <verse sID="rlxx_zechariah.9.3" osisID="rlxx_zechariah.9.3" />καὶ ᾠκοδόμησεν Τύρος ὀχυρώματα ἑαυτῇ καὶ ἐθησαύρισεν ἀργύριον ὡς χοῦν καὶ συνήγαγεν χρυσίον ὡς πηλὸν ὁδῶν.<verse eID="rlxx_zechariah.9.3" />
+        <verse sID="rlxx_zechariah.9.4" osisID="rlxx_zechariah.9.4" />διὰ τοῦτο κύριος κληρονομήσει αὐτὴν καὶ πατάξει εἰς θάλασσαν δύναμιν αὐτῆς, καὶ αὕτη ἐν πυρὶ καταναλωθήσεται.<verse eID="rlxx_zechariah.9.4" />
+        <verse sID="rlxx_zechariah.9.5" osisID="rlxx_zechariah.9.5" />ὄψεται Ἀσκαλὼν καὶ φοβηθήσεται, καὶ Γάζα καὶ ὀδυνηθήσεται σφόδρα, καὶ Ακκαρων, ὅτι ᾐσχύνθη ἐπὶ τῷ παραπτώματι αὐτῆς· καὶ ἀπολεῖται βασιλεὺς ἐκ Γάζης, καὶ Ἀσκαλὼν οὐ μὴ κατοικηθῇ.<verse eID="rlxx_zechariah.9.5" />
+        <verse sID="rlxx_zechariah.9.6" osisID="rlxx_zechariah.9.6" />καὶ κατοικήσουσιν ἀλλογενεῖς ἐν Ἀζώτῳ, καὶ καθελῶ ὕβριν ἀλλοφύλων.<verse eID="rlxx_zechariah.9.6" />
+        <verse sID="rlxx_zechariah.9.7" osisID="rlxx_zechariah.9.7" />καὶ ἐξαρῶ τὸ αἷμα αὐτῶν ἐκ στόματος αὐτῶν καὶ τὰ βδελύγματα αὐτῶν ἐκ μέσου ὀδόντων αὐτῶν, καὶ ὑπολειφθήσεται καὶ οὗτος τῷ θεῷ ἡμῶν, καὶ ἔσονται ὡς χιλίαρχος ἐν Ιουδα καὶ Ακκαρων ὡς ὁ Ιεβουσαῖος.<verse eID="rlxx_zechariah.9.7" />
+        <verse sID="rlxx_zechariah.9.8" osisID="rlxx_zechariah.9.8" />καὶ ὑποστήσομαι τῷ οἴκῳ μου ἀνάστημα τοῦ μὴ διαπορεύεσθαι μηδὲ ἀνακάμπτειν, καὶ οὐ μὴ ἐπέλθῃ ἐπ' αὐτοὺς οὐκέτι ἐξελαύνων, διότι νῦν ἑώρακα ἐν τοῖς ὀφθαλμοῖς μου.<verse eID="rlxx_zechariah.9.8" />
+        <verse sID="rlxx_zechariah.9.9" osisID="rlxx_zechariah.9.9" />Χαῖρε σφόδρα, θύγατερ Σιων· κήρυσσε, θύγατερ Ιερουσαλημ· ἰδοὺ ὁ βασιλεύς σου ἔρχεταί σοι, δίκαιος καὶ σῴζων αὐτός, πραῢς καὶ ἐπιβεβηκὼς ἐπὶ ὑποζύγιον καὶ πῶλον νέον.<verse eID="rlxx_zechariah.9.9" />
+        <verse sID="rlxx_zechariah.9.10" osisID="rlxx_zechariah.9.10" />καὶ ἐξολεθρεύσει ἅρματα ἐξ Εφραιμ καὶ ἵππον ἐξ Ιερουσαλημ, καὶ ἐξολεθρευθήσεται τόξον πολεμικόν, καὶ πλῆθος καὶ εἰρήνη ἐξ ἐθνῶν· καὶ κατάρξει ὑδάτων ἕως θαλάσσης καὶ ποταμῶν διεκβολὰς γῆς.<verse eID="rlxx_zechariah.9.10" />
+        <verse sID="rlxx_zechariah.9.11" osisID="rlxx_zechariah.9.11" />καὶ σὺ ἐν αἵματι διαθήκης ἐξαπέστειλας δεσμίους σου ἐκ λάκκου οὐκ ἔχοντος ὕδωρ.<verse eID="rlxx_zechariah.9.11" />
+        <verse sID="rlxx_zechariah.9.12" osisID="rlxx_zechariah.9.12" />καθήσεσθε ἐν ὀχυρώματι, δέσμιοι τῆς συναγωγῆς, καὶ ἀντὶ μιᾶς ἡμέρας παροικεσίας σου διπλᾶ ἀνταποδώσω σοι·<verse eID="rlxx_zechariah.9.12" />
+        <verse sID="rlxx_zechariah.9.13" osisID="rlxx_zechariah.9.13" />διότι ἐνέτεινά σε, Ιουδα, ἐμαυτῷ τόξον, ἔπλησα τὸν Εφραιμ καὶ ἐπεγερῶ τὰ τέκνα σου, Σιων, ἐπὶ τὰ τέκνα τῶν Ἑλλήνων καὶ ψηλαφήσω σε ὡς ῥομφαίαν μαχητοῦ·<verse eID="rlxx_zechariah.9.13" />
+        <verse sID="rlxx_zechariah.9.14" osisID="rlxx_zechariah.9.14" />καὶ κύριος ἔσται ἐπ' αὐτοὺς καὶ ἐξελεύσεται ὡς ἀστραπὴ βολίς, καὶ κύριος παντοκράτωρ ἐν σάλπιγγι σαλπιεῖ καὶ πορεύσεται ἐν σάλῳ ἀπειλῆς αὐτοῦ.<verse eID="rlxx_zechariah.9.14" />
+        <verse sID="rlxx_zechariah.9.15" osisID="rlxx_zechariah.9.15" />κύριος παντοκράτωρ ὑπερασπιεῖ αὐτῶν, καὶ καταναλώσουσιν αὐτοὺς καὶ καταχώσουσιν αὐτοὺς ἐν λίθοις σφενδόνης καὶ ἐκπίονται αὐτοὺς ὡς οἶνον καὶ πλήσουσιν ὡς φιάλας θυσιαστήριον.<verse eID="rlxx_zechariah.9.15" />
+        <verse sID="rlxx_zechariah.9.16" osisID="rlxx_zechariah.9.16" />καὶ σώσει αὐτοὺς κύριος ἐν τῇ ἡμέρᾳ ἐκείνῃ, ὡς πρόβατα λαὸν αὐτοῦ, διότι λίθοι ἅγιοι κυλίονται ἐπὶ τῆς γῆς αὐτοῦ.<verse eID="rlxx_zechariah.9.16" />
+        <verse sID="rlxx_zechariah.9.17" osisID="rlxx_zechariah.9.17" />ὅτι εἴ τι ἀγαθὸν αὐτοῦ καὶ εἴ τι καλὸν παρ' αὐτοῦ, σῖτος νεανίσκοις καὶ οἶνος εὐωδιάζων εἰς παρθένους.<verse eID="rlxx_zechariah.9.17" />
+      </p>
+      <chapter eID="rlxx_zechariah.9" />
+      <chapter sID="rlxx_zechariah.10" osisID="rlxx_zechariah.10" />
+      <title>Chapter 10</title>
+      <p>
+        <verse sID="rlxx_zechariah.10.1" osisID="rlxx_zechariah.10.1" />Αἰτεῖσθε ὑετὸν παρὰ κυρίου καθ' ὥραν πρόιμον καὶ ὄψιμον· κύριος ἐποίησεν φαντασίας, καὶ ὑετὸν χειμερινὸν δώσει αὐτοῖς, ἑκάστῳ βοτάνην ἐν ἀγρῷ.<verse eID="rlxx_zechariah.10.1" />
+        <verse sID="rlxx_zechariah.10.2" osisID="rlxx_zechariah.10.2" />διότι οἱ ἀποφθεγγόμενοι ἐλάλησαν κόπους, καὶ οἱ μάντεις ὁράσεις ψευδεῖς, καὶ τὰ ἐνύπνια ψευδῆ ἐλάλουν, μάταια παρεκάλουν· διὰ τοῦτο ἐξήρθησαν ὡς πρόβατα καὶ ἐκακώθησαν, διότι οὐκ ἦν ἴασις.<verse eID="rlxx_zechariah.10.2" />
+        <verse sID="rlxx_zechariah.10.3" osisID="rlxx_zechariah.10.3" />ἐπὶ τοὺς ποιμένας παρωξύνθη ὁ θυμός μου, καὶ ἐπὶ τοὺς ἀμνοὺς ἐπισκέψομαι· καὶ ἐπισκέψεται κύριος ὁ θεὸς ὁ παντοκράτωρ τὸ ποίμνιον αὐτοῦ τὸν οἶκον Ιουδα καὶ τάξει αὐτοὺς ὡς ἵππον εὐπρεπῆ αὐτοῦ ἐν πολέμῳ.<verse eID="rlxx_zechariah.10.3" />
+        <verse sID="rlxx_zechariah.10.4" osisID="rlxx_zechariah.10.4" />καὶ ἐξ αὐτοῦ ἐπέβλεψεν καὶ ἐξ αὐτοῦ ἔταξεν, καὶ ἐξ αὐτοῦ τόξον ἐν θυμῷ· ἐξ αὐτοῦ ἐξελεύσεται πᾶς ὁ ἐξελαύνων ἐν τῷ αὐτῷ.<verse eID="rlxx_zechariah.10.4" />
+        <verse sID="rlxx_zechariah.10.5" osisID="rlxx_zechariah.10.5" />καὶ ἔσονται ὡς μαχηταὶ πατοῦντες πηλὸν ἐν ταῖς ὁδοῖς ἐν πολέμῳ καὶ παρατάξονται, διότι κύριος μετ' αὐτῶν, καὶ καταισχυνθήσονται ἀναβάται ἵππων.<verse eID="rlxx_zechariah.10.5" />
+        <verse sID="rlxx_zechariah.10.6" osisID="rlxx_zechariah.10.6" />καὶ κατισχύσω τὸν οἶκον Ιουδα καὶ τὸν οἶκον Ιωσηφ σώσω καὶ κατοικιῶ αὐτούς, ὅτι ἠγάπησα αὐτούς, καὶ ἔσονται ὃν τρόπον οὐκ ἀπεστρεψάμην αὐτούς, διότι ἐγὼ κύριος ὁ θεὸς αὐτῶν καὶ ἐπακούσομαι αὐτοῖς.<verse eID="rlxx_zechariah.10.6" />
+        <verse sID="rlxx_zechariah.10.7" osisID="rlxx_zechariah.10.7" />καὶ ἔσονται ὡς μαχηταὶ τοῦ Εφραιμ, καὶ χαρήσεται ἡ καρδία αὐτῶν ὡς ἐν οἴνῳ· καὶ τὰ τέκνα αὐτῶν ὄψονται καὶ εὐφρανθήσονται, καὶ χαρεῖται ἡ καρδία αὐτῶν ἐπὶ τῷ κυρίῳ.<verse eID="rlxx_zechariah.10.7" />
+        <verse sID="rlxx_zechariah.10.8" osisID="rlxx_zechariah.10.8" />σημανῶ αὐτοῖς καὶ εἰσδέξομαι αὐτούς, διότι λυτρώσομαι αὐτούς, καὶ πληθυνθήσονται καθότι ἦσαν πολλοί·<verse eID="rlxx_zechariah.10.8" />
+        <verse sID="rlxx_zechariah.10.9" osisID="rlxx_zechariah.10.9" />καὶ σπερῶ αὐτοὺς ἐν λαοῖς, καὶ οἱ μακρὰν μνησθήσονταί μου, ἐκθρέψουσιν τὰ τέκνα αὐτῶν καὶ ἐπιστρέψουσιν.<verse eID="rlxx_zechariah.10.9" />
+        <verse sID="rlxx_zechariah.10.10" osisID="rlxx_zechariah.10.10" />καὶ ἐπιστρέψω αὐτοὺς ἐκ γῆς Αἰγύπτου καὶ ἐξ Ἀσσυρίων εἰσδέξομαι αὐτοὺς καὶ εἰς τὴν Γαλααδῖτιν καὶ εἰς τὸν Λίβανον εἰσάξω αὐτούς, καὶ οὐ μὴ ὑπολειφθῇ ἐξ αὐτῶν οὐδὲ εἷς·<verse eID="rlxx_zechariah.10.10" />
+        <verse sID="rlxx_zechariah.10.11" osisID="rlxx_zechariah.10.11" />καὶ διελεύσονται ἐν θαλάσσῃ στενῇ καὶ πατάξουσιν ἐν θαλάσσῃ κύματα, καὶ ξηρανθήσεται πάντα τὰ βάθη ποταμῶν, καὶ ἀφαιρεθήσεται πᾶσα ὕβρις Ἀσσυρίων, καὶ σκῆπτρον Αἰγύπτου περιαιρεθήσεται.<verse eID="rlxx_zechariah.10.11" />
+        <verse sID="rlxx_zechariah.10.12" osisID="rlxx_zechariah.10.12" />καὶ κατισχύσω αὐτοὺς ἐν κυρίῳ θεῷ αὐτῶν, καὶ ἐν τῷ ὀνόματι αὐτοῦ κατακαυχήσονται, λέγει κύριος.<verse eID="rlxx_zechariah.10.12" />
+      </p>
+      <chapter eID="rlxx_zechariah.10" />
+      <chapter sID="rlxx_zechariah.11" osisID="rlxx_zechariah.11" />
+      <title>Chapter 11</title>
+      <p>
+        <verse sID="rlxx_zechariah.11.1" osisID="rlxx_zechariah.11.1" />Διάνοιξον, ὁ Λίβανος, τὰς θύρας σου, καὶ καταφαγέτω πῦρ τὰς κέδρους σου·<verse eID="rlxx_zechariah.11.1" />
+        <verse sID="rlxx_zechariah.11.2" osisID="rlxx_zechariah.11.2" />ὀλολυξάτω πίτυς, διότι πέπτωκεν κέδρος, ὅτι μεγάλως μεγιστᾶνες ἐταλαιπώρησαν· ὀλολύξατε, δρύες τῆς Βασανίτιδος, ὅτι κατεσπάσθη ὁ δρυμὸς ὁ σύμφυτος.<verse eID="rlxx_zechariah.11.2" />
+        <verse sID="rlxx_zechariah.11.3" osisID="rlxx_zechariah.11.3" />φωνὴ θρηνούντων ποιμένων, ὅτι τεταλαιπώρηκεν ἡ μεγαλωσύνη αὐτῶν· φωνὴ ὠρυομένων λεόντων, ὅτι τεταλαιπώρηκεν τὸ φρύαγμα τοῦ Ιορδάνου.<verse eID="rlxx_zechariah.11.3" />
+        <verse sID="rlxx_zechariah.11.4" osisID="rlxx_zechariah.11.4" />τάδε λέγει κύριος παντοκράτωρ Ποιμαίνετε τὰ πρόβατα τῆς σφαγῆς,<verse eID="rlxx_zechariah.11.4" />
+        <verse sID="rlxx_zechariah.11.5" osisID="rlxx_zechariah.11.5" />ἃ οἱ κτησάμενοι κατέσφαζον καὶ οὐ μετεμέλοντο, καὶ οἱ πωλοῦντες αὐτὰ ἔλεγον Εὐλογητὸς κύριος καὶ πεπλουτήκαμεν, καὶ οἱ ποιμένες αὐτῶν οὐκ ἔπασχον οὐδὲν ἐπ' αὐτοῖς.<verse eID="rlxx_zechariah.11.5" />
+        <verse sID="rlxx_zechariah.11.6" osisID="rlxx_zechariah.11.6" />διὰ τοῦτο οὐ φείσομαι οὐκέτι ἐπὶ τοὺς κατοικοῦντας τὴν γῆν, λέγει κύριος, καὶ ἰδοὺ ἐγὼ παραδίδωμι τοὺς ἀνθρώπους ἕκαστον εἰς χεῖρας τοῦ πλησίον αὐτοῦ καὶ εἰς χεῖρας βασιλέως αὐτοῦ, καὶ κατακόψουσιν τὴν γῆν, καὶ οὐ μὴ ἐξέλωμαι ἐκ χειρὸς αὐτῶν.<verse eID="rlxx_zechariah.11.6" />
+        <verse sID="rlxx_zechariah.11.7" osisID="rlxx_zechariah.11.7" />καὶ ποιμανῶ τὰ πρόβατα τῆς σφαγῆς εἰς τὴν Χαναανῖτιν· καὶ λήμψομαι ἐμαυτῷ δύο ῥάβδους –τὴν μίαν ἐκάλεσα Κάλλος καὶ τὴν ἑτέραν ἐκάλεσα Σχοίνισμα – καὶ ποιμανῶ τὰ πρόβατα.<verse eID="rlxx_zechariah.11.7" />
+        <verse sID="rlxx_zechariah.11.8" osisID="rlxx_zechariah.11.8" />καὶ ἐξαρῶ τοὺς τρεῖς ποιμένας ἐν μηνὶ ἑνί, καὶ βαρυνθήσεται ἡ ψυχή μου ἐπ' αὐτούς, καὶ γὰρ αἱ ψυχαὶ αὐτῶν ἐπωρύοντο ἐπ' ἐμέ.<verse eID="rlxx_zechariah.11.8" />
+        <verse sID="rlxx_zechariah.11.9" osisID="rlxx_zechariah.11.9" />καὶ εἶπα Οὐ ποιμανῶ ὑμᾶς· τὸ ἀποθνῇσκον ἀποθνῃσκέτω, καὶ τὸ ἐκλεῖπον ἐκλειπέτω, καὶ τὰ κατάλοιπα κατεσθιέτωσαν ἕκαστος τὰς σάρκας τοῦ πλησίον αὐτοῦ.<verse eID="rlxx_zechariah.11.9" />
+        <verse sID="rlxx_zechariah.11.10" osisID="rlxx_zechariah.11.10" />καὶ λήμψομαι τὴν ῥάβδον μου τὴν καλὴν καὶ ἀπορρίψω αὐτὴν τοῦ διασκεδάσαι τὴν διαθήκην μου, ἣν διεθέμην πρὸς πάντας τοὺς λαούς·<verse eID="rlxx_zechariah.11.10" />
+        <verse sID="rlxx_zechariah.11.11" osisID="rlxx_zechariah.11.11" />καὶ διασκεδασθήσεται ἐν τῇ ἡμέρᾳ ἐκείνῃ, καὶ γνώσονται οἱ Χαναναῖοι τὰ πρόβατα τὰ φυλασσόμενα, διότι λόγος κυρίου ἐστίν.<verse eID="rlxx_zechariah.11.11" />
+        <verse sID="rlxx_zechariah.11.12" osisID="rlxx_zechariah.11.12" />καὶ ἐρῶ πρὸς αὐτούς Εἰ καλὸν ἐνώπιον ὑμῶν ἐστιν, δότε στήσαντες τὸν μισθόν μου ἢ ἀπείπασθε· καὶ ἔστησαν τὸν μισθόν μου τριάκοντα ἀργυροῦς.<verse eID="rlxx_zechariah.11.12" />
+        <verse sID="rlxx_zechariah.11.13" osisID="rlxx_zechariah.11.13" />καὶ εἶπεν κύριος πρός με Κάθες αὐτοὺς εἰς τὸ χωνευτήριον, καὶ σκέψαι εἰ δόκιμόν ἐστιν, ὃν τρόπον ἐδοκιμάσθην ὑπὲρ αὐτῶν. καὶ ἔλαβον τοὺς τριάκοντα ἀργυροῦς καὶ ἐνέβαλον αὐτοὺς εἰς τὸν οἶκον κυρίου εἰς τὸ χωνευτήριον.<verse eID="rlxx_zechariah.11.13" />
+        <verse sID="rlxx_zechariah.11.14" osisID="rlxx_zechariah.11.14" />καὶ ἀπέρριψα τὴν ῥάβδον τὴν δευτέραν, τὸ Σχοίνισμα, τοῦ διασκεδάσαι τὴν κατάσχεσιν ἀνὰ μέσον Ιουδα καὶ ἀνὰ μέσον τοῦ Ισραηλ.<verse eID="rlxx_zechariah.11.14" />
+        <verse sID="rlxx_zechariah.11.15" osisID="rlxx_zechariah.11.15" />Καὶ εἶπεν κύριος πρός με Ἔτι λαβὲ σεαυτῷ σκεύη ποιμενικὰ ποιμένος ἀπείρου.<verse eID="rlxx_zechariah.11.15" />
+        <verse sID="rlxx_zechariah.11.16" osisID="rlxx_zechariah.11.16" />διότι ἰδοὺ ἐγὼ ἐξεγείρω ποιμένα ἐπὶ τὴν γῆν· τὸ ἐκλιμπάνον οὐ μὴ ἐπισκέψηται καὶ τὸ διεσκορπισμένον οὐ μὴ ζητήσῃ καὶ τὸ συντετριμμένον οὐ μὴ ἰάσηται καὶ τὸ ὁλόκληρον οὐ μὴ κατευθύνῃ καὶ τὰ κρέα τῶν ἐκλεκτῶν καταφάγεται καὶ τοὺς ἀστραγάλους αὐτῶν ἐκστρέψει.<verse eID="rlxx_zechariah.11.16" />
+        <verse sID="rlxx_zechariah.11.17" osisID="rlxx_zechariah.11.17" />ὦ οἱ ποιμαίνοντες τὰ μάταια καὶ οἱ καταλελοιπότες τὰ πρόβατα· μάχαιρα ἐπὶ τοὺς βραχίονας αὐτοῦ καὶ ἐπὶ τὸν ὀφθαλμὸν τὸν δεξιὸν αὐτοῦ· ὁ βραχίων αὐτοῦ ξηραινόμενος ξηρανθήσεται, καὶ ὁ ὀφθαλμὸς ὁ δεξιὸς αὐτοῦ ἐκτυφλούμενος ἐκτυφλωθήσεται.<verse eID="rlxx_zechariah.11.17" />
+      </p>
+      <chapter eID="rlxx_zechariah.11" />
+      <chapter sID="rlxx_zechariah.12" osisID="rlxx_zechariah.12" />
+      <title>Chapter 12</title>
+      <p>
+        <verse sID="rlxx_zechariah.12.1" osisID="rlxx_zechariah.12.1" />Λῆμμα λόγου κυρίου ἐπὶ τὸν Ισραηλ· λέγει κύριος ἐκτείνων οὐρανὸν καὶ θεμελιῶν γῆν καὶ πλάσσων πνεῦμα ἀνθρώπου ἐν αὐτῷ<verse eID="rlxx_zechariah.12.1" />
+        <verse sID="rlxx_zechariah.12.2" osisID="rlxx_zechariah.12.2" />Ἰδοὺ ἐγὼ τίθημι τὴν Ιερουσαλημ ὡς πρόθυρα σαλευόμενα πᾶσι τοῖς λαοῖς κύκλῳ, καὶ ἐν τῇ Ιουδαίᾳ ἔσται περιοχὴ ἐπὶ Ιερουσαλημ.<verse eID="rlxx_zechariah.12.2" />
+        <verse sID="rlxx_zechariah.12.3" osisID="rlxx_zechariah.12.3" />καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ θήσομαι τὴν Ιερουσαλημ λίθον καταπατούμενον πᾶσιν τοῖς ἔθνεσιν· πᾶς ὁ καταπατῶν αὐτὴν ἐμπαίζων ἐμπαίξεται, καὶ ἐπισυναχθήσονται ἐπ' αὐτὴν πάντα τὰ ἔθνη τῆς γῆς.<verse eID="rlxx_zechariah.12.3" />
+        <verse sID="rlxx_zechariah.12.4" osisID="rlxx_zechariah.12.4" />ἐν τῇ ἡμέρᾳ ἐκείνῃ, λέγει κύριος παντοκράτωρ, πατάξω πάντα ἵππον ἐν ἐκστάσει καὶ τὸν ἀναβάτην αὐτοῦ ἐν παραφρονήσει, ἐπὶ δὲ τὸν οἶκον Ιουδα διανοίξω τοὺς ὀφθαλμούς μου καὶ πάντας τοὺς ἵππους τῶν λαῶν πατάξω ἐν ἀποτυφλώσει.<verse eID="rlxx_zechariah.12.4" />
+        <verse sID="rlxx_zechariah.12.5" osisID="rlxx_zechariah.12.5" />καὶ ἐροῦσιν οἱ χιλίαρχοι Ιουδα ἐν ταῖς καρδίαις αὐτῶν Εὑρήσομεν ἑαυτοῖς τοὺς κατοικοῦντας Ιερουσαλημ ἐν κυρίῳ παντοκράτορι θεῷ αὐτῶν.<verse eID="rlxx_zechariah.12.5" />
+        <verse sID="rlxx_zechariah.12.6" osisID="rlxx_zechariah.12.6" />ἐν τῇ ἡμέρᾳ ἐκείνῃ θήσομαι τοὺς χιλιάρχους Ιουδα ὡς δαλὸν πυρὸς ἐν ξύλοις καὶ ὡς λαμπάδα πυρὸς ἐν καλάμῃ, καὶ καταφάγονται ἐκ δεξιῶν καὶ ἐξ εὐωνύμων πάντας τοὺς λαοὺς κυκλόθεν, καὶ κατοικήσει Ιερουσαλημ ἔτι καθ' ἑαυτήν.<verse eID="rlxx_zechariah.12.6" />
+        <verse sID="rlxx_zechariah.12.7" osisID="rlxx_zechariah.12.7" />καὶ σώσει κύριος τὰ σκηνώματα Ιουδα καθὼς ἀπ' ἀρχῆς, ὅπως μὴ μεγαλύνηται καύχημα οἴκου Δαυιδ καὶ ἔπαρσις τῶν κατοικούντων Ιερουσαλημ ἐπὶ τὸν Ιουδαν.<verse eID="rlxx_zechariah.12.7" />
+        <verse sID="rlxx_zechariah.12.8" osisID="rlxx_zechariah.12.8" />καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ ὑπερασπιεῖ κύριος ὑπὲρ τῶν κατοικούντων Ιερουσαλημ, καὶ ἔσται ὁ ἀσθενῶν ἐν αὐτοῖς ἐν ἐκείνῃ τῇ ἡμέρᾳ ὡς οἶκος Δαυιδ, ὁ δὲ οἶκος Δαυιδ ὡς οἶκος θεοῦ, ὡς ἄγγελος κυρίου ἐνώπιον αὐτῶν.<verse eID="rlxx_zechariah.12.8" />
+        <verse sID="rlxx_zechariah.12.9" osisID="rlxx_zechariah.12.9" />καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ ζητήσωτοῦ ἐξᾶραι πάντα τὰ ἔθνη τὰ ἐπερχόμενα ἐπὶ Ιερουσαλημ.<verse eID="rlxx_zechariah.12.9" />
+        <verse sID="rlxx_zechariah.12.10" osisID="rlxx_zechariah.12.10" />καὶ ἐκχεῶ ἐπὶ τὸν οἶκον Δαυιδ καὶ ἐπὶ τοὺς κατοικοῦντας Ιερουσαλημ πνεῦμα χάριτος καὶ οἰκτιρμοῦ, καὶ ἐπιβλέψονται πρός με ἀνθ' ὧν κατωρχήσαντο καὶ κόψονται ἐπ' αὐτὸν κοπετὸν ὡς ἐπ' ἀγαπητὸν καὶ ὀδυνηθήσονται ὀδύνην ὡς ἐπὶ πρωτοτόκῳ.<verse eID="rlxx_zechariah.12.10" />
+        <verse sID="rlxx_zechariah.12.11" osisID="rlxx_zechariah.12.11" />ἐν τῇ ἡμέρᾳ ἐκείνῃ μεγαλυνθήσεται ὁ κοπετὸς ἐν Ιερουσαλημ ὡς κοπετὸς ῥοῶνος ἐν πεδίῳ ἐκκοπτομένου,<verse eID="rlxx_zechariah.12.11" />
+        <verse sID="rlxx_zechariah.12.12" osisID="rlxx_zechariah.12.12" />καὶ κόψεται ἡ γῆ κατὰ φυλὰς φυλάς, φυλὴ καθ' ἑαυτὴν καὶ αἱ γυναῖκες αὐτῶν καθ' ἑαυτάς, φυλὴ οἴκου Δαυιδ καθ' ἑαυτὴν καὶ αἱ γυναῖκες αὐτῶν καθ' ἑαυτάς, φυλὴ οἴκου Ναθαν καθ' ἑαυτὴν καὶ αἱ γυναῖκες αὐτῶν καθ' ἑαυτάς,<verse eID="rlxx_zechariah.12.12" />
+        <verse sID="rlxx_zechariah.12.13" osisID="rlxx_zechariah.12.13" />φυλὴ οἴκου Λευι καθ' ἑαυτὴν καὶ αἱ γυναῖκες αὐτῶν καθ' ἑαυτάς, φυλὴ τοῦ Συμεων καθ' ἑαυτὴν καὶ αἱ γυναῖκες αὐτῶν καθ' ἑαυτάς,<verse eID="rlxx_zechariah.12.13" />
+        <verse sID="rlxx_zechariah.12.14" osisID="rlxx_zechariah.12.14" />πᾶσαι αἱ φυλαὶ αἱ ὑπολελειμμέναι φυλὴ καθ' ἑαυτὴν καὶ αἱ γυναῖκες αὐτῶν καθ' ἑαυτάς.<verse eID="rlxx_zechariah.12.14" />
+      </p>
+      <chapter eID="rlxx_zechariah.12" />
+      <chapter sID="rlxx_zechariah.13" osisID="rlxx_zechariah.13" />
+      <title>Chapter 13</title>
+      <p>
+        <verse sID="rlxx_zechariah.13.1" osisID="rlxx_zechariah.13.1" />Ἐν τῇ ἡμέρᾳ ἐκείνῃ ἔσται πᾶς τόπος διανοιγόμενος ἐν τῷ οἴκῳ Δαυιδ.<verse eID="rlxx_zechariah.13.1" />
+        <verse sID="rlxx_zechariah.13.2" osisID="rlxx_zechariah.13.2" />καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ, λέγει κύριος, ἐξολεθρεύσω τὰ ὀνόματα τῶν εἰδώλων ἀπὸ τῆς γῆς, καὶ οὐκέτι ἔσται αὐτῶν μνεία· καὶ τοὺς ψευδοπροφήτας καὶ τὸ πνεῦμα τὸ ἀκάθαρτον ἐξαρῶ ἀπὸ τῆς γῆς.<verse eID="rlxx_zechariah.13.2" />
+        <verse sID="rlxx_zechariah.13.3" osisID="rlxx_zechariah.13.3" />καὶ ἔσται ἐὰν προφητεύσῃ ἄνθρωπος ἔτι, καὶ ἐρεῖ πρὸς αὐτὸν ὁ πατὴρ αὐτοῦ καὶ ἡ μήτηρ αὐτοῦ οἱ γεννήσαντες αὐτόν Οὐ ζήσῃ, ὅτι ψευδῆ ἐλάλησας ἐπ' ὀνόματι κυρίου· καὶ συμποδιοῦσιν αὐτὸν ὁ πατὴρ αὐτοῦ καὶ ἡ μήτηρ αὐτοῦ οἱ γεννήσαντες αὐτὸν ἐν τῷ προφητεύειν αὐτόν.<verse eID="rlxx_zechariah.13.3" />
+        <verse sID="rlxx_zechariah.13.4" osisID="rlxx_zechariah.13.4" />καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ καταισχυνθήσονται οἱ προφῆται, ἕκαστος ἐκ τῆς ὁράσεως αὐτοῦ ἐν τῷ προφητεύειν αὐτόν, καὶ ἐνδύσονται δέρριν τριχίνην ἀνθ' ὧν ἐψεύσαντο.<verse eID="rlxx_zechariah.13.4" />
+        <verse sID="rlxx_zechariah.13.5" osisID="rlxx_zechariah.13.5" />καὶ ἐρεῖ Οὔκ εἰμι προφήτης ἐγώ, διότι ἄνθρωπος ἐργαζόμενος τὴν γῆν ἐγώ εἰμι, ὅτι ἄνθρωπος ἐγέννησέν με ἐκ νεότητός μου.<verse eID="rlxx_zechariah.13.5" />
+        <verse sID="rlxx_zechariah.13.6" osisID="rlxx_zechariah.13.6" />καὶ ἐρῶ πρὸς αὐτόν Τί αἱ πληγαὶ αὗται ἀνὰ μέσον τῶν χειρῶν σου; καὶ ἐρεῖ Ἃς ἐπλήγην ἐν τῷ οἴκῳ τῷ ἀγαπητῷ μου.<verse eID="rlxx_zechariah.13.6" />
+        <verse sID="rlxx_zechariah.13.7" osisID="rlxx_zechariah.13.7" />Ῥομφαία, ἐξεγέρθητι ἐπὶ τοὺς ποιμένας μου καὶ ἐπ' ἄνδρα πολίτηνμου, λέγει κύριος παντοκράτωρ· πατάξατε τοὺς ποιμένας καὶ ἐκσπάσατε τὰ πρόβατα, καὶ ἐπάξω τὴν χεῖρά μου ἐπὶ τοὺς ποιμένας.<verse eID="rlxx_zechariah.13.7" />
+        <verse sID="rlxx_zechariah.13.8" osisID="rlxx_zechariah.13.8" />καὶ ἔσται ἐν πάσῃ τῇ γῇ, λέγει κύριος, τὰ δύο μέρη ἐξολεθρευθήσεται καὶ ἐκλείψει, τὸ δὲ τρίτον ὑπολειφθήσεται ἐν αὐτῇ·<verse eID="rlxx_zechariah.13.8" />
+        <verse sID="rlxx_zechariah.13.9" osisID="rlxx_zechariah.13.9" />καὶ διάξω τὸ τρίτον διὰ πυρὸς καὶ πυρώσω αὐτούς, ὡς πυροῦται τὸ ἀργύριον, καὶ δοκιμῶ αὐτούς, ὡς δοκιμάζεται τὸ χρυσίον· αὐτὸς ἐπικαλέσεται τὸ ὄνομά μου, κἀγὼ ἐπακούσομαι αὐτῷ καὶ ἐρῶ Λαός μου οὗτός ἐστιν, καὶ αὐτὸς ἐρεῖ Κύριος ὁ θεός μου.<verse eID="rlxx_zechariah.13.9" />
+      </p>
+      <chapter eID="rlxx_zechariah.13" />
+      <chapter sID="rlxx_zechariah.14" osisID="rlxx_zechariah.14" />
+      <title>Chapter 14</title>
+      <p>
+        <verse sID="rlxx_zechariah.14.1" osisID="rlxx_zechariah.14.1" />Ἰδοὺ ἡμέραι ἔρχονται τοῦ κυρίου, καὶ διαμερισθήσεται τὰ σκῦλά σου ἐν σοί.<verse eID="rlxx_zechariah.14.1" />
+        <verse sID="rlxx_zechariah.14.2" osisID="rlxx_zechariah.14.2" />καὶ ἐπισυνάξω πάντα τὰ ἔθνη ἐπὶ Ιερουσαλημ εἰς πόλεμον, καὶ ἁλώσεται ἡ πόλις, καὶ διαρπαγήσονται αἱ οἰκίαι, καὶ αἱ γυναῖκες μολυνθήσονται, καὶ ἐξελεύσεται τὸ ἥμισυ τῆς πόλεως ἐν αἰχμαλωσίᾳ, οἱ δὲ κατάλοιποι τοῦ λαοῦ μου οὐ μὴ ἐξολεθρευθῶσιν ἐκ τῆς πόλεως.<verse eID="rlxx_zechariah.14.2" />
+        <verse sID="rlxx_zechariah.14.3" osisID="rlxx_zechariah.14.3" />καὶ ἐξελεύσεται κύριος καὶ παρατάξεται ἐν τοῖς ἔθνεσιν ἐκείνοις καθὼς ἡμέρα παρατάξεως αὐτοῦ ἐν ἡμέρᾳ πολέμου.<verse eID="rlxx_zechariah.14.3" />
+        <verse sID="rlxx_zechariah.14.4" osisID="rlxx_zechariah.14.4" />καὶ στήσονται οἱ πόδες αὐτοῦ ἐν τῇ ἡμέρᾳ ἐκείνῃ ἐπὶ τὸ ὄρος τῶν ἐλαιῶν τὸ κατέναντι Ιερουσαλημ ἐξ ἀνατολῶν· καὶ σχισθήσεται τὸ ὄρος τῶν ἐλαιῶν, τὸ ἥμισυ αὐτοῦ πρὸς ἀνατολὰς καὶ τὸ ἥμισυ αὐτοῦ πρὸς θάλασσαν, χάος μέγα σφόδρα· καὶ κλινεῖ τὸ ἥμισυ τοῦ ὄρους πρὸς βορρᾶν καὶ τὸ ἥμισυ αὐτοῦ πρὸς νότον.<verse eID="rlxx_zechariah.14.4" />
+        <verse sID="rlxx_zechariah.14.5" osisID="rlxx_zechariah.14.5" />καὶ ἐμφραχθήσεται φάραγξ ὀρέων μου, καὶ ἐγκολληθήσεται φάραγξ ὀρέων ἕως Ιασολ καὶ ἐμφραχθήσεται καθὼς ἐνεφράγη ἐν ταῖς ἡμέραις τοῦ σεισμοῦ ἐν ἡμέραις Οζιου βασιλέως Ιουδα· καὶ ἥξει κύριος ὁ θεός μου καὶ πάντες οἱ ἅγιοι μετ' αὐτοῦ.<verse eID="rlxx_zechariah.14.5" />
+        <verse sID="rlxx_zechariah.14.6" osisID="rlxx_zechariah.14.6" />ἐν ἐκείνῃ τῇ ἡμέρᾳ οὐκ ἔσται φῶς καὶ ψῦχος καὶ πάγος·<verse eID="rlxx_zechariah.14.6" />
+        <verse sID="rlxx_zechariah.14.7" osisID="rlxx_zechariah.14.7" />ἔσται μίαν ἡμέραν, καὶ ἡ ἡμέρα ἐκείνη γνωστὴ τῷ κυρίῳ, καὶ οὐχ ἡμέρα καὶ οὐ νύξ, καὶ πρὸς ἑσπέραν ἔσται φῶς.<verse eID="rlxx_zechariah.14.7" />
+        <verse sID="rlxx_zechariah.14.8" osisID="rlxx_zechariah.14.8" />καὶ ἐν τῇ ἡμέρᾳ ἐκείνῃ ἐξελεύσεται ὕδωρ ζῶν ἐξ Ιερουσαλημ, τὸ ἥμισυ αὐτοῦ εἰς τὴν θάλασσαν τὴν πρώτην καὶ τὸ ἥμισυ αὐτοῦ εἰς τὴν θάλασσαν τὴν ἐσχάτην, καὶ ἐν θέρει καὶ ἐν ἔαρι ἔσται οὕτως.<verse eID="rlxx_zechariah.14.8" />
+        <verse sID="rlxx_zechariah.14.9" osisID="rlxx_zechariah.14.9" />καὶ ἔσται κύριος εἰς βασιλέα ἐπὶ πᾶσαν τὴν γῆν· ἐν τῇ ἡμέρᾳ ἐκείνῃ ἔσται κύριος εἷς καὶ τὸ ὄνομα αὐτοῦ ἕν.<verse eID="rlxx_zechariah.14.9" />
+        <verse sID="rlxx_zechariah.14.10" osisID="rlxx_zechariah.14.10" />κυκλῶν πᾶσαν τὴν γῆν καὶ τὴν ἔρημον ἀπὸ Γαβε ἕως Ρεμμων κατὰ νότον Ιερουσαλημ· Ραμα δὲ ἐπὶ τόπου μενεῖ ἀπὸ τῆς πύλης Βενιαμιν ἕως τοῦ τόπου τῆς πύλης τῆς πρώτης, ἕως τῆς πύλης τῶν γωνιῶν καὶ ἕως τοῦ πύργου Ανανεηλ, ἕως τῶν ὑποληνίων τοῦ βασιλέως.<verse eID="rlxx_zechariah.14.10" />
+        <verse sID="rlxx_zechariah.14.11" osisID="rlxx_zechariah.14.11" />κατοικήσουσιν ἐν αὐτῇ, καὶ οὐκ ἔσται ἀνάθεμα ἔτι, καὶ κατοικήσει Ιερουσαλημ πεποιθότως.<verse eID="rlxx_zechariah.14.11" />
+        <verse sID="rlxx_zechariah.14.12" osisID="rlxx_zechariah.14.12" />Καὶ αὕτη ἔσται ἡ πτῶσις, ἣν κόψει κύριος πάντας τοὺς λαούς, ὅσοι ἐπεστράτευσαν ἐπὶ Ιερουσαλημ· τακήσονται αἱ σάρκες αὐτῶν ἑστηκότων αὐτῶν ἐπὶ τοὺς πόδας αὐτῶν, καὶ οἱ ὀφθαλμοὶ αὐτῶν ῥυήσονται ἐκ τῶν ὀπῶν αὐτῶν, καὶ ἡ γλῶσσα αὐτῶν τακήσεται ἐν τῷ στόματι αὐτῶν.<verse eID="rlxx_zechariah.14.12" />
+        <verse sID="rlxx_zechariah.14.13" osisID="rlxx_zechariah.14.13" />καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ ἔκστασις κυρίου ἐπ' αὐτοὺς μεγάλη, καὶ ἐπιλήμψονται ἕκαστος τῆς χειρὸς τοῦ πλησίον αὐτοῦ, καὶ συμπλακήσεται ἡ χεὶρ αὐτοῦ πρὸς χεῖρα τοῦ πλησίον αὐτοῦ.<verse eID="rlxx_zechariah.14.13" />
+        <verse sID="rlxx_zechariah.14.14" osisID="rlxx_zechariah.14.14" />καὶ ὁ Ιουδας παρατάξεται ἐν Ιερουσαλημ καὶ συνάξει τὴν ἰσχὺν πάντων τῶν λαῶν κυκλόθεν, χρυσίον καὶ ἀργύριον καὶ ἱματισμὸν εἰς πλῆθος σφόδρα.<verse eID="rlxx_zechariah.14.14" />
+        <verse sID="rlxx_zechariah.14.15" osisID="rlxx_zechariah.14.15" />καὶ αὕτη ἔσται ἡ πτῶσις τῶν ἵππων καὶ τῶν ἡμιόνων καὶ τῶν καμήλων καὶ τῶν ὄνων καὶ πάντων τῶν κτηνῶν τῶν ὄντων ἐν ταῖς παρεμβολαῖς ἐκείναις κατὰ τὴν πτῶσιν ταύτην.<verse eID="rlxx_zechariah.14.15" />
+        <verse sID="rlxx_zechariah.14.16" osisID="rlxx_zechariah.14.16" />καὶ ἔσται ὅσοι ἐὰν καταλειφθῶσιν ἐκ πάντων τῶν ἐθνῶν τῶν ἐλθόντων ἐπὶ Ιερουσαλημ, καὶ ἀναβήσονται κατ' ἐνιαυτὸν τοῦ προσκυνῆσαι τῷ βασιλεῖ κυρίῳ παντοκράτορι καὶ τοῦ ἑορτάζειν τὴν ἑορτὴν τῆς σκηνοπηγίας.<verse eID="rlxx_zechariah.14.16" />
+        <verse sID="rlxx_zechariah.14.17" osisID="rlxx_zechariah.14.17" />καὶ ἔσται ὅσοι ἐὰν μὴ ἀναβῶσιν ἐκ πασῶν τῶν φυλῶν τῆς γῆς εἰς Ιερουσαλημ τοῦ προσκυνῆσαι τῷ βασιλεῖ κυρίῳ παντοκράτορι, καὶ οὗτοι ἐκείνοις προστεθήσονται.<verse eID="rlxx_zechariah.14.17" />
+        <verse sID="rlxx_zechariah.14.18" osisID="rlxx_zechariah.14.18" />ἐὰν δὲ φυλὴ Αἰγύπτου μὴ ἀναβῇ μηδὲ ἔλθῃ ἐκεῖ, καὶ ἐπὶ τούτοις ἔσται ἡ πτῶσις, ἣν πατάξει κύριος πάντα τὰ ἔθνη, ὅσα ἐὰν μὴ ἀναβῇ τοῦ ἑορτάσαι τὴν ἑορτὴν τῆς σκηνοπηγίας.<verse eID="rlxx_zechariah.14.18" />
+        <verse sID="rlxx_zechariah.14.19" osisID="rlxx_zechariah.14.19" />αὕτη ἔσται ἡ ἁμαρτία Αἰγύπτου καὶ ἡ ἁμαρτία πάντων τῶν ἐθνῶν, ὅσα ἂν μὴ ἀναβῇ τοῦ ἑορτάσαι τὴν ἑορτὴν τῆς σκηνοπηγίας.<verse eID="rlxx_zechariah.14.19" />
+        <verse sID="rlxx_zechariah.14.20" osisID="rlxx_zechariah.14.20" />ἐν τῇ ἡμέρᾳ ἐκείνῃ ἔσται τὸ ἐπὶ τὸν χαλινὸν τοῦ ἵππου ἅγιον τῷ κυρίῳ παντοκράτορι, καὶ ἔσονται οἱ λέβητες οἱ ἐν τῷ οἴκῳ κυρίου ὡς φιάλαι πρὸ προσώπου τοῦ θυσιαστηρίου,<verse eID="rlxx_zechariah.14.20" />
+        <verse sID="rlxx_zechariah.14.21" osisID="rlxx_zechariah.14.21" />καὶ ἔσται πᾶς λέβης ἐν Ιερουσαλημ καὶ ἐν τῷ Ιουδα ἅγιον τῷ κυρίῳ παντοκράτορι· καὶ ἥξουσιν πάντες οἱ θυσιάζοντες καὶ λήμψονται ἐξ αὐτῶν καὶ ἑψήσουσιν ἐν αὐτοῖς. καὶ οὐκ ἔσται Χαναναῖος οὐκέτι ἐν τῷ οἴκῳ κυρίου παντοκράτορος ἐν τῇ ἡμέρᾳ ἐκείνῃ.<verse eID="rlxx_zechariah.14.21" />
+      </p>
+      <chapter eID="rlxx_zechariah.14" />
+    </div>
+  </osisText>
+</osis>

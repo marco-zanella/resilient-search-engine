@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="r_alt_joshua_a" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="r_alt_joshua_a">
+        <title>Joshua (Text A)</title>
+        <creator>ITSERR-Italian Strengthening of the ESFRI RI RESILIENCE: WP8-uBIQUity; PRIN 2022- Resilient Septuagint. An Initial Exploration of the Semantics of Killing and Healing in the Septuagint and its Reception in Patristic and Late Antique Sources (3rd cent. BCE – 5th cent. CE)</creator>
+        <subject>Joshua</subject>
+        <date event="original">3rd-1st cent. BCE</date>
+        <date event="eversion">2025-07-23</date>
+        <date event="edition">2006 (1rst ed.: A. Rahlfs, 1935)</date>
+        <description type="x-edition">A. Rahlfs - R. Hanhart (eds.), Septuaginta: Id est Vetus
+                    Testamentum graece iuxta LXX interpretes. Editio altera, Stuttgart: Deutsche
+                    Bibelgesellschaft, 2006 (1rst ed.: A. Rahlfs, 1935)</description>
+        <description type="x-apparatus_n">1</description>
+        <identifier type="ISBN">978-3-438-05119-6</identifier>
+        <relation type="x-isAPartOf">R-alt</relation>
+        <rights>© Deutsche Bibelgesellschaft, Stuttgart. All rights reserved.</rights>
+        <refSystem>Greek: Scriptures</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="rlxx_joshua_a">
+      <title>ΙΗΣΟΥΣ TEXT A</title>
+      <chapter sID="r_alt_joshua_a.15" osisID="r_alt_joshua_a.15" />
+      <title>Chapter 15</title>
+      <p>
+        <verse sID="r_alt_joshua_a.15.21" osisID="r_alt_joshua_a.15.21" />[Ἐγενήθησαν δὲ αἱ πόλεις αὐτῶν · πόλις πρώτη φυλῆς υἱῶν Ιουδα ἐφ’ὁρίων Εδωμ ἐπὶ τῆς ἐρήμου] Καβσεηλ καὶ Εδραι καὶ Ιαγουρ<verse eID="r_alt_joshua_a.15.21" />
+        <verse sID="r_alt_joshua_a.15.22" osisID="r_alt_joshua_a.15.22" />καὶ Κινα καὶ Διμωνα καὶ Αδαδα<verse eID="r_alt_joshua_a.15.22" />
+        <verse sID="r_alt_joshua_a.15.23" osisID="r_alt_joshua_a.15.23" />καὶ Κεδες καὶ Ιθναζιφ<verse eID="r_alt_joshua_a.15.23" />
+        <verse sID="r_alt_joshua_a.15.24" osisID="r_alt_joshua_a.15.24" />καὶ Τελεμ καὶ Βαλωθ<verse eID="r_alt_joshua_a.15.24" />
+        <verse sID="r_alt_joshua_a.15.25" osisID="r_alt_joshua_a.15.25" />καὶ πόλις Ασερων (αὕτη Ασωρ),<verse eID="r_alt_joshua_a.15.25" />
+        <verse sID="r_alt_joshua_a.15.26" osisID="r_alt_joshua_a.15.26" />Αμαμ καὶ Σαμαα καὶ Μωλαδα<verse eID="r_alt_joshua_a.15.26" />
+        <verse sID="r_alt_joshua_a.15.27" osisID="r_alt_joshua_a.15.27" />καὶ Ασεργαδδα καὶ Βαιθφαλεθ<verse eID="r_alt_joshua_a.15.27" />
+        <verse sID="r_alt_joshua_a.15.28" osisID="r_alt_joshua_a.15.28" />καὶ Ασαρσουλα καὶ Βηρσαβεε καὶ αἱ κῶμαι αὐτῶν καὶ αἱ ἐπαύλεις αὐτῶν,<verse eID="r_alt_joshua_a.15.28" />
+        <verse sID="r_alt_joshua_a.15.29" osisID="r_alt_joshua_a.15.29" />Βααλα καὶ Αυιμ καὶ Ασεμ<verse eID="r_alt_joshua_a.15.29" />
+        <verse sID="r_alt_joshua_a.15.30" osisID="r_alt_joshua_a.15.30" />καὶ Ελθωδαδ καὶ Χασιλ καὶ Ερμα<verse eID="r_alt_joshua_a.15.30" />
+        <verse sID="r_alt_joshua_a.15.31" osisID="r_alt_joshua_a.15.31" />καὶ Σικελεγ καὶ Μεδεβηνα καὶ Σανσαννα<verse eID="r_alt_joshua_a.15.31" />
+        <verse sID="r_alt_joshua_a.15.32" osisID="r_alt_joshua_a.15.32" />καὶ Λαβωθ καὶ Σελεϊμ καὶ Ρεμμων, πόλεις εἴκοσι καὶ ἐννέα καὶ αἱ κῶμαι αὐτῶν.<verse eID="r_alt_joshua_a.15.32" />
+        <verse sID="r_alt_joshua_a.15.33" osisID="r_alt_joshua_a.15.33" />Ἐν τῇ πεδινῇ· Εσθαολ καὶ Σαραα καὶ Ασνα<verse eID="r_alt_joshua_a.15.33" />
+        <verse sID="r_alt_joshua_a.15.34" osisID="r_alt_joshua_a.15.34" />καὶ Ραμεν καὶ Ζανω καὶ Αδιαθαϊμ καὶ Ηναϊμ<verse eID="r_alt_joshua_a.15.34" />
+        <verse sID="r_alt_joshua_a.15.35" osisID="r_alt_joshua_a.15.35" />καὶ Ιεριμουθ καὶ Οδολλαμ καὶ Νεμρα καὶ Σωχω καὶ Αζηκα<verse eID="r_alt_joshua_a.15.35" />
+        <verse sID="r_alt_joshua_a.15.36" osisID="r_alt_joshua_a.15.36" />καὶ Σαργαριμ καὶ Γαδηρα καὶ αἱ ἐπαύλεις αὐτῆς, πόλεις δέκα τέςσαρες καὶ αἱ κῶμαι αὐτῶν·<verse eID="r_alt_joshua_a.15.36" />
+        <verse sID="r_alt_joshua_a.15.37" osisID="r_alt_joshua_a.15.37" />Σενναν καὶ Αδασα καὶ Μαγδαλγαδ<verse eID="r_alt_joshua_a.15.37" />
+        <verse sID="r_alt_joshua_a.15.38" osisID="r_alt_joshua_a.15.38" />καὶ Δαλααν καὶ Μασφα καὶ Ιεχθαηλ<verse eID="r_alt_joshua_a.15.38" />
+        <verse sID="r_alt_joshua_a.15.39" osisID="r_alt_joshua_a.15.39" />καὶ Λαχις καὶ Βαζκαθ καὶ Αγλων<verse eID="r_alt_joshua_a.15.39" />
+        <verse sID="r_alt_joshua_a.15.40" osisID="r_alt_joshua_a.15.40" />καὶ Χαββα καὶ Λαμας καὶ Χαθλως<verse eID="r_alt_joshua_a.15.40" />
+        <verse sID="r_alt_joshua_a.15.41" osisID="r_alt_joshua_a.15.41" />καὶ Γαδηρωθ καὶ Βηθδαγων καὶ Νωμα καὶ Μακηδα, πόλεις δεκαὲξ καὶ αἱ κῶμαι αὐτῶν·<verse eID="r_alt_joshua_a.15.41" />
+        <verse sID="r_alt_joshua_a.15.42" osisID="r_alt_joshua_a.15.42" />Λεβνα καὶ Αθερ<verse eID="r_alt_joshua_a.15.42" />
+        <verse sID="r_alt_joshua_a.15.43" osisID="r_alt_joshua_a.15.43" />καὶ Ιεφθα καὶ Ασεννα καὶ Νεσιβ<verse eID="r_alt_joshua_a.15.43" />
+        <verse sID="r_alt_joshua_a.15.44" osisID="r_alt_joshua_a.15.44" />καὶ Κεϊλα καὶ Αχζιβ καὶ Μαρησα καὶ Εδωμ, πόλεις ἐννέα καὶ αἱ κῶμαι αὐτῶν·<verse eID="r_alt_joshua_a.15.44" />
+        <verse sID="r_alt_joshua_a.15.45" osisID="r_alt_joshua_a.15.45" />Ακκαρων καὶ αἱ κῶμαι αὐτῆς καὶ αἱ ἐπαύλεις αὐτῆς·<verse eID="r_alt_joshua_a.15.45" />
+        <verse sID="r_alt_joshua_a.15.46" osisID="r_alt_joshua_a.15.46" />καὶ ἀπὸ Ακκαρων Ιεμναι καὶ πᾶσαι, ὅσαι εἰσὶν πλησίον Αςδωδ, καὶ αἱ κῶμαι<verse eID="r_alt_joshua_a.15.46" />
+        <verse sID="r_alt_joshua_a.15.47" osisID="r_alt_joshua_a.15.47" />αὐτῆς καὶ αἱ ἐπαύλεις αὐτῆς· Γάζα καὶ αἱ κῶμαι αὐτῆς καὶ αἱ ἐπαύλεις αὐτῆς ἕως τοῦ χειμάρρου Αἰγύπτου· καὶ ἡ θάλασσα ἡ μεγάλη διορίζει.<verse eID="r_alt_joshua_a.15.47" />
+        <verse sID="r_alt_joshua_a.15.48" osisID="r_alt_joshua_a.15.48" />Καὶ ἐν τῇ ὀρεινῇ· Σαφιρ καὶ Ιεθερ καὶ Σωχω<verse eID="r_alt_joshua_a.15.48" />
+        <verse sID="r_alt_joshua_a.15.49" osisID="r_alt_joshua_a.15.49" />καὶ Ρεννα πόλις γραμμάτων (αὕτη ἐστὶν Δαβιρ)<verse eID="r_alt_joshua_a.15.49" />
+        <verse sID="r_alt_joshua_a.15.50" osisID="r_alt_joshua_a.15.50" />καὶ Ανωβ καὶ Εσθεμω καὶ Ανιμ<verse eID="r_alt_joshua_a.15.50" />
+        <verse sID="r_alt_joshua_a.15.51" osisID="r_alt_joshua_a.15.51" />καὶ Γοσομ καὶ Χιλουων καὶ Γηλων, πόλεις δέκα καὶ αἱ κῶμαι αὐτῶν·<verse eID="r_alt_joshua_a.15.51" />
+        <verse sID="r_alt_joshua_a.15.52" osisID="r_alt_joshua_a.15.52" />Ερεβ καὶ Εσαν καὶ Ρουμα<verse eID="r_alt_joshua_a.15.52" />
+        <verse sID="r_alt_joshua_a.15.53" osisID="r_alt_joshua_a.15.53" />καὶ Ιανουμ καὶ Βαιθθαπφουε καὶ Αφακα<verse eID="r_alt_joshua_a.15.53" />
+        <verse sID="r_alt_joshua_a.15.54" osisID="r_alt_joshua_a.15.54" />καὶ Χαμματα καὶ πόλις Αρβο (αὕτη ἐστὶν Χεβρων) καὶ Σιωρ, πόλεις ἐννέα καὶ αἱ κῶμαι αὐτῶν·<verse eID="r_alt_joshua_a.15.54" />
+        <verse sID="r_alt_joshua_a.15.55" osisID="r_alt_joshua_a.15.55" />Μαων καὶ Χερμελ καὶ Ζιφ καὶ Ιεττα<verse eID="r_alt_joshua_a.15.55" />
+        <verse sID="r_alt_joshua_a.15.56" osisID="r_alt_joshua_a.15.56" />καὶ Ιεζραελ καὶ Ιεκδααμ καὶ Ζανωακιμ<verse eID="r_alt_joshua_a.15.56" />
+        <verse sID="r_alt_joshua_a.15.57" osisID="r_alt_joshua_a.15.57" />καὶ Γαβαα καὶ Θαμνα, πόλεις ἐννέα καὶ αἱ κῶμαι αὐτῶν·<verse eID="r_alt_joshua_a.15.57" />
+        <verse sID="r_alt_joshua_a.15.58" osisID="r_alt_joshua_a.15.58" />Αλουλ καὶ Βαιθσουρ καὶ Γεδωρ<verse eID="r_alt_joshua_a.15.58" />
+        <verse sID="r_alt_joshua_a.15.59" osisID="r_alt_joshua_a.15.59" />καὶ Μαρωθ καὶ Βαιθανωθ καὶ Ελθεκεν, πόλεις ἓξ καὶ αἱ κῶμαι αὐτῶν·<verse eID="r_alt_joshua_a.15.59" />
+        <verse sID="r_alt_joshua_a.15.59a" osisID="r_alt_joshua_a.15.59a" />Θεκω καὶ Εφραθα (αὕτη ἐστὶν Βηθλεεμ) καὶ Φαγωρ καὶ Αιταμ καὶ Κουλον καὶ Ταταμι καὶ Σωρης καὶ Καρεμ καὶ Γαλλιμ καὶ Βαιθηρ καὶ Μανοχω, πόλεις ἕνδεκα καὶ αἱ κῶμαι αὐτῶν·<verse eID="r_alt_joshua_a.15.59a" />
+        <verse sID="r_alt_joshua_a.15.60" osisID="r_alt_joshua_a.15.60" />Καριαθβααλ (αὕτη πόλις Ιαριμ) καὶ Αρεββα, πόλεις δύο καὶ αἱ κῶμαι αὐτῶν καὶ αἱ ἐπαύλεις αὐτῶν·<verse eID="r_alt_joshua_a.15.60" />
+        <verse sID="r_alt_joshua_a.15.61" osisID="r_alt_joshua_a.15.61" />Βαδδαργις καὶ Βηθαραβα καὶ Μαδων καὶ Σοχοχα<verse eID="r_alt_joshua_a.15.61" />
+        <verse sID="r_alt_joshua_a.15.62" osisID="r_alt_joshua_a.15.62" />καὶ Νεβσαν καὶ αἱ πόλεις ἁλῶν καὶ Ηνγαδδι, πόλεις ἑπτὰ καὶ αἱ κῶμαι αὐτῶν.<verse eID="r_alt_joshua_a.15.62" />
+      </p>
+      <chapter eID="r_alt_joshua_a.15" />
+      <chapter sID="r_alt_joshua_a.18" osisID="r_alt_joshua_a.18" />
+      <title>Chapter 18</title>
+      <p>
+        <verse sID="r_alt_joshua_a.18.21" osisID="r_alt_joshua_a.18.21" />Βηθαγλα καὶ Αμεκκασις<verse eID="r_alt_joshua_a.18.21" />
+        <verse sID="r_alt_joshua_a.18.22" osisID="r_alt_joshua_a.18.22" />καὶ Βαιθαραβα καὶ Σεμριμ καὶ Βηθηλ<verse eID="r_alt_joshua_a.18.22" />
+        <verse sID="r_alt_joshua_a.18.23" osisID="r_alt_joshua_a.18.23" />καὶ Αυιμ καὶ Αφαρ καὶ Αφρα<verse eID="r_alt_joshua_a.18.23" />
+        <verse sID="r_alt_joshua_a.18.24" osisID="r_alt_joshua_a.18.24" />καὶ Αικαρεν καὶ Καφηραμμιν καὶ Γαβαα, πόλεις δώδεκα καὶ αἱ κῶμαι αὐτῶν·<verse eID="r_alt_joshua_a.18.24" />
+        <verse sID="r_alt_joshua_a.18.25" osisID="r_alt_joshua_a.18.25" />Γαβαων καὶ Ραμα καὶ Βηρωθ<verse eID="r_alt_joshua_a.18.25" />
+        <verse sID="r_alt_joshua_a.18.26" osisID="r_alt_joshua_a.18.26" />καὶ Μασφα καὶ Χεφιρα καὶ Αμωσα<verse eID="r_alt_joshua_a.18.26" />
+        <verse sID="r_alt_joshua_a.18.27" osisID="r_alt_joshua_a.18.27" />καὶ Ρεκεμ καὶ Ιερφαηλ καὶ Θαραλα<verse eID="r_alt_joshua_a.18.27" />
+        <verse sID="r_alt_joshua_a.18.28" osisID="r_alt_joshua_a.18.28" />καὶ Σηλαλεφ καὶ Ιεβους (αὕτη ἐστὶν Ιερουσαλημ) καὶ Γαβααθ καὶ πόλις Ιαριμ, πόλεις δέκα τρεῖς καὶ αἱ κῶμαι αὐτῶν. αὕτη ἡ κληρονομία υἱῶν Βενιαμιν κατὰ δήμους αὐτῶν.<verse eID="r_alt_joshua_a.18.28" />
+      </p>
+      <chapter eID="r_alt_joshua_a.18" />
+      <chapter sID="r_alt_joshua_a.19" osisID="r_alt_joshua_a.19" />
+      <title>Chapter 19</title>
+      <p>
+        <verse sID="r_alt_joshua_a.19.1" osisID="r_alt_joshua_a.19.1" />Καὶ ἐξῆλθεν ὁ κλῆρος ὁ δεύτερος τῷ Συμεων, καὶ ἐγενήθη ἡ κληρονομία αὐτῶν ἀνὰ μέσον κλήρου υἱῶν Ιουδα.<verse eID="r_alt_joshua_a.19.1" />
+        <verse sID="r_alt_joshua_a.19.2" osisID="r_alt_joshua_a.19.2" />καὶ ἐγενήθη ὁ κλῆρος αὐτῶν Βηρσαβεε καὶ Σαβεε καὶ Μωλαδα<verse eID="r_alt_joshua_a.19.2" />
+        <verse sID="r_alt_joshua_a.19.3" osisID="r_alt_joshua_a.19.3" />καὶ Ασερσουαλ καὶ Βαθουλ καὶ Βωλα καὶ Ασομ<verse eID="r_alt_joshua_a.19.3" />
+        <verse sID="r_alt_joshua_a.19.4" osisID="r_alt_joshua_a.19.4" />καὶ Ελθουλαδ καὶ Ερμα<verse eID="r_alt_joshua_a.19.4" />
+        <verse sID="r_alt_joshua_a.19.5" osisID="r_alt_joshua_a.19.5" />καὶ Σεκελα καὶ Βαιθαμμαρχαβωθ καὶ Ασερσουσιμ<verse eID="r_alt_joshua_a.19.5" />
+        <verse sID="r_alt_joshua_a.19.6" osisID="r_alt_joshua_a.19.6" />καὶ Βαιθλαβαθ καὶ οἱ ἀγροὶ αὐτῶν, πόλεις δέκα τρεῖς καὶ αἱ κῶμαι αὐτῶν·<verse eID="r_alt_joshua_a.19.6" />
+        <verse sID="r_alt_joshua_a.19.7" osisID="r_alt_joshua_a.19.7" />Αιν καὶ Ρεμμων καὶ Εθερ καὶ Ασαν, πόλεις τέσσαρες καὶ αἱ κῶμαι αὐτῶν<verse eID="r_alt_joshua_a.19.7" />
+        <verse sID="r_alt_joshua_a.19.8" osisID="r_alt_joshua_a.19.8" />αἱ περικύκλῳ τῶν πόλεων τούτων ἕως Βααλεθβηρραμωθ πορευομένων Ιαμεθ κατὰ λίβα. αὕτη ἡ κληρονομία φυλῆς υἱῶν Συμεων κατὰ δήμους αὐτῶν.<verse eID="r_alt_joshua_a.19.8" />
+        <verse sID="r_alt_joshua_a.19.9" osisID="r_alt_joshua_a.19.9" />ἀπὸ τοῦ κλήρου Ιουδα ἡ κληρονομία φυλῆς υἱῶν Συμεων, ὅτι ἐγενήθη μερὶς υἱῶν Ιουδα μείζων τῆς αὐτῶν· καὶ ἐκληρονόμησαν οἱ υἱοὶ Συμεων ἐν μέσῳ τοῦ κλήρου αὐτῶν.<verse eID="r_alt_joshua_a.19.9" />
+        <verse sID="r_alt_joshua_a.19.10" osisID="r_alt_joshua_a.19.10" />Καὶ ἐξῆλθεν ὁ κλῆρος ὁ τρίτος τῷ Ζαβουλων κατὰ δήμους αὐτῶν. καὶ ἔσται τὰ ὅρια τῆς κληρονομίας αὐτῶν ἕως Σαριδ·<verse eID="r_alt_joshua_a.19.10" />
+        <verse sID="r_alt_joshua_a.19.11" osisID="r_alt_joshua_a.19.11" />τὰ ὅρια αὐτῶν ἡ θάλαςσα καὶ Μαραλα καὶ συνάψει ἐπὶ Δαβασθαι εἰς τὴν φάραγγα, ἥ ἐστιν κατὰ πρόσωπον Ιεκναμ,<verse eID="r_alt_joshua_a.19.11" />
+        <verse sID="r_alt_joshua_a.19.12" osisID="r_alt_joshua_a.19.12" />καὶ ἀναστρέψει ἀπὸ Σαριδ ἐξ ἐναντίας ἀπὸ ἀνατολῶν Σαμς ἐπὶ τὰ ὅρια Χασαλωθ Θαβωρ καὶ διελεύσεται ἐπὶ Δαβραθ καὶ προσαναβήσεται ἐπὶ Ιαφαγαι<verse eID="r_alt_joshua_a.19.12" />
+        <verse sID="r_alt_joshua_a.19.13" osisID="r_alt_joshua_a.19.13" />καὶ ἐκεῖθεν περιελεύσεται ἐξ ἐναντίας ἐπ' ἀνατολὰς ἐπὶ Γεθθα ἐπὶ πόλιν Κασιμ καὶ διελεύσεται ἐπὶ Ρεμμων Αμμαθαριμ Αννουα<verse eID="r_alt_joshua_a.19.13" />
+        <verse sID="r_alt_joshua_a.19.14" osisID="r_alt_joshua_a.19.14" />καὶ περιελεύσεται ἐπὶ τὰ ὅρια βορρᾶ ἐπὶ Ενναθωθ, καὶ ἔσται ἡ διέξοδος αὐτῶν ἐπὶ Γαιιεφθαηλ<verse eID="r_alt_joshua_a.19.14" />
+        <verse sID="r_alt_joshua_a.19.15" osisID="r_alt_joshua_a.19.15" />καὶ Κατταθ καὶ Νααλωλ καὶ Σεμρων καὶ Ιαδηλα καὶ Βαιθλεεμ.<verse eID="r_alt_joshua_a.19.15" />
+        <verse sID="r_alt_joshua_a.19.16" osisID="r_alt_joshua_a.19.16" />αὕτη ἡ κληρονομία τῆς φυλῆς υἱῶν Ζαβουλων κατὰ δήμους αὐτῶν, αἱ πόλεις αὗται καὶ αἱ κῶμαι αὐτῶν.<verse eID="r_alt_joshua_a.19.16" />
+        <verse sID="r_alt_joshua_a.19.17" osisID="r_alt_joshua_a.19.17" />Καὶ τῷ Ισσαχαρ ἐξῆλθεν ὁ κλῆρος ὁ τέταρτος.<verse eID="r_alt_joshua_a.19.17" />
+        <verse sID="r_alt_joshua_a.19.18" osisID="r_alt_joshua_a.19.18" />καὶ ἐγενήθη τὰ ὅρια αὐτῶν Ιεζραελ καὶ Αχασελωθ καὶ Σουναμ<verse eID="r_alt_joshua_a.19.18" />
+        <verse sID="r_alt_joshua_a.19.19" osisID="r_alt_joshua_a.19.19" />καὶ Αφεραϊμ καὶ Σιαν καὶ Ρεναθ καὶ Αναρεθ<verse eID="r_alt_joshua_a.19.19" />
+        <verse sID="r_alt_joshua_a.19.20" osisID="r_alt_joshua_a.19.20" />καὶ Ραββωθ καὶ Κεσιων καὶ Αεμε<verse eID="r_alt_joshua_a.19.20" />
+        <verse sID="r_alt_joshua_a.19.21" osisID="r_alt_joshua_a.19.21" />καὶ Ραμαθ καὶ Ηνγαννιμ καὶ Ηναδδα καὶ Βαιθφασης,<verse eID="r_alt_joshua_a.19.21" />
+        <verse sID="r_alt_joshua_a.19.22" osisID="r_alt_joshua_a.19.22" />καὶ συνάψει τὰ ὅρια ἐπὶ Θαβωθ καὶ ἐπὶ Σασιμα κατὰ θάλασσαν καὶ Βαιθσμας, καὶ ἔσται ἡ διέξοδος τῶν ὁρίων αὐτῶν ὁ Ιορδάνης.<verse eID="r_alt_joshua_a.19.22" />
+        <verse sID="r_alt_joshua_a.19.23" osisID="r_alt_joshua_a.19.23" />αὕτη ἡ κληρονομία φυλῆς υἱῶν Ισσαχαρ κατὰ δήμους αὐτῶν, αἱ πόλεις καὶ αἱ ἐπαύλεις αὐτῶν.<verse eID="r_alt_joshua_a.19.23" />
+        <verse sID="r_alt_joshua_a.19.24" osisID="r_alt_joshua_a.19.24" />Καὶ ἐξῆλθεν ὁ κλῆρος ὁ πέμπτος Ασηρ κατὰ δήμους αὐτῶν.<verse eID="r_alt_joshua_a.19.24" />
+        <verse sID="r_alt_joshua_a.19.25" osisID="r_alt_joshua_a.19.25" />καὶ ἐγενήθη τὰ ὅρια αὐτῶν Χελκαθ καὶ Οολι καὶ Βατνε καὶ Αχσαφ<verse eID="r_alt_joshua_a.19.25" />
+        <verse sID="r_alt_joshua_a.19.26" osisID="r_alt_joshua_a.19.26" />καὶ Αμαδ καὶ Μασαλ καὶ συνάψει τῷ Καρμήλῳ κατὰ θάλασσαν καὶ τῷ Σιωρ καὶ Λαβαναθ<verse eID="r_alt_joshua_a.19.26" />
+        <verse sID="r_alt_joshua_a.19.27" osisID="r_alt_joshua_a.19.27" />καὶ ἐπιστρέψει ἀπ' ἀνατολῶν ἡλίου Βηθδαγων καὶ συνάψει τῷ Ζαβουλων καὶ ἐν Γαι Ιεφθαηλ κατὰ βορρᾶν, καὶ εἰσελεύσεται τὰ ὅρια Σαφθαβηθαεμεκ καὶ πορεύσεται τὸ μεθόριον Ανιηλ καὶ διελεύσεται εἰς Χαβωλ ἀπὸ ἀριστερῶν<verse eID="r_alt_joshua_a.19.27" />
+        <verse sID="r_alt_joshua_a.19.28" osisID="r_alt_joshua_a.19.28" />καὶ Αχραν καὶ Ροωβ καὶ Αμων καὶ Κανα ἕως Σιδῶνος τῆς μεγάλης,<verse eID="r_alt_joshua_a.19.28" />
+        <verse sID="r_alt_joshua_a.19.29" osisID="r_alt_joshua_a.19.29" />καὶ ἀναστρέψει τὰ ὅρια εἰς Ραμα καὶ ἕως πόλεως ὀχυρώματος τῶν Τυρίων, καὶ ἀναστρέψει τὰ ὅρια ἐπὶ Ωσα, καὶ ἔσται ἡ διέξοδος αὐτοῦ ἡ θάλασσα καὶ ἀπὸ τοῦ σχοινίσματος Αχζιφ<verse eID="r_alt_joshua_a.19.29" />
+        <verse sID="r_alt_joshua_a.19.30" osisID="r_alt_joshua_a.19.30" />καὶ Αμμα καὶ Αφεκ καὶ Ραωβ, πόλεις εἴκοσι δύο.<verse eID="r_alt_joshua_a.19.30" />
+        <verse sID="r_alt_joshua_a.19.31" osisID="r_alt_joshua_a.19.31" />αὕτη ἡ κληρονομία φυλῆς υἱῶν Ασηρ κατὰ δήμους αὐτῶν, πόλεις αὐτῶν καὶ αἱ κῶμαι αὐτῶν.<verse eID="r_alt_joshua_a.19.31" />
+        <verse sID="r_alt_joshua_a.19.32" osisID="r_alt_joshua_a.19.32" />Καὶ τῷ Νεφθαλι ἐξῆλθεν ὁ κλῆρος ὁ ἕκτος.<verse eID="r_alt_joshua_a.19.32" />
+        <verse sID="r_alt_joshua_a.19.33" osisID="r_alt_joshua_a.19.33" />καὶ ἐγένετο τὰ ὅρια αὐτῶν Μεελεφ καὶ Μαηλων καὶ Βεσενανιμ καὶ Αρμαι καὶ Νακεβ καὶ Ιαβνηλ ἕως Λακου, καὶ ἐγενήθησαν αἱ διέξοδοι αὐτοῦ ὁ Ιορδάνης·<verse eID="r_alt_joshua_a.19.33" />
+        <verse sID="r_alt_joshua_a.19.34" osisID="r_alt_joshua_a.19.34" />καὶ ἐπιστρέψει τὰ ὅρια ἐπὶ θάλασσαν Αζανωθ Θαβωρ καὶ διελεύσεται ἐκεῖθεν εἰς Ικωκ καὶ συνάψει τῷ Ζαβουλων ἀπὸ νότου καὶ τῷ Ασηρ συνάψει κατὰ θάλασσαν, καὶ ὁ Ιορδάνης ἀπ' ἀνατολῶν ἡλίου.<verse eID="r_alt_joshua_a.19.34" />
+        <verse sID="r_alt_joshua_a.19.35" osisID="r_alt_joshua_a.19.35" />καὶ πόλεις τειχήρεις τῶν Τυρίων Τύρος καὶ Αμαθ καὶ Ρεκκαθ καὶ Χενερεθ<verse eID="r_alt_joshua_a.19.35" />
+        <verse sID="r_alt_joshua_a.19.36" osisID="r_alt_joshua_a.19.36" />καὶ Αδαμι καὶ Ραμα καὶ Ασωρ<verse eID="r_alt_joshua_a.19.36" />
+        <verse sID="r_alt_joshua_a.19.37" osisID="r_alt_joshua_a.19.37" />καὶ Κεδες καὶ Εδραϊ καὶ πηγὴ Ασορ<verse eID="r_alt_joshua_a.19.37" />
+        <verse sID="r_alt_joshua_a.19.38" osisID="r_alt_joshua_a.19.38" />καὶ Ιαριων καὶ Μαγδαλιηλ, Ωραμ καὶ Βαιθαναθ καὶ Θασμους, πόλεις δέκα ἐννέα.<verse eID="r_alt_joshua_a.19.38" />
+        <verse sID="r_alt_joshua_a.19.39" osisID="r_alt_joshua_a.19.39" />αὕτη ἡ κληρονομία φυλῆς υἱῶν Νεφθαλι.<verse eID="r_alt_joshua_a.19.39" />
+        <verse sID="r_alt_joshua_a.19.40" osisID="r_alt_joshua_a.19.40" />Καὶ τῷ Δαν ἐξῆλθεν ὁ κλῆρος ὁ ἕβδομος.<verse eID="r_alt_joshua_a.19.40" />
+        <verse sID="r_alt_joshua_a.19.41" osisID="r_alt_joshua_a.19.41" />καὶ ἐγενήθη τὰ ὅρια αὐτῶν Σαραα καὶ Εσθαολ καὶ πόλις Σαμες<verse eID="r_alt_joshua_a.19.41" />
+        <verse sID="r_alt_joshua_a.19.42" osisID="r_alt_joshua_a.19.42" />καὶ Σαλαβιν καὶ Ιααλων καὶ Ιεθλα<verse eID="r_alt_joshua_a.19.42" />
+        <verse sID="r_alt_joshua_a.19.43" osisID="r_alt_joshua_a.19.43" />καὶ Αιλων καὶ Θαμνα καὶ Ακκαρων<verse eID="r_alt_joshua_a.19.43" />
+        <verse sID="r_alt_joshua_a.19.44" osisID="r_alt_joshua_a.19.44" />καὶ Ελθεκω καὶ Γαβαθων καὶ Βααλων<verse eID="r_alt_joshua_a.19.44" />
+        <verse sID="r_alt_joshua_a.19.45" osisID="r_alt_joshua_a.19.45" />καὶ Ιουθ καὶ Βανηβαρακ καὶ Γεθρεμμων,<verse eID="r_alt_joshua_a.19.45" />
+      </p>
+      <chapter eID="r_alt_joshua_a.19" />
+    </div>
+  </osisText>
+</osis>

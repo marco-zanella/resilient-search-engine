@@ -1,0 +1,1317 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="rlxx_job" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="rlxx_job">
+        <title>Job</title>
+        <creator>ITSERR-Italian Strengthening of the ESFRI RI RESILIENCE: WP8-uBIQUity; PRIN 2022- Resilient Septuagint. An Initial Exploration of the Semantics of Killing and Healing in the Septuagint and its Reception in Patristic and Late Antique Sources (3rd cent. BCE – 5th cent. CE)</creator>
+        <subject>Job</subject>
+        <date event="original">3rd-1st cent. BCE</date>
+        <date event="eversion">2025-07-23</date>
+        <date event="edition">2006 (1rst ed.: A. Rahlfs, 1935)</date>
+        <description type="x-edition">A. Rahlfs - R. Hanhart (eds.), Septuaginta: Id est Vetus
+                    Testamentum graece iuxta LXX interpretes. Editio altera, Stuttgart: Deutsche
+                    Bibelgesellschaft, 2006 (1rst ed.: A. Rahlfs, 1935)</description>
+        <description type="x-apparatus_n">1</description>
+        <identifier type="ISBN">978-3-438-05119-6</identifier>
+        <relation type="x-isAPartOf">R-LXX</relation>
+        <rights>© Deutsche Bibelgesellschaft, Stuttgart. All rights reserved.</rights>
+        <refSystem>Greek: Scriptures</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="rlxx_job">
+      <title>ΙΟΒ</title>
+      <chapter sID="rlxx_job.1" osisID="rlxx_job.1" />
+      <title>Chapter 1</title>
+      <p>
+        <verse sID="rlxx_job.1.1" osisID="rlxx_job.1.1" />Ἄνθρωπός τις ἦν ἐν χώρᾳ τῇ Αυσίτιδι, ᾧ ὄνομα Ιωβ, καὶ ἦν ὁ ἄνθρωπος ἐκεῖνος ἀληθινός, ἄμεμπτος, δίκαιος, θεοσεβής, ἀπεχόμενος ἀπὸ παντὸς πονηροῦ πράγματος.<verse eID="rlxx_job.1.1" />
+        <verse sID="rlxx_job.1.2" osisID="rlxx_job.1.2" />ἐγένοντο δὲ αὐτῷ υἱοὶ ἑπτὰ καὶ θυγατέρες τρεῖς.<verse eID="rlxx_job.1.2" />
+        <verse sID="rlxx_job.1.3" osisID="rlxx_job.1.3" />καὶ ἦν τὰ κτήνη αὐτοῦ πρόβατα ἑπτακισχίλια, κάμηλοι τρισχίλιαι, ζεύγη βοῶν πεντακόσια, ὄνοι θήλειαι νομάδες πεντακόσιαι, καὶ ὑπηρεσία πολλὴ σφόδρα καὶ ἔργα μεγάλα ἦν αὐτῷ ἐπὶ τῆς γῆς· καὶ ἦν ὁ ἄνθρωπος ἐκεῖνος εὐγενὴς τῶν ἀφʼ ἡλίου ἀνατολῶν.<verse eID="rlxx_job.1.3" />
+        <verse sID="rlxx_job.1.4" osisID="rlxx_job.1.4" />συμπορευόμενοι δὲ οἱ υἱοὶ αὐτοῦ πρὸς ἀλλήλους ἐποιοῦσαν πότον καθʼ ἑκάστην ἡμέραν συμπαραλαμβάνοντες ἅμα καὶ τὰς τρεῖς ἀδελφὰς αὐτῶν ἐσθίειν καὶ πίνειν μετʼ αὐτῶν.<verse eID="rlxx_job.1.4" />
+        <verse sID="rlxx_job.1.5" osisID="rlxx_job.1.5" />καὶ ὡς ἂν συνετελέσθησαν αἱ ἡμέραι τοῦ πότου, ἀπέστελλεν Ιωβ καὶ ἐκαθάριζεν αὐτοὺς ἀνιστάμενος τὸ πρωὶ καὶ προσέφερεν περὶ αὐτῶν θυσίας κατὰ τὸν ἀριθμὸν αὐτῶν καὶ μόσχον ἕνα περὶ ἁμαρτίας περὶ τῶν ψυχῶν αὐτῶν· ἔλεγεν γὰρ Ιωβ Μήποτε οἱ υἱοί μου ἐν τῇ διανοίᾳ αὐτῶν κακὰ ἐνενόησαν πρὸς θεόν. οὕτως οὖν ἐποίει Ιωβ πάσας τὰς ἡμέρας.<verse eID="rlxx_job.1.5" />
+        <verse sID="rlxx_job.1.6" osisID="rlxx_job.1.6" />Καὶ ὡς ἐγένετο ἡ ἡμέρα αὕτη, καὶ ἰδοὺ ἦλθον οἱ ἄγγελοι τοῦ θεοῦ παραστῆναι ἐνώπιον τοῦ κυρίου, καὶ ὁ διάβολος ἦλθεν μετʼ αὐτῶν.<verse eID="rlxx_job.1.6" />
+        <verse sID="rlxx_job.1.7" osisID="rlxx_job.1.7" />καὶ εἶπεν ὁ κύριος τῷ διαβόλῳ Πόθεν παραγέγονας; καὶ ἀποκριθεὶς ὁ διάβολος τῷ κυρίῳ εἶπεν Περιελθὼν τὴν γῆν καὶ ἐμπεριπατήσας τὴν ὑπʼ οὐρανὸν πάρειμι.<verse eID="rlxx_job.1.7" />
+        <verse sID="rlxx_job.1.8" osisID="rlxx_job.1.8" />καὶ εἶπεν αὐτῷ ὁ κύριος Προσέσχες τῇ διανοίᾳ σου κατὰ τοῦ παιδός μου Ιωβ, ὅτι οὐκ ἔστιν κατʼ αὐτὸν τῶν ἐπὶ τῆς γῆς ἄνθρωπος ἄμεμπτος, ἀληθινός, θεοσεβής, ἀπεχόμενος ἀπὸ παντὸς πονηροῦ πράγματος;<verse eID="rlxx_job.1.8" />
+        <verse sID="rlxx_job.1.9" osisID="rlxx_job.1.9" />ἀπεκρίθη δὲ ὁ διάβολος καὶ εἶπεν ἐναντίον τοῦ κυρίου Μὴ δωρεὰν σέβεται Ιωβ τὸν θεόν;<verse eID="rlxx_job.1.9" />
+        <verse sID="rlxx_job.1.10" osisID="rlxx_job.1.10" />οὐ σὺ περιέφραξας τὰ ἔξω αὐτοῦ καὶ τὰ ἔσω τῆς οἰκίας αὐτοῦ καὶ τὰ ἔξω πάντων τῶν ὄντων αὐτῷ κύκλῳ; τὰ ἔργα τῶν χειρῶν αὐτοῦ εὐλόγησας καὶ τὰ κτήνη αὐτοῦ πολλὰ ἐποίησας ἐπὶ τῆς γῆς.<verse eID="rlxx_job.1.10" />
+        <verse sID="rlxx_job.1.12" osisID="rlxx_job.1.12" />τότε εἶπεν ὁ κύριος τῷ διαβόλῳ Ἰδοὺ πάντα, ὅσα ἔστιν αὐτῷ, δίδωμι ἐν τῇ χειρί σου, ἀλλὰ αὐτοῦ μὴ ἅψῃ. καὶ ἐξῆλθεν ὁ διάβολος παρὰ τοῦ κυρίου.<verse eID="rlxx_job.1.12" />
+        <verse sID="rlxx_job.1.13" osisID="rlxx_job.1.13" />Καὶ ἦν ὡς ἡ ἡμέρα αὕτη, οἱ υἱοὶ Ιωβ καὶ αἱ θυγατέρες αὐτοῦ ἔπινον οἶνον ἐν τῇ οἰκίᾳ τοῦ ἀδελφοῦ αὐτῶν τοῦ πρεσβυτέρου.<verse eID="rlxx_job.1.13" />
+        <verse sID="rlxx_job.1.14" osisID="rlxx_job.1.14" />καὶ ἰδοὺ ἄγγελος ἦλθεν πρὸς Ιωβ καὶ εἶπεν αὐτῷ Τὰ ζεύγη τῶν βοῶν ἠροτρία, καὶ αἱ θήλειαι ὄνοι ἐβόσκοντο ἐχόμεναι αὐτῶν·<verse eID="rlxx_job.1.14" />
+        <verse sID="rlxx_job.1.15" osisID="rlxx_job.1.15" />καὶ ἐλθόντες οἱ αἰχμαλωτεύοντες ᾐχμαλώτευσαν αὐτὰς καὶ τοὺς παῖδας ἀπέκτειναν ἐν μαχαίραις· σωθεὶς δὲ ἐγὼ μόνος ἦλθον τοῦ ἀπαγγεῖλαί σοι.<verse eID="rlxx_job.1.15" />
+        <verse sID="rlxx_job.1.16" osisID="rlxx_job.1.16" />Ἔτι τούτου λαλοῦντος ἦλθεν ἕτερος ἄγγελος καὶ εἶπεν πρὸς Ιωβ Πῦρ ἔπεσεν ἐκ τοῦ οὐρανοῦ καὶ κατέκαυσεν τὰ πρόβατα καὶ τοὺς ποιμένας κατέφαγεν ὁμοίως· καὶ σωθεὶς ἐγὼ μόνος ἦλθον τοῦ ἀπαγγεῖλαί σοι.<verse eID="rlxx_job.1.16" />
+        <verse sID="rlxx_job.1.17" osisID="rlxx_job.1.17" />Ἔτι τούτου λαλοῦντος ἦλθεν ἕτερος ἄγγελος καὶ εἶπεν πρὸς Ιωβ Οἱ ἱππεῖς ἐποίησαν ἡμῖν κεφαλὰς τρεῖς καὶ ἐκύκλωσαν τὰς καμήλους καὶ ᾐχμαλώτευσαν αὐτὰς καὶ τοὺς παῖδας ἀπέκτειναν ἐν μαχαίραις· ἐσώθην δὲ ἐγὼ μόνος καὶ ἦλθον τοῦ ἀπαγγεῖλαί σοι.<verse eID="rlxx_job.1.17" />
+        <verse sID="rlxx_job.1.18" osisID="rlxx_job.1.18" />Ἔτι τούτου λαλοῦντος ἄλλος ἄγγελος ἔρχεται λέγων τῷ Ιωβ Τῶν υἱῶν σου καὶ τῶν θυγατέρων σου ἐσθιόντων καὶ πινόντων παρὰ τῷ ἀδελφῷ αὐτῶν τῶν πρεσβυτέρῳ<verse eID="rlxx_job.1.18" />
+        <verse sID="rlxx_job.1.19" osisID="rlxx_job.1.19" />ἐξαίφνης πνεῦμα μέγα ἐπῆλθεν ἐκ τῆς ἐρήμου καὶ ἥψατο τῶν τεσσάρων γωνιῶν τῆς οἰκίας, καὶ ἔπεσεν ἡ οἰκία ἐπὶ τὰ παιδία σου, καὶ ἐτελεύτησαν· ἐσώθην δὲ ἐγὼ μόνος καὶ ἦλθον τοῦ ἀπαγγεῖλαί σοι.<verse eID="rlxx_job.1.19" />
+        <verse sID="rlxx_job.1.20" osisID="rlxx_job.1.20" />Οὕτως ἀναστὰς Ιωβ διέρρηξεν τὰ ἱμάτια αὐτοῦ καὶ ἐκείρατο τὴν κόμην τῆς κεφαλῆς αὐτοῦ καὶ πεσὼν χαμαὶ προσεκύνησεν καὶ εἶπεν<verse eID="rlxx_job.1.20" />
+        <verse sID="rlxx_job.1.21" osisID="rlxx_job.1.21" />Αὐτὸς γυμνὸς ἐξῆλθον ἐκ κοιλίας μητρός μου, γυμνὸς καὶ ἀπελεύσομαι ἐκεῖ· ὁ κύριος ἔδωκεν, ὁ κύριος ἀφείλατο· ὡς τῷ κυρίῳ ἔδοξεν, οὕτως καὶ ἐγένετο· εἴη τὸ ὄνομα κυρίου εὐλογημένον.<verse eID="rlxx_job.1.21" />
+        <verse sID="rlxx_job.1.22" osisID="rlxx_job.1.22" />Ἐν τούτοις πᾶσιν τοῖς συμβεβηκόσιν αὐτῷ οὐδὲν ἥμαρτεν Ιωβ ἐναντίον τοῦ κυρίου καὶ οὐκ ἔδωκεν ἀφροσύνην τῷ θεῷ.<verse eID="rlxx_job.1.22" />
+      </p>
+      <chapter eID="rlxx_job.1" />
+      <chapter sID="rlxx_job.2" osisID="rlxx_job.2" />
+      <title>Chapter 2</title>
+      <p>
+        <verse sID="rlxx_job.2.1" osisID="rlxx_job.2.1" />Ἐγένετο δὲ ὡς ἡ ἡμέρα αὕτη καὶ ἦλθον οἱ ἄγγελοι τοῦ θεοῦ παραστῆναι ἔναντι κυρίου, καὶ ὁ διάβολος ἦλθεν ἐν μέσῳ αὐτῶν ※παραστῆναι ἐναντίον τοῦ κυρίου.⸕<verse eID="rlxx_job.2.1" />
+        <verse sID="rlxx_job.2.2" osisID="rlxx_job.2.2" />καὶ εἶπεν ὁ κύριος τῷ διαβόλῳ Πόθεν σὺ ἔρχῃ; τότε εἶπεν ὁ διάβολος ἐνώπιον τοῦ κυρίου Διαπορευθεὶς τὴν ὑπ' οὐρανὸν καὶ ἐμπεριπατήσας τὴν σύμπασαν πάρειμι.<verse eID="rlxx_job.2.2" />
+        <verse sID="rlxx_job.2.3" osisID="rlxx_job.2.3" />εἶπεν δὲ ὁ κύριος πρὸς τὸν διάβολον Προσέσχες οὖν τῷ θεράποντί μου Ιωβ, ὅτι οὐκ ἔστιν κατ' αὐτὸν τῶν ἐπὶ τῆς γῆς ἄνθρωπος ἄκακος, ἀληθινός, ἄμεμπτος, θεοσεβής, ἀπεχόμενος ἀπὸ παντὸς κακοῦ; ἔτι δὲ ἔχεται ἀκακίας· σὺ δὲ εἶπας τὰ ὑπάρχοντα αὐτοῦ διὰ κενῆς ἀπολέσαι.<verse eID="rlxx_job.2.3" />
+        <verse sID="rlxx_job.2.4" osisID="rlxx_job.2.4" />ὑπολαβὼν δὲ ὁ διάβολος εἶπεν τῷ κυρίῳ Δέρμα ὑπὲρ δέρματος· ὅσα ὑπάρχει ἀνθρώπῳ, ὑπὲρ τῆς ψυχῆς αὐτοῦ ἐκτείσει·<verse eID="rlxx_job.2.4" />
+        <verse sID="rlxx_job.2.5" osisID="rlxx_job.2.5" />οὐ μὴν δὲ ἀλλὰ ἀποστείλας τὴν χεῖρά σου ἅψαι τῶν ὀστῶν αὐτοῦ καὶ τῶν σαρκῶν αὐτοῦ· εἰ μὴν εἰς πρόσωπόν σε εὐλογήσει.<verse eID="rlxx_job.2.5" />
+        <verse sID="rlxx_job.2.6" osisID="rlxx_job.2.6" />εἶπεν δὲ ὁ κύριος τῷ διαβόλῳ Ἰδοὺ παραδίδωμί σοι αὐτόν, μόνον τὴν ψυχὴν αὐτοῦ διαφύλαξον.<verse eID="rlxx_job.2.6" />
+        <verse sID="rlxx_job.2.7" osisID="rlxx_job.2.7" />Ἐξῆλθεν δὲ ὁ διάβολος ἀπὸ τοῦ κυρίου καὶ ἔπαισεν τὸν Ιωβ ἕλκει πονηρῷ ἀπὸ ποδῶν ἕως κεφαλῆς.<verse eID="rlxx_job.2.7" />
+        <verse sID="rlxx_job.2.8" osisID="rlxx_job.2.8" />καὶ ἔλαβεν ὄστρακον, ἵνα τὸν ἰχῶρα ξύῃ, καὶ ἐκάθητο ἐπὶ τῆς κοπρίας ἔξω τῆς πόλεως.<verse eID="rlxx_job.2.8" />
+        <verse sID="rlxx_job.2.9" osisID="rlxx_job.2.9" />Χρόνου δὲ πολλοῦ προβεβηκότος εἶπεν αὐτῷ ἡ γυνὴ αὐτοῦ Μέχρι τίνος καρτερήσεις λέγων<verse eID="rlxx_job.2.9" />
+        <verse sID="rlxx_job.2.9a" osisID="rlxx_job.2.9a" />Ἰδοὺ ἀναμένω χρόνον ἔτι μικρὸν προσδεχόμενος τὴν ἐλπίδα τῆς σωτηρίας μου;<verse eID="rlxx_job.2.9a" />
+        <verse sID="rlxx_job.2.9b" osisID="rlxx_job.2.9b" />ἰδοὺ γὰρ ἠφάνισταί σου τὸ μνημόσυνον ἀπὸ τῆς γῆς, υἱοὶ καὶ θυγατέρες, ἐμῆς κοιλίας ὠδῖνες καὶ πόνοι, οὓς εἰς τὸ κενὸν ἐκοπίασα μετὰ μόχθων.<verse eID="rlxx_job.2.9b" />
+        <verse sID="rlxx_job.2.9c" osisID="rlxx_job.2.9c" />σύ τε αὐτὸς ἐν σαπρίᾳ σκωλήκων κάθησαι διανυκτερεύων αἴθριος·<verse eID="rlxx_job.2.9c" />
+        <verse sID="rlxx_job.2.9d" osisID="rlxx_job.2.9d" />κἀγὼ πλανῆτις καὶ λάτρις τόπον ἐκ τόπου περιερχομένη καὶ οἰκίαν ἐξ οἰκίας προσδεχομένη τὸν ἥλιον πότε δύσεται, ἵνα ἀναπαύσωμαι τῶν μόχθων καὶ τῶν ὀδυνῶν, αἵ με νῦν συνέχουσιν.<verse eID="rlxx_job.2.9d" />
+        <verse sID="rlxx_job.2.9e" osisID="rlxx_job.2.9e" />ἀλλὰ εἰπόν τι ῥῆμα εἰς κύριον καὶ τελεύτα.<verse eID="rlxx_job.2.9e" />
+        <verse sID="rlxx_job.2.10" osisID="rlxx_job.2.10" />Ὥσπερ μία τῶν ἀφρόνων γυναικῶν ἐλάλησας· εἰ τὰ ἀγαθὰ ἐδεξάμεθα ἐκ χειρὸς κυρίου, τὰ κακὰ οὐχ ὑποίσομεν; ἐν πᾶσιν τούτοις τοῖς συμβεβηκόσιν αὐτῷ οὐδὲν ἥμαρτεν Ιωβ τοῖς χείλεσιν ἐναντίον τοῦ θεοῦ.<verse eID="rlxx_job.2.10" />
+        <verse sID="rlxx_job.2.11" osisID="rlxx_job.2.11" />Ἀκούσαντες δὲ οἱ τρεῖς φίλοι αὐτοῦ τὰ κακὰ πάντα τὰ ἐπελθόντα αὐτῷ παρεγένοντο ἕκαστος ἐκ τῆς ἰδίας χώρας πρὸς αὐτόν, Ελιφας ὁ Θαιμανων βασιλεύς, Βαλδαδ ὁ Σαυχαίων τύραννος, Σωφαρ ὁ Μιναίων βασιλεύς, καὶ παρεγένοντο πρὸς αὐτὸν ὁμοθυμαδὸν τοῦ παρακαλέσαι καὶ ἐπισκέψασθαι αὐτόν.<verse eID="rlxx_job.2.11" />
+        <verse sID="rlxx_job.2.12" osisID="rlxx_job.2.12" />ἰδόντες δὲ αὐτὸν πόρρωθεν οὐκ ἐπέγνωσαν καὶ βοήσαντες φωνῇ μεγάλῃ ἔκλαυσαν ῥήξαντες ἕκαστος τὴν ἑαυτοῦ στολὴν καὶ καταπασάμενοι γῆν.<verse eID="rlxx_job.2.12" />
+        <verse sID="rlxx_job.2.13" osisID="rlxx_job.2.13" />παρεκάθισαν αὐτῷ ἑπτὰ ἡμέρας καὶ ἑπτὰ νύκτας, καὶ οὐδεὶς αὐτῶν ἐλάλησεν· ἑώρων γὰρ τὴν πληγὴν δεινὴν οὖσαν καὶ μεγάλην σφόδρα.<verse eID="rlxx_job.2.13" />
+      </p>
+      <chapter eID="rlxx_job.2" />
+      <chapter sID="rlxx_job.3" osisID="rlxx_job.3" />
+      <title>Chapter 3</title>
+      <p>
+        <verse sID="rlxx_job.3.1" osisID="rlxx_job.3.1" />Μετὰ τοῦτο ἤνοιξεν Ιωβ τὸ στόμα αὐτοῦ καὶ κατηράσατο τὴν ἡμέραν αὐτοῦ<verse eID="rlxx_job.3.1" />
+        <verse sID="rlxx_job.3.2" osisID="rlxx_job.3.2" />λέγων<verse eID="rlxx_job.3.2" />
+        <verse sID="rlxx_job.3.3" osisID="rlxx_job.3.3" />Ἀπόλοιτο ἡ ἡμέρα, ἐν ᾗ ἐγεννήθην, καὶ ἡ νύξ, ἐν ᾗ εἶπαν Ἰδοὺ ἄρσεν.<verse eID="rlxx_job.3.3" />
+        <verse sID="rlxx_job.3.4" osisID="rlxx_job.3.4" />ἡ ἡμέρα ἐκείνη εἴη σκότος, καὶ μὴ ἀναζητήσαι αὐτὴν ὁ κύριος ἄνωθεν, μηδὲ ἔλθοι εἰς αὐτὴν φέγγος·<verse eID="rlxx_job.3.4" />
+        <verse sID="rlxx_job.3.5" osisID="rlxx_job.3.5" />ἐκλάβοι δὲ αὐτὴν σκότος καὶ σκιὰ θανάτου, ἐπέλθοι ἐπ' αὐτὴν γνόφος.<verse eID="rlxx_job.3.5" />
+        <verse sID="rlxx_job.3.6" osisID="rlxx_job.3.6" />καταραθείη ἡ ἡμέρα καὶ ἡ νὺξ ἐκείνη, ἀπενέγκαιτο αὐτὴν σκότος· μὴ εἴη εἰς ἡμέρας ἐνιαυτοῦ μηδὲ ἀριθμηθείη εἰς ἡμέρας μηνῶν·<verse eID="rlxx_job.3.6" />
+        <verse sID="rlxx_job.3.7" osisID="rlxx_job.3.7" />7ἀλλὰ ἡ νὺξ ἐκείνη εἴη ὀδύνη, καὶ μὴ ἔλθοι ἐπʼ αὐτὴν εὐφροσύνη μηδὲ χαρμονή·<verse eID="rlxx_job.3.7" />
+        <verse sID="rlxx_job.3.8" osisID="rlxx_job.3.8" />ἀλλὰ καταράσαιτο αὐτὴν ὁ καταρώμενος τὴν ἡμέραν ἐκείνην ὁ μέλλων τὸ μέγα κῆτος χειρώσασθαι.<verse eID="rlxx_job.3.8" />
+        <verse sID="rlxx_job.3.9" osisID="rlxx_job.3.9" />σκοτωθείη τὰ ἄστρα τῆς νυκτὸς ἐκείνης, ὑπομείναι καὶ εἰς φωτισμὸν μὴ ἔλθοι καὶ μὴ ἴδοι ἑωσφόρον ἀνατέλλοντα,<verse eID="rlxx_job.3.9" />
+        <verse sID="rlxx_job.3.10" osisID="rlxx_job.3.10" />ὅτι οὐ συνέκλεισεν πύλας γαστρὸς μητρός μου· ἀπήλλαξεν γὰρ ἂν πόνον ἀπὸ ὀφθαλμῶν μου.<verse eID="rlxx_job.3.10" />
+        <verse sID="rlxx_job.3.11" osisID="rlxx_job.3.11" />διὰ τί γὰρ ἐν κοιλίᾳ οὐκ ἐτελεύτησα, ἐκ γαστρὸς δὲ ἐξῆλθον καὶ οὐκ εὐθὺς ἀπωλόμην;<verse eID="rlxx_job.3.11" />
+        <verse sID="rlxx_job.3.12" osisID="rlxx_job.3.12" />ἵνα τί δὲ συνήντησάν μοι γόνατα; ἵνα τί δὲ μαστοὺς ἐθήλασα;<verse eID="rlxx_job.3.12" />
+        <verse sID="rlxx_job.3.13" osisID="rlxx_job.3.13" />νῦν ἂν κοιμηθεὶς ἡσύχασα, ὑπνώσας δὲ ἀνεπαυσάμην<verse eID="rlxx_job.3.13" />
+        <verse sID="rlxx_job.3.14" osisID="rlxx_job.3.14" />μετὰ βασιλέων βουλευτῶν γῆς, οἳ ἠγαυριῶντο ἐπὶ ξίφεσιν,<verse eID="rlxx_job.3.14" />
+        <verse sID="rlxx_job.3.15" osisID="rlxx_job.3.15" />ἢ μετὰ ἀρχόντων, ὧν πολὺς ὁ χρυσός, οἳ ἔπλησαν τοὺς οἴκους αὐτῶν ἀργυρίου<verse eID="rlxx_job.3.15" />
+        <verse sID="rlxx_job.3.16" osisID="rlxx_job.3.16" />ἢ ὥσπερ ἔκτρωμα ἐκπορευόμενον ἐκ μήτρας μητρὸς ἢ ὥσπερ νήπιοι, οἳ οὐκ εἶδον φῶς.<verse eID="rlxx_job.3.16" />
+        <verse sID="rlxx_job.3.17" osisID="rlxx_job.3.17" />ἐκεῖ ἀσεβεῖς ἐξέκαυσαν θυμὸν ὀργῆς, ἐκεῖ ἀνεπαύσαντο κατάκοποι τῷ σώματι·<verse eID="rlxx_job.3.17" />
+        <verse sID="rlxx_job.3.18" osisID="rlxx_job.3.18" />ὁμοθυμαδὸν δὲ οἱ αἰώνιοι οὐκ ἤκουσαν φωνὴν φορολόγου·<verse eID="rlxx_job.3.18" />
+        <verse sID="rlxx_job.3.19" osisID="rlxx_job.3.19" />μικρὸς καὶ μέγας ἐκεῖ ἐστιν καὶ θεράπων οὐ δεδοικὼς τὸν κύριον αὐτοῦ.<verse eID="rlxx_job.3.19" />
+        <verse sID="rlxx_job.3.20" osisID="rlxx_job.3.20" />ἵνα τί γὰρ δέδοται τοῖς ἐν πικρίᾳ φῶς, ζωὴ δὲ ταῖς ἐν ὀδύναις ψυχαῖς;<verse eID="rlxx_job.3.20" />
+        <verse sID="rlxx_job.3.21" osisID="rlxx_job.3.21" />οἳ ὁμείρονται τοῦ θανάτου καὶ οὐ τυγχάνουσιν ἀνορύσσοντες ὥσπερ θησαυρούς,<verse eID="rlxx_job.3.21" />
+        <verse sID="rlxx_job.3.22" osisID="rlxx_job.3.22" />περιχαρεῖς δὲ ἐγένοντο, ἐὰν κατατύχωσιν.<verse eID="rlxx_job.3.22" />
+        <verse sID="rlxx_job.3.23" osisID="rlxx_job.3.23" />θάνατος ἀνδρὶ ἀνάπαυμα, συνέκλεισεν γὰρ ὁ θεὸς κατ' αὐτοῦ·<verse eID="rlxx_job.3.23" />
+        <verse sID="rlxx_job.3.24" osisID="rlxx_job.3.24" />πρὸ γὰρ τῶν σίτων μου στεναγμός μοι ἥκει, δακρύω δὲ ἐγὼ συνεχόμενος φόβῳ·<verse eID="rlxx_job.3.24" />
+        <verse sID="rlxx_job.3.25" osisID="rlxx_job.3.25" />φόβος γάρ, ὃν ἐφρόντισα, ἦλθέν μοι, καὶ ὃν ἐδεδοίκειν, συνήντησέν μοι.<verse eID="rlxx_job.3.25" />
+        <verse sID="rlxx_job.3.26" osisID="rlxx_job.3.26" />οὔτε εἰρήνευσα οὔτε ἡσύχασα οὔτε ἀνεπαυσάμην, ἦλθεν δέ μοι ὀργή.<verse eID="rlxx_job.3.26" />
+      </p>
+      <chapter eID="rlxx_job.3" />
+      <chapter sID="rlxx_job.4" osisID="rlxx_job.4" />
+      <title>Chapter 4</title>
+      <p>
+        <verse sID="rlxx_job.4.1" osisID="rlxx_job.4.1" />Ὑπολαβὼν δὲ Ελιφας ὁ Θαιμανίτης λέγει<verse eID="rlxx_job.4.1" />
+        <verse sID="rlxx_job.4.2" osisID="rlxx_job.4.2" />Μὴ πολλάκις σοι λελάληται ἐν κόπῳ; ἰσχὺν δὲ ῥημάτων σου τίς ὑποίσει;<verse eID="rlxx_job.4.2" />
+        <verse sID="rlxx_job.4.3" osisID="rlxx_job.4.3" />εἰ γὰρ σὺ ἐνουθέτησας πολλοὺς καὶ χεῖρας ἀσθενοῦς παρεκάλεσας<verse eID="rlxx_job.4.3" />
+        <verse sID="rlxx_job.4.4" osisID="rlxx_job.4.4" />ἀσθενοῦντάς τε ἐξανέστησας ῥήμασιν γόνασίν τε ἀδυνατοῦσιν θάρσος περιέθηκας,<verse eID="rlxx_job.4.4" />
+        <verse sID="rlxx_job.4.5" osisID="rlxx_job.4.5" />νῦν δὲ ἥκει ἐπὶ σὲ πόνος καὶ ἥψατό σου, σὺ δὲ ἐσπούδασας.<verse eID="rlxx_job.4.5" />
+        <verse sID="rlxx_job.4.6" osisID="rlxx_job.4.6" />πότερον οὐχ ὁ φόβος σού ἐστιν ἐν ἀφροσύνῃ καὶ ἡ ἐλπίς σου καὶ ἡ ἀκακία τῆς ὁδοῦ σου;<verse eID="rlxx_job.4.6" />
+        <verse sID="rlxx_job.4.7" osisID="rlxx_job.4.7" />μνήσθητι οὖν τίς καθαρὸς ὢν ἀπώλετο ἢ πότε ἀληθινοὶ ὁλόρριζοι ἀπώλοντο.<verse eID="rlxx_job.4.7" />
+        <verse sID="rlxx_job.4.8" osisID="rlxx_job.4.8" />καθ' ὃν τρόπον εἶδον τοὺς ἀροτριῶντας τὰ ἄτοπα, οἱ δὲ σπείροντες αὐτὰ ὀδύνας θεριοῦσιν ἑαυτοῖς.<verse eID="rlxx_job.4.8" />
+        <verse sID="rlxx_job.4.9" osisID="rlxx_job.4.9" />ἀπὸ προστάγματος κυρίου ἀπολοῦνται, ἀπὸ δὲ πνεύματος ὀργῆς αὐτοῦ ἀφανισθήσονται.<verse eID="rlxx_job.4.9" />
+        <verse sID="rlxx_job.4.10" osisID="rlxx_job.4.10" />σθένος λέοντος, φωνὴ δὲ λεαίνης, γαυρίαμα δὲ δρακόντων ἐσβέσθη·<verse eID="rlxx_job.4.10" />
+        <verse sID="rlxx_job.4.11" osisID="rlxx_job.4.11" />μυρμηκολέων ὤλετο παρὰ τὸ μὴ ἔχειν βοράν, σκύμνοι δὲ λεόντων ἔλιπον ἀλλήλους.<verse eID="rlxx_job.4.11" />
+        <verse sID="rlxx_job.4.12" osisID="rlxx_job.4.12" />εἰ δέ τι ῥῆμα ἀληθινὸν ἐγεγόνει ἐν λόγοις σου, οὐθὲν ἄν σοι τούτων κακὸν ἀπήντησεν. πότερον οὐ δέξεταί μου τὸ οὖς ἐξαίσια παρ' αὐτοῦ;<verse eID="rlxx_job.4.12" />
+        <verse sID="rlxx_job.4.13" osisID="rlxx_job.4.13" />φόβοι δὲ καὶ ἠχὼ νυκτερινή, ἐπιπίπτων φόβος ἐπ' ἀνθρώπους,<verse eID="rlxx_job.4.13" />
+        <verse sID="rlxx_job.4.14" osisID="rlxx_job.4.14" />φρίκη δέ μοι συνήντησεν καὶ τρόμος καὶ μεγάλως μου τὰ ὀστᾶ συνέσεισεν,<verse eID="rlxx_job.4.14" />
+        <verse sID="rlxx_job.4.15" osisID="rlxx_job.4.15" />καὶ πνεῦμα ἐπὶ πρόσωπόν μου ἐπῆλθεν, ἔφριξαν δέ μου τρίχες καὶ σάρκες.<verse eID="rlxx_job.4.15" />
+        <verse sID="rlxx_job.4.16" osisID="rlxx_job.4.16" />ἀνέστην, καὶ οὐκ ἐπέγνων· εἶδον, καὶ οὐκ ἦν μορφὴ πρὸ ὀφθαλμῶν μου, ἀλλ' ἢ αὔραν καὶ φωνὴν ἤκουον<verse eID="rlxx_job.4.16" />
+        <verse sID="rlxx_job.4.17" osisID="rlxx_job.4.17" />Τί γάρ; μὴ καθαρὸς ἔσται βροτὸς ἐναντίον κυρίου ἢ ἀπὸ τῶν ἔργων αὐτοῦ ἄμεμπτος ἀνήρ;<verse eID="rlxx_job.4.17" />
+        <verse sID="rlxx_job.4.18" osisID="rlxx_job.4.18" />εἰ κατὰ παίδων αὐτοῦ οὐ πιστεύει, κατὰ δὲ ἀγγέλων αὐτοῦ σκολιόν τι ἐπενόησεν,<verse eID="rlxx_job.4.18" />
+        <verse sID="rlxx_job.4.19" osisID="rlxx_job.4.19" />τοὺς δὲ κατοικοῦντας οἰκίας πηλίνας, ἐξ ὧν καὶ αὐτοὶ ἐκ τοῦ αὐτοῦ πηλοῦ ἐσμεν, ἔπαισεν αὐτοὺς σητὸς τρόπον·<verse eID="rlxx_job.4.19" />
+        <verse sID="rlxx_job.4.20" osisID="rlxx_job.4.20" />καὶ ἀπὸ πρωίθεν ἕως ἑσπέρας οὐκέτι εἰσίν, παρὰ τὸ μὴ δύνασθαι αὐτοὺς ἑαυτοῖς βοηθῆσαι ἀπώλοντο·<verse eID="rlxx_job.4.20" />
+        <verse sID="rlxx_job.4.21" osisID="rlxx_job.4.21" />ἐνεφύσησεν γὰρ αὐτοῖς καὶ ἐξηράνθησαν, ἀπώλοντο παρὰ τὸ μὴ ἔχειν αὐτοὺς σοφίαν.<verse eID="rlxx_job.4.21" />
+      </p>
+      <chapter eID="rlxx_job.4" />
+      <chapter sID="rlxx_job.5" osisID="rlxx_job.5" />
+      <title>Chapter 5</title>
+      <p>
+        <verse sID="rlxx_job.5.1" osisID="rlxx_job.5.1" />ἐπικάλεσαι δέ, εἴ τίς σοι ὑπακούσεται, ἢ εἴ τινα ἀγγέλων ἁγίων ὄψῃ.<verse eID="rlxx_job.5.1" />
+        <verse sID="rlxx_job.5.2" osisID="rlxx_job.5.2" />καὶ γὰρ ἄφρονα ἀναιρεῖ ὀργή, πεπλανημένον δὲ θανατοῖ ζῆλος.<verse eID="rlxx_job.5.2" />
+        <verse sID="rlxx_job.5.3" osisID="rlxx_job.5.3" />ἐγὼ δὲ ἑώρακα ἄφρονας ῥίζαν βάλλοντας, ἀλλʼ εὐθέως ἐβρώθη αὐτῶν ἡ δίαιτα.<verse eID="rlxx_job.5.3" />
+        <verse sID="rlxx_job.5.4" osisID="rlxx_job.5.4" />πόρρω γένοιντο οἱ υἱοὶ αὐτῶν ἀπὸ σωτηρίας, κολαβρισθείησαν δὲ ἐπὶ θύραις ἡσσόνων, καὶ οὐκ ἔσται ὁ ἐξαιρούμενος·<verse eID="rlxx_job.5.4" />
+        <verse sID="rlxx_job.5.5" osisID="rlxx_job.5.5" />ἃ γὰρ ἐκεῖνοι συνήγαγον, δίκαιοι ἔδονται, αὐτοὶ δὲ ἐκ κακῶν οὐκ ἐξαίρετοι ἔσονται, ἐκσιφωνισθείη αὐτῶν ἡ ἰσχύς.<verse eID="rlxx_job.5.5" />
+        <verse sID="rlxx_job.5.6" osisID="rlxx_job.5.6" />οὐ γὰρ μὴ ἐξέλθῃ ἐκ τῆς γῆς κόπος, οὐδὲ ἐξ ὀρέων ἀναβλαστήσει πόνος·<verse eID="rlxx_job.5.6" />
+        <verse sID="rlxx_job.5.7" osisID="rlxx_job.5.7" />ἀλλὰ ἄνθρωπος γεννᾶται κόπῳ, νεοσσοὶ δὲ γυπὸς τὰ ὑψηλὰ πέτονται.<verse eID="rlxx_job.5.7" />
+        <verse sID="rlxx_job.5.8" osisID="rlxx_job.5.8" />οὐ μὴν δὲ ἀλλὰ ἐγὼ δεηθήσομαι κυρίου, κύριον δὲ τὸν πάντων δεσπότην ἐπικαλέσομαι<verse eID="rlxx_job.5.8" />
+        <verse sID="rlxx_job.5.9" osisID="rlxx_job.5.9" />τὸν ποιοῦντα μεγάλα καὶ ἀνεξιχνίαστα, ἔνδοξά τε καὶ ἐξαίσια, ὧν οὐκ ἔστιν ἀριθμός·<verse eID="rlxx_job.5.9" />
+        <verse sID="rlxx_job.5.10" osisID="rlxx_job.5.10" />τὸν διδόντα ὑετὸν ἐπὶ τὴν γῆν, ἀποστέλλοντα ὕδωρ ἐπὶ τὴν ὑπʼ οὐρανόν·<verse eID="rlxx_job.5.10" />
+        <verse sID="rlxx_job.5.11" osisID="rlxx_job.5.11" />τὸν ποιοῦντα ταπεινοὺς εἰς ὕψος καὶ ἀπολωλότας ἐξεγείροντα·<verse eID="rlxx_job.5.11" />
+        <verse sID="rlxx_job.5.12" osisID="rlxx_job.5.12" />διαλλάσσοντα βουλὰς πανούργων, καὶ οὐ μὴ ποιήσουσιν αἱ χεῖρες αὐτῶν ἀληθές.<verse eID="rlxx_job.5.12" />
+        <verse sID="rlxx_job.5.13" osisID="rlxx_job.5.13" />ὁ καταλαμβάνων σοφοὺς ἐν τῇ φρονήσει, βουλὴν δὲ πολυπλόκων ἐξέστησεν·<verse eID="rlxx_job.5.13" />
+        <verse sID="rlxx_job.5.14" osisID="rlxx_job.5.14" />ἡμέρας συναντήσεται αὐτοῖς σκότος, τὸ δὲ μεσημβρινὸν ψηλαφήσαισαν ἴσα νυκτί.<verse eID="rlxx_job.5.14" />
+        <verse sID="rlxx_job.5.15" osisID="rlxx_job.5.15" />ἀπόλοιντο δὲ ἐν πολέμῳ, ἀδύνατος δὲ ἐξέλθοι ἐκ χειρὸς δυνάστου·<verse eID="rlxx_job.5.15" />
+        <verse sID="rlxx_job.5.16" osisID="rlxx_job.5.16" />εἴη δὲ ἀδυνάτῳ ἐλπίς, ἀδίκου δὲ στόμα ἐμφραχθείη.<verse eID="rlxx_job.5.16" />
+        <verse sID="rlxx_job.5.17" osisID="rlxx_job.5.17" />μακάριος δὲ ἄνθρωπος, ὃν ἤλεγξεν ὁ κύριος· νουθέτημα δὲ παντοκράτορος μὴ ἀπαναίνου.<verse eID="rlxx_job.5.17" />
+        <verse sID="rlxx_job.5.18" osisID="rlxx_job.5.18" />αὐτὸς γὰρ ἀλγεῖν ποιεῖ καὶ πάλιν ἀποκαθίστησιν· ἔπαισεν, καὶ αἱ χεῖρες αὐτοῦ ἰάσαντο.<verse eID="rlxx_job.5.18" />
+        <verse sID="rlxx_job.5.19" osisID="rlxx_job.5.19" />ἑξάκις ἐξ ἀναγκῶν σε ἐξελεῖται, ἐν δὲ τῷ ἑβδόμῳ οὐ μὴ ἅψηταί σου κακόν.<verse eID="rlxx_job.5.19" />
+        <verse sID="rlxx_job.5.20" osisID="rlxx_job.5.20" />ἐν λιμῷ ῥύσεταί σε ἐκ θανάτου, ἐν πολέμῳ δὲ ἐκ χειρὸς σιδήρου λύσει σε.<verse eID="rlxx_job.5.20" />
+        <verse sID="rlxx_job.5.21" osisID="rlxx_job.5.21" />ἀπὸ μάστιγος γλώσσης σε κρύψει, καὶ οὐ μὴ φοβηθῇς ἀπὸ κακῶν ἐρχομένων.<verse eID="rlxx_job.5.21" />
+        <verse sID="rlxx_job.5.22" osisID="rlxx_job.5.22" />ἀδίκων καὶ ἀνόμων καταγελάσῃ, ἀπὸ δὲ θηρίων ἀγρίων οὐ μὴ φοβηθῇς·<verse eID="rlxx_job.5.22" />
+        <verse sID="rlxx_job.5.23" osisID="rlxx_job.5.23" />θῆρες γὰρ ἄγριοι εἰρηνεύσουσίν σοι.<verse eID="rlxx_job.5.23" />
+        <verse sID="rlxx_job.5.24" osisID="rlxx_job.5.24" />εἶτα γνώσῃ ὅτι εἰρηνεύσει σου ὁ οἶκος, ἡ δὲ δίαιτα τῆς σκηνῆς σου οὐ μὴ ἁμάρτῃ.<verse eID="rlxx_job.5.24" />
+        <verse sID="rlxx_job.5.25" osisID="rlxx_job.5.25" />γνώσῃ δὲ ὅτι πολὺ τὸ σπέρμα σου, τὰ δὲ τέκνα σου ἔσται ὥσπερ τὸ παμβότανον τοῦ ἀγροῦ.<verse eID="rlxx_job.5.25" />
+        <verse sID="rlxx_job.5.26" osisID="rlxx_job.5.26" />ἐλεύσῃ δὲ ἐν τάφῳ ὥσπερ σῖτος ὥριμος κατὰ καιρὸν θεριζόμενος ἢ ὥσπερ θιμωνιὰ ἅλωνος καθ' ὥραν συγκομισθεῖσα.<verse eID="rlxx_job.5.26" />
+        <verse sID="rlxx_job.5.27" osisID="rlxx_job.5.27" />ἰδοὺ ταῦτα οὕτως ἐξιχνιάσαμεν, ταῦτά ἐστιν ἃ ἀκηκόαμεν· σὺ δὲ γνῶθι σεαυτῷ εἴ τι ἔπραξας.<verse eID="rlxx_job.5.27" />
+      </p>
+      <chapter eID="rlxx_job.5" />
+      <chapter sID="rlxx_job.6" osisID="rlxx_job.6" />
+      <title>Chapter 6</title>
+      <p>
+        <verse sID="rlxx_job.6.1" osisID="rlxx_job.6.1" />Ὑπολαβὼν δὲ Ιωβ λέγει<verse eID="rlxx_job.6.1" />
+        <verse sID="rlxx_job.6.2" osisID="rlxx_job.6.2" />Εἰ γάρ τις ἱστῶν στήσαι μου τὴν ὀργήν, τὰς δὲ ὀδύνας μου ἄραι ἐν ζυγῷ ὁμοθυμαδόν,<verse eID="rlxx_job.6.2" />
+        <verse sID="rlxx_job.6.3" osisID="rlxx_job.6.3" />καὶ δὴ ἄμμου παραλίας βαρυτέρα ἔσται· ἀλλ' ὡς ἔοικεν, τὰ ῥήματά μού ἐστιν φαῦλα.<verse eID="rlxx_job.6.3" />
+        <verse sID="rlxx_job.6.4" osisID="rlxx_job.6.4" />βέλη γὰρ κυρίου ἐν τῷ σώματί μού ἐστιν, ὧν ὁ θυμὸς αὐτῶν ἐκπίνει μου τὸ αἷμα· ὅταν ἄρξωμαι λαλεῖν, κεντοῦσί με.<verse eID="rlxx_job.6.4" />
+        <verse sID="rlxx_job.6.5" osisID="rlxx_job.6.5" />τί γάρ; μὴ διὰ κενῆς κεκράξεται ὄνος ἄγριος, ἀλλʼ ἢ τὰ σῖτα ζητῶν; εἰ δὲ καὶ ῥήξει φωνὴν βοῦς ἐπὶ φάτνης ἔχων τὰ βρώματα;<verse eID="rlxx_job.6.5" />
+        <verse sID="rlxx_job.6.6" osisID="rlxx_job.6.6" />εἰ βρωθήσεται ἄρτος ἄνευ ἁλός; εἰ δὲ καὶ ἔστιν γεῦμα ἐν ῥήμασιν κενοῖς;<verse eID="rlxx_job.6.6" />
+        <verse sID="rlxx_job.6.7" osisID="rlxx_job.6.7" />οὐ δύναται γὰρ παύσασθαί μου ἡ ψυχή· βρόμον γὰρ ὁρῶ τὰ σῖτά μου ὥσπερ ὀσμὴν λέοντος.<verse eID="rlxx_job.6.7" />
+        <verse sID="rlxx_job.6.8" osisID="rlxx_job.6.8" />εἰ γὰρ δῴη, καὶ ἔλθοι μου ἡ αἴτησις, καὶ τὴν ἐλπίδα μου δῴη ὁ κύριος.<verse eID="rlxx_job.6.8" />
+        <verse sID="rlxx_job.6.9" osisID="rlxx_job.6.9" />ἀρξάμενος ὁ κύριος τρωσάτω με, εἰς τέλος δὲ μή με ἀνελέτω.<verse eID="rlxx_job.6.9" />
+        <verse sID="rlxx_job.6.10" osisID="rlxx_job.6.10" />εἴη δέ μου πόλις τάφος, ἐφʼ ἧς ἐπὶ τειχέων ἡλλόμην ἐπʼ αὐτῆς, οὐ μὴ φείσωμαι· οὐ γὰρ ἐψευσάμην ῥήματα ἅγια θεοῦ μου.<verse eID="rlxx_job.6.10" />
+        <verse sID="rlxx_job.6.11" osisID="rlxx_job.6.11" />τίς γάρ μου ἡ ἰσχύς, ὅτι ὑπομένω; ἢ τίς μου ὁ χρόνος, ὅτι ἀνέχεταί μου ἡ ψυχή;<verse eID="rlxx_job.6.11" />
+        <verse sID="rlxx_job.6.12" osisID="rlxx_job.6.12" />μὴ ἰσχὺς λίθων ἡ ἰσχύς μου; ἢ αἱ σάρκες μού εἰσιν χάλκειαι;<verse eID="rlxx_job.6.12" />
+        <verse sID="rlxx_job.6.13" osisID="rlxx_job.6.13" />ἦ οὐκ ἐπʼ αὐτῷ ἐπεποίθειν; βοήθεια δὲ ἀπʼ ἐμοῦ ἄπεστιν.<verse eID="rlxx_job.6.13" />
+        <verse sID="rlxx_job.6.14" osisID="rlxx_job.6.14" />ἀπείπατό με ἔλεος, ἐπισκοπὴ δὲ κυρίου ὑπερεῖδέν με.<verse eID="rlxx_job.6.14" />
+        <verse sID="rlxx_job.6.15" osisID="rlxx_job.6.15" />οὐ προσεῖδόν με οἱ ἐγγύτατοί μου· ὥσπερ χειμάρρους ἐκλείπων ἢ ὥσπερ κῦμα παρῆλθόν με·<verse eID="rlxx_job.6.15" />
+        <verse sID="rlxx_job.6.16" osisID="rlxx_job.6.16" />οἵτινές με διευλαβοῦντο, νῦν ἐπιπεπτώκασίν μοι ὥσπερ χιὼν ἢ κρύσταλλος πεπηγώς·<verse eID="rlxx_job.6.16" />
+        <verse sID="rlxx_job.6.17" osisID="rlxx_job.6.17" />καθὼς τακεῖσα θέρμης γενομένης οὐκ ἐπεγνώσθη ὅπερ ἦν,<verse eID="rlxx_job.6.17" />
+        <verse sID="rlxx_job.6.18" osisID="rlxx_job.6.18" />οὕτως κἀγὼ κατελείφθην ὑπὸ πάντων, ἀπωλόμην δὲ καὶ ἔξοικος ἐγενόμην.<verse eID="rlxx_job.6.18" />
+        <verse sID="rlxx_job.6.19" osisID="rlxx_job.6.19" />ἴδετε ὁδοὺς Θαιμανων, ἀτραποὺς Σαβων, οἱ διορῶντες·<verse eID="rlxx_job.6.19" />
+        <verse sID="rlxx_job.6.20" osisID="rlxx_job.6.20" />καὶ αἰσχύνην ὀφειλήσουσιν οἱ ἐπὶ πόλεσιν καὶ χρήμασιν πεποιθότες.<verse eID="rlxx_job.6.20" />
+        <verse sID="rlxx_job.6.21" osisID="rlxx_job.6.21" />ἀτὰρ δὲ καὶ ὑμεῖς ἐπέβητέ μοι ἀνελεημόνως, ὥστε ἰδόντες τὸ ἐμὸν τραῦμα φοβήθητε.<verse eID="rlxx_job.6.21" />
+        <verse sID="rlxx_job.6.22" osisID="rlxx_job.6.22" />τί γάρ; μή τι ὑμᾶς ᾔτησα ἢ τῆς παρ' ὑμῶν ἰσχύος ἐπιδέομαι<verse eID="rlxx_job.6.22" />
+        <verse sID="rlxx_job.6.23" osisID="rlxx_job.6.23" />ὥστε σῶσαί με ἐξ ἐχθρῶν ἢ ἐκ χειρὸς δυναστῶν ῥύσασθαί με;<verse eID="rlxx_job.6.23" />
+        <verse sID="rlxx_job.6.24" osisID="rlxx_job.6.24" />διδάξατέ με, ἐγὼ δὲ κωφεύσω· εἴ τι πεπλάνημαι, φράσατέ μοι.<verse eID="rlxx_job.6.24" />
+        <verse sID="rlxx_job.6.25" osisID="rlxx_job.6.25" />ἀλλ' ὡς ἔοικεν, φαῦλα ἀληθινοῦ ῥήματα, οὐ γὰρ παρ' ὑμῶν ἰσχὺν αἰτοῦμαι·<verse eID="rlxx_job.6.25" />
+        <verse sID="rlxx_job.6.26" osisID="rlxx_job.6.26" />οὐδὲ ὁ ἔλεγχος ὑμῶν ῥήμασίν με παύσει, οὐδὲ γὰρ ὑμῶν φθέγμα ῥήματος ἀνέξομαι.<verse eID="rlxx_job.6.26" />
+        <verse sID="rlxx_job.6.27" osisID="rlxx_job.6.27" />πλὴν ὅτι ἐπ' ὀρφανῷ ἐπιπίπτετε, ἐνάλλεσθε δὲ ἐπὶ φίλῳ ὑμῶν.<verse eID="rlxx_job.6.27" />
+        <verse sID="rlxx_job.6.28" osisID="rlxx_job.6.28" />νυνὶ δὲ εἰσβλέψας εἰς πρόσωπα ὑμῶν οὐ ψεύσομαι.<verse eID="rlxx_job.6.28" />
+        <verse sID="rlxx_job.6.29" osisID="rlxx_job.6.29" />καθίσατε δὴ καὶ μὴ εἴη ἄδικον, καὶ πάλιν τῷ δικαίῳ συνέρχεσθε.<verse eID="rlxx_job.6.29" />
+        <verse sID="rlxx_job.6.30" osisID="rlxx_job.6.30" />οὐ γάρ ἐστιν ἐν γλώσσῃ μου ἄδικον· ἢ ὁ λάρυγξ μου οὐχὶ σύνεσιν μελετᾷ;<verse eID="rlxx_job.6.30" />
+      </p>
+      <chapter eID="rlxx_job.6" />
+      <chapter sID="rlxx_job.7" osisID="rlxx_job.7" />
+      <title>Chapter 7</title>
+      <p>
+        <verse sID="rlxx_job.7.1" osisID="rlxx_job.7.1" />πότερον οὐχὶ πειρατήριόν ἐστιν ὁ βίος ἀνθρώπου ἐπὶ τῆς γῆς καὶ ὥσπερ μισθίου αὐθημερινοῦ ἡ ζωὴ αὐτοῦ;<verse eID="rlxx_job.7.1" />
+        <verse sID="rlxx_job.7.2" osisID="rlxx_job.7.2" />ἢ ὥσπερ θεράπων δεδοικὼς τὸν κύριον αὐτοῦ καὶ τετευχὼς σκιᾶς ἢ ὥσπερ μισθωτὸς ἀναμένων τὸν μισθὸν αὐτοῦ.<verse eID="rlxx_job.7.2" />
+        <verse sID="rlxx_job.7.3" osisID="rlxx_job.7.3" />οὕτως κἀγὼ ὑπέμεινα μῆνας κενούς, νύκτες δὲ ὀδυνῶν δεδομέναι μοί εἰσιν.<verse eID="rlxx_job.7.3" />
+        <verse sID="rlxx_job.7.4" osisID="rlxx_job.7.4" />ἐὰν κοιμηθῶ, λέγω Πότε ἡμέρα; ὡς δʼ ἂν ἀναστῶ, πάλιν Πότε ἑσπέρα; πλήρης δὲ γίνομαι ὀδυνῶν ἀπὸ ἑσπέρας ἕως πρωί.<verse eID="rlxx_job.7.4" />
+        <verse sID="rlxx_job.7.5" osisID="rlxx_job.7.5" />φύρεται δέ μου τὸ σῶμα ἐν σαπρίᾳ σκωλήκων, τήκω δὲ βώλακας γῆς ἀπὸ ἰχῶρος ξύων.<verse eID="rlxx_job.7.5" />
+        <verse sID="rlxx_job.7.6" osisID="rlxx_job.7.6" />ὁ δὲ βίος μού ἐστιν ἐλαφρότερος λαλιᾶς, ἀπόλωλεν δὲ ἐν κενῇ ἐλπίδι.<verse eID="rlxx_job.7.6" />
+        <verse sID="rlxx_job.7.7" osisID="rlxx_job.7.7" />μνήσθητι οὖν ὅτι πνεῦμά μου ἡ ζωὴ καὶ οὐκέτι ἐπανελεύσεται ὁ ὀφθαλμός μου ἰδεῖν ἀγαθόν.<verse eID="rlxx_job.7.7" />
+        <verse sID="rlxx_job.7.8" osisID="rlxx_job.7.8" />※ οὐ περιβλέψεταί με ὀφθαλμὸς ὁρῶντός με· ※ οἱ ὀφθαλμοί σου ἐν ἐμοί, καὶ οὐκέτι εἰμὶ ⸔<verse eID="rlxx_job.7.8" />
+        <verse sID="rlxx_job.7.9" osisID="rlxx_job.7.9" />ὥσπερ νέφος ἀποκαθαρθὲν ἀπʼ οὐρανοῦ. ἐὰν γὰρ ἄνθρωπος καταβῇ εἰς ᾅδην, οὐκέτι μὴ ἀναβῇ<verse eID="rlxx_job.7.9" />
+        <verse sID="rlxx_job.7.10" osisID="rlxx_job.7.10" />οὐδʼ οὐ μὴ ἐπιστρέψῃ ἔτι εἰς τὸν ἴδιον οἶκον, οὐδὲ μὴ ἐπιγνῷ αὐτὸν ἔτι ὁ τόπος αὐτοῦ.<verse eID="rlxx_job.7.10" />
+        <verse sID="rlxx_job.7.11" osisID="rlxx_job.7.11" />ἀτὰρ οὖν οὐδὲ ἐγὼ φείσομαι τῷ στόματί μου, λαλήσω ἐν ἀνάγκῃ ὤν, ἀνοίξω πικρίαν ψυχῆς μου συνεχόμενος.<verse eID="rlxx_job.7.11" />
+        <verse sID="rlxx_job.7.12" osisID="rlxx_job.7.12" />πότερον θάλασσά εἰμι ἢ δράκων, ὅτι κατέταξας ἐπʼ ἐμὲ φυλακήν;<verse eID="rlxx_job.7.12" />
+        <verse sID="rlxx_job.7.13" osisID="rlxx_job.7.13" />εἶπα ὅτι Παρακαλέσει με ἡ κλίνη μου, ἀνοίσω δὲ πρὸς ἐμαυτὸν ἰδίᾳ λόγον τῇ κοίτῃ μου·<verse eID="rlxx_job.7.13" />
+        <verse sID="rlxx_job.7.14" osisID="rlxx_job.7.14" />ἐκφοβεῖς με ἐνυπνίοις καὶ ἐν ὁράμασίν με καταπλήσσεις.<verse eID="rlxx_job.7.14" />
+        <verse sID="rlxx_job.7.15" osisID="rlxx_job.7.15" />ἀπαλλάξεις ἀπὸ πνεύματός μου τὴν ψυχήν μου, ἀπὸ δὲ θανάτου τὰ ὀστᾶ μου.<verse eID="rlxx_job.7.15" />
+        <verse sID="rlxx_job.7.16" osisID="rlxx_job.7.16" />οὐ γὰρ εἰς τὸν αἰῶνα ζήσομαι, ἵνα μακροθυμήσω· ἀπόστα ἀπʼ ἐμοῦ, κενὸς γάρ μου ὁ βίος.<verse eID="rlxx_job.7.16" />
+        <verse sID="rlxx_job.7.17" osisID="rlxx_job.7.17" />τί γάρ ἐστιν ἄνθρωπος, ὅτι ἐμεγάλυνας αὐτὸν ἢ ὅτι προσέχεις τὸν νοῦν εἰς αὐτὸν<verse eID="rlxx_job.7.17" />
+        <verse sID="rlxx_job.7.18" osisID="rlxx_job.7.18" />ἢ ἐπισκοπὴν αὐτοῦ ποιήσῃ ἕως τὸ πρωὶ καὶ εἰς ἀνάπαυσιν αὐτὸν κρινεῖς;<verse eID="rlxx_job.7.18" />
+        <verse sID="rlxx_job.7.19" osisID="rlxx_job.7.19" />ἕως τίνος οὐκ ἐᾷς με οὐδὲ προΐῃ με, ἕως ἂν καταπίω τὸν πτύελόν μου ἐν ὀδύνῃ;<verse eID="rlxx_job.7.19" />
+        <verse sID="rlxx_job.7.20" osisID="rlxx_job.7.20" />εἰ ἐγὼ ἥμαρτον, τί δύναμαί σοι πρᾶξαι, ὁ ἐπιστάμενος τὸν νοῦν τῶν ἀνθρώπων; διὰ τί ἔθου με κατεντευκτήν σου, εἰμὶ δὲ ἐπὶ σοὶ φορτίον;<verse eID="rlxx_job.7.20" />
+        <verse sID="rlxx_job.7.21" osisID="rlxx_job.7.21" />καὶ διὰ τί οὐκ ἐποιήσω τῆς ἀνομίας μου λήθην καὶ καθαρισμὸν τῆς ἁμαρτίας μου; νυνὶ δὲ εἰς γῆν ἀπελεύσομαι, ὀρθρίζων δὲ οὐκέτι εἰμί.<verse eID="rlxx_job.7.21" />
+      </p>
+      <chapter eID="rlxx_job.7" />
+      <chapter sID="rlxx_job.8" osisID="rlxx_job.8" />
+      <title>Chapter 8</title>
+      <p>
+        <verse sID="rlxx_job.8.1" osisID="rlxx_job.8.1" />Ὑπολαβὼν δὲ Βαλδαδ ὁ Σαυχίτης λέγει<verse eID="rlxx_job.8.1" />
+        <verse sID="rlxx_job.8.2" osisID="rlxx_job.8.2" />Μέχρι τίνος λαλήσεις ταῦτα; πνεῦμα πολυρῆμον τοῦ στόματός σου.<verse eID="rlxx_job.8.2" />
+        <verse sID="rlxx_job.8.3" osisID="rlxx_job.8.3" />μὴ ὁ κύριος ἀδικήσει κρίνων ἢ ὁ τὰ πάντα ποιήσας ταράξει τὸ δίκαιον;<verse eID="rlxx_job.8.3" />
+        <verse sID="rlxx_job.8.4" osisID="rlxx_job.8.4" />εἰ οἱ υἱοί σου ἥμαρτον ἐναντίον αὐτοῦ, ἀπέστειλεν ἐν χειρὶ ἀνομίας αὐτῶν.<verse eID="rlxx_job.8.4" />
+        <verse sID="rlxx_job.8.5" osisID="rlxx_job.8.5" />σὺ δὲ ὄρθριζε πρὸς κύριον παντοκράτορα δεόμενος.<verse eID="rlxx_job.8.5" />
+        <verse sID="rlxx_job.8.6" osisID="rlxx_job.8.6" />εἰ καθαρὸς εἶ καὶ ἀληθινός, δεήσεως ἐπακούσεταί σου, ἀποκαταστήσει δέ σοι δίαιταν δικαιοσύνης·<verse eID="rlxx_job.8.6" />
+        <verse sID="rlxx_job.8.7" osisID="rlxx_job.8.7" />ἔσται οὖν τὰ μὲν πρῶτά σου ὀλίγα, τὰ δὲ ἔσχατά σου ἀμύθητα.<verse eID="rlxx_job.8.7" />
+        <verse sID="rlxx_job.8.8" osisID="rlxx_job.8.8" />ἐπερώτησον γὰρ γενεὰν πρώτην, ἐξιχνίασον δὲ κατὰ γένος πατέρων·<verse eID="rlxx_job.8.8" />
+        <verse sID="rlxx_job.8.9" osisID="rlxx_job.8.9" />χθιζοὶ γάρ ἐσμεν καὶ οὐκ οἴδαμεν, σκιὰ γάρ ἐστιν ἡμῶν ἐπὶ τῆς γῆς ὁ βίος.<verse eID="rlxx_job.8.9" />
+        <verse sID="rlxx_job.8.10" osisID="rlxx_job.8.10" />ἦ οὐχ οὗτοί σε διδάξουσιν καὶ ἀναγγελοῦσιν καὶ ἐκ καρδίας ἐξάξουσιν ῥήματα;<verse eID="rlxx_job.8.10" />
+        <verse sID="rlxx_job.8.11" osisID="rlxx_job.8.11" />μὴ θάλλει πάπυρος ἄνευ ὕδατος ἢ ὑψωθήσεται βούτομον ἄνευ πότου;<verse eID="rlxx_job.8.11" />
+        <verse sID="rlxx_job.8.12" osisID="rlxx_job.8.12" />ἔτι ὂν ἐπὶ ῥίζης καὶ οὐ μὴ θερισθῇ, πρὸ τοῦ πιεῖν πᾶσα βοτάνη οὐχὶ ξηραίνεται.<verse eID="rlxx_job.8.12" />
+        <verse sID="rlxx_job.8.13" osisID="rlxx_job.8.13" />οὕτως τοίνυν ἔσται τὰ ἔσχατα πάντων τῶν ἐπιλανθανομένων τοῦ κυρίου· ἐλπὶς γὰρ ἀσεβοῦς ἀπολεῖται.<verse eID="rlxx_job.8.13" />
+        <verse sID="rlxx_job.8.14" osisID="rlxx_job.8.14" />ἀοίκητος γὰρ αὐτοῦ ἔσται ὁ οἶκος, ἀράχνη δὲ αὐτοῦ ἀποβήσεται ἡ σκηνή.<verse eID="rlxx_job.8.14" />
+        <verse sID="rlxx_job.8.15" osisID="rlxx_job.8.15" />ἐὰν ὑπερείσῃ τὴν οἰκίαν αὐτοῦ, οὐ μὴ στῇ· ἐπιλαβομένου δὲ αὐτοῦ οὐ μὴ ὑπομείνῃ·<verse eID="rlxx_job.8.15" />
+        <verse sID="rlxx_job.8.16" osisID="rlxx_job.8.16" />ὑγρὸς γάρ ἐστιν ὑπὸ ἡλίου, καὶ ἐκ σαπρίας αὐτοῦ ὁ ῥάδαμνος αὐτοῦ ἐξελεύσεται.<verse eID="rlxx_job.8.16" />
+        <verse sID="rlxx_job.8.17" osisID="rlxx_job.8.17" />ἐπὶ συναγωγὴν λίθων κοιμᾶται, ἐν δὲ μέσῳ χαλίκων ζήσεται.<verse eID="rlxx_job.8.17" />
+        <verse sID="rlxx_job.8.18" osisID="rlxx_job.8.18" />ἐὰν καταπίῃ, ὁ τόπος ψεύσεται αὐτόν· οὐχ ἑόρακας τοιαῦτα.<verse eID="rlxx_job.8.18" />
+        <verse sID="rlxx_job.8.19" osisID="rlxx_job.8.19" />ὅτι καταστροφὴ ἀσεβοῦς τοιαύτη, ἐκ δὲ γῆς ἄλλον ἀναβλαστήσει.<verse eID="rlxx_job.8.19" />
+        <verse sID="rlxx_job.8.20" osisID="rlxx_job.8.20" />ὁ γὰρ κύριος οὐ μὴ ἀποποιήσηται τὸν ἄκακον, πᾶν δὲ δῶρον ἀσεβοῦς οὐ δέξεται.<verse eID="rlxx_job.8.20" />
+        <verse sID="rlxx_job.8.21" osisID="rlxx_job.8.21" />ἀληθινῶν δὲ στόμα ἐμπλήσει γέλωτος, τὰ δὲ χείλη αὐτῶν ἐξομολογήσεως·<verse eID="rlxx_job.8.21" />
+        <verse sID="rlxx_job.8.22" osisID="rlxx_job.8.22" />οἱ δὲ ἐχθροὶ αὐτῶν ἐνδύσονται αἰσχύνην, δίαιτα δὲ ἀσεβοῦς οὐκ ἔσται.<verse eID="rlxx_job.8.22" />
+      </p>
+      <chapter eID="rlxx_job.8" />
+      <chapter sID="rlxx_job.9" osisID="rlxx_job.9" />
+      <title>Chapter 9</title>
+      <p>
+        <verse sID="rlxx_job.9.1" osisID="rlxx_job.9.1" />Ὑπολαβὼν δὲ Ιωβ λέγει<verse eID="rlxx_job.9.1" />
+        <verse sID="rlxx_job.9.2" osisID="rlxx_job.9.2" />Ἐπ' ἀληθείας οἶδα ὅτι οὕτως ἐστίν· πῶς γὰρ ἔσται δίκαιος βροτὸς παρὰ κυρίῳ;<verse eID="rlxx_job.9.2" />
+        <verse sID="rlxx_job.9.3" osisID="rlxx_job.9.3" />ἐὰν γὰρ βούληται κριθῆναι αὐτῷ, οὐ μὴ ὑπακούσῃ αὐτῷ, ἵνα μὴ ἀντείπῃ πρὸς ἕνα λόγον αὐτοῦ ἐκ χιλίων.<verse eID="rlxx_job.9.3" />
+        <verse sID="rlxx_job.9.4" osisID="rlxx_job.9.4" />σοφὸς γάρ ἐστιν διανοίᾳ, κραταιός τε καὶ μέγας· τίς σκληρὸς γενόμενος ἐναντίον αὐτοῦ ὑπέμεινεν;<verse eID="rlxx_job.9.4" />
+        <verse sID="rlxx_job.9.5" osisID="rlxx_job.9.5" />ὁ παλαιῶν ὄρη καὶ οὐκ οἴδασιν, ὁ καταστρέφων αὐτὰ ὀργῇ·<verse eID="rlxx_job.9.5" />
+        <verse sID="rlxx_job.9.6" osisID="rlxx_job.9.6" />ὁ σείων τὴν ὑπʼ οὐρανὸν ἐκ θεμελίων, οἱ δὲ στῦλοι αὐτῆς σαλεύονται·<verse eID="rlxx_job.9.6" />
+        <verse sID="rlxx_job.9.7" osisID="rlxx_job.9.7" />ὁ λέγων τῷ ἡλίῳ καὶ οὐκ ἀνατέλλει, κατὰ δὲ ἄστρων κατασφραγίζει·<verse eID="rlxx_job.9.7" />
+        <verse sID="rlxx_job.9.8" osisID="rlxx_job.9.8" />ὁ τανύσας τὸν οὐρανὸν μόνος καὶ περιπατῶν ὡς ἐπʼ ἐδάφους ἐπὶ θαλάσσης·<verse eID="rlxx_job.9.8" />
+        <verse sID="rlxx_job.9.9" osisID="rlxx_job.9.9" />ὁ ποιῶν Πλειάδα καὶ Ἕσπερον καὶ Ἀρκτοῦρον καὶ ταμιεῖα νότου·<verse eID="rlxx_job.9.9" />
+        <verse sID="rlxx_job.9.10" osisID="rlxx_job.9.10" />ὁ ποιῶν μεγάλα καὶ ἀνεξιχνίαστα, ἔνδοξά τε καὶ ἐξαίσια, ὧν οὐκ ἔστιν ἀριθμός.<verse eID="rlxx_job.9.10" />
+        <verse sID="rlxx_job.9.11" osisID="rlxx_job.9.11" />ἐὰν ὑπερβῇ με, οὐ μὴ ἴδω· καὶ ἐὰν παρέλθῃ με, οὐδʼ ὧς ἔγνων.<verse eID="rlxx_job.9.11" />
+        <verse sID="rlxx_job.9.12" osisID="rlxx_job.9.12" />ἐὰν ἀπαλλάξῃ, τίς ἀποστρέψει; ἢ τίς ἐρεῖ αὐτῷ Τί ἐποίησας;<verse eID="rlxx_job.9.12" />
+        <verse sID="rlxx_job.9.13" osisID="rlxx_job.9.13" />αὐτὸς γὰρ ἀπέστραπται ὀργήν, ὑπʼ αὐτοῦ ἐκάμφθησαν κήτη τὰ ὑπʼ οὐρανόν.<verse eID="rlxx_job.9.13" />
+        <verse sID="rlxx_job.9.14" osisID="rlxx_job.9.14" />ἐὰν δέ μου ὑπακούσηται, ἦ διακρινεῖ τὰ ῥήματά μου.<verse eID="rlxx_job.9.14" />
+        <verse sID="rlxx_job.9.15" osisID="rlxx_job.9.15" />ἐάν τε γὰρ ὦ δίκαιος, οὐκ εἰσακούσεταί μου, ※ τοῦ κρίματος αὐτοῦ δεηθήσομαι·⸔<verse eID="rlxx_job.9.15" />
+        <verse sID="rlxx_job.9.16" osisID="rlxx_job.9.16" />ἐάν τε καλέσω καὶ ὑπακούσῃ, οὐ πιστεύω ὅτι εἰσακήκοέν μου.<verse eID="rlxx_job.9.16" />
+        <verse sID="rlxx_job.9.17" osisID="rlxx_job.9.17" />μὴ γνόφῳ με ἐκτρίψῃ; πολλὰ δέ μου τὰ συντρίμματα πεποίηκεν διὰ κενῆς.<verse eID="rlxx_job.9.17" />
+        <verse sID="rlxx_job.9.18" osisID="rlxx_job.9.18" />οὐκ ἐᾷ γάρ με ἀναπνεῦσαι, ἐνέπλησεν δέ με πικρίας.<verse eID="rlxx_job.9.18" />
+        <verse sID="rlxx_job.9.19" osisID="rlxx_job.9.19" />ὅτι μὲν γὰρ ἰσχύι κρατεῖ· τίς οὖν κρίματι αὐτοῦ ἀντιστήσεται;<verse eID="rlxx_job.9.19" />
+        <verse sID="rlxx_job.9.20" osisID="rlxx_job.9.20" />ἐὰν γὰρ ὦ δίκαιος, τὸ στόμα μου ἀσεβήσει· ἐάν τε ὦ ἄμεμπτος, σκολιὸς ἀποβήσομαι.<verse eID="rlxx_job.9.20" />
+        <verse sID="rlxx_job.9.21" osisID="rlxx_job.9.21" />εἴτε γὰρ ἠσέβησα, οὐκ οἶδα τῇ ψυχῇ, πλὴν ὅτι ἀφαιρεῖταί μου ἡ ζωή.<verse eID="rlxx_job.9.21" />
+        <verse sID="rlxx_job.9.22" osisID="rlxx_job.9.22" />διὸ εἶπον Μέγαν καὶ δυνάστην ἀπολλύει ὀργή,<verse eID="rlxx_job.9.22" />
+        <verse sID="rlxx_job.9.23" osisID="rlxx_job.9.23" />ὅτι φαῦλοι ἐν θανάτῳ ἐξαισίῳ, ἀλλὰ δίκαιοι καταγελῶνται·<verse eID="rlxx_job.9.23" />
+        <verse sID="rlxx_job.9.24" osisID="rlxx_job.9.24" />παραδέδονται γὰρ εἰς χεῖρας ἀσεβοῦς. ※πρόσωπα κριτῶν αὐτῆς συγκαλύπτει· ※εἰ δὲ μὴ αὐτός, τίς ἐστιν;⸕<verse eID="rlxx_job.9.24" />
+        <verse sID="rlxx_job.9.25" osisID="rlxx_job.9.25" />ὁ δὲ βίος μού ἐστιν ἐλαφρότερος δρομέως· ἀπέδρασαν καὶ οὐκ εἴδοσαν.<verse eID="rlxx_job.9.25" />
+        <verse sID="rlxx_job.9.26" osisID="rlxx_job.9.26" />ἦ καὶ ἔστιν ναυσὶν ἴχνος ὁδοῦ ἢ ἀετοῦ πετομένου ζητοῦντος βοράν;<verse eID="rlxx_job.9.26" />
+        <verse sID="rlxx_job.9.27" osisID="rlxx_job.9.27" />ἐάν τε γὰρ εἴπω, ἐπιλήσομαι λαλῶν, συγκύψας τῷ προσώπῳ στενάξω.<verse eID="rlxx_job.9.27" />
+        <verse sID="rlxx_job.9.28" osisID="rlxx_job.9.28" />σείομαι πᾶσιν τοῖς μέλεσιν, οἶδα γὰρ ὅτι οὐκ ἀθῷόν με ἐάσεις.<verse eID="rlxx_job.9.28" />
+        <verse sID="rlxx_job.9.29" osisID="rlxx_job.9.29" />ἐπειδὴ δέ εἰμι ἀσεβής, διὰ τί οὐκ ἀπέθανον;<verse eID="rlxx_job.9.29" />
+        <verse sID="rlxx_job.9.30" osisID="rlxx_job.9.30" />ἐὰν γὰρ ἀπολούσωμαι χιόνι καὶ ἀποκαθάρωμαι χερσὶν καθαραῖς,<verse eID="rlxx_job.9.30" />
+        <verse sID="rlxx_job.9.31" osisID="rlxx_job.9.31" />ἱκανῶς ἐν ῥύπῳ με ἔβαψας, ἐβδελύξατο δέ με ἡ στολή.<verse eID="rlxx_job.9.31" />
+        <verse sID="rlxx_job.9.32" osisID="rlxx_job.9.32" />οὐ γὰρ εἶ ἄνθρωπος κατ' ἐμέ, ᾧ ἀντικρινοῦμαι, ἵνα ἔλθωμεν ὁμοθυμαδὸν εἰς κρίσιν.<verse eID="rlxx_job.9.32" />
+        <verse sID="rlxx_job.9.33" osisID="rlxx_job.9.33" />εἴθε ἦν ὁ μεσίτης ἡμῶν καὶ ἐλέγχων καὶ διακούων ἀνὰ μέσον ἀμφοτέρων·<verse eID="rlxx_job.9.33" />
+        <verse sID="rlxx_job.9.34" osisID="rlxx_job.9.34" />ἀπαλλαξάτω ἀπ' ἐμοῦ τὴν ῥάβδον, ὁ δὲ φόβος αὐτοῦ μή με στροβείτω,<verse eID="rlxx_job.9.34" />
+        <verse sID="rlxx_job.9.35" osisID="rlxx_job.9.35" />καὶ οὐ μὴ φοβηθῶ, ἀλλὰ λαλήσω· οὐ γὰρ οὕτω συνεπίσταμαι.<verse eID="rlxx_job.9.35" />
+      </p>
+      <chapter eID="rlxx_job.9" />
+      <chapter sID="rlxx_job.10" osisID="rlxx_job.10" />
+      <title>Chapter 10</title>
+      <p>
+        <verse sID="rlxx_job.10.1" osisID="rlxx_job.10.1" />κάμνων τῇ ψυχῇ μου, στένων ἐπαφήσω ἐπ' αὐτὸν τὰ ῥήματά μου· λαλήσω πικρίᾳ ψυχῆς μου συνεχόμενος<verse eID="rlxx_job.10.1" />
+        <verse sID="rlxx_job.10.2" osisID="rlxx_job.10.2" />καὶ ἐρῶ πρὸς κύριον Μή με ἀσεβεῖν δίδασκε· καὶ διὰ τί με οὕτως ἔκρινας;<verse eID="rlxx_job.10.2" />
+        <verse sID="rlxx_job.10.3" osisID="rlxx_job.10.3" />ἦ καλόν σοι, ἐὰν ἀδικήσω, ὅτι ἀπείπω ἔργα χειρῶν σου, βουλῇ δὲ ἀσεβῶν προσέσχες;<verse eID="rlxx_job.10.3" />
+        <verse sID="rlxx_job.10.4" osisID="rlxx_job.10.4" />ἦ ὥσπερ βροτὸς ὁρᾷ καθορᾷς ※ἢ καθὼς ὁρᾷ ἄνθρωπος βλέψῃ;⸕<verse eID="rlxx_job.10.4" />
+        <verse sID="rlxx_job.10.5" osisID="rlxx_job.10.5" />ἦ ὁ βίος σου ἀνθρώπινός ἐστιν ἢ τὰ ἔτη σου ἀνδρός;<verse eID="rlxx_job.10.5" />
+        <verse sID="rlxx_job.10.6" osisID="rlxx_job.10.6" />ὅτι ἀνεζήτησας τὴν ἀνομίαν μου καὶ τὰς ἁμαρτίας μου ἐξιχνίασας.<verse eID="rlxx_job.10.6" />
+        <verse sID="rlxx_job.10.7" osisID="rlxx_job.10.7" />οἶδας γὰρ ὅτι οὐκ ἠσέβησα· ἀλλὰ τίς ἐστιν ὁ ἐκ τῶν χειρῶν σου ἐξαιρούμενος;<verse eID="rlxx_job.10.7" />
+        <verse sID="rlxx_job.10.8" osisID="rlxx_job.10.8" />αἱ χεῖρές σου ἔπλασάν με καὶ ἐποίησάν με, μετὰ ταῦτα μεταβαλών με ἔπαισας.<verse eID="rlxx_job.10.8" />
+        <verse sID="rlxx_job.10.9" osisID="rlxx_job.10.9" />μνήσθητι ὅτι πηλόν με ἔπλασας, εἰς δὲ γῆν με πάλιν ἀποστρέφεις.<verse eID="rlxx_job.10.9" />
+        <verse sID="rlxx_job.10.10" osisID="rlxx_job.10.10" />ἦ οὐχ ὥσπερ γάλα με ἤμελξας, ἐτύρωσας δέ με ἴσα τυρῷ;<verse eID="rlxx_job.10.10" />
+        <verse sID="rlxx_job.10.11" osisID="rlxx_job.10.11" />δέρμα καὶ κρέας με ἐνέδυσας, ὀστέοις δὲ καὶ νεύροις με ἐνεῖρας.<verse eID="rlxx_job.10.11" />
+        <verse sID="rlxx_job.10.12" osisID="rlxx_job.10.12" />ζωὴν δὲ καὶ ἔλεος ἔθου παρ' ἐμοί, ἡ δὲ ἐπισκοπή σου ἐφύλαξέν μου τὸ πνεῦμα.<verse eID="rlxx_job.10.12" />
+        <verse sID="rlxx_job.10.13" osisID="rlxx_job.10.13" />ταῦτα ἔχων ἐν σεαυτῷ οἶδα ὅτι πάντα δύνασαι, ἀδυνατεῖ δέ σοι οὐθέν.<verse eID="rlxx_job.10.13" />
+        <verse sID="rlxx_job.10.14" osisID="rlxx_job.10.14" />ἐάν τε γὰρ ἁμάρτω, φυλάσσεις με, ἀπὸ δὲ ἀνομίας οὐκ ἀθῷόν με πεποίηκας.<verse eID="rlxx_job.10.14" />
+        <verse sID="rlxx_job.10.15" osisID="rlxx_job.10.15" />ἐάν τε γὰρ ἀσεβὴς ὦ, οἴμμοι· ἐάν τε ὦ δίκαιος, οὐ δύναμαι ἀνακύψαι, πλήρης γὰρ ἀτιμίας εἰμί.<verse eID="rlxx_job.10.15" />
+        <verse sID="rlxx_job.10.16" osisID="rlxx_job.10.16" />ἀγρεύομαι γὰρ ὥσπερ λέων εἰς σφαγήν, πάλιν δὲ μεταβαλὼν δεινῶς με ὀλέκεις<verse eID="rlxx_job.10.16" />
+        <verse sID="rlxx_job.10.17" osisID="rlxx_job.10.17" />ἐπανακαινίζων ἐπ' ἐμὲ τὴν ἔτασίν μου· ὀργῇ δὲ μεγάλῃ μοι ἐχρήσω, ἐπήγαγες δὲ ἐπ' ἐμὲ πειρατήρια.<verse eID="rlxx_job.10.17" />
+        <verse sID="rlxx_job.10.18" osisID="rlxx_job.10.18" />ἵνα τί οὖν ἐκ κοιλίας με ἐξήγαγες, καὶ οὐκ ἀπέθανον, ὀφθαλμὸς δέ με οὐκ εἶδεν,<verse eID="rlxx_job.10.18" />
+        <verse sID="rlxx_job.10.19" osisID="rlxx_job.10.19" />καὶ ὥσπερ οὐκ ὢν ἐγενόμην; διὰ τί γὰρ ἐκ γαστρὸς εἰς μνῆμα οὐκ ἀπηλλάγην;<verse eID="rlxx_job.10.19" />
+        <verse sID="rlxx_job.10.20" osisID="rlxx_job.10.20" />ἦ οὐκ ὀλίγος ἐστὶν ὁ χρόνος τοῦ βίου μου; ἔασόν με ἀναπαύσασθαι μικρὸν<verse eID="rlxx_job.10.20" />
+        <verse sID="rlxx_job.10.21" osisID="rlxx_job.10.21" />πρὸ τοῦ με πορευθῆναι ὅθεν οὐκ ἀναστρέψω, εἰς γῆν σκοτεινὴν καὶ γνοφεράν,<verse eID="rlxx_job.10.21" />
+        <verse sID="rlxx_job.10.22" osisID="rlxx_job.10.22" />εἰς γῆν σκότους αἰωνίου, οὗ οὐκ ἔστιν φέγγος οὐδὲ ὁρᾶν ζωὴν βροτῶν.<verse eID="rlxx_job.10.22" />
+      </p>
+      <chapter eID="rlxx_job.10" />
+      <chapter sID="rlxx_job.11" osisID="rlxx_job.11" />
+      <title>Chapter 11</title>
+      <p>
+        <verse sID="rlxx_job.11.1" osisID="rlxx_job.11.1" />Ὑπολαβὼν δὲ Σωφαρ ὁ Μιναῖος λέγει<verse eID="rlxx_job.11.1" />
+        <verse sID="rlxx_job.11.2" osisID="rlxx_job.11.2" />Ὁ τὰ πολλὰ λέγων καὶ ἀντακούσεται· ἢ καὶ ὁ εὔλαλος οἴεται εἶναι δίκαιος; εὐλογημένος γεννητὸς γυναικὸς ὀλιγόβιος.<verse eID="rlxx_job.11.2" />
+        <verse sID="rlxx_job.11.3" osisID="rlxx_job.11.3" />μὴ πολὺς ἐν ῥήμασιν γίνου, οὐ γάρ ἐστιν ὁ ἀντικρινόμενός σοι.<verse eID="rlxx_job.11.3" />
+        <verse sID="rlxx_job.11.4" osisID="rlxx_job.11.4" />μὴ γὰρ λέγε ὅτι Καθαρός εἰμι τοῖς ἔργοις καὶ ἄμεμπτος ἐναντίον αὐτοῦ.<verse eID="rlxx_job.11.4" />
+        <verse sID="rlxx_job.11.5" osisID="rlxx_job.11.5" />ἀλλὰ πῶς ἂν ὁ κύριος λαλήσαι πρὸς σέ; ※καὶ ἀνοίξει χείλη αὐτοῦ μετὰ σοῦ.⸕<verse eID="rlxx_job.11.5" />
+        <verse sID="rlxx_job.11.6" osisID="rlxx_job.11.6" />εἶτα ἀναγγελεῖ σοι δύναμιν σοφίας, ὅτι διπλοῦς ἔσται τῶν κατὰ σέ· καὶ τότε γνώσῃ ὅτι ἄξιά σοι ἀπέβη ἀπὸ κυρίου ὧν ἡμάρτηκας.<verse eID="rlxx_job.11.6" />
+        <verse sID="rlxx_job.11.7" osisID="rlxx_job.11.7" />ἦ ἴχνος κυρίου εὑρήσεις ἢ εἰς τὰ ἔσχατα ἀφίκου, ἃ ἐποίησεν ὁ παντοκράτωρ;<verse eID="rlxx_job.11.7" />
+        <verse sID="rlxx_job.11.8" osisID="rlxx_job.11.8" />ὑψηλὸς ὁ οὐρανός, καὶ τί ποιήσεις; βαθύτερα δὲ τῶν ἐν ᾅδου τί οἶδας;<verse eID="rlxx_job.11.8" />
+        <verse sID="rlxx_job.11.9" osisID="rlxx_job.11.9" />ἢ μακρότερα μέτρου γῆς ἢ εὔρους θαλάσσης;<verse eID="rlxx_job.11.9" />
+        <verse sID="rlxx_job.11.10" osisID="rlxx_job.11.10" />ἐὰν δὲ καταστρέψῃ τὰ πάντα, τίς ἐρεῖ αὐτῷ Τί ἐποίησας;<verse eID="rlxx_job.11.10" />
+        <verse sID="rlxx_job.11.11" osisID="rlxx_job.11.11" />αὐτὸς γὰρ οἶδεν ἔργα ἀνόμων, ἰδὼν δὲ ἄτοπα οὐ παρόψεται.<verse eID="rlxx_job.11.11" />
+        <verse sID="rlxx_job.11.12" osisID="rlxx_job.11.12" />ἄνθρωπος δὲ ἄλλως νήχεται λόγοις, βροτὸς δὲ γεννητὸς γυναικὸς ἴσα ὄνῳ ἐρημίτῃ.<verse eID="rlxx_job.11.12" />
+        <verse sID="rlxx_job.11.13" osisID="rlxx_job.11.13" />εἰ γὰρ σὺ καθαρὰν ἔθου τὴν καρδίαν σου, ὑπτιάζεις δὲ χεῖρας πρὸς αὐτόν,<verse eID="rlxx_job.11.13" />
+        <verse sID="rlxx_job.11.14" osisID="rlxx_job.11.14" />εἰ ἄνομόν τί ἐστιν ἐν χερσίν σου, πόρρω ποίησον αὐτὸ ἀπὸ σοῦ, ἀδικία δὲ ἐν διαίτῃ σου μὴ αὐλισθήτω.<verse eID="rlxx_job.11.14" />
+        <verse sID="rlxx_job.11.15" osisID="rlxx_job.11.15" />οὕτως γὰρ ἀναλάμψει σου τὸ πρόσωπον ὥσπερ ὕδωρ καθαρόν, ἐκδύσῃ δὲ ῥύπον καὶ οὐ μὴ φοβηθῇς·<verse eID="rlxx_job.11.15" />
+        <verse sID="rlxx_job.11.16" osisID="rlxx_job.11.16" />καὶ τὸν κόπον ἐπιλήσῃ ὥσπερ κῦμα παρελθὸν καὶ οὐ πτοηθήσῃ·<verse eID="rlxx_job.11.16" />
+        <verse sID="rlxx_job.11.17" osisID="rlxx_job.11.17" />ἡ δὲ εὐχή σου ὥσπερ ἑωσφόρος, ἐκ δὲ μεσημβρίας ἀνατελεῖ σοι ζωή·<verse eID="rlxx_job.11.17" />
+        <verse sID="rlxx_job.11.18" osisID="rlxx_job.11.18" />πεποιθώς τε ἔσῃ ὅτι ἔστιν σοι ἐλπίς, ἐκ δὲ μερίμνης καὶ φροντίδος ἀναφανεῖταί σοι εἰρήνη.<verse eID="rlxx_job.11.18" />
+        <verse sID="rlxx_job.11.19" osisID="rlxx_job.11.19" />ἡσυχάσεις γάρ, καὶ οὐκ ἔσται ὁ πολεμῶν σε· μεταβαλόμενοι δὲ πολλοί σου δεηθήσονται.<verse eID="rlxx_job.11.19" />
+        <verse sID="rlxx_job.11.20" osisID="rlxx_job.11.20" />σωτηρία δὲ αὐτοὺς ἀπολείψει· ἡ γὰρ ἐλπὶς αὐτῶν ἀπώλεια, ὀφθαλμοὶ δὲ ἀσεβῶν τακήσονται.<verse eID="rlxx_job.11.20" />
+      </p>
+      <chapter eID="rlxx_job.11" />
+      <chapter sID="rlxx_job.12" osisID="rlxx_job.12" />
+      <title>Chapter 12</title>
+      <p>
+        <verse sID="rlxx_job.12.1" osisID="rlxx_job.12.1" />Ὑπολαβὼν δὲ Ιωβ λέγει<verse eID="rlxx_job.12.1" />
+        <verse sID="rlxx_job.12.2" osisID="rlxx_job.12.2" />Εἶτα ὑμεῖς ἐστε ἄνθρωποι· ἦ μεθ' ὑμῶν τελευτήσει σοφία.<verse eID="rlxx_job.12.2" />
+        <verse sID="rlxx_job.12.3" osisID="rlxx_job.12.3" />κἀμοὶ μὲν καρδία καθ' ὑμᾶς ἐστιν.<verse eID="rlxx_job.12.3" />
+        <verse sID="rlxx_job.12.4" osisID="rlxx_job.12.4" />δίκαιος γὰρ ἀνὴρ καὶ ἄμεμπτος ἐγενήθη εἰς χλεύασμα·<verse eID="rlxx_job.12.4" />
+        <verse sID="rlxx_job.12.5" osisID="rlxx_job.12.5" />εἰς χρόνον γὰρ τακτὸν ἡτοίμαστο πεσεῖν ὑπὸ ἄλλους οἴκους τε αὐτοῦ ἐκπορθεῖσθαι ὑπὸ ἀνόμων.<verse eID="rlxx_job.12.5" />
+        <verse sID="rlxx_job.12.6" osisID="rlxx_job.12.6" />οὐ μὴν δὲ ἀλλὰ μηδεὶς πεποιθέτω πονηρὸς ὢν ἀθῷος ἔσεσθαι, ὅσοι παροργίζουσιν τὸν κύριον, ὡς οὐχὶ καὶ ἔτασις αὐτῶν ἔσται.<verse eID="rlxx_job.12.6" />
+        <verse sID="rlxx_job.12.7" osisID="rlxx_job.12.7" />ἀλλὰ δὴ ἐπερώτησον τετράποδα ἐάν σοι εἴπωσιν, πετεινὰ δὲ οὐρανοῦ ἐάν σοι ἀπαγγείλωσιν·<verse eID="rlxx_job.12.7" />
+        <verse sID="rlxx_job.12.8" osisID="rlxx_job.12.8" />ἐκδιήγησαι δὲ γῇ ἐάν σοι φράσῃ, ※καὶ ἐξηγήσονταί σοι οἱ ἰχθύες τῆς θαλάσσης.<verse eID="rlxx_job.12.8" />
+        <verse sID="rlxx_job.12.9" osisID="rlxx_job.12.9" />※τίς οὐκ ἔγνω ἐν πᾶσι τούτοις ※ὅτι χεὶρ κυρίου ἐποίησεν ταῦτα;⸕<verse eID="rlxx_job.12.9" />
+        <verse sID="rlxx_job.12.10" osisID="rlxx_job.12.10" />εἰ μὴ ἐν χειρὶ αὐτοῦ ψυχὴ πάντων τῶν ζώντων καὶ πνεῦμα παντὸς ἀνθρώπου;<verse eID="rlxx_job.12.10" />
+        <verse sID="rlxx_job.12.11" osisID="rlxx_job.12.11" />οὖς μὲν γὰρ ῥήματα διακρίνει, λάρυγξ δὲ σῖτα γεύεται.<verse eID="rlxx_job.12.11" />
+        <verse sID="rlxx_job.12.12" osisID="rlxx_job.12.12" />ἐν πολλῷ χρόνῳ σοφία, ἐν δὲ πολλῷ βίῳ ἐπιστήμη.<verse eID="rlxx_job.12.12" />
+        <verse sID="rlxx_job.12.13" osisID="rlxx_job.12.13" />παρ' αὐτῷ σοφία καὶ δύναμις, αὐτῷ βουλὴ καὶ σύνεσις.<verse eID="rlxx_job.12.13" />
+        <verse sID="rlxx_job.12.14" osisID="rlxx_job.12.14" />ἐὰν καταβάλῃ, τίς οἰκοδομήσει; ἐὰν κλείσῃ κατὰ ἀνθρώπων, τίς ἀνοίξει;<verse eID="rlxx_job.12.14" />
+        <verse sID="rlxx_job.12.15" osisID="rlxx_job.12.15" />ἐὰν κωλύσῃ τὸ ὥδωρ, ξηρανεῖ τὴν γῆν· ἐὰν δὲ ἐπαφῇ, ἀπώλεσεν αὐτὴν καταστρέψας.<verse eID="rlxx_job.12.15" />
+        <verse sID="rlxx_job.12.16" osisID="rlxx_job.12.16" />παρ' αὐτῷ κράτος καὶ ἰσχύς, αὐτῷ ἐπιστήμη καὶ σύνεσις.<verse eID="rlxx_job.12.16" />
+        <verse sID="rlxx_job.12.17" osisID="rlxx_job.12.17" />διάγων βουλευτὰς αἰχμαλώτους, κριτὰς δὲ γῆς ἐξέστησεν.<verse eID="rlxx_job.12.17" />
+        <verse sID="rlxx_job.12.18" osisID="rlxx_job.12.18" />καθιζάνων βασιλεῖς ἐπὶ θρόνους ※καὶ περιέδησεν ζώνῃ ὀσφύας αὐτῶν.⸕<verse eID="rlxx_job.12.18" />
+        <verse sID="rlxx_job.12.19" osisID="rlxx_job.12.19" />ἐξαποστέλλων ἱερεῖς αἰχμαλώτους, δυνάστας δὲ γῆς κατέστρεψεν.<verse eID="rlxx_job.12.19" />
+        <verse sID="rlxx_job.12.20" osisID="rlxx_job.12.20" />διαλλάσσων χείλη πιστῶν, σύνεσιν δὲ πρεσβυτέρων ἔγνω.<verse eID="rlxx_job.12.20" />
+        <verse sID="rlxx_job.12.21" osisID="rlxx_job.12.21" />※ἐκχέων ἀτιμίαν ἐπ' ἄρχοντας,⸕ ταπεινοὺς δὲ ἰάσατο.<verse eID="rlxx_job.12.21" />
+        <verse sID="rlxx_job.12.22" osisID="rlxx_job.12.22" />ἀνακαλύπτων βαθέα ἐκ σκότους, ἐξήγαγεν δὲ εἰς φῶς σκιὰν θανάτου.<verse eID="rlxx_job.12.22" />
+        <verse sID="rlxx_job.12.23" osisID="rlxx_job.12.23" />※πλανῶν ἔθνη καὶ ἀπολλύων αὐτά,⸕ καταστρωννύων ἔθνη καὶ καθοδηγῶν αὐτά.<verse eID="rlxx_job.12.23" />
+        <verse sID="rlxx_job.12.24" osisID="rlxx_job.12.24" />διαλλάσσων καρδίας ἀρχόντων γῆς, ἐπλάνησεν δὲ αὐτοὺς ὁδῷ, ᾗ οὐκ ᾔδεισαν·<verse eID="rlxx_job.12.24" />
+        <verse sID="rlxx_job.12.25" osisID="rlxx_job.12.25" />ψηλαφήσαισαν σκότος καὶ μὴ φῶς, πλανηθείησαν δὲ ὥσπερ ὁ μεθύων.<verse eID="rlxx_job.12.25" />
+      </p>
+      <chapter eID="rlxx_job.12" />
+      <chapter sID="rlxx_job.13" osisID="rlxx_job.13" />
+      <title>Chapter 13</title>
+      <p>
+        <verse sID="rlxx_job.13.1" osisID="rlxx_job.13.1" />ἰδοὺ ταῦτα ἑώρακέν μου ὁ ὀφθαλμὸς καὶ ἀκήκοέν μου τὸ οὖς·<verse eID="rlxx_job.13.1" />
+        <verse sID="rlxx_job.13.2" osisID="rlxx_job.13.2" />καὶ οἶδα ὅσα καὶ ὑμεῖς ἐπίστασθε, καὶ οὐκ ἀσυνετώτερός εἰμι ὑμῶν.<verse eID="rlxx_job.13.2" />
+        <verse sID="rlxx_job.13.3" osisID="rlxx_job.13.3" />οὐ μὴν δὲ ἀλλ' ἐγὼ πρὸς κύριον λαλήσω, ἐλέγξω δὲ ἐναντίον αὐτοῦ ἐὰν βούληται.<verse eID="rlxx_job.13.3" />
+        <verse sID="rlxx_job.13.4" osisID="rlxx_job.13.4" />ὑμεῖς δέ ἐστε ἰατροὶ ἄδικοι καὶ ἰαταὶ κακῶν πάντες.<verse eID="rlxx_job.13.4" />
+        <verse sID="rlxx_job.13.5" osisID="rlxx_job.13.5" />εἴη δὲ ὑμῖν κωφεῦσαι, καὶ ἀποβήσεται ὑμῖν εἰς σοφίαν.<verse eID="rlxx_job.13.5" />
+        <verse sID="rlxx_job.13.6" osisID="rlxx_job.13.6" />ἀκούσατε ἔλεγχον στόματός μου, κρίσιν δὲ χειλέων μου προσέχετε.<verse eID="rlxx_job.13.6" />
+        <verse sID="rlxx_job.13.7" osisID="rlxx_job.13.7" />πότερον οὐκ ἔναντι κυρίου λαλεῖτε, ἔναντι δὲ αὐτοῦ φθέγγεσθε δόλον;<verse eID="rlxx_job.13.7" />
+        <verse sID="rlxx_job.13.8" osisID="rlxx_job.13.8" />ἦ ὑποστελεῖσθε; ὑμεῖς δὲ αὐτοὶ κριταὶ γένεσθε.<verse eID="rlxx_job.13.8" />
+        <verse sID="rlxx_job.13.9" osisID="rlxx_job.13.9" />καλόν γε, ἐὰν ἐξιχνιάσῃ ὑμᾶς· εἰ γὰρ τὰ πάντα ποιοῦντες προστεθήσεσθε αὐτῷ,<verse eID="rlxx_job.13.9" />
+        <verse sID="rlxx_job.13.10" osisID="rlxx_job.13.10" />οὐθὲν ἧττον ἐλέγξει ὑμᾶς· εἰ δὲ καὶ κρυφῇ πρόσωπα θαυμάσετε,<verse eID="rlxx_job.13.10" />
+        <verse sID="rlxx_job.13.11" osisID="rlxx_job.13.11" />πότερον οὐχὶ δεινὰ αὐτοῦ στροβήσει ὑμᾶς, φόβος δὲ παρ' αὐτοῦ ἐπιπεσεῖται ὑμῖν;<verse eID="rlxx_job.13.11" />
+        <verse sID="rlxx_job.13.12" osisID="rlxx_job.13.12" />ἀποβήσεται δὲ ὑμῶν τὸ ἀγαυρίαμα ἴσα σποδῷ, τὸ δὲ σῶμα πήλινον.<verse eID="rlxx_job.13.12" />
+        <verse sID="rlxx_job.13.13" osisID="rlxx_job.13.13" />κωφεύσατε, ἵνα λαλήσω καὶ ἀναπαύσωμαι θυμοῦ<verse eID="rlxx_job.13.13" />
+        <verse sID="rlxx_job.13.14" osisID="rlxx_job.13.14" />ἀναλαβὼν τὰς σάρκας μου τοῖς ὀδοῦσιν, ψυχὴν δέ μου θήσω ἐν χειρί.<verse eID="rlxx_job.13.14" />
+        <verse sID="rlxx_job.13.15" osisID="rlxx_job.13.15" />ἐάν με χειρώσηται ὁ δυνάστης, ἐπεὶ καὶ ἦρκται, ἦ μὴν λαλήσω καὶ ἐλέγξω ἐναντίον αὐτοῦ·<verse eID="rlxx_job.13.15" />
+        <verse sID="rlxx_job.13.16" osisID="rlxx_job.13.16" />καὶ τοῦτό μοι ἀποβήσεται εἰς σωτηρίαν, οὐ γὰρ ἐναντίον αὐτοῦ δόλος εἰσελεύσεται.<verse eID="rlxx_job.13.16" />
+        <verse sID="rlxx_job.13.17" osisID="rlxx_job.13.17" />ἀκούσατε ἀκούσατε τὰ ῥήματά μου· ἀναγγελῶ γὰρ ὑμῶν ἀκουόντων.<verse eID="rlxx_job.13.17" />
+        <verse sID="rlxx_job.13.18" osisID="rlxx_job.13.18" />ἰδοὺ ἐγὼ ἐγγύς εἰμι τοῦ κρίματός μου, οἶδα ἐγὼ ὅτι δίκαιος ἀναφανοῦμαι.<verse eID="rlxx_job.13.18" />
+        <verse sID="rlxx_job.13.19" osisID="rlxx_job.13.19" />τίς γάρ ἐστιν ὁ κριθησόμενός μοι; ※ὅτι νῦν κωφεύσω καὶ ἐκλείψω.⸕<verse eID="rlxx_job.13.19" />
+        <verse sID="rlxx_job.13.20" osisID="rlxx_job.13.20" />δυεῖν δέ μοι χρήσῃ· ※τότε ἀπὸ τοῦ προσώπου σου οὐ κρυβήσομαι·⸕<verse eID="rlxx_job.13.20" />
+        <verse sID="rlxx_job.13.21" osisID="rlxx_job.13.21" />τὴν χεῖρα ἀπ' ἐμοῦ ἀπέχου, καὶ ὁ φόβος σου μή με καταπλησσέτω.<verse eID="rlxx_job.13.21" />
+        <verse sID="rlxx_job.13.22" osisID="rlxx_job.13.22" />εἶτα καλέσεις, ἐγὼ δέ σοι ὑπακούσομαι· ἢ λαλήσεις, ἐγὼ δέ σοι δώσω ἀνταπόκρισιν.<verse eID="rlxx_job.13.22" />
+        <verse sID="rlxx_job.13.23" osisID="rlxx_job.13.23" />πόσαι εἰσὶν αἱ ἁμαρτίαι μου καὶ αἱ ἀνομίαι μου; δίδαξόν με τίνες εἰσίν.<verse eID="rlxx_job.13.23" />
+        <verse sID="rlxx_job.13.24" osisID="rlxx_job.13.24" />διὰ τί ἀπ' ἐμοῦ κρύπτῃ, ἥγησαι δέ με ὑπεναντίον σοι;<verse eID="rlxx_job.13.24" />
+        <verse sID="rlxx_job.13.25" osisID="rlxx_job.13.25" />ἦ ὡς φύλλον κινούμενον ὑπὸ ἀνέμου εὐλαβηθήσῃ ἢ ὡς χόρτῳ φερομένῳ ὑπὸ πνεύματος ἀντίκεισαί μοι;<verse eID="rlxx_job.13.25" />
+        <verse sID="rlxx_job.13.26" osisID="rlxx_job.13.26" />ὅτι κατέγραψας κατ' ἐμοῦ κακά, περιέθηκας δέ μοι νεότητος ἁμαρτίας,<verse eID="rlxx_job.13.26" />
+        <verse sID="rlxx_job.13.27" osisID="rlxx_job.13.27" />ἔθου δέ μου τὸν πόδα ἐν κωλύματι, ἐφύλαξας δέ μου πάντα τὰ ἔργα, εἰς δὲ ῥίζας τῶν ποδῶν μου ἀφίκου·<verse eID="rlxx_job.13.27" />
+        <verse sID="rlxx_job.13.28" osisID="rlxx_job.13.28" />ὃ παλαιοῦται ἴσα ἀσκῷ ἢ ὥσπερ ἱμάτιον σητόβρωτον.<verse eID="rlxx_job.13.28" />
+      </p>
+      <chapter eID="rlxx_job.13" />
+      <chapter sID="rlxx_job.14" osisID="rlxx_job.14" />
+      <title>Chapter 14</title>
+      <p>
+        <verse sID="rlxx_job.14.1" osisID="rlxx_job.14.1" />βροτὸς γὰρ γεννητὸς γυναικὸς ὀλιγόβιος καὶ πλήρης ὀργῆς<verse eID="rlxx_job.14.1" />
+        <verse sID="rlxx_job.14.2" osisID="rlxx_job.14.2" />ἢ ὥσπερ ἄνθος ἀνθῆσαν ἐξέπεσεν, ἀπέδρα δὲ ὥσπερ σκιὰ καὶ οὐ μὴ στῇ.<verse eID="rlxx_job.14.2" />
+        <verse sID="rlxx_job.14.3" osisID="rlxx_job.14.3" />οὐχὶ καὶ τούτου λόγον ἐποιήσω καὶ τοῦτον ἐποίησας εἰσελθεῖν ἐν κρίματι ἐνώπιόν σου;<verse eID="rlxx_job.14.3" />
+        <verse sID="rlxx_job.14.4" osisID="rlxx_job.14.4" />τίς γὰρ καθαρὸς ἔσται ἀπὸ ῥύπου; ἀλλ' οὐθείς.<verse eID="rlxx_job.14.4" />
+        <verse sID="rlxx_job.14.5" osisID="rlxx_job.14.5" />ἐὰν καὶ μία ἡμέρα ὁ βίος αὐτοῦ ἐπὶ τῆς γῆς, ἀριθμητοὶ δὲ μῆνες αὐτοῦ παρὰ σοί, εἰς χρόνον ἔθου, καὶ οὐ μὴ ὑπερβῇ.<verse eID="rlxx_job.14.5" />
+        <verse sID="rlxx_job.14.6" osisID="rlxx_job.14.6" />ἀπόστα ἀπ' αὐτοῦ, ἵνα ἡσυχάσῃ καὶ εὐδοκήσῃ τὸν βίον ὥσπερ ὁ μισθωτός.<verse eID="rlxx_job.14.6" />
+        <verse sID="rlxx_job.14.7" osisID="rlxx_job.14.7" />ἔστιν γὰρ δένδρῳ ἐλπίς· ἐὰν γὰρ ἐκκοπῇ, ἔτι ἐπανθήσει, καὶ ὁ ῥάδαμνος αὐτοῦ οὐ μὴ ἐκλίπῃ·<verse eID="rlxx_job.14.7" />
+        <verse sID="rlxx_job.14.8" osisID="rlxx_job.14.8" />ἐὰν γὰρ γηράσῃ ἐν γῇ ἡ ῥίζα αὐτοῦ, ἐν δὲ πέτρᾳ τελευτήσῃ τὸ στέλεχος αὐτοῦ,<verse eID="rlxx_job.14.8" />
+        <verse sID="rlxx_job.14.9" osisID="rlxx_job.14.9" />ἀπὸ ὀσμῆς ὕδατος ἀνθήσει, ποιήσει δὲ θερισμὸν ὥσπερ νεόφυτον.<verse eID="rlxx_job.14.9" />
+        <verse sID="rlxx_job.14.10" osisID="rlxx_job.14.10" />ἀνὴρ δὲ τελευτήσας ᾤχετο, πεσὼν δὲ βροτὸς οὐκέτι ἔστιν.<verse eID="rlxx_job.14.10" />
+        <verse sID="rlxx_job.14.11" osisID="rlxx_job.14.11" />χρόνῳ γὰρ σπανίζεται θάλασσα, ποταμὸς δὲ ἐρημωθεὶς ἐξηράνθη·<verse eID="rlxx_job.14.11" />
+        <verse sID="rlxx_job.14.12" osisID="rlxx_job.14.12" />ἄνθρωπος δὲ κοιμηθεὶς οὐ μὴ ἀναστῇ, ἕως ἂν ὁ οὐρανὸς οὐ μὴ συρραφῇ· ※καὶ οὐκ ἐξυπνισθήσονται ἐξ ὕπνου αὐτῶν.⸕<verse eID="rlxx_job.14.12" />
+        <verse sID="rlxx_job.14.13" osisID="rlxx_job.14.13" />εἰ γὰρ ὄφελον ἐν ᾅδῃ με ἐφύλαξας, ἔκρυψας δέ με, ἕως ἂν παύσηταί σου ἡ ὀργὴ καὶ τάξῃ μοι χρόνον, ἐν ᾧ μνείαν μου ποιήσῃ.<verse eID="rlxx_job.14.13" />
+        <verse sID="rlxx_job.14.14" osisID="rlxx_job.14.14" />ἐὰν γὰρ ἀποθάνῃ ἄνθρωπος, ζήσεται συντελέσας ἡμέρας τοῦ βίου αὐτοῦ· ὑπομενῶ, ἕως ἂν πάλιν γένωμαι.<verse eID="rlxx_job.14.14" />
+        <verse sID="rlxx_job.14.15" osisID="rlxx_job.14.15" />εἶτα καλέσεις, ἐγὼ δέ σοι ὑπακούσομαι, τὰ δὲ ἔργα τῶν χειρῶν σου μὴ ἀποποιοῦ.<verse eID="rlxx_job.14.15" />
+        <verse sID="rlxx_job.14.16" osisID="rlxx_job.14.16" />ἠρίθμησας δέ μου τὰ ἐπιτηδεύματα, καὶ οὐ μὴ παρέλθῃ σε οὐδὲν τῶν ἁμαρτιῶν μου·<verse eID="rlxx_job.14.16" />
+        <verse sID="rlxx_job.14.17" osisID="rlxx_job.14.17" />ἐσφράγισας δέ μου τὰς ἀνομίας ἐν βαλλαντίῳ, ἐπεσημήνω δέ, εἴ τι ἄκων παρέβην.<verse eID="rlxx_job.14.17" />
+        <verse sID="rlxx_job.14.18" osisID="rlxx_job.14.18" />※καὶ πλὴν ὄρος πῖπτον διαπεσεῖται, ※καὶ πέτρα παλαιωθήσεται ἐκ τοῦ τόπου αὐτῆς·<verse eID="rlxx_job.14.18" />
+        <verse sID="rlxx_job.14.19" osisID="rlxx_job.14.19" />※λίθους ἐλέαναν ὕδατα, ※καὶ κατέκλυσεν ὕδατα ὕπτια τοῦ χώματος τῆς γῆς· ※καὶ ὑπομονὴν ἀνθρώπου ἀπώλεσας.⸕<verse eID="rlxx_job.14.19" />
+        <verse sID="rlxx_job.14.20" osisID="rlxx_job.14.20" />ὦσας αὐτὸν εἰς τέλος, καὶ ᾤχετο· ἐπέστησας αὐτῷ τὸ πρόσωπον καὶ ἐξαπέστειλας·<verse eID="rlxx_job.14.20" />
+        <verse sID="rlxx_job.14.21" osisID="rlxx_job.14.21" />πολλῶν δὲ γενομένων τῶν υἱῶν αὐτοῦ οὐκ οἶδεν, ἐὰν δὲ ὀλίγοι γένωνται, οὐκ ἐπίσταται·<verse eID="rlxx_job.14.21" />
+        <verse sID="rlxx_job.14.22" osisID="rlxx_job.14.22" />ἀλλ' ἢ αἱ σάρκες αὐτοῦ ἤλγησαν, ἡ δὲ ψυχὴ αὐτοῦ ἐπένθησεν.<verse eID="rlxx_job.14.22" />
+      </p>
+      <chapter eID="rlxx_job.14" />
+      <chapter sID="rlxx_job.15" osisID="rlxx_job.15" />
+      <title>Chapter 15</title>
+      <p>
+        <verse sID="rlxx_job.15.1" osisID="rlxx_job.15.1" />Ὑπολαβὼν δὲ Ελιφας ὁ Θαιμανίτης λέγει<verse eID="rlxx_job.15.1" />
+        <verse sID="rlxx_job.15.2" osisID="rlxx_job.15.2" />Πότερον σοφὸς ἀπόκρισιν δώσει συνέσεως πνεύματος καὶ ἐνέπλησεν πόνον γαστρὸς<verse eID="rlxx_job.15.2" />
+        <verse sID="rlxx_job.15.3" osisID="rlxx_job.15.3" />ἐλέγχων ἐν ῥήμασιν, οἷς οὐ δεῖ, ἐν λόγοις, οἷς οὐδὲν ὄφελος;<verse eID="rlxx_job.15.3" />
+        <verse sID="rlxx_job.15.4" osisID="rlxx_job.15.4" />οὐ καὶ σὺ ἀπεποιήσω φόβον, συνετελέσω δὲ ῥήματα τοιαῦτα ἔναντι τοῦ κυρίου;<verse eID="rlxx_job.15.4" />
+        <verse sID="rlxx_job.15.5" osisID="rlxx_job.15.5" />ἔνοχος εἶ ῥήμασιν στόματός σου οὐδὲ διέκρινας ῥήματα δυναστῶν·<verse eID="rlxx_job.15.5" />
+        <verse sID="rlxx_job.15.6" osisID="rlxx_job.15.6" />ἐλέγξαι σε τὸ σὸν στόμα καὶ μὴ ἐγώ, τὰ δὲ χείλη σου καταμαρτυρήσουσίν σου.<verse eID="rlxx_job.15.6" />
+        <verse sID="rlxx_job.15.7" osisID="rlxx_job.15.7" />τί γάρ; μὴ πρῶτος ἀνθρώπων ἐγενήθης; ἢ πρὸ θινῶν ἐπάγης;<verse eID="rlxx_job.15.7" />
+        <verse sID="rlxx_job.15.8" osisID="rlxx_job.15.8" />ἦ σύνταγμα κυρίου ἀκήκοας, εἰς δὲ σὲ ἀφίκετο σοφία;<verse eID="rlxx_job.15.8" />
+        <verse sID="rlxx_job.15.9" osisID="rlxx_job.15.9" />τί γὰρ οἶδας, ὃ οὐκ οἴδαμεν; ἢ τί συνίεις, ὃ οὐχὶ καὶ ἡμεῖς;<verse eID="rlxx_job.15.9" />
+        <verse sID="rlxx_job.15.10" osisID="rlxx_job.15.10" />※καί γε πρεσβύτης καί γε παλαιὸς ἐν ἡμῖν ※βαρύτερος τοῦ πατρός σου ἡμέραις.⸕<verse eID="rlxx_job.15.10" />
+        <verse sID="rlxx_job.15.11" osisID="rlxx_job.15.11" />ὀλίγα ὧν ἡμάρτηκας μεμαστίγωσαι, μεγάλως ὑπερβαλλόντως λελάληκας.<verse eID="rlxx_job.15.11" />
+        <verse sID="rlxx_job.15.12" osisID="rlxx_job.15.12" />τί ἐτόλμησεν ἡ καρδία σου, ἢ τί ἐπήνεγκαν οἱ ὀφθαλμοί σου,<verse eID="rlxx_job.15.12" />
+        <verse sID="rlxx_job.15.13" osisID="rlxx_job.15.13" />ὅτι θυμὸν ἔρρηξας ἔναντι κυρίου, ἐξήγαγες δὲ ἐκ στόματος ῥήματα τοιαῦτα;<verse eID="rlxx_job.15.13" />
+        <verse sID="rlxx_job.15.14" osisID="rlxx_job.15.14" />τίς γὰρ ὢν βροτός, ὅτι ἔσται ἄμεμπτος, ἢ ὡς ἐσόμενος δίκαιος γεννητὸς γυναικός;<verse eID="rlxx_job.15.14" />
+        <verse sID="rlxx_job.15.15" osisID="rlxx_job.15.15" />εἰ κατὰ ἁγίων οὐ πιστεύει, οὐρανὸς δὲ οὐ καθαρὸς ἐναντίον αὐτοῦ.<verse eID="rlxx_job.15.15" />
+        <verse sID="rlxx_job.15.16" osisID="rlxx_job.15.16" />ἔα δὲ ἐβδελυγμένος καὶ ἀκάθαρτος, ἀνὴρ πίνων ἀδικίας ἴσα ποτῷ.<verse eID="rlxx_job.15.16" />
+        <verse sID="rlxx_job.15.17" osisID="rlxx_job.15.17" />ἀναγγελῶ δέ σοι, ἄκουέ μου· ἃ δὴ ἑώρακα, ἀναγγελῶ σοι,<verse eID="rlxx_job.15.17" />
+        <verse sID="rlxx_job.15.18" osisID="rlxx_job.15.18" />ἃ σοφοὶ ἐροῦσιν καὶ οὐκ ἔκρυψαν πατέρας αὐτῶν·<verse eID="rlxx_job.15.18" />
+        <verse sID="rlxx_job.15.19" osisID="rlxx_job.15.19" />αὐτοῖς μόνοις ἐδόθη ἡ γῆ, καὶ οὐκ ἐπῆλθεν ἀλλογενὴς ἐπ' αὐτούς.<verse eID="rlxx_job.15.19" />
+        <verse sID="rlxx_job.15.20" osisID="rlxx_job.15.20" />πᾶς ὁ βίος ἀσεβοῦς ἐν φροντίδι, ἔτη δὲ ἀριθμητὰ δεδομένα δυνάστῃ,<verse eID="rlxx_job.15.20" />
+        <verse sID="rlxx_job.15.21" osisID="rlxx_job.15.21" />ὁ δὲ φόβος αὐτοῦ ἐν ὠσὶν αὐτοῦ· ὅταν δοκῇ ἤδη εἰρηνεύειν, ἥξει αὐτοῦ ἡ καταστροφή.<verse eID="rlxx_job.15.21" />
+        <verse sID="rlxx_job.15.22" osisID="rlxx_job.15.22" />μὴ πιστευέτω ἀποστραφῆναι ἀπὸ σκότους· ἐντέταλται γὰρ ἤδη εἰς χεῖρας σιδήρου,<verse eID="rlxx_job.15.22" />
+        <verse sID="rlxx_job.15.23" osisID="rlxx_job.15.23" />κατατέτακται δὲ εἰς σῖτα γυψίν· οἶδεν δὲ ἐν ἑαυτῷ ὅτι μένει εἰς πτῶμα. ἡμέρα δὲ αὐτὸν σκοτεινὴ στροβήσει,<verse eID="rlxx_job.15.23" />
+        <verse sID="rlxx_job.15.24" osisID="rlxx_job.15.24" />ἀνάγκη δὲ καὶ θλῖψις αὐτὸν καθέξει ὥσπερ στρατηγὸς πρωτοστάτης πίπτων.<verse eID="rlxx_job.15.24" />
+        <verse sID="rlxx_job.15.25" osisID="rlxx_job.15.25" />ὅτι ἦρκεν χεῖρας ἐναντίον τοῦ κυρίου, ἔναντι δὲ κυρίου παντοκράτορος ἐτραχηλίασεν,<verse eID="rlxx_job.15.25" />
+        <verse sID="rlxx_job.15.26" osisID="rlxx_job.15.26" />ἔδραμεν δὲ ἐναντίον αὐτοῦ ὕβρει ※ἐν πάχει νώτου ἀσπίδος αὐτοῦ,<verse eID="rlxx_job.15.26" />
+        <verse sID="rlxx_job.15.27" osisID="rlxx_job.15.27" />※ὅτι ἐκάλυψεν τὸ πρόσωπον αὐτοῦ ἐν στέατι αὐτοῦ ※καὶ ἐποίησεν περιστόμιον ἐπὶ τῶν μηρίων.⸕<verse eID="rlxx_job.15.27" />
+        <verse sID="rlxx_job.15.28" osisID="rlxx_job.15.28" />αὐλισθείη δὲ πόλεις ἐρήμους, εἰσέλθοι δὲ εἰς οἴκους ἀοικήτους· ἃ δὲ ἐκεῖνοι ἡτοίμασαν, ἄλλοι ἀποίσονται.<verse eID="rlxx_job.15.28" />
+        <verse sID="rlxx_job.15.29" osisID="rlxx_job.15.29" />οὔτε μὴ πλουτισθῇ, οὔτε μὴ μείνῃ αὐτοῦ τὰ ὑπάρχοντα· οὐ μὴ βάλῃ ἐπὶ τὴν γῆν σκιὰν<verse eID="rlxx_job.15.29" />
+        <verse sID="rlxx_job.15.30" osisID="rlxx_job.15.30" />οὐδὲ μὴ ἐκφύγῃ τὸ σκότος· τὸν βλαστὸν αὐτοῦ μαράναι ἄνεμος, ἐκπέσοι δὲ αὐτοῦ τὸ ἄνθος.<verse eID="rlxx_job.15.30" />
+        <verse sID="rlxx_job.15.31" osisID="rlxx_job.15.31" />μὴ πιστευέτω ὅτι ὑπομενεῖ, κενὰ γὰρ ἀποβήσεται αὐτῷ·<verse eID="rlxx_job.15.31" />
+        <verse sID="rlxx_job.15.32" osisID="rlxx_job.15.32" />ἡ τομὴ αὐτοῦ πρὸ ὥρας φθαρήσεται, καὶ ὁ ῥάδαμνος αὐτοῦ οὐ μὴ πυκάσῃ·<verse eID="rlxx_job.15.32" />
+        <verse sID="rlxx_job.15.33" osisID="rlxx_job.15.33" />τρυγηθείη δὲ ὥσπερ ὄμφαξ πρὸ ὥρας, ἐκπέσοι δὲ ὡς ἄνθος ἐλαίας.<verse eID="rlxx_job.15.33" />
+        <verse sID="rlxx_job.15.34" osisID="rlxx_job.15.34" />μαρτύριον γὰρ ἀσεβοῦς θάνατος, πῦρ δὲ καύσει οἴκους δωροδεκτῶν.<verse eID="rlxx_job.15.34" />
+        <verse sID="rlxx_job.15.35" osisID="rlxx_job.15.35" />ἐν γαστρὶ δὲ λήμψεται ὀδύνας, ἀποβήσεται δὲ αὐτῷ κενά, ἡ δὲ κοιλία αὐτοῦ ὑποίσει δόλον.<verse eID="rlxx_job.15.35" />
+      </p>
+      <chapter eID="rlxx_job.15" />
+      <chapter sID="rlxx_job.16" osisID="rlxx_job.16" />
+      <title>Chapter 16</title>
+      <p>
+        <verse sID="rlxx_job.16.1" osisID="rlxx_job.16.1" />Ὑπολαβὼν δὲ Ιωβ λέγει<verse eID="rlxx_job.16.1" />
+        <verse sID="rlxx_job.16.2" osisID="rlxx_job.16.2" />Ἀκήκοα τοιαῦτα πολλά· παρακλήτορες κακῶν πάντες.<verse eID="rlxx_job.16.2" />
+        <verse sID="rlxx_job.16.3" osisID="rlxx_job.16.3" />τί γάρ; μὴ τάξις ἐστὶν ῥήμασιν πνεύματος; ※ἢ τί παρενοχλήσει σοι, ὅτι ἀποκρίνῃ;⸕<verse eID="rlxx_job.16.3" />
+        <verse sID="rlxx_job.16.4" osisID="rlxx_job.16.4" />κἀγὼ καθ' ὑμᾶς λαλήσω, εἰ ὑπέκειτό γε ἡ ψυχὴ ὑμῶν ἀντὶ τῆς ἐμῆς· εἶτ' ἐναλοῦμαι ὑμῖν ῥήμασιν, κινήσω δὲ καθ' ὑμῶν κεφαλήν·<verse eID="rlxx_job.16.4" />
+        <verse sID="rlxx_job.16.5" osisID="rlxx_job.16.5" />εἴη δὲ ἰσχὺς ἐν τῷ στόματί μου, κίνησιν δὲ χειλέων οὐ φείσομαι.<verse eID="rlxx_job.16.5" />
+        <verse sID="rlxx_job.16.6" osisID="rlxx_job.16.6" />ἐὰν γὰρ λαλήσω, οὐκ ἀλγήσω τὸ τραῦμα· ἐὰν δὲ καὶ σιωπήσω, τί ἔλαττον τρωθήσομαι;<verse eID="rlxx_job.16.6" />
+        <verse sID="rlxx_job.16.7" osisID="rlxx_job.16.7" />νῦν δὲ κατάκοπόν με πεποίηκεν, μωρόν, σεσηπότα,<verse eID="rlxx_job.16.7" />
+        <verse sID="rlxx_job.16.8" osisID="rlxx_job.16.8" />※καὶ ἐπελάβου μου, εἰς μαρτύριον ἐγενήθη· ※καὶ ἀνέστη ἐν ἐμοὶ τὸ ψεῦδός μου, ※κατὰ πρόσωπόν μου ἀνταπεκρίθη.⸕<verse eID="rlxx_job.16.8" />
+        <verse sID="rlxx_job.16.9" osisID="rlxx_job.16.9" />ὀργῇ χρησάμενος κατέβαλέν με, ἔβρυξεν ἐπ' ἐμὲ τοὺς ὀδόντας, βέλη πειρατῶν αὐτοῦ ἐπ' ἐμοὶ ἔπεσεν.<verse eID="rlxx_job.16.9" />
+        <verse sID="rlxx_job.16.10" osisID="rlxx_job.16.10" />ἀκίσιν ὀφθαλμῶν ἐνήλατο, ὀξεῖ ἔπαισέν με εἰς σιαγόνα, ὁμοθυμαδὸν δὲ κατέδραμον ἐπ' ἐμοί.<verse eID="rlxx_job.16.10" />
+        <verse sID="rlxx_job.16.11" osisID="rlxx_job.16.11" />παρέδωκεν γάρ με ὁ κύριος εἰς χεῖρας ἀδίκου, ἐπὶ δὲ ἀσεβέσιν ἔρριψέν με·<verse eID="rlxx_job.16.11" />
+        <verse sID="rlxx_job.16.12" osisID="rlxx_job.16.12" />εἰρηνεύοντα διεσκέδασέν με, λαβών με τῆς κόμης διέτιλεν, κατέστησέν με ὥσπερ σκοπόν.<verse eID="rlxx_job.16.12" />
+        <verse sID="rlxx_job.16.13" osisID="rlxx_job.16.13" />ἐκύκλωσάν με λόγχαις βάλλοντες εἰς νεφρούς μου οὐ φειδόμενοι, ἐξέχεαν εἰς τὴν γῆν τὴν χολήν μου·<verse eID="rlxx_job.16.13" />
+        <verse sID="rlxx_job.16.14" osisID="rlxx_job.16.14" />κατέβαλόν με πτῶμα ἐπὶ πτώματι, ἔδραμον πρός με δυνάμενοι.<verse eID="rlxx_job.16.14" />
+        <verse sID="rlxx_job.16.15" osisID="rlxx_job.16.15" />σάκκον ἔρραψα ἐπὶ βύρσης μου, τὸ δὲ σθένος μου ἐν γῇ ἐσβέσθη.<verse eID="rlxx_job.16.15" />
+        <verse sID="rlxx_job.16.16" osisID="rlxx_job.16.16" />ἡ γαστήρ μου συγκέκαυται ἀπὸ κλαυθμοῦ, ἐπὶ δὲ βλεφάροις μου σκιά.<verse eID="rlxx_job.16.16" />
+        <verse sID="rlxx_job.16.17" osisID="rlxx_job.16.17" />ἄδικον δὲ οὐδὲν ἦν ἐν χερσίν μου, εὐχὴ δέ μου καθαρά.<verse eID="rlxx_job.16.17" />
+        <verse sID="rlxx_job.16.18" osisID="rlxx_job.16.18" />γῆ, μὴ ἐπικαλύψῃς ἐφ' αἵματι τῆς σαρκός μου, μηδὲ εἴη τόπος τῇ κραυγῇ μου.<verse eID="rlxx_job.16.18" />
+        <verse sID="rlxx_job.16.19" osisID="rlxx_job.16.19" />καὶ νῦν ἰδοὺ ἐν οὐρανοῖς ὁ μάρτυς μου, ὁ δὲ συνίστωρ μου ἐν ὑψίστοις.<verse eID="rlxx_job.16.19" />
+        <verse sID="rlxx_job.16.20" osisID="rlxx_job.16.20" />ἀφίκοιτό μου ἡ δέησις πρὸς κύριον, ἔναντι δὲ αὐτοῦ στάζοι μου ὁ ὀφθαλμός.<verse eID="rlxx_job.16.20" />
+        <verse sID="rlxx_job.16.21" osisID="rlxx_job.16.21" />εἴη δὲ ἔλεγχος ἀνδρὶ ἔναντι κυρίου ※καὶ υἱὸς ἀνθρώπου τῷ πλησίον αὐτοῦ.⸕<verse eID="rlxx_job.16.21" />
+        <verse sID="rlxx_job.16.22" osisID="rlxx_job.16.22" />ἔτη δὲ ἀριθμητὰ ἥκασιν, ὁδῷ δέ, ᾗ οὐκ ἐπαναστραφήσομαι, πορεύσομαι.<verse eID="rlxx_job.16.22" />
+      </p>
+      <chapter eID="rlxx_job.16" />
+      <chapter sID="rlxx_job.17" osisID="rlxx_job.17" />
+      <title>Chapter 17</title>
+      <p>
+        <verse sID="rlxx_job.17.1" osisID="rlxx_job.17.1" />ὀλέκομαι πνεύματι φερόμενος, δέομαι δὲ ταφῆς καὶ οὐ τυγχάνω.<verse eID="rlxx_job.17.1" />
+        <verse sID="rlxx_job.17.2" osisID="rlxx_job.17.2" />λίσσομαι κάμνων, καὶ τί ποιήσας;<verse eID="rlxx_job.17.2" />
+        <verse sID="rlxx_job.17.3" osisID="rlxx_job.17.3" />ἔκλεψαν δέ μου τὰ ὑπάρχοντα ἀλλότριοι. ※τίς ἐστιν οὗτος; τῇ χειρί μου συνδεθήτω.<verse eID="rlxx_job.17.3" />
+        <verse sID="rlxx_job.17.4" osisID="rlxx_job.17.4" />※ὅτι καρδίαν αὐτῶν ἔκρυψας ἀπὸ φρονήσεως, ※διὰ τοῦτο οὐ μὴ ὑψώσῃς αὐτούς.<verse eID="rlxx_job.17.4" />
+        <verse sID="rlxx_job.17.5" osisID="rlxx_job.17.5" />※τῇ μερίδι ἀναγγελεῖ κακίας,⸕ ὀφθαλμοὶ δέ μου ἐφ' υἱοῖς ἐτάκησαν.<verse eID="rlxx_job.17.5" />
+        <verse sID="rlxx_job.17.6" osisID="rlxx_job.17.6" />ἔθου δέ με θρύλημα ἐν ἔθνεσιν, γέλως δὲ αὐτοῖς ἀπέβην·<verse eID="rlxx_job.17.6" />
+        <verse sID="rlxx_job.17.7" osisID="rlxx_job.17.7" />πεπώρωνται γὰρ ἀπὸ ὀργῆς οἱ ὀφθαλμοί μου, πεπολιόρκημαι μεγάλως ὑπὸ πάντων.<verse eID="rlxx_job.17.7" />
+        <verse sID="rlxx_job.17.8" osisID="rlxx_job.17.8" />θαῦμα ἔσχεν ἀληθινοὺς ἐπὶ τούτῳ· δίκαιος δὲ ἐπὶ παρανόμῳ ἐπανασταίη·<verse eID="rlxx_job.17.8" />
+        <verse sID="rlxx_job.17.9" osisID="rlxx_job.17.9" />σχοίη δὲ πιστὸς τὴν ἑαυτοῦ ὁδόν, καθαρὸς δὲ χεῖρας ἀναλάβοι θάρσος.<verse eID="rlxx_job.17.9" />
+        <verse sID="rlxx_job.17.10" osisID="rlxx_job.17.10" />οὐ μὴν δὲ ἀλλὰ πάντες ἐρείδετε, ※καὶ δεῦτε δή·⸕ οὐ γὰρ εὑρίσκω ἐν ὑμῖν ἀληθές.<verse eID="rlxx_job.17.10" />
+        <verse sID="rlxx_job.17.11" osisID="rlxx_job.17.11" />αἱ ἡμέραι μου παρῆλθον ἐν βρόμῳ, ἐρράγη δὲ τὰ ἄρθρα τῆς καρδίας μου.<verse eID="rlxx_job.17.11" />
+        <verse sID="rlxx_job.17.12" osisID="rlxx_job.17.12" />※νύκτα εἰς ἡμέραν ἔθηκαν, ※φῶς ἐγγὺς ἀπὸ προσώπου σκότους.⸕<verse eID="rlxx_job.17.12" />
+        <verse sID="rlxx_job.17.13" osisID="rlxx_job.17.13" />ἐὰν γὰρ ὑπομείνω, ᾅδης μου ὁ οἶκος, ἐν δὲ γνόφῳ ἔστρωταί μου ἡ στρωμνή.<verse eID="rlxx_job.17.13" />
+        <verse sID="rlxx_job.17.14" osisID="rlxx_job.17.14" />θάνατον ἐπεκαλεσάμην πατέρα μου εἶναι, μητέρα δέ μου καὶ ἀδελφὴν σαπρίαν.<verse eID="rlxx_job.17.14" />
+        <verse sID="rlxx_job.17.15" osisID="rlxx_job.17.15" />ποῦ οὖν μου ἔτι ἐστὶν ἡ ἐλπίς; ἦ τὰ ἀγαθά μου ὄψομαι;<verse eID="rlxx_job.17.15" />
+        <verse sID="rlxx_job.17.16" osisID="rlxx_job.17.16" />ἦ μετ' ἐμοῦ εἰς ᾅδην καταβήσονται, ※ἢ ὁμοθυμαδὸν ἐπὶ χώματος καταβησόμεθα;⸕<verse eID="rlxx_job.17.16" />
+      </p>
+      <chapter eID="rlxx_job.17" />
+      <chapter sID="rlxx_job.18" osisID="rlxx_job.18" />
+      <title>Chapter 18</title>
+      <p>
+        <verse sID="rlxx_job.18.1" osisID="rlxx_job.18.1" />Ὑπολαβὼν δὲ Βαλδαδ ὁ Σαυχίτης λέγει<verse eID="rlxx_job.18.1" />
+        <verse sID="rlxx_job.18.2" osisID="rlxx_job.18.2" />Μέχρι τίνος οὐ παύσῃ; ἐπίσχες, ἵνα καὶ αὐτοὶ λαλήσωμεν.<verse eID="rlxx_job.18.2" />
+        <verse sID="rlxx_job.18.3" osisID="rlxx_job.18.3" />διὰ τί ὥσπερ τετράποδα σεσιωπήκαμεν ἐναντίον σου;<verse eID="rlxx_job.18.3" />
+        <verse sID="rlxx_job.18.4" osisID="rlxx_job.18.4" />κέχρηταί σοι ὀργή. τί γάρ; ἐὰν σὺ ἀποθάνῃς, ἀοίκητος ἡ ὑπ' οὐρανόν; ἢ καταστραφήσεται ὄρη ἐκ θεμελίων;<verse eID="rlxx_job.18.4" />
+        <verse sID="rlxx_job.18.5" osisID="rlxx_job.18.5" />καὶ φῶς ἀσεβῶν σβεσθήσεται, καὶ οὐκ ἀποβήσεται αὐτῶν ἡ φλόξ·<verse eID="rlxx_job.18.5" />
+        <verse sID="rlxx_job.18.6" osisID="rlxx_job.18.6" />τὸ φῶς αὐτοῦ σκότος ἐν διαίτῃ, ὁ δὲ λύχνος ἐπ' αὐτῷ σβεσθήσεται.<verse eID="rlxx_job.18.6" />
+        <verse sID="rlxx_job.18.7" osisID="rlxx_job.18.7" />θηρεύσαισαν ἐλάχιστοι τὰ ὑπάρχοντα αὐτοῦ, σφάλαι δὲ αὐτοῦ ἡ βουλή.<verse eID="rlxx_job.18.7" />
+        <verse sID="rlxx_job.18.8" osisID="rlxx_job.18.8" />ἐμβέβληται δὲ ὁ ποὺς αὐτοῦ ἐν παγίδι· ἐν δικτύῳ ἑλιχθείη.<verse eID="rlxx_job.18.8" />
+        <verse sID="rlxx_job.18.9" osisID="rlxx_job.18.9" />ἔλθοισαν δὲ ἐπ' αὐτὸν παγίδες· ※κατισχύσει ἐπ' αὐτὸν διψῶντας.<verse eID="rlxx_job.18.9" />
+        <verse sID="rlxx_job.18.10" osisID="rlxx_job.18.10" />※κέκρυπται ἐν τῇ γῇ σχοινίον αὐτοῦ ※καὶ ἡ σύλλημψις αὐτοῦ ἐπὶ τρίβων.⸕<verse eID="rlxx_job.18.10" />
+        <verse sID="rlxx_job.18.11" osisID="rlxx_job.18.11" />κύκλῳ ὀλέσαισαν αὐτὸν ὀδύναι, πολλοὶ δὲ περὶ πόδας αὐτοῦ ἔλθοισαν ἐν λιμῷ στενῷ.<verse eID="rlxx_job.18.11" />
+        <verse sID="rlxx_job.18.12" osisID="rlxx_job.18.12" />πτῶμα δὲ αὐτῷ ἡτοίμασται ἐξαίσιον.<verse eID="rlxx_job.18.12" />
+        <verse sID="rlxx_job.18.13" osisID="rlxx_job.18.13" />βρωθείησαν αὐτοῦ κλῶνες ποδῶν, κατέδεται δὲ τὰ ὡραῖα αὐτοῦ θάνατος.<verse eID="rlxx_job.18.13" />
+        <verse sID="rlxx_job.18.14" osisID="rlxx_job.18.14" />ἐκραγείη δὲ ἐκ διαίτης αὐτοῦ ἴασις, σχοίη δὲ αὐτὸν ἀνάγκη αἰτίᾳ βασιλικῇ.<verse eID="rlxx_job.18.14" />
+        <verse sID="rlxx_job.18.15" osisID="rlxx_job.18.15" />※κατασκηνώσει ἐν τῇ σκηνῇ αὐτοῦ ἐν νυκτὶ αὐτοῦ, ※κατασπαρήσονται τὰ εὐπρεπῆ αὐτοῦ θείῳ.<verse eID="rlxx_job.18.15" />
+        <verse sID="rlxx_job.18.16" osisID="rlxx_job.18.16" />※ὑποκάτωθεν αἱ ῥίζαι αὐτοῦ ξηρανθήσονται, ※καὶ ἐπάνωθεν ἐπιπεσεῖται θερισμὸς αὐτοῦ.⸕<verse eID="rlxx_job.18.16" />
+        <verse sID="rlxx_job.18.17" osisID="rlxx_job.18.17" />τὸ μνημόσυνον αὐτοῦ ἀπόλοιτο ἐκ γῆς, ※καὶ ὑπάρχει ὄνομα αὐτῷ ἐπὶ πρόσωπον ἐξωτέρω.⸕<verse eID="rlxx_job.18.17" />
+        <verse sID="rlxx_job.18.18" osisID="rlxx_job.18.18" />ἀπώσειεν αὐτὸν ἐκ φωτὸς εἰς σκότος.<verse eID="rlxx_job.18.18" />
+        <verse sID="rlxx_job.18.19" osisID="rlxx_job.18.19" />οὐκ ἔσται ἐπίγνωστος ἐν λαῷ αὐτοῦ, οὐδὲ σεσῳσμένος ἐν τῇ ὑπ' οὐρανὸν ὁ οἶκος αὐτοῦ, ἀλλ' ἐν τοῖς αὐτοῦ ζήσονται ἕτεροι.<verse eID="rlxx_job.18.19" />
+        <verse sID="rlxx_job.18.20" osisID="rlxx_job.18.20" />ἐπ' αὐτῷ ἐστέναξαν ἔσχατοι, πρώτους δὲ ἔσχεν θαῦμα.<verse eID="rlxx_job.18.20" />
+        <verse sID="rlxx_job.18.21" osisID="rlxx_job.18.21" />οὗτοί εἰσιν οἶκοι ἀδίκων, οὗτος δὲ ὁ τόπος τῶν μὴ εἰδότων τὸν κύριον.<verse eID="rlxx_job.18.21" />
+      </p>
+      <chapter eID="rlxx_job.18" />
+      <chapter sID="rlxx_job.19" osisID="rlxx_job.19" />
+      <title>Chapter 19</title>
+      <p>
+        <verse sID="rlxx_job.19.1" osisID="rlxx_job.19.1" />Ὑπολαβὼν δὲ Ιωβ λέγει<verse eID="rlxx_job.19.1" />
+        <verse sID="rlxx_job.19.2" osisID="rlxx_job.19.2" />Ἕως τίνος ἔγκοπον ποιήσετε ψυχήν μου καὶ καθαιρεῖτε με λόγοις;<verse eID="rlxx_job.19.2" />
+        <verse sID="rlxx_job.19.3" osisID="rlxx_job.19.3" />γνῶτε μόνον ὅτι ὁ κύριος ἐποίησέ με οὕτως· καταλαλεῖτέ μου, οὐκ αἰσχυνόμενοί με ἐπίκεισθέ μοι.<verse eID="rlxx_job.19.3" />
+        <verse sID="rlxx_job.19.4" osisID="rlxx_job.19.4" />ναὶ δὴ ἐπ' ἀληθείας ἐγὼ ἐπλανήθην, παρ' ἐμοὶ δὲ αὐλίζεται πλάνος<verse eID="rlxx_job.19.4" />
+        <verse sID="rlxx_job.19.4a" osisID="rlxx_job.19.4a" />λαλῆσαι ῥῆμα, ὃ οὐκ ἔδει, τὰ δὲ ῥήματά μου πλανᾶται καὶ οὐκ ἐπὶ καιροῦ.<verse eID="rlxx_job.19.4a" />
+        <verse sID="rlxx_job.19.5" osisID="rlxx_job.19.5" />ἔα δὲ ὅτι ἐπ' ἐμοὶ μεγαλύνεσθε, ἐνάλλεσθε δέ μοι ὀνείδει.<verse eID="rlxx_job.19.5" />
+        <verse sID="rlxx_job.19.6" osisID="rlxx_job.19.6" />γνῶτε οὖν ὅτι ὁ κύριός ἐστιν ὁ ταράξας, ὀχύρωμα δὲ αὐτοῦ ἐπ' ἐμὲ ὕψωσεν.<verse eID="rlxx_job.19.6" />
+        <verse sID="rlxx_job.19.7" osisID="rlxx_job.19.7" />ἰδοὺ γελῶ ὀνείδει καὶ οὐ λαλήσω· κεκράξομαι, καὶ οὐδαμοῦ κρίμα.<verse eID="rlxx_job.19.7" />
+        <verse sID="rlxx_job.19.8" osisID="rlxx_job.19.8" />κύκλῳ περιῳκοδόμημαι καὶ οὐ μὴ διαβῶ, ἐπὶ πρόσωπόν μου σκότος ἔθετο.<verse eID="rlxx_job.19.8" />
+        <verse sID="rlxx_job.19.9" osisID="rlxx_job.19.9" />τὴν δὲ δόξαν ἀπ' ἐμοῦ ἐξέδυσεν, ἀφεῖλεν δὲ στέφανον ἀπὸ κεφαλῆς μου.<verse eID="rlxx_job.19.9" />
+        <verse sID="rlxx_job.19.10" osisID="rlxx_job.19.10" />διέσπασέν με κύκλῳ, καὶ ᾠχόμην· ἐξέκοψεν δὲ ὥσπερ δένδρον τὴν ἐλπίδα μου.<verse eID="rlxx_job.19.10" />
+        <verse sID="rlxx_job.19.11" osisID="rlxx_job.19.11" />δεινῶς δέ μοι ὀργῇ ἐχρήσατο, ἡγήσατο δέ με ὥσπερ ἐχθρόν.<verse eID="rlxx_job.19.11" />
+        <verse sID="rlxx_job.19.12" osisID="rlxx_job.19.12" />ὁμοθυμαδὸν δὲ ἦλθον τὰ πειρατήρια αὐτοῦ ἐπ' ἐμοὶ ταῖς ὁδοῖς μου, ἐκύκλωσάν με ἐγκάθετοι.<verse eID="rlxx_job.19.12" />
+        <verse sID="rlxx_job.19.13" osisID="rlxx_job.19.13" />ἀπ' ἐμοῦ δὲ ἀδελφοί μου ἀπέστησαν, ἔγνωσαν ἀλλοτρίους ἢ ἐμέ· φίλοι δέ μου ἀνελεήμονες γεγόνασιν.<verse eID="rlxx_job.19.13" />
+        <verse sID="rlxx_job.19.14" osisID="rlxx_job.19.14" />οὐ προσεποιήσαντό με οἱ ἐγγύτατοί μου, καὶ οἱ εἰδότες μου τὸ ὄνομα ἐπελάθοντό μου.<verse eID="rlxx_job.19.14" />
+        <verse sID="rlxx_job.19.15" osisID="rlxx_job.19.15" />γείτονες οἰκίας θεράπαιναί τέ μου, ἀλλογενὴς ἤμην ἐναντίον αὐτῶν.<verse eID="rlxx_job.19.15" />
+        <verse sID="rlxx_job.19.16" osisID="rlxx_job.19.16" />θεράποντά μου ἐκάλεσα, καὶ οὐχ ὑπήκουσεν· στόμα δέ μου ἐδέετο.<verse eID="rlxx_job.19.16" />
+        <verse sID="rlxx_job.19.17" osisID="rlxx_job.19.17" />καὶ ἱκέτευον τὴν γυναῖκά μου, προσεκαλούμην δὲ κολακεύων υἱοὺς παλλακίδων μου·<verse eID="rlxx_job.19.17" />
+        <verse sID="rlxx_job.19.18" osisID="rlxx_job.19.18" />οἱ δὲ εἰς τὸν αἰῶνά με ἀπεποιήσαντο· ὅταν ἀναστῶ, κατ' ἐμοῦ λαλοῦσιν.<verse eID="rlxx_job.19.18" />
+        <verse sID="rlxx_job.19.19" osisID="rlxx_job.19.19" />ἐβδελύξαντο δέ με οἱ εἰδότες με· οὓς δὴ ἠγαπήκειν, ἐπανέστησάν μοι.<verse eID="rlxx_job.19.19" />
+        <verse sID="rlxx_job.19.20" osisID="rlxx_job.19.20" />ἐν δέρματί μου ἐσάπησαν αἱ σάρκες μου, τὰ δὲ ὀστᾶ μου ἐν ὀδοῦσιν ἔχεται.<verse eID="rlxx_job.19.20" />
+        <verse sID="rlxx_job.19.21" osisID="rlxx_job.19.21" />ἐλεήσατέ με, ἐλεήσατέ με, ὦ φίλοι· χεὶρ γὰρ κυρίου ἡ ἁψαμένη μού ἐστιν.<verse eID="rlxx_job.19.21" />
+        <verse sID="rlxx_job.19.22" osisID="rlxx_job.19.22" />διὰ τί δέ με διώκετε ὥσπερ καὶ ὁ κύριος, ἀπὸ δὲ σαρκῶν μου οὐκ ἐμπίπλασθε;<verse eID="rlxx_job.19.22" />
+        <verse sID="rlxx_job.19.23" osisID="rlxx_job.19.23" />τίς γὰρ ἂν δῴη γραφῆναι τὰ ῥήματά μου, τεθῆναι δὲ αὐτὰ ἐν βιβλίῳ εἰς τὸν αἰῶνα<verse eID="rlxx_job.19.23" />
+        <verse sID="rlxx_job.19.24" osisID="rlxx_job.19.24" />※ἐν γραφείῳ σιδηρῷ καὶ μολίβῳ⸕ ἢ ἐν πέτραις ἐγγλυφῆναι;<verse eID="rlxx_job.19.24" />
+        <verse sID="rlxx_job.19.25" osisID="rlxx_job.19.25" />οἶδα γὰρ ὅτι ἀέναός ἐστιν ὁ ἐκλύειν με μέλλων ἐπὶ γῆς.<verse eID="rlxx_job.19.25" />
+        <verse sID="rlxx_job.19.26" osisID="rlxx_job.19.26" />ἀναστήσαι τὸ δέρμα μου τὸ ἀνατλῶν ταῦτα· παρὰ γὰρ κυρίου ταῦτά μοι συνετελέσθη,<verse eID="rlxx_job.19.26" />
+        <verse sID="rlxx_job.19.27" osisID="rlxx_job.19.27" />ἃ ἐγὼ ἐμαυτῷ συνεπίσταμαι, ἃ ὁ ὀφθαλμός μου ἑόρακεν καὶ οὐκ ἄλλος· πάντα δέ μοι συντετέλεσται ἐν κόλπῳ.<verse eID="rlxx_job.19.27" />
+        <verse sID="rlxx_job.19.28" osisID="rlxx_job.19.28" />εἰ δὲ καὶ ἐρεῖτε Τί ἐροῦμεν ἔναντι αὐτοῦ; ※καὶ ῥίζαν λόγου εὑρήσομεν ἐν αὐτῷ·⸕<verse eID="rlxx_job.19.28" />
+        <verse sID="rlxx_job.19.29" osisID="rlxx_job.19.29" />εὐλαβήθητε δὴ καὶ ὑμεῖς ἀπὸ ἐπικαλύμματος· θυμὸς γὰρ ἐπ' ἀνόμους ἐπελεύσεται, καὶ τότε γνώσονται ποῦ ἐστιν αὐτῶν ἡ ὕλη.<verse eID="rlxx_job.19.29" />
+      </p>
+      <chapter eID="rlxx_job.19" />
+      <chapter sID="rlxx_job.20" osisID="rlxx_job.20" />
+      <title>Chapter 20</title>
+      <p>
+        <verse sID="rlxx_job.20.1" osisID="rlxx_job.20.1" />Ὑπολαβὼν δὲ Σωφαρ ὁ Μιναῖος λέγει<verse eID="rlxx_job.20.1" />
+        <verse sID="rlxx_job.20.2" osisID="rlxx_job.20.2" />Οὐχ οὕτως ὑπελάμβανον ἀντερεῖν σε ταῦτα, καὶ οὐχὶ συνίετε μᾶλλον ἢ καὶ ἐγώ.<verse eID="rlxx_job.20.2" />
+        <verse sID="rlxx_job.20.3" osisID="rlxx_job.20.3" />※παιδείαν ἐντροπῆς μου ἀκούσομαι, ※καὶ πνεῦμα ἐκ τῆς συνέσεως ἀποκρίνεταί μοι.<verse eID="rlxx_job.20.3" />
+        <verse sID="rlxx_job.20.4" osisID="rlxx_job.20.4" />※μὴ ταῦτα ἔγνως ἀπὸ τοῦ ἔτι⸕ ἀφ' οὗ ἐτέθη ἄνθρωπος ἐπὶ τῆς γῆς;<verse eID="rlxx_job.20.4" />
+        <verse sID="rlxx_job.20.5" osisID="rlxx_job.20.5" />εὐφροσύνη γὰρ ἀσεβῶν πτῶμα ἐξαίσιον, χαρμονὴ δὲ παρανόμων ἀπώλεια,<verse eID="rlxx_job.20.5" />
+        <verse sID="rlxx_job.20.6" osisID="rlxx_job.20.6" />ἐὰν ἀναβῇ εἰς οὐρανὸν αὐτοῦ τὰ δῶρα, ἡ δὲ θυσία αὐτοῦ νεφῶν ἅψηται.<verse eID="rlxx_job.20.6" />
+        <verse sID="rlxx_job.20.7" osisID="rlxx_job.20.7" />ὅταν γὰρ δοκῇ ἤδη κατεστηρίχθαι, τότε εἰς τέλος ἀπολεῖται· οἱ δὲ ἰδόντες αὐτὸν ἐροῦσιν Ποῦ ἐστιν;<verse eID="rlxx_job.20.7" />
+        <verse sID="rlxx_job.20.8" osisID="rlxx_job.20.8" />ὥσπερ ἐνύπνιον ἐκπετασθὲν οὐ μὴ εὑρεθῇ, ἔπτη δὲ ὥσπερ φάσμα νυκτερινόν.<verse eID="rlxx_job.20.8" />
+        <verse sID="rlxx_job.20.9" osisID="rlxx_job.20.9" />※ὀφθαλμὸς παρέβλεψεν καὶ οὐ προσθήσει, ※καὶ οὐκέτι προσνοήσει αὐτὸν ὁ τόπος αὐτοῦ.⸕<verse eID="rlxx_job.20.9" />
+        <verse sID="rlxx_job.20.10" osisID="rlxx_job.20.10" />τοὺς υἱοὺς αὐτοῦ ὀλέσαισαν ἥττονες, αἱ δὲ χεῖρες αὐτοῦ πυρσεύσαισαν ὀδύνας.<verse eID="rlxx_job.20.10" />
+        <verse sID="rlxx_job.20.11" osisID="rlxx_job.20.11" />※ὀστᾶ αὐτοῦ ἐνεπλήσθησαν νεότητος αὐτοῦ, ※καὶ μετ' αὐτοῦ ἐπὶ χώματος κοιμηθήσεται.<verse eID="rlxx_job.20.11" />
+        <verse sID="rlxx_job.20.12" osisID="rlxx_job.20.12" />※ἐὰν γλυκανθῇ ἐν στόματι αὐτοῦ κακία, ※κρύψει αὐτὴν ὑπὸ τὴν γλῶσσαν αὐτοῦ·<verse eID="rlxx_job.20.12" />
+        <verse sID="rlxx_job.20.13" osisID="rlxx_job.20.13" />※οὐ φείσεται αὐτῆς καὶ οὐκ ἐγκαταλείψει αὐτὴν ※καὶ συνέξει αὐτὴν ἐν μέσῳ τοῦ λάρυγγος αὐτοῦ.⸕<verse eID="rlxx_job.20.13" />
+        <verse sID="rlxx_job.20.14" osisID="rlxx_job.20.14" />καὶ οὐ μὴ δυνηθῇ βοηθῆσαι ἑαυτῷ· ※χολὴ ἀσπίδος ἐν γαστρὶ αὐτοῦ.⸕<verse eID="rlxx_job.20.14" />
+        <verse sID="rlxx_job.20.15" osisID="rlxx_job.20.15" />πλοῦτος ἀδίκως συναγόμενος ἐξεμεσθήσεται, ἐξ οἰκίας αὐτοῦ ἐξελκύσει αὐτὸν ἄγγελος.<verse eID="rlxx_job.20.15" />
+        <verse sID="rlxx_job.20.16" osisID="rlxx_job.20.16" />θυμὸν δὲ δρακόντων θηλάσειεν, ἀνέλοι δὲ αὐτὸν γλῶσσα ὄφεως.<verse eID="rlxx_job.20.16" />
+        <verse sID="rlxx_job.20.17" osisID="rlxx_job.20.17" />μὴ ἴδοι ἄμελξιν νομάδων μηδὲ νομὰς μέλιτος καὶ βουτύρου.<verse eID="rlxx_job.20.17" />
+        <verse sID="rlxx_job.20.18" osisID="rlxx_job.20.18" />εἰς κενὰ καὶ μάταια ἐκοπίασεν πλοῦτον, ἐξ οὗ οὐ γεύσεται, ὥσπερ στρίφνος ἀμάσητος ἀκατάποτος.<verse eID="rlxx_job.20.18" />
+        <verse sID="rlxx_job.20.19" osisID="rlxx_job.20.19" />πολλῶν γὰρ ἀδυνάτων οἴκους ἔθλασεν, δίαιταν δὲ ἥρπασεν καὶ οὐκ ἔστησεν.<verse eID="rlxx_job.20.19" />
+        <verse sID="rlxx_job.20.20" osisID="rlxx_job.20.20" />οὐκ ἔστιν αὐτοῦ σωτηρία τοῖς ὑπάρχουσιν, ※ἐν ἐπιθυμίᾳ αὐτοῦ οὐ σωθήσεται.<verse eID="rlxx_job.20.20" />
+        <verse sID="rlxx_job.20.21" osisID="rlxx_job.20.21" />※οὐκ ἔστιν ὑπόλειμμα τοῖς βρώμασιν αὐτοῦ·⸕ διὰ τοῦτο οὐκ ἀνθήσει αὐτοῦ τὰ ἀγαθά.<verse eID="rlxx_job.20.21" />
+        <verse sID="rlxx_job.20.22" osisID="rlxx_job.20.22" />ὅταν δὲ δοκῇ ἤδη πεπληρῶσθαι, θλιβήσεται, πᾶσα δὲ ἀνάγκη ἐπ' αὐτὸν ἐπελεύσεται.<verse eID="rlxx_job.20.22" />
+        <verse sID="rlxx_job.20.23" osisID="rlxx_job.20.23" />※εἴ πως πληρώσαι γαστέρα αὐτοῦ,⸕ ἐπαποστείλαι ἐπ' αὐτὸν θυμὸν ὀργῆς, νίψαι ἐπ' αὐτὸν ὀδύνας·<verse eID="rlxx_job.20.23" />
+        <verse sID="rlxx_job.20.24" osisID="rlxx_job.20.24" />καὶ οὐ μὴ σωθῇ ἐκ χειρὸς σιδήρου, τρώσαι αὐτὸν τόξον χάλκειον·<verse eID="rlxx_job.20.24" />
+        <verse sID="rlxx_job.20.25" osisID="rlxx_job.20.25" />διεξέλθοι δὲ διὰ σώματος αὐτοῦ βέλος, ἀστραπαὶ δὲ ἐν διαίταις αὐτοῦ περιπατήσαισαν· ※ἐπ' αὐτῷ φόβοι.⸕<verse eID="rlxx_job.20.25" />
+        <verse sID="rlxx_job.20.26" osisID="rlxx_job.20.26" />πᾶν δὲ σκότος αὐτῷ ὑπομείναι· κατέδεται αὐτὸν πῦρ ἄκαυστον, κακώσαι δὲ αὐτοῦ ἐπήλυτος τὸν οἶκον.<verse eID="rlxx_job.20.26" />
+        <verse sID="rlxx_job.20.27" osisID="rlxx_job.20.27" />ἀνακαλύψαι δὲ αὐτοῦ ὁ οὐρανὸς τὰς ἀνομίας, γῆ δὲ ἐπανασταίη αὐτῷ.<verse eID="rlxx_job.20.27" />
+        <verse sID="rlxx_job.20.28" osisID="rlxx_job.20.28" />ἑλκύσαι τὸν οἶκον αὐτοῦ ἀπώλεια εἰς τέλος, ἡμέρα ὀργῆς ἐπέλθοι αὐτῷ.<verse eID="rlxx_job.20.28" />
+        <verse sID="rlxx_job.20.29" osisID="rlxx_job.20.29" />αὕτη ἡ μερὶς ἀνθρώπου ἀσεβοῦς παρὰ κυρίου καὶ κτῆμα ὑπαρχόντων αὐτῷ παρὰ τοῦ ἐπισκόπου.<verse eID="rlxx_job.20.29" />
+      </p>
+      <chapter eID="rlxx_job.20" />
+      <chapter sID="rlxx_job.21" osisID="rlxx_job.21" />
+      <title>Chapter 21</title>
+      <p>
+        <verse sID="rlxx_job.21.1" osisID="rlxx_job.21.1" />Ὑπολαβὼν δὲ Ιωβ λέγει<verse eID="rlxx_job.21.1" />
+        <verse sID="rlxx_job.21.2" osisID="rlxx_job.21.2" />Ἀκούσατε ἀκούσατέ μου τῶν λόγων, ἵνα μὴ ᾖ μοι παρ' ὑμῶν αὕτη ἡ παράκλησις.<verse eID="rlxx_job.21.2" />
+        <verse sID="rlxx_job.21.3" osisID="rlxx_job.21.3" />ἄρατέ με, ἐγὼ δὲ λαλήσω, εἶτ' οὐ καταγελάσετέ μου.<verse eID="rlxx_job.21.3" />
+        <verse sID="rlxx_job.21.4" osisID="rlxx_job.21.4" />τί γάρ; μὴ ἀνθρώπου μου ἡ ἔλεγξις; ἢ διὰ τί οὐ θυμωθήσομαι;<verse eID="rlxx_job.21.4" />
+        <verse sID="rlxx_job.21.5" osisID="rlxx_job.21.5" />εἰσβλέψαντες εἰς ἐμὲ θαυμάσατε χεῖρα θέντες ἐπὶ σιαγόνι.<verse eID="rlxx_job.21.5" />
+        <verse sID="rlxx_job.21.6" osisID="rlxx_job.21.6" />ἐάν τε γὰρ μνησθῶ, ἐσπούδακα, ἔχουσιν δέ μου τὰς σάρκας ὀδύναι.<verse eID="rlxx_job.21.6" />
+        <verse sID="rlxx_job.21.7" osisID="rlxx_job.21.7" />διὰ τί ἀσεβεῖς ζῶσιν, πεπαλαίωνται δὲ καὶ ἐν πλούτῳ;<verse eID="rlxx_job.21.7" />
+        <verse sID="rlxx_job.21.8" osisID="rlxx_job.21.8" />ὁ σπόρος αὐτῶν κατὰ ψυχήν, τὰ δὲ τέκνα αὐτῶν ἐν ὀφθαλμοῖς.<verse eID="rlxx_job.21.8" />
+        <verse sID="rlxx_job.21.9" osisID="rlxx_job.21.9" />οἱ οἶκοι αὐτῶν εὐθηνοῦσιν, φόβος δὲ οὐδαμοῦ, μάστιξ δὲ παρὰ κυρίου οὐκ ἔστιν ἐπ' αὐτοῖς.<verse eID="rlxx_job.21.9" />
+        <verse sID="rlxx_job.21.10" osisID="rlxx_job.21.10" />ἡ βοῦς αὐτῶν οὐκ ὠμοτόκησεν, διεσώθη δὲ αὐτῶν ἐν γαστρὶ ἔχουσα καὶ οὐκ ἔσφαλεν.<verse eID="rlxx_job.21.10" />
+        <verse sID="rlxx_job.21.11" osisID="rlxx_job.21.11" />μένουσιν δὲ ὡς πρόβατα αἰώνια, τὰ δὲ παιδία αὐτῶν προσπαίζουσιν<verse eID="rlxx_job.21.11" />
+        <verse sID="rlxx_job.21.12" osisID="rlxx_job.21.12" />ἀναλαβόντες ψαλτήριον καὶ κιθάραν καὶ εὐφραίνονται φωνῇ ψαλμοῦ.<verse eID="rlxx_job.21.12" />
+        <verse sID="rlxx_job.21.13" osisID="rlxx_job.21.13" />συνετέλεσαν δὲ ἐν ἀγαθοῖς τὸν βίον αὐτῶν, ἐν δὲ ἀναπαύσει ᾅδου ἐκοιμήθησαν.<verse eID="rlxx_job.21.13" />
+        <verse sID="rlxx_job.21.14" osisID="rlxx_job.21.14" />λέγει δὲ κυρίῳ Ἀπόστα ἀπ' ἐμοῦ, ὁδούς σου εἰδέναι οὐ βούλομαι·<verse eID="rlxx_job.21.14" />
+        <verse sID="rlxx_job.21.15" osisID="rlxx_job.21.15" />※τί ἱκανός, ὅτι δουλεύσομεν αὐτῷ; ※καὶ τίς ὠφέλεια, ὅτι ἀπαντήσομεν αὐτῷ;⸕<verse eID="rlxx_job.21.15" />
+        <verse sID="rlxx_job.21.16" osisID="rlxx_job.21.16" />ἐν χερσὶν γὰρ ἦν αὐτῶν τὰ ἀγαθά, ἔργα δὲ ἀσεβῶν οὐκ ἐφορᾷ.<verse eID="rlxx_job.21.16" />
+        <verse sID="rlxx_job.21.17" osisID="rlxx_job.21.17" />οὐ μὴν δὲ ἀλλὰ καὶ ἀσεβῶν λύχνος σβεσθήσεται, ἐπελεύσεται δὲ αὐτοῖς ἡ καταστροφή, ὠδῖνες δὲ αὐτοὺς ἕξουσιν ἀπὸ ὀργῆς.<verse eID="rlxx_job.21.17" />
+        <verse sID="rlxx_job.21.18" osisID="rlxx_job.21.18" />ἔσονται δὲ ὥσπερ ἄχυρα πρὸ ἀνέμου ἢ ὥσπερ κονιορτός, ὃν ὑφείλατο λαῖλαψ.<verse eID="rlxx_job.21.18" />
+        <verse sID="rlxx_job.21.19" osisID="rlxx_job.21.19" />ἐκλίποι υἱοὺς τὰ ὑπάρχοντα αὐτοῦ· ※ἀνταποδώσει πρὸς αὐτὸν καὶ γνώσεται.⸕<verse eID="rlxx_job.21.19" />
+        <verse sID="rlxx_job.21.20" osisID="rlxx_job.21.20" />ἴδοισαν οἱ ὀφθαλμοὶ αὐτοῦ τὴν ἑαυτοῦ σφαγήν, ἀπὸ δὲ κυρίου μὴ διασωθείη·<verse eID="rlxx_job.21.20" />
+        <verse sID="rlxx_job.21.21" osisID="rlxx_job.21.21" />※ὅτι τί θέλημα αὐτοῦ ἐν οἴκῳ αὐτοῦ μετ' αὐτόν; ※καὶ ἀριθμοὶ μηνῶν αὐτοῦ διῃρέθησαν.⸕<verse eID="rlxx_job.21.21" />
+        <verse sID="rlxx_job.21.22" osisID="rlxx_job.21.22" />πότερον οὐχὶ ὁ κύριός ἐστιν ὁ διδάσκων σύνεσιν καὶ ἐπιστήμην; αὐτὸς δὲ φόνους διακρινεῖ.<verse eID="rlxx_job.21.22" />
+        <verse sID="rlxx_job.21.23" osisID="rlxx_job.21.23" />※οὗτος ἀποθανεῖται ἐν κράτει ἁπλοσύνης αὐτοῦ, ※ὅλος δὲ εὐπαθῶν καὶ εὐθηνῶν·⸕<verse eID="rlxx_job.21.23" />
+        <verse sID="rlxx_job.21.24" osisID="rlxx_job.21.24" />τὰ δὲ ἔγκατα αὐτοῦ πλήρη στέατος, μυελὸς δὲ αὐτοῦ διαχεῖται.<verse eID="rlxx_job.21.24" />
+        <verse sID="rlxx_job.21.25" osisID="rlxx_job.21.25" />ὁ δὲ τελευτᾷ ὑπὸ πικρίας ψυχῆς οὐ φαγὼν οὐδὲν ἀγαθόν.<verse eID="rlxx_job.21.25" />
+        <verse sID="rlxx_job.21.26" osisID="rlxx_job.21.26" />ὁμοθυμαδὸν δὲ ἐπὶ γῆς κοιμῶνται, σαπρία δὲ αὐτοὺς ἐκάλυψεν.<verse eID="rlxx_job.21.26" />
+        <verse sID="rlxx_job.21.27" osisID="rlxx_job.21.27" />ὥστε οἶδα ὑμᾶς ὅτι τόλμῃ ἐπίκεισθέ μοι·<verse eID="rlxx_job.21.27" />
+        <verse sID="rlxx_job.21.28" osisID="rlxx_job.21.28" />※ὅτι ἐρεῖτε Ποῦ ἐστιν οἶκος ἄρχοντος; ※καὶ ποῦ ἐστιν ἡ σκέπη τῶν σκηνωμάτων τῶν ἀσεβῶν;<verse eID="rlxx_job.21.28" />
+        <verse sID="rlxx_job.21.29" osisID="rlxx_job.21.29" />※ἐρωτήσατε παραπορευομένους ὁδόν, ※καὶ τὰ σημεῖα αὐτῶν οὐκ ἀπαλλοτριώσετε·<verse eID="rlxx_job.21.29" />
+        <verse sID="rlxx_job.21.30" osisID="rlxx_job.21.30" />※ὅτι εἰς ἡμέραν ἀπωλείας κουφίζεται ὁ πονηρός, ※εἰς ἡμέραν ὀργῆς αὐτοῦ ἀπαχθήσονται.<verse eID="rlxx_job.21.30" />
+        <verse sID="rlxx_job.21.31" osisID="rlxx_job.21.31" />※τίς ἀπαγγελεῖ ἐπὶ προσώπου αὐτοῦ τὴν ὁδὸν αὐτοῦ; ※καὶ αὐτὸς ἐποίησεν, τίς ἀνταποδώσει αὐτῷ;<verse eID="rlxx_job.21.31" />
+        <verse sID="rlxx_job.21.32" osisID="rlxx_job.21.32" />※καὶ αὐτὸς εἰς τάφους ἀπηνέχθη ※καὶ ἐπὶ σορῷ ἠγρύπνησεν.<verse eID="rlxx_job.21.32" />
+        <verse sID="rlxx_job.21.33" osisID="rlxx_job.21.33" />※ἐγλυκάνθησαν αὐτῷ χάλικες χειμάρρου, ※καὶ ὀπίσω αὐτοῦ πᾶς ἄνθρωπος ἀπελεύσεται, ※καὶ ἔμπροσθεν αὐτοῦ ἀναρίθμητοι.⸕<verse eID="rlxx_job.21.33" />
+        <verse sID="rlxx_job.21.34" osisID="rlxx_job.21.34" />πῶς δὲ παρακαλεῖτέ με κενά; τὸ δὲ ἐμὲ καταπαύσασθαι ἀφ' ὑμῶν οὐδέν.<verse eID="rlxx_job.21.34" />
+      </p>
+      <chapter eID="rlxx_job.21" />
+      <chapter sID="rlxx_job.22" osisID="rlxx_job.22" />
+      <title>Chapter 22</title>
+      <p>
+        <verse sID="rlxx_job.22.1" osisID="rlxx_job.22.1" />Ὑπολαβὼν δὲ Ελιφας ὁ Θαιμανίτης λέγει<verse eID="rlxx_job.22.1" />
+        <verse sID="rlxx_job.22.2" osisID="rlxx_job.22.2" />Πότερον οὐχὶ ὁ κύριός ἐστιν ὁ διδάσκων σύνεσιν καὶ ἐπιστήμην;<verse eID="rlxx_job.22.2" />
+        <verse sID="rlxx_job.22.3" osisID="rlxx_job.22.3" />τί γὰρ μέλει τῷ κυρίῳ, ἐὰν σὺ ἦσθα τοῖς ἔργοις ἄμεμπτος; ※ἢ ὠφέλεια ὅτι ἁπλώσῃς τὴν ὁδόν σου;⸕<verse eID="rlxx_job.22.3" />
+        <verse sID="rlxx_job.22.4" osisID="rlxx_job.22.4" />ἦ λόγον σου ποιούμενος ἐλέγξει σε καὶ συνεισελεύσεταί σοι εἰς κρίσιν;<verse eID="rlxx_job.22.4" />
+        <verse sID="rlxx_job.22.5" osisID="rlxx_job.22.5" />πότερον οὐχ ἡ κακία σού ἐστιν πολλή, ἀναρίθμητοι δέ σού εἰσιν αἱ ἁμαρτίαι;<verse eID="rlxx_job.22.5" />
+        <verse sID="rlxx_job.22.6" osisID="rlxx_job.22.6" />ἠνεχύραζες δὲ τοὺς ἀδελφούς σου διὰ κενῆς, ἀμφίασιν δὲ γυμνῶν ἀφείλου·<verse eID="rlxx_job.22.6" />
+        <verse sID="rlxx_job.22.7" osisID="rlxx_job.22.7" />οὐδὲ ὕδωρ διψῶντας ἐπότισας, ἀλλὰ πεινώντων ἐστέρησας ψωμόν·<verse eID="rlxx_job.22.7" />
+        <verse sID="rlxx_job.22.8" osisID="rlxx_job.22.8" />ἐθαύμασας δέ τινων πρόσωπον, ᾤκισας δὲ τοὺς ἐπὶ τῆς γῆς·<verse eID="rlxx_job.22.8" />
+        <verse sID="rlxx_job.22.9" osisID="rlxx_job.22.9" />χήρας δὲ ἐξαπέστειλας κενάς, ὀρφανοὺς δὲ ἐκάκωσας.<verse eID="rlxx_job.22.9" />
+        <verse sID="rlxx_job.22.10" osisID="rlxx_job.22.10" />τοιγαροῦν ἐκύκλωσάν σε παγίδες, καὶ ἐσπούδασέν σε πόλεμος ἐξαίσιος·<verse eID="rlxx_job.22.10" />
+        <verse sID="rlxx_job.22.11" osisID="rlxx_job.22.11" />τὸ φῶς σοι σκότος ἀπέβη, κοιμηθέντα δὲ ὕδωρ σε ἐκάλυψεν.<verse eID="rlxx_job.22.11" />
+        <verse sID="rlxx_job.22.12" osisID="rlxx_job.22.12" />μὴ οὐχὶ ὁ τὰ ὑψηλὰ ναίων ἐφορᾷ, τοὺς δὲ ὕβρει φερομένους ἐταπείνωσεν;<verse eID="rlxx_job.22.12" />
+        <verse sID="rlxx_job.22.13" osisID="rlxx_job.22.13" />※καὶ εἶπας Τί ἔγνω ὁ ἰσχυρός; ※ἦ κατὰ τοῦ γνόφου κρινεῖ;<verse eID="rlxx_job.22.13" />
+        <verse sID="rlxx_job.22.14" osisID="rlxx_job.22.14" />※νέφη ἀποκρυφὴ αὐτοῦ, καὶ οὐχ ὁραθήσεται ※καὶ γῦρον οὐρανοῦ διαπορεύσεται.<verse eID="rlxx_job.22.14" />
+        <verse sID="rlxx_job.22.15" osisID="rlxx_job.22.15" />※μὴ τρίβον αἰώνιον φυλάξεις, ※ἣν ἐπάτησαν ἄνδρες ἄδικοι,<verse eID="rlxx_job.22.15" />
+        <verse sID="rlxx_job.22.16" osisID="rlxx_job.22.16" />※οἳ συνελήμφθησαν ἄωροι; ※ποταμὸς ἐπιρρέων οἱ θεμέλιοι αὐτῶν⸕<verse eID="rlxx_job.22.16" />
+        <verse sID="rlxx_job.22.17" osisID="rlxx_job.22.17" />οἱ λέγοντες Κύριος τί ποιήσει ἡμῖν; ἢ τί ἐπάξεται ἡμῖν ὁ παντοκράτωρ;<verse eID="rlxx_job.22.17" />
+        <verse sID="rlxx_job.22.18" osisID="rlxx_job.22.18" />ὃς δὲ ἐνέπλησεν τοὺς οἴκους αὐτῶν ἀγαθῶν, βουλὴ δὲ ἀσεβῶν πόρρω ἀπ' αὐτοῦ.<verse eID="rlxx_job.22.18" />
+        <verse sID="rlxx_job.22.19" osisID="rlxx_job.22.19" />ἰδόντες δίκαιοι ἐγέλασαν, ἄμεμπτος δὲ ἐμυκτήρισεν.<verse eID="rlxx_job.22.19" />
+        <verse sID="rlxx_job.22.20" osisID="rlxx_job.22.20" />※εἰ μὴ ἠφανίσθη ἡ ὑπόστασις αὐτῶν, ※καὶ τὸ κατάλειμμα αὐτῶν καταφάγεται πῦρ.⸕<verse eID="rlxx_job.22.20" />
+        <verse sID="rlxx_job.22.21" osisID="rlxx_job.22.21" />γενοῦ δὴ σκληρός, ἐὰν ὑπομείνῃς· εἶτ' ὁ καρπός σου ἔσται ἐν ἀγαθοῖς.<verse eID="rlxx_job.22.21" />
+        <verse sID="rlxx_job.22.22" osisID="rlxx_job.22.22" />ἔκλαβε δὲ ἐκ στόματος αὐτοῦ ἐξηγορίαν καὶ ἀνάλαβε τὰ ῥήματα αὐτοῦ ἐν καρδίᾳ σου.<verse eID="rlxx_job.22.22" />
+        <verse sID="rlxx_job.22.23" osisID="rlxx_job.22.23" />ἐὰν δὲ ἐπιστραφῇς καὶ ταπεινώσῃς σεαυτὸν ἔναντι κυρίου, πόρρω ἐποίησας ἀπὸ διαίτης σου τὸ ἄδικον.<verse eID="rlxx_job.22.23" />
+        <verse sID="rlxx_job.22.24" osisID="rlxx_job.22.24" />※θήσῃ ἐπὶ χώματι ἐν πέτρᾳ ※καὶ ὡς πέτρᾳ χειμάρρους Ωφιρ.⸕<verse eID="rlxx_job.22.24" />
+        <verse sID="rlxx_job.22.25" osisID="rlxx_job.22.25" />ἔσται οὖν σου ὁ παντοκράτωρ βοηθὸς ἀπὸ ἐχθρῶν, καθαρὸν δὲ ἀποδώσει σε ὥσπερ ἀργύριον πεπυρωμένον.<verse eID="rlxx_job.22.25" />
+        <verse sID="rlxx_job.22.26" osisID="rlxx_job.22.26" />εἶτα παρρησιασθήσῃ ἔναντι κυρίου ἀναβλέψας εἰς τὸν οὐρανὸν ἱλαρῶς·<verse eID="rlxx_job.22.26" />
+        <verse sID="rlxx_job.22.27" osisID="rlxx_job.22.27" />εὐξαμένου δέ σου πρὸς αὐτὸν εἰσακούσεταί σου, δώσει δέ σοι ἀποδοῦναι τὰς εὐχάς·<verse eID="rlxx_job.22.27" />
+        <verse sID="rlxx_job.22.28" osisID="rlxx_job.22.28" />ἀποκαταστήσει δέ σοι δίαιταν δικαιοσύνης, ἐπὶ δὲ ὁδοῖς σου ἔσται φέγγος.<verse eID="rlxx_job.22.28" />
+        <verse sID="rlxx_job.22.29" osisID="rlxx_job.22.29" />※ὅτι ἐταπείνωσεν αὐτόν, καὶ ἐρεῖς Ὑπερηφανεύσατο, ※καὶ κύφοντα ὀφθαλμοῖς σώσει·<verse eID="rlxx_job.22.29" />
+        <verse sID="rlxx_job.22.30" osisID="rlxx_job.22.30" />※ῥύσεται ἀθῷον, ※καὶ διασώθητι ἐν καθαραῖς χερσίν σου.⸕<verse eID="rlxx_job.22.30" />
+      </p>
+      <chapter eID="rlxx_job.22" />
+      <chapter sID="rlxx_job.23" osisID="rlxx_job.23" />
+      <title>Chapter 23</title>
+      <p>
+        <verse sID="rlxx_job.23.1" osisID="rlxx_job.23.1" />Ὑπολαβὼν δὲ Ιωβ λέγει<verse eID="rlxx_job.23.1" />
+        <verse sID="rlxx_job.23.2" osisID="rlxx_job.23.2" />Καὶ δὴ οἶδα ὅτι ἐκ χειρός μου ἡ ἔλεγξίς ἐστιν, καὶ ἡ χεὶρ αὐτοῦ βαρεῖα γέγονεν ἐπ' ἐμῷ στεναγμῷ.<verse eID="rlxx_job.23.2" />
+        <verse sID="rlxx_job.23.3" osisID="rlxx_job.23.3" />τίς δ' ἄρα γνοίη ὅτι εὕροιμι αὐτὸν καὶ ἔλθοιμι εἰς τέλος;<verse eID="rlxx_job.23.3" />
+        <verse sID="rlxx_job.23.4" osisID="rlxx_job.23.4" />εἴποιμι δὲ ἐμαυτοῦ κρίμα, τὸ δὲ στόμα μου ἐμπλήσαιμι ἐλέγχων·<verse eID="rlxx_job.23.4" />
+        <verse sID="rlxx_job.23.5" osisID="rlxx_job.23.5" />γνῴην δὲ ῥήματα, ἅ μοι ἐρεῖ, αἰσθοίμην δὲ τίνα μοι ἀπαγγελεῖ.<verse eID="rlxx_job.23.5" />
+        <verse sID="rlxx_job.23.6" osisID="rlxx_job.23.6" />καὶ εἰ ἐν πολλῇ ἰσχύι ἐπελεύσεταί μοι, εἶτα ἐν ἀπειλῇ μοι οὐ χρήσεται·<verse eID="rlxx_job.23.6" />
+        <verse sID="rlxx_job.23.7" osisID="rlxx_job.23.7" />ἀλήθεια γὰρ καὶ ἔλεγχος παρ' αὐτοῦ, ἐξαγάγοι δὲ εἰς τέλος τὸ κρίμα μου.<verse eID="rlxx_job.23.7" />
+        <verse sID="rlxx_job.23.8" osisID="rlxx_job.23.8" />εἰς γὰρ πρῶτα πορεύσομαι καὶ οὐκέτι εἰμί· τὰ δὲ ἐπ' ἐσχάτοις τί οἶδα;<verse eID="rlxx_job.23.8" />
+        <verse sID="rlxx_job.23.9" osisID="rlxx_job.23.9" />※ἀριστερὰ ποιήσαντος αὐτοῦ καὶ οὐ κατέσχον· ※περιβαλεῖ δεξιά, καὶ οὐκ ὄψομαι.⸕<verse eID="rlxx_job.23.9" />
+        <verse sID="rlxx_job.23.10" osisID="rlxx_job.23.10" />οἶδεν γὰρ ἤδη ὁδόν μου, διέκρινεν δέ με ὥσπερ τὸ χρυσίον.<verse eID="rlxx_job.23.10" />
+        <verse sID="rlxx_job.23.11" osisID="rlxx_job.23.11" />ἐξελεύσομαι δὲ ἐν ἐντάλμασιν αὐτοῦ· ὁδοὺς γὰρ αὐτοῦ ἐφύλαξα καὶ οὐ μὴ ἐκκλίνω.<verse eID="rlxx_job.23.11" />
+        <verse sID="rlxx_job.23.12" osisID="rlxx_job.23.12" />ἀπὸ ἐνταλμάτων αὐτοῦ καὶ οὐ μὴ παρέλθω, ἐν δὲ κόλπῳ μου ἔκρυψα ῥήματα αὐτοῦ.<verse eID="rlxx_job.23.12" />
+        <verse sID="rlxx_job.23.13" osisID="rlxx_job.23.13" />εἰ δὲ καὶ αὐτὸς ἔκρινεν οὕτως, τίς ἐστιν ὁ ἀντειπὼν αὐτῷ; ὃ γὰρ αὐτὸς ἠθέλησεν, καὶ ἐποίησεν.<verse eID="rlxx_job.23.13" />
+        <verse sID="rlxx_job.23.15" osisID="rlxx_job.23.15" />διὰ τοῦτο ἐπ' αὐτῷ ἐσπούδακα· νουθετούμενος δὲ ἐφρόντισα αὐτοῦ.<verse eID="rlxx_job.23.15" />
+        <verse sID="rlxx_job.23.15a" osisID="rlxx_job.23.15a" />※ἐπὶ τούτῳ ἀπὸ προσώπου αὐτοῦ κατασπουδασθῶ· ※κατανοήσω καὶ πτοηθήσομαι ἐξ αὐτοῦ.⸕<verse eID="rlxx_job.23.15a" />
+        <verse sID="rlxx_job.23.16" osisID="rlxx_job.23.16" />κύριος δὲ ἐμαλάκυνεν τὴν καρδίαν μου, ὁ δὲ παντοκράτωρ ἐσπούδασέν με.<verse eID="rlxx_job.23.16" />
+        <verse sID="rlxx_job.23.17" osisID="rlxx_job.23.17" />οὐ γὰρ ᾔδειν ὅτι ἐπελεύσεταί μοι σκότος, πρὸ προσώπου δέ μου ἐκάλυψεν γνόφος.<verse eID="rlxx_job.23.17" />
+      </p>
+      <chapter eID="rlxx_job.23" />
+      <chapter sID="rlxx_job.24" osisID="rlxx_job.24" />
+      <title>Chapter 24</title>
+      <p>
+        <verse sID="rlxx_job.24.1" osisID="rlxx_job.24.1" />διὰ τί δὲ κύριον ἔλαθον ὧραι,<verse eID="rlxx_job.24.1" />
+        <verse sID="rlxx_job.24.2" osisID="rlxx_job.24.2" />ἀσεβεῖς δὲ ὅριον ὑπερέβησαν ποίμνιον σὺν ποιμένι ἁρπάσαντες;<verse eID="rlxx_job.24.2" />
+        <verse sID="rlxx_job.24.3" osisID="rlxx_job.24.3" />ὑποζύγιον ὀρφανῶν ἀπήγαγον καὶ βοῦν χήρας ἠνεχύρασαν.<verse eID="rlxx_job.24.3" />
+        <verse sID="rlxx_job.24.4" osisID="rlxx_job.24.4" />ἐξέκλιναν ἀδυνάτους ἐξ ὁδοῦ δικαίας, ※ὁμοθυμαδὸν ἐκρύβησαν πραεῖς γῆς.⸕<verse eID="rlxx_job.24.4" />
+        <verse sID="rlxx_job.24.5" osisID="rlxx_job.24.5" />ἀπέβησαν δὲ ὥσπερ ὄνοι ἐν ἀγρῷ ὑπὲρ ἐμοῦ ἐξελθόντες τὴν ἑαυτῶν πρᾶξιν· ※ἡδύνθη αὐτῷ ἄρτος εἰς νεωτέρους.⸕<verse eID="rlxx_job.24.5" />
+        <verse sID="rlxx_job.24.6" osisID="rlxx_job.24.6" />ἀγρὸν πρὸ ὥρας οὐκ αὐτῶν ὄντα ἐθέρισαν· ἀδύνατοι δὲ ἀμπελῶνας ἀσεβῶν ἀμισθὶ καὶ ἀσιτὶ ἠργάσαντο.<verse eID="rlxx_job.24.6" />
+        <verse sID="rlxx_job.24.7" osisID="rlxx_job.24.7" />γυμνοὺς πολλοὺς ἐκοίμισαν ἄνευ ἱματίων, ἀμφίασιν δὲ ψυχῆς αὐτῶν ἀφείλαντο.<verse eID="rlxx_job.24.7" />
+        <verse sID="rlxx_job.24.8" osisID="rlxx_job.24.8" />※ἀπὸ ψεκάδων ὀρέων ὑγραίνονται,⸕ παρὰ τὸ μὴ ἔχειν αὐτοὺς σκέπην πέτραν περιεβάλοντο.<verse eID="rlxx_job.24.8" />
+        <verse sID="rlxx_job.24.9" osisID="rlxx_job.24.9" />ἥρπασαν ὀρφανὸν ἀπὸ μαστοῦ, ἐκπεπτωκότα δὲ ἐταπείνωσαν.<verse eID="rlxx_job.24.9" />
+        <verse sID="rlxx_job.24.10" osisID="rlxx_job.24.10" />γυμνοὺς δὲ ἐκοίμισαν ἀδίκως, πεινώντων δὲ τὸν ψωμὸν ἀφείλαντο.<verse eID="rlxx_job.24.10" />
+        <verse sID="rlxx_job.24.11" osisID="rlxx_job.24.11" />ἐν στενοῖς ἀδίκως ἐνήδρευσαν, ὁδὸν δὲ δικαίαν οὐκ ᾔδεισαν.<verse eID="rlxx_job.24.11" />
+        <verse sID="rlxx_job.24.12" osisID="rlxx_job.24.12" />οἳ ἐκ πόλεως καὶ οἴκων ἰδίων ἐξεβάλλοντο, ψυχὴ δὲ νηπίων ἐστέναξεν μέγα, αὐτὸς δὲ διὰ τί τούτων ἐπισκοπὴν οὐ πεποίηται;<verse eID="rlxx_job.24.12" />
+        <verse sID="rlxx_job.24.13" osisID="rlxx_job.24.13" />ἐπὶ γῆς ὄντων αὐτῶν καὶ οὐκ ἐπέγνωσαν, ὁδὸν δὲ δικαιοσύνης οὐκ ᾔδεισαν οὐδὲ ἀτραποὺς αὐτῆς ἐπορεύθησαν.<verse eID="rlxx_job.24.13" />
+        <verse sID="rlxx_job.24.14" osisID="rlxx_job.24.14" />γνοὺς δὲ αὐτῶν τὰ ἔργα παρέδωκεν αὐτοὺς εἰς σκότος, ※καὶ νυκτὸς ἔσται ὡς κλέπτης.<verse eID="rlxx_job.24.14" />
+        <verse sID="rlxx_job.24.15" osisID="rlxx_job.24.15" />※καὶ ὀφθαλμὸς μοιχοῦ ἐφύλαξεν σκότος ※λέγων Οὐ προσνοήσει με ὀφθαλμός, ※καὶ ἀποκρυβὴν προσώπου ἔθετο.<verse eID="rlxx_job.24.15" />
+        <verse sID="rlxx_job.24.16" osisID="rlxx_job.24.16" />※διώρυξεν ἐν σκότει οἰκίας· ※ἡμέρας ἐσφράγισαν ἑαυτούς, ※οὐκ ἐπέγνωσαν φῶς·<verse eID="rlxx_job.24.16" />
+        <verse sID="rlxx_job.24.17" osisID="rlxx_job.24.17" />※ὅτι ὁμοθυμαδὸν τὸ πρωὶ αὐτοῖς σκιὰ θανάτου, ※ὅτι ἐπιγνώσεται ταραχὰς σκιᾶς θανάτου.<verse eID="rlxx_job.24.17" />
+        <verse sID="rlxx_job.24.18" osisID="rlxx_job.24.18" />※ἐλαφρός ἐστιν ἐπὶ πρόσωπον ὕδατος·⸕ καταραθείη ἡ μερὶς αὐτῶν ἐπὶ γῆς.<verse eID="rlxx_job.24.18" />
+        <verse sID="rlxx_job.24.19" osisID="rlxx_job.24.19" />ἀναφανείη δὲ τὰ φυτὰ αὐτῶν ἐπὶ γῆς ξηρά· ἀγκαλίδα γὰρ ὀρφανῶν ἥρπασαν.<verse eID="rlxx_job.24.19" />
+        <verse sID="rlxx_job.24.20" osisID="rlxx_job.24.20" />εἶτ' ἀνεμνήσθη αὐτοῦ ἡ ἁμαρτία, ὥσπερ δὲ ὁμίχλη δρόσου ἀφανὴς ἐγένετο· ἀποδοθείη δὲ αὐτῷ ἃ ἔπραξεν, συντριβείη δὲ πᾶς ἄδικος ἴσα ξύλῳ ἀνιάτῳ.<verse eID="rlxx_job.24.20" />
+        <verse sID="rlxx_job.24.21" osisID="rlxx_job.24.21" />στεῖραν γὰρ οὐκ εὖ ἐποίησεν καὶ γύναιον οὐκ ἠλέησεν,<verse eID="rlxx_job.24.21" />
+        <verse sID="rlxx_job.24.22" osisID="rlxx_job.24.22" />θυμῷ δὲ κατέστρεψεν ἀδυνάτους. ἀναστὰς τοιγαροῦν οὐ μὴ πιστεύσῃ κατὰ τῆς ἑαυτοῦ ζωῆς·<verse eID="rlxx_job.24.22" />
+        <verse sID="rlxx_job.24.23" osisID="rlxx_job.24.23" />μαλακισθεὶς μὴ ἐλπιζέτω ὑγιασθῆναι, ἀλλὰ πεσεῖται νόσῳ.<verse eID="rlxx_job.24.23" />
+        <verse sID="rlxx_job.24.24" osisID="rlxx_job.24.24" />πολλοὺς γὰρ ἐκάκωσεν τὸ ὕψωμα αὐτοῦ· ἐμαράνθη δὲ ὥσπερ μολόχη ἐν καύματι ἢ ὥσπερ στάχυς ἀπὸ καλάμης αὐτόματος ἀποπεσών.<verse eID="rlxx_job.24.24" />
+        <verse sID="rlxx_job.24.25" osisID="rlxx_job.24.25" />εἰ δὲ μή, τίς ἐστιν ὁ φάμενος ψευδῆ με λέγειν ※καὶ θήσει εἰς οὐδὲν τὰ ῥήματά μου;⸕<verse eID="rlxx_job.24.25" />
+      </p>
+      <chapter eID="rlxx_job.24" />
+      <chapter sID="rlxx_job.25" osisID="rlxx_job.25" />
+      <title>Chapter 25</title>
+      <p>
+        <verse sID="rlxx_job.25.1" osisID="rlxx_job.25.1" />Ὑπολαβὼν δὲ Βαλδαδ ὁ Σαυχίτης λέγει<verse eID="rlxx_job.25.1" />
+        <verse sID="rlxx_job.25.2" osisID="rlxx_job.25.2" />Τί γὰρ προοίμιον ἢ φόβος παρ' αὐτοῦ, ὁ ποιῶν τὴν σύμπασαν ἐν ὑψίστῳ;<verse eID="rlxx_job.25.2" />
+        <verse sID="rlxx_job.25.3" osisID="rlxx_job.25.3" />μὴ γάρ τις ὑπολάβοι ὅτι ἔστιν παρέλκυσις πειραταῖς; ἐπὶ τίνας δὲ οὐκ ἐπελεύσεται ἔνεδρα παρ' αὐτοῦ;<verse eID="rlxx_job.25.3" />
+        <verse sID="rlxx_job.25.4" osisID="rlxx_job.25.4" />πῶς γὰρ ἔσται δίκαιος βροτὸς ἔναντι κυρίου; ἢ τίς ἂν ἀποκαθαρίσαι ἑαυτὸν γεννητὸς γυναικός;<verse eID="rlxx_job.25.4" />
+        <verse sID="rlxx_job.25.5" osisID="rlxx_job.25.5" />εἰ σελήνῃ συντάσσει, καὶ οὐκ ἐπιφαύσκει· ἄστρα δὲ οὐ καθαρὰ ἐναντίον αὐτοῦ.<verse eID="rlxx_job.25.5" />
+        <verse sID="rlxx_job.25.6" osisID="rlxx_job.25.6" />ἔα δέ, ἄνθρωπος σαπρία καὶ υἱὸς ἀνθρώπου σκώληξ.<verse eID="rlxx_job.25.6" />
+      </p>
+      <chapter eID="rlxx_job.25" />
+      <chapter sID="rlxx_job.26" osisID="rlxx_job.26" />
+      <title>Chapter 26</title>
+      <p>
+        <verse sID="rlxx_job.26.1" osisID="rlxx_job.26.1" />Ὑπολαβὼν δὲ Ιωβ λέγει<verse eID="rlxx_job.26.1" />
+        <verse sID="rlxx_job.26.2" osisID="rlxx_job.26.2" />Τίνι πρόσκεισαι ἢ τίνι μέλλεις βοηθεῖν; πότερον οὐχ ᾧ πολλὴ ἰσχὺς καὶ ᾧ βραχίων κραταιός ἐστιν;<verse eID="rlxx_job.26.2" />
+        <verse sID="rlxx_job.26.3" osisID="rlxx_job.26.3" />τίνι συμβεβούλευσαι; οὐχ ᾧ πᾶσα σοφία; ἢ τίνι ἐπακολουθήσεις; οὐχ ᾧ μεγίστη δύναμις;<verse eID="rlxx_job.26.3" />
+        <verse sID="rlxx_job.26.4" osisID="rlxx_job.26.4" />τίνι ἀνήγγειλας ῥήματα; πνοὴ δὲ τίνος ἐστὶν ἡ ἐξελθοῦσα ἐκ σοῦ;<verse eID="rlxx_job.26.4" />
+        <verse sID="rlxx_job.26.5" osisID="rlxx_job.26.5" />※μὴ γίγαντες μαιωθήσονται ※ὑποκάτωθεν ὕδατος καὶ τῶν γειτόνων αὐτοῦ;<verse eID="rlxx_job.26.5" />
+        <verse sID="rlxx_job.26.6" osisID="rlxx_job.26.6" />※γυμνὸς ὁ ᾅδης ἐπώπιον αὐτοῦ, ※καὶ οὐκ ἔστιν περιβόλαιον τῇ ἀπωλείᾳ.<verse eID="rlxx_job.26.6" />
+        <verse sID="rlxx_job.26.7" osisID="rlxx_job.26.7" />※ἐκτείνων βορέαν ἐπ' οὐδέν, ※κρεμάζων γῆν ἐπὶ οὐδενός·<verse eID="rlxx_job.26.7" />
+        <verse sID="rlxx_job.26.8" osisID="rlxx_job.26.8" />※δεσμεύων ὕδωρ ἐν νεφέλαις αὐτοῦ, ※καὶ οὐκ ἐρράγη νέφος ὑποκάτω αὐτοῦ·<verse eID="rlxx_job.26.8" />
+        <verse sID="rlxx_job.26.9" osisID="rlxx_job.26.9" />※ὁ κρατῶν πρόσωπον θρόνου, ※ἐκπετάζων ἐπ' αὐτὸν νέφος αὐτοῦ.<verse eID="rlxx_job.26.9" />
+        <verse sID="rlxx_job.26.10" osisID="rlxx_job.26.10" />※πρόσταγμα ἐγύρωσεν ἐπὶ πρόσωπον ὕδατος ※μέχρι συντελείας φωτὸς μετὰ σκότους.<verse eID="rlxx_job.26.10" />
+        <verse sID="rlxx_job.26.11" osisID="rlxx_job.26.11" />※στῦλοι οὐρανοῦ ἐπετάσθησαν ※καὶ ἐξέστησαν ἀπὸ τῆς ἐπιτιμήσεως αὐτοῦ.⸕<verse eID="rlxx_job.26.11" />
+        <verse sID="rlxx_job.26.12" osisID="rlxx_job.26.12" />ἰσχύι κατέπαυσεν τὴν θάλασσαν, ἐπιστήμῃ δὲ ἔτρωσε τὸ κῆτος·<verse eID="rlxx_job.26.12" />
+        <verse sID="rlxx_job.26.13" osisID="rlxx_job.26.13" />κλεῖθρα δὲ οὐρανοῦ δεδοίκασιν αὐτόν, προστάγματι δὲ ἐθανάτωσεν δράκοντα ἀποστάτην.<verse eID="rlxx_job.26.13" />
+        <verse sID="rlxx_job.26.14" osisID="rlxx_job.26.14" />※ἰδοὺ ταῦτα μέρη ὁδοῦ αὐτοῦ, ※καὶ ἐπὶ ἰκμάδα λόγου ἀκουσόμεθα ἐν αὐτῷ·⸕ σθένος δὲ βροντῆς αὐτοῦ τίς οἶδεν ὁπότε ποιήσει;<verse eID="rlxx_job.26.14" />
+      </p>
+      <chapter eID="rlxx_job.26" />
+      <chapter sID="rlxx_job.27" osisID="rlxx_job.27" />
+      <title>Chapter 27</title>
+      <p>
+        <verse sID="rlxx_job.27.1" osisID="rlxx_job.27.1" />Ἔτι δὲ προσθεὶς Ιωβ εἶπεν τῷ προοιμίῳ<verse eID="rlxx_job.27.1" />
+        <verse sID="rlxx_job.27.2" osisID="rlxx_job.27.2" />Ζῇ κύριος, ὃς οὕτω με κέκρικεν, καὶ ὁ παντοκράτωρ ὁ πικράνας μου τὴν ψυχήν,<verse eID="rlxx_job.27.2" />
+        <verse sID="rlxx_job.27.3" osisID="rlxx_job.27.3" />ἦ μὴν ἔτι τῆς πνοῆς μου ἐνούσης, πνεῦμα δὲ θεῖον τὸ περιόν μοι ἐν ῥισίν,<verse eID="rlxx_job.27.3" />
+        <verse sID="rlxx_job.27.4" osisID="rlxx_job.27.4" />μὴ λαλήσειν τὰ χείλη μου ἄνομα, οὐδὲ ἡ ψυχή μου μελετήσει ἄδικα.<verse eID="rlxx_job.27.4" />
+        <verse sID="rlxx_job.27.5" osisID="rlxx_job.27.5" />μή μοι εἴη δικαίους ὑμᾶς ἀποφῆναι, ἕως ἂν ἀποθάνω· οὐ γὰρ ἀπαλλάξω μου τὴν ἀκακίαν.<verse eID="rlxx_job.27.5" />
+        <verse sID="rlxx_job.27.6" osisID="rlxx_job.27.6" />δικαιοσύνῃ δὲ προσέχων οὐ μὴ προῶμαι· οὐ γὰρ σύνοιδα ἐμαυτῷ ἄτοπα πράξας.<verse eID="rlxx_job.27.6" />
+        <verse sID="rlxx_job.27.7" osisID="rlxx_job.27.7" />οὐ μὴν δὲ ἀλλὰ εἴησαν οἱ ἐχθροί μου ὥσπερ ἡ καταστροφὴ τῶν ἀσεβῶν, καὶ οἱ ἐπ' ἐμὲ ἐπανιστανόμενοι ὥσπερ ἡ ἀπώλεια τῶν παρανόμων.<verse eID="rlxx_job.27.7" />
+        <verse sID="rlxx_job.27.8" osisID="rlxx_job.27.8" />καὶ τίς γάρ ἐστιν ἐλπὶς ἀσεβεῖ ὅτι ἐπέχει; πεποιθὼς ἐπὶ κύριον ἆρα σωθήσεται;<verse eID="rlxx_job.27.8" />
+        <verse sID="rlxx_job.27.9" osisID="rlxx_job.27.9" />ἦ τὴν δέησιν αὐτοῦ εἰσακούσεται κύριος; ἢ ἐπελθούσης αὐτῷ ἀνάγκης<verse eID="rlxx_job.27.9" />
+        <verse sID="rlxx_job.27.10" osisID="rlxx_job.27.10" />μὴ ἔχει τινὰ παρρησίαν ἔναντι αὐτοῦ; ἢ ὡς ἐπικαλεσαμένου αὐτοῦ εἰσακούσεται αὐτοῦ;<verse eID="rlxx_job.27.10" />
+        <verse sID="rlxx_job.27.11" osisID="rlxx_job.27.11" />ἀλλὰ δὴ ἀναγγελῶ ὑμῖν τί ἐστιν ἐν χειρὶ κυρίου· ἅ ἐστιν παρὰ παντοκράτορι, οὐ ψεύσομαι.<verse eID="rlxx_job.27.11" />
+        <verse sID="rlxx_job.27.12" osisID="rlxx_job.27.12" />ἰδοὺ δὴ πάντες οἴδατε ὅτι κενὰ κενοῖς ἐπιβάλλετε.<verse eID="rlxx_job.27.12" />
+        <verse sID="rlxx_job.27.13" osisID="rlxx_job.27.13" />αὕτη ἡ μερὶς ἀνθρώπου ἀσεβοῦς παρὰ κυρίου, κτῆμα δὲ δυναστῶν ἐλεύσεται παρὰ παντοκράτορος ἐπ' αὐτούς.<verse eID="rlxx_job.27.13" />
+        <verse sID="rlxx_job.27.14" osisID="rlxx_job.27.14" />ἐὰν δὲ πολλοὶ γένωνται οἱ υἱοὶ αὐτοῦ, εἰς σφαγὴν ἔσονται· ἐὰν δὲ καὶ ἀνδρωθῶσιν, προσαιτήσουσιν·<verse eID="rlxx_job.27.14" />
+        <verse sID="rlxx_job.27.15" osisID="rlxx_job.27.15" />οἱ δὲ περιόντες αὐτοῦ ἐν θανάτῳ τελευτήσουσιν, χήρας δὲ αὐτῶν οὐθεὶς ἐλεήσει.<verse eID="rlxx_job.27.15" />
+        <verse sID="rlxx_job.27.16" osisID="rlxx_job.27.16" />ἐὰν συναγάγῃ ὥσπερ γῆν ἀργύριον, ἴσα δὲ πηλῷ ἑτοιμάσῃ χρυσίον,<verse eID="rlxx_job.27.16" />
+        <verse sID="rlxx_job.27.17" osisID="rlxx_job.27.17" />ταῦτα πάντα δίκαιοι περιποιήσονται, τὰ δὲ χρήματα αὐτοῦ ἀληθινοὶ καθέξουσιν.<verse eID="rlxx_job.27.17" />
+        <verse sID="rlxx_job.27.18" osisID="rlxx_job.27.18" />ἀπέβη δὲ ὁ οἶκος αὐτοῦ ὥσπερ σῆτες καὶ ὥσπερ ἀράχνη.<verse eID="rlxx_job.27.18" />
+        <verse sID="rlxx_job.27.19" osisID="rlxx_job.27.19" />πλούσιος κοιμηθεὶς καὶ οὐ προσθήσει, ※ὀφθαλμοὺς αὐτοῦ διήνοιξεν καὶ οὐκ ἔστιν.⸕<verse eID="rlxx_job.27.19" />
+        <verse sID="rlxx_job.27.20" osisID="rlxx_job.27.20" />συνήντησαν αὐτῷ ὥσπερ ὕδωρ αἱ ὀδύναι, νυκτὶ δὲ ὑφείλατο αὐτὸν γνόφος·<verse eID="rlxx_job.27.20" />
+        <verse sID="rlxx_job.27.21" osisID="rlxx_job.27.21" />※ἀναλήμψεται αὐτὸν καύσων καὶ ἀπελεύσεται ※καὶ λικμήσει αὐτὸν ἐκ τοῦ τόπου αὐτοῦ.<verse eID="rlxx_job.27.21" />
+        <verse sID="rlxx_job.27.22" osisID="rlxx_job.27.22" />※καὶ ἐπιρρίψει ἐπ' αὐτὸν καὶ οὐ φείσεται· ※ἐκ χειρὸς αὐτοῦ φυγῇ φεύξεται·<verse eID="rlxx_job.27.22" />
+        <verse sID="rlxx_job.27.23" osisID="rlxx_job.27.23" />※κροτήσει ἐπ' αὐτοῦ χεῖρας αὐτοῦ ※καὶ συριεῖ αὐτὸν ἐκ τοῦ τόπου αὐτοῦ.⸕<verse eID="rlxx_job.27.23" />
+      </p>
+      <chapter eID="rlxx_job.27" />
+      <chapter sID="rlxx_job.28" osisID="rlxx_job.28" />
+      <title>Chapter 28</title>
+      <p>
+        <verse sID="rlxx_job.28.1" osisID="rlxx_job.28.1" />ἔστιν γὰρ ἀργυρίῳ τόπος, ὅθεν γίνεται, τόπος δὲ χρυσίῳ, ὅθεν διηθεῖται.<verse eID="rlxx_job.28.1" />
+        <verse sID="rlxx_job.28.2" osisID="rlxx_job.28.2" />σίδηρος μὲν γὰρ ἐκ γῆς γίνεται, χαλκὸς δὲ ἴσα λίθῳ λατομεῖται.<verse eID="rlxx_job.28.2" />
+        <verse sID="rlxx_job.28.3" osisID="rlxx_job.28.3" />τάξιν ἔθετο σκότει, ※καὶ πᾶν πέρας αὐτὸς ἐξακριβάζεται· ※λίθος σκοτία καὶ σκιὰ θανάτου,<verse eID="rlxx_job.28.3" />
+        <verse sID="rlxx_job.28.4" osisID="rlxx_job.28.4" />※διακοπὴ χειμάρρου ἀπὸ κονίας·⸕ οἱ δὲ ἐπιλανθανόμενοι ὁδὸν δικαίαν ἠσθένησαν ἐκ βροτῶν.<verse eID="rlxx_job.28.4" />
+        <verse sID="rlxx_job.28.5" osisID="rlxx_job.28.5" />※γῆ, ἐξ αὐτῆς ἐξελεύσεται ἄρτος, ※ὑποκάτω αὐτῆς ἐστράφη ὡσεὶ πῦρ.<verse eID="rlxx_job.28.5" />
+        <verse sID="rlxx_job.28.6" osisID="rlxx_job.28.6" />※τόπος σαπφείρου οἱ λίθοι αὐτῆς, ※καὶ χῶμα, χρυσίον αὐτῷ.<verse eID="rlxx_job.28.6" />
+        <verse sID="rlxx_job.28.7" osisID="rlxx_job.28.7" />※τρίβος, οὐκ ἔγνω αὐτὴν πετεινόν, ※καὶ οὐ παρέβλεψεν αὐτὴν ὀφθαλμὸς γυπός·<verse eID="rlxx_job.28.7" />
+        <verse sID="rlxx_job.28.8" osisID="rlxx_job.28.8" />※οὐκ ἐπάτησαν αὐτὴν υἱοὶ ἀλαζόνων, ※οὐ παρῆλθεν ἐπ' αὐτῆς λέων.<verse eID="rlxx_job.28.8" />
+        <verse sID="rlxx_job.28.9" osisID="rlxx_job.28.9" />※ἐν ἀκροτόμῳ ἐξέτεινεν χεῖρα αὐτοῦ,⸕ κατέστρεψεν δὲ ἐκ ῥιζῶν ὄρη·<verse eID="rlxx_job.28.9" />
+        <verse sID="rlxx_job.28.10" osisID="rlxx_job.28.10" />δίνας δὲ ποταμῶν ἔρρηξεν, πᾶν δὲ ἔντιμον εἶδέν μου ὁ ὀφθαλμός·<verse eID="rlxx_job.28.10" />
+        <verse sID="rlxx_job.28.11" osisID="rlxx_job.28.11" />βάθη δὲ ποταμῶν ἀνεκάλυψεν, ἔδειξεν δὲ ἑαυτοῦ δύναμιν εἰς φῶς.<verse eID="rlxx_job.28.11" />
+        <verse sID="rlxx_job.28.12" osisID="rlxx_job.28.12" />ἡ δὲ σοφία πόθεν εὑρέθη; ποῖος δὲ τόπος ἐστὶν τῆς ἐπιστήμης;<verse eID="rlxx_job.28.12" />
+        <verse sID="rlxx_job.28.13" osisID="rlxx_job.28.13" />οὐκ οἶδεν βροτὸς ὁδὸν αὐτῆς, οὐδὲ μὴ εὑρεθῇ ἐν ἀνθρώποις.<verse eID="rlxx_job.28.13" />
+        <verse sID="rlxx_job.28.14" osisID="rlxx_job.28.14" />※ἄβυσσος εἶπεν Οὐκ ἔστιν ἐν ἐμοί· ※καὶ θάλασσα εἶπεν Οὐκ ἔστιν μετ' ἐμοῦ.<verse eID="rlxx_job.28.14" />
+        <verse sID="rlxx_job.28.15" osisID="rlxx_job.28.15" />※οὐ δώσει συγκλεισμὸν ἀντ' αὐτῆς, ※καὶ οὐ σταθήσεται ἀργύριον ἀντάλλαγμα αὐτῆς·<verse eID="rlxx_job.28.15" />
+        <verse sID="rlxx_job.28.16" osisID="rlxx_job.28.16" />※καὶ οὐ συμβασταχθήσεται χρυσίῳ Ωφιρ, ※ἐν ὄνυχι τιμίῳ καὶ σαπφείρῳ·<verse eID="rlxx_job.28.16" />
+        <verse sID="rlxx_job.28.17" osisID="rlxx_job.28.17" />※οὐκ ἰσωθήσεται αὐτῇ χρυσίον καὶ ὕαλος ※καὶ τὸ ἄλλαγμα αὐτῆς σκεύη χρυσᾶ·<verse eID="rlxx_job.28.17" />
+        <verse sID="rlxx_job.28.18" osisID="rlxx_job.28.18" />※μετέωρα καὶ γαβις οὐ μνησθήσεται, ※καὶ ἕλκυσον σοφίαν ὑπὲρ τὰ ἐσώτατα·<verse eID="rlxx_job.28.18" />
+        <verse sID="rlxx_job.28.19" osisID="rlxx_job.28.19" />※οὐκ ἰσωθήσεται αὐτῇ τοπάζιον Αἰθιοπίας, ※χρυσίῳ καθαρῷ οὐ συμβασταχθήσεται.⸕<verse eID="rlxx_job.28.19" />
+        <verse sID="rlxx_job.28.20" osisID="rlxx_job.28.20" />ἡ δὲ σοφία πόθεν εὑρέθη; ποῖος δὲ τόπος ἐστὶν τῆς συνέσεως;<verse eID="rlxx_job.28.20" />
+        <verse sID="rlxx_job.28.21" osisID="rlxx_job.28.21" />λέληθεν πάντα ἄνθρωπον ※καὶ ἀπὸ πετεινῶν τοῦ οὐρανοῦ ἐκρύβη·<verse eID="rlxx_job.28.21" />
+        <verse sID="rlxx_job.28.22" osisID="rlxx_job.28.22" />※ἡ ἀπώλεια καὶ ὁ θάνατος εἶπαν⸕ Ἀκηκόαμεν δὲ αὐτῆς τὸ κλέος.<verse eID="rlxx_job.28.22" />
+        <verse sID="rlxx_job.28.23" osisID="rlxx_job.28.23" />ὁ θεὸς εὖ συνέστησεν αὐτῆς τὴν ὁδόν, αὐτὸς δὲ οἶδεν τὸν τόπον αὐτῆς·<verse eID="rlxx_job.28.23" />
+        <verse sID="rlxx_job.28.24" osisID="rlxx_job.28.24" />αὐτὸς γὰρ τὴν ὑπ' οὐρανὸν πᾶσαν ἐφορᾷ εἰδὼς τὰ ἐν τῇ γῇ πάντα, ἃ ἐποίησεν,<verse eID="rlxx_job.28.24" />
+        <verse sID="rlxx_job.28.25" osisID="rlxx_job.28.25" />ἀνέμων σταθμὸν ὕδατός τε μέτρα·<verse eID="rlxx_job.28.25" />
+        <verse sID="rlxx_job.28.26" osisID="rlxx_job.28.26" />ὅτε ἐποίησεν οὕτως, ὑετὸν ἠρίθμησεν ※καὶ ὁδὸν ἐν τινάγματι φωνάς·<verse eID="rlxx_job.28.26" />
+        <verse sID="rlxx_job.28.27" osisID="rlxx_job.28.27" />※τότε εἶδεν αὐτὴν καὶ ἐξηγήσατο αὐτήν,⸕ ἑτοιμάσας ἐξιχνίασεν.<verse eID="rlxx_job.28.27" />
+        <verse sID="rlxx_job.28.28" osisID="rlxx_job.28.28" />εἶπεν δὲ ἀνθρώπῳ Ἰδοὺ ἡ θεοσέβειά ἐστιν σοφία, τὸ δὲ ἀπέχεσθαι ἀπὸ κακῶν ἐστιν ἐπιστήμη.<verse eID="rlxx_job.28.28" />
+      </p>
+      <chapter eID="rlxx_job.28" />
+      <chapter sID="rlxx_job.29" osisID="rlxx_job.29" />
+      <title>Chapter 29</title>
+      <p>
+        <verse sID="rlxx_job.29.1" osisID="rlxx_job.29.1" />Ἔτι δὲ προσθεὶς Ιωβ εἶπεν τῷ προοιμίῳ<verse eID="rlxx_job.29.1" />
+        <verse sID="rlxx_job.29.2" osisID="rlxx_job.29.2" />Τίς ἄν με θείη κατὰ μῆνα ἔμπροσθεν ἡμερῶν, ὧν με ὁ θεὸς ἐφύλαξεν;<verse eID="rlxx_job.29.2" />
+        <verse sID="rlxx_job.29.3" osisID="rlxx_job.29.3" />ὡς ὅτε ηὔγει ὁ λύχνος αὐτοῦ ὑπὲρ κεφαλῆς μου, ὅτε τῷ φωτὶ αὐτοῦ ἐπορευόμην ἐν σκότει·<verse eID="rlxx_job.29.3" />
+        <verse sID="rlxx_job.29.4" osisID="rlxx_job.29.4" />ὅτε ἤμην ἐπιβρίθων ὁδοῖς, ὅτε ὁ θεὸς ἐπισκοπὴν ἐποιεῖτο τοῦ οἴκου μου·<verse eID="rlxx_job.29.4" />
+        <verse sID="rlxx_job.29.5" osisID="rlxx_job.29.5" />ὅτε ἤμην ὑλώδης λίαν, κύκλῳ δέ μου οἱ παῖδες·<verse eID="rlxx_job.29.5" />
+        <verse sID="rlxx_job.29.6" osisID="rlxx_job.29.6" />ὅτε ἐχέοντό μου αἱ ὁδοὶ βουτύρῳ, τὰ δὲ ὄρη μου ἐχέοντο γάλακτι·<verse eID="rlxx_job.29.6" />
+        <verse sID="rlxx_job.29.7" osisID="rlxx_job.29.7" />ὅτε ἐξεπορευόμην ὄρθριος ἐν πόλει, ἐν δὲ πλατείαις ἐτίθετό μου ὁ δίφρος.<verse eID="rlxx_job.29.7" />
+        <verse sID="rlxx_job.29.8" osisID="rlxx_job.29.8" />ἰδόντες με νεανίσκοι ἐκρύβησαν, πρεσβῦται δὲ πάντες ἔστησαν·<verse eID="rlxx_job.29.8" />
+        <verse sID="rlxx_job.29.9" osisID="rlxx_job.29.9" />ἁδροὶ δὲ ἐπαύσαντο λαλοῦντες δάκτυλον ἐπιθέντες ἐπὶ στόματι.<verse eID="rlxx_job.29.9" />
+        <verse sID="rlxx_job.29.10" osisID="rlxx_job.29.10" />οἱ δὲ ἀκούσαντες ἐμακάρισάν με, ※καὶ γλῶσσα αὐτῶν τῷ λάρυγγι αὐτῶν ἐκολλήθη·<verse eID="rlxx_job.29.10" />
+        <verse sID="rlxx_job.29.11" osisID="rlxx_job.29.11" />※ὅτι οὖς ἤκουσεν καὶ ἐμακάρισέν με,⸕ ὀφθαλμὸς δὲ ἰδών με ἐξέκλινεν.<verse eID="rlxx_job.29.11" />
+        <verse sID="rlxx_job.29.12" osisID="rlxx_job.29.12" />διέσωσα γὰρ πτωχὸν ἐκ χειρὸς δυνάστου καὶ ὀρφανῷ, ᾧ οὐκ ἦν βοηθός, ἐβοήθησα·<verse eID="rlxx_job.29.12" />
+        <verse sID="rlxx_job.29.13" osisID="rlxx_job.29.13" />※εὐλογία ἀπολλυμένου ἐπ' ἐμὲ ἔλθοι,⸕ στόμα δὲ χήρας με εὐλόγησεν.<verse eID="rlxx_job.29.13" />
+        <verse sID="rlxx_job.29.14" osisID="rlxx_job.29.14" />δικαιοσύνην δὲ ἐνεδεδύκειν, ἠμφιασάμην δὲ κρίμα ἴσα διπλοΐδι.<verse eID="rlxx_job.29.14" />
+        <verse sID="rlxx_job.29.15" osisID="rlxx_job.29.15" />ὀφθαλμὸς ἤμην τυφλῶν, ποὺς δὲ χωλῶν.<verse eID="rlxx_job.29.15" />
+        <verse sID="rlxx_job.29.16" osisID="rlxx_job.29.16" />ἐγὼ ἤμην πατὴρ ἀδυνάτων, δίκην δέ, ἣν οὐκ ᾔδειν, ἐξιχνίασα·<verse eID="rlxx_job.29.16" />
+        <verse sID="rlxx_job.29.17" osisID="rlxx_job.29.17" />συνέτριψα δὲ μύλας ἀδίκων, ἐκ δὲ μέσου τῶν ὀδόντων αὐτῶν ἅρπαγμα ἐξέσπασα.<verse eID="rlxx_job.29.17" />
+        <verse sID="rlxx_job.29.18" osisID="rlxx_job.29.18" />εἶπα δέ Ἡ ἡλικία μου γηράσει, ὥσπερ στέλεχος φοίνικος πολὺν χρόνον βιώσω·<verse eID="rlxx_job.29.18" />
+        <verse sID="rlxx_job.29.19" osisID="rlxx_job.29.19" />※ἡ ῥίζα μου διήνοικται ἐπὶ ὕδατος, ※καὶ δρόσος αὐλισθήσεται ἐν τῷ θερισμῷ μου·<verse eID="rlxx_job.29.19" />
+        <verse sID="rlxx_job.29.20" osisID="rlxx_job.29.20" />※ἡ δόξα μου καινὴ μετ' ἐμοῦ, ※καὶ τὸ τόξον μου ἐν χειρὶ αὐτοῦ πορεύσεται.⸕<verse eID="rlxx_job.29.20" />
+        <verse sID="rlxx_job.29.21" osisID="rlxx_job.29.21" />ἐμοῦ ἀκούσαντες προσέσχον, ἐσιώπησαν δὲ ἐπὶ τῇ ἐμῇ βουλῇ·<verse eID="rlxx_job.29.21" />
+        <verse sID="rlxx_job.29.22" osisID="rlxx_job.29.22" />ἐπὶ δὲ τῷ ἐμῷ ῥήματι οὐ προσέθεντο, περιχαρεῖς δὲ ἐγίνοντο, ὁπόταν αὐτοῖς ἐλάλουν·<verse eID="rlxx_job.29.22" />
+        <verse sID="rlxx_job.29.23" osisID="rlxx_job.29.23" />ὥσπερ γῆ διψῶσα προσδεχομένη τὸν ὑετόν, οὕτως οὗτοι τὴν ἐμὴν λαλιάν.<verse eID="rlxx_job.29.23" />
+        <verse sID="rlxx_job.29.24" osisID="rlxx_job.29.24" />ἐὰν γελάσω πρὸς αὐτούς, οὐ μὴ πιστεύσωσιν, ※καὶ φῶς τοῦ προσώπου μου οὐκ ἀπέπιπτεν·<verse eID="rlxx_job.29.24" />
+        <verse sID="rlxx_job.29.25" osisID="rlxx_job.29.25" />※ἐξελεξάμην ὁδὸν αὐτῶν καὶ ἐκάθισα ἄρχων ※καὶ κατεσκήνουν ὡσεὶ βασιλεὺς ἐν μονοζώνοις ὃν τρόπον παθεινοὺς παρακαλῶν.⸕<verse eID="rlxx_job.29.25" />
+      </p>
+      <chapter eID="rlxx_job.29" />
+      <chapter sID="rlxx_job.30" osisID="rlxx_job.30" />
+      <title>Chapter 30</title>
+      <p>
+        <verse sID="rlxx_job.30.1" osisID="rlxx_job.30.1" />νυνὶ δὲ κατεγέλασάν μου, ἐλάχιστοι νῦν νουθετοῦσίν με ἐν μέρει, ※ὧν ἐξουδένουν πατέρας αὐτῶν,⸕ οὓς οὐχ ἡγησάμην εἶναι ἀξίους κυνῶν τῶν ἐμῶν νομάδων.<verse eID="rlxx_job.30.1" />
+        <verse sID="rlxx_job.30.2" osisID="rlxx_job.30.2" />※καί γε ἰσχὺς χειρῶν αὐτῶν ἵνα τί μοι; ※ἐπ' αὐτοὺς ἀπώλετο συντέλεια<verse eID="rlxx_job.30.2" />
+        <verse sID="rlxx_job.30.3" osisID="rlxx_job.30.3" />※ἐν ἐνδείᾳ καὶ λιμῷ ἄγονος· ※οἱ φεύγοντες ἄνυδρον ἐχθὲς συνοχὴν καὶ ταλαιπωρίαν,<verse eID="rlxx_job.30.3" />
+        <verse sID="rlxx_job.30.4" osisID="rlxx_job.30.4" />※οἱ περικλῶντες ἅλιμα ἐπὶ ἠχοῦντι,⸕ οἵτινες ἅλιμα ἦν αὐτῶν τὰ σῖτα, ἄτιμοι δὲ καὶ πεφαυλισμένοι, ἐνδεεῖς παντὸς ἀγαθοῦ, οἳ καὶ ῥίζας ξύλων ἐμασῶντο ὑπὸ λιμοῦ μεγάλου.<verse eID="rlxx_job.30.4" />
+        <verse sID="rlxx_job.30.5" osisID="rlxx_job.30.5" />ἐπανέστησάν μοι κλέπται,<verse eID="rlxx_job.30.5" />
+        <verse sID="rlxx_job.30.6" osisID="rlxx_job.30.6" />ὧν οἱ οἶκοι αὐτῶν ἦσαν τρῶγλαι πετρῶν·<verse eID="rlxx_job.30.6" />
+        <verse sID="rlxx_job.30.7" osisID="rlxx_job.30.7" />※ἀνὰ μέσον εὐήχων βοήσονται·⸕ οἳ ὑπὸ φρύγανα ἄγρια διῃτῶντο,<verse eID="rlxx_job.30.7" />
+        <verse sID="rlxx_job.30.8" osisID="rlxx_job.30.8" />ἀφρόνων υἱοὶ καὶ ἀτίμων ὄνομα καὶ κλέος ἐσβεσμένον ἀπὸ γῆς.<verse eID="rlxx_job.30.8" />
+        <verse sID="rlxx_job.30.9" osisID="rlxx_job.30.9" />νυνὶ δὲ κιθάρα ἐγώ εἰμι αὐτῶν, καὶ ἐμὲ θρύλημα ἔχουσιν·<verse eID="rlxx_job.30.9" />
+        <verse sID="rlxx_job.30.10" osisID="rlxx_job.30.10" />ἐβδελύξαντο δέ με ἀποστάντες μακράν, ἀπὸ δὲ προσώπου μου οὐκ ἐφείσαντο πτύελον.<verse eID="rlxx_job.30.10" />
+        <verse sID="rlxx_job.30.11" osisID="rlxx_job.30.11" />ἀνοίξας γὰρ φαρέτραν αὐτοῦ ἐκάκωσέν με, ※καὶ χαλινὸν τοῦ προσώπου μου ἐξαπέστειλαν.<verse eID="rlxx_job.30.11" />
+        <verse sID="rlxx_job.30.12" osisID="rlxx_job.30.12" />※ἐπὶ δεξιῶν βλαστοῦ ἐπανέστησαν, ※πόδα αὐτῶν ἐξέτειναν καὶ ὡδοποίησαν ἐπ' ἐμὲ τρίβους ἀπωλείας αὐτῶν.<verse eID="rlxx_job.30.12" />
+        <verse sID="rlxx_job.30.13" osisID="rlxx_job.30.13" />※ἐξετρίβησαν τρίβοι μου,⸕ ἐξέδυσεν γάρ μου τὴν στολήν·<verse eID="rlxx_job.30.13" />
+        <verse sID="rlxx_job.30.14" osisID="rlxx_job.30.14" />βέλεσιν αὐτοῦ κατηκόντισέν με, κέχρηταί μοι ὡς βούλεται, ἐν ὀδύναις πέφυρμαι.<verse eID="rlxx_job.30.14" />
+        <verse sID="rlxx_job.30.15" osisID="rlxx_job.30.15" />ἐπιστρέφονται δέ μου αἱ ὀδύναι, ᾤχετό μου ἡ ἐλπὶς ὥσπερ πνεῦμα καὶ ὥσπερ νέφος ἡ σωτηρία μου.<verse eID="rlxx_job.30.15" />
+        <verse sID="rlxx_job.30.16" osisID="rlxx_job.30.16" />※καὶ νῦν ἐπ' ἐμὲ ἐκχυθήσεται ἡ ψυχή μου,⸕ ἔχουσιν δέ με ἡμέραι ὀδυνῶν·<verse eID="rlxx_job.30.16" />
+        <verse sID="rlxx_job.30.17" osisID="rlxx_job.30.17" />νυκτὶ δέ μου τὰ ὀστᾶ συγκέκαυται, τὰ δὲ νεῦρά μου διαλέλυται.<verse eID="rlxx_job.30.17" />
+        <verse sID="rlxx_job.30.18" osisID="rlxx_job.30.18" />ἐν πολλῇ ἰσχύι ἐπελάβετό μου τῆς στολῆς, ※ὥσπερ τὸ περιστόμιον τοῦ χιτῶνός μου περιέσχεν με.⸕<verse eID="rlxx_job.30.18" />
+        <verse sID="rlxx_job.30.19" osisID="rlxx_job.30.19" />ἥγησαι δέ με ἴσα πηλῷ, ἐν γῇ καὶ σποδῷ μου ἡ μερίς·<verse eID="rlxx_job.30.19" />
+        <verse sID="rlxx_job.30.20" osisID="rlxx_job.30.20" />κέκραγα δὲ πρὸς σὲ καὶ οὐκ εἰσακούεις μου, ※ἔστησαν καὶ κατενόησάν με·⸕<verse eID="rlxx_job.30.20" />
+        <verse sID="rlxx_job.30.21" osisID="rlxx_job.30.21" />ἐπέβης δέ μοι ἀνελεημόνως, χειρὶ κραταιᾷ με ἐμαστίγωσας·<verse eID="rlxx_job.30.21" />
+        <verse sID="rlxx_job.30.22" osisID="rlxx_job.30.22" />ἔταξας δέ με ἐν ὀδύναις ※καὶ ἀπέρριψάς με ἀπὸ σωτηρίας.⸕<verse eID="rlxx_job.30.22" />
+        <verse sID="rlxx_job.30.23" osisID="rlxx_job.30.23" />οἶδα γὰρ ὅτι θάνατός με ἐκτρίψει· οἰκία γὰρ παντὶ θνητῷ γῆ.<verse eID="rlxx_job.30.23" />
+        <verse sID="rlxx_job.30.24" osisID="rlxx_job.30.24" />εἰ γὰρ ὄφελον δυναίμην ἐμαυτὸν χειρώσασθαι, ἢ δεηθείς γε ἑτέρου, καὶ ποιήσει μοι τοῦτο.<verse eID="rlxx_job.30.24" />
+        <verse sID="rlxx_job.30.25" osisID="rlxx_job.30.25" />ἐγὼ δὲ ἐπὶ παντὶ ἀδυνάτῳ ἔκλαυσα, ἐστέναξα δὲ ἰδὼν ἄνδρα ἐν ἀνάγκαις.<verse eID="rlxx_job.30.25" />
+        <verse sID="rlxx_job.30.26" osisID="rlxx_job.30.26" />ἐγὼ δὲ ἐπέχων ἀγαθοῖς, ἰδοὺ συνήντησάν μοι μᾶλλον ἡμέραι κακῶν.<verse eID="rlxx_job.30.26" />
+        <verse sID="rlxx_job.30.27" osisID="rlxx_job.30.27" />※ἡ κοιλία μου ἐξέζεσεν καὶ οὐ σιωπήσεται, ※προέφθασάν με ἡμέραι πτωχείας.⸕<verse eID="rlxx_job.30.27" />
+        <verse sID="rlxx_job.30.28" osisID="rlxx_job.30.28" />στένων πεπόρευμαι ἄνευ φιμοῦ, ἕστηκα δὲ ἐν ἐκκλησίᾳ κεκραγώς.<verse eID="rlxx_job.30.28" />
+        <verse sID="rlxx_job.30.29" osisID="rlxx_job.30.29" />ἀδελφὸς γέγονα σειρήνων, ἑταῖρος δὲ στρουθῶν.<verse eID="rlxx_job.30.29" />
+        <verse sID="rlxx_job.30.30" osisID="rlxx_job.30.30" />τὸ δὲ δέρμα μου ἐσκότωται μεγάλως, τὰ δὲ ὀστᾶ μου ἀπὸ καύματος.<verse eID="rlxx_job.30.30" />
+        <verse sID="rlxx_job.30.31" osisID="rlxx_job.30.31" />ἀπέβη δὲ εἰς πάθος μου ἡ κιθάρα, ὁ δὲ ψαλμός μου εἰς κλαυθμὸν ἐμοί.<verse eID="rlxx_job.30.31" />
+      </p>
+      <chapter eID="rlxx_job.30" />
+      <chapter sID="rlxx_job.31" osisID="rlxx_job.31" />
+      <title>Chapter 31</title>
+      <p>
+        <verse sID="rlxx_job.31.1" osisID="rlxx_job.31.1" />※διαθήκην ἐθέμην τοῖς ὀφθαλμοῖς μου ※καὶ οὐ συνήσω ἐπὶ παρθένον.<verse eID="rlxx_job.31.1" />
+        <verse sID="rlxx_job.31.2" osisID="rlxx_job.31.2" />※καὶ τί ἐμέρισεν ὁ θεὸς ἀπάνωθεν ※καὶ κληρονομία ἱκανοῦ ἐξ ὑψίστων;<verse eID="rlxx_job.31.2" />
+        <verse sID="rlxx_job.31.3" osisID="rlxx_job.31.3" />※οὐχὶ ἀπώλεια τῷ ἀδίκῳ ※καὶ ἀπαλλοτρίωσις τοῖς ποιοῦσιν ἀνομίαν;<verse eID="rlxx_job.31.3" />
+        <verse sID="rlxx_job.31.4" osisID="rlxx_job.31.4" />※οὐχὶ αὐτὸς ὄψεται ὁδόν μου ※καὶ πάντα τὰ διαβήματά μου ἐξαριθμήσεται;⸕<verse eID="rlxx_job.31.4" />
+        <verse sID="rlxx_job.31.5" osisID="rlxx_job.31.5" />εἰ δὲ ἤμην πεπορευμένος μετὰ γελοιαστῶν, εἰ δὲ καὶ ἐσπούδασεν ὁ πούς μου εἰς δόλον,<verse eID="rlxx_job.31.5" />
+        <verse sID="rlxx_job.31.6" osisID="rlxx_job.31.6" />ἱσταίη με ἄρα ἐν ζυγῷ δικαίῳ, οἶδεν δὲ ὁ κύριος τὴν ἀκακίαν μου.<verse eID="rlxx_job.31.6" />
+        <verse sID="rlxx_job.31.7" osisID="rlxx_job.31.7" />εἰ ἐξέκλινεν ὁ πούς μου ἐκ τῆς ὁδοῦ, εἰ δὲ καὶ τῷ ὀφθαλμῷ ἐπηκολούθησεν ἡ καρδία μου, εἰ δὲ καὶ ταῖς χερσίν μου ἡψάμην δώρων,<verse eID="rlxx_job.31.7" />
+        <verse sID="rlxx_job.31.8" osisID="rlxx_job.31.8" />σπείραιμι ἄρα καὶ ἄλλοι φάγοισαν, ἄρριζος δὲ γενοίμην ἐπὶ γῆς.<verse eID="rlxx_job.31.8" />
+        <verse sID="rlxx_job.31.9" osisID="rlxx_job.31.9" />εἰ ἐξηκολούθησεν ἡ καρδία μου γυναικὶ ἀνδρὸς ἑτέρου, εἰ καὶ ἐγκάθετος ἐγενόμην ἐπὶ θύραις αὐτῆς,<verse eID="rlxx_job.31.9" />
+        <verse sID="rlxx_job.31.10" osisID="rlxx_job.31.10" />ἀρέσαι ἄρα καὶ ἡ γυνή μου ἑτέρῳ, τὰ δὲ νήπιά μου ταπεινωθείη·<verse eID="rlxx_job.31.10" />
+        <verse sID="rlxx_job.31.11" osisID="rlxx_job.31.11" />θυμὸς γὰρ ὀργῆς ἀκατάσχετος τὸ μιᾶναι ἀνδρὸς γυναῖκα·<verse eID="rlxx_job.31.11" />
+        <verse sID="rlxx_job.31.12" osisID="rlxx_job.31.12" />πῦρ γάρ ἐστιν καιόμενον ἐπὶ πάντων τῶν μερῶν, οὗ δ' ἂν ἐπέλθῃ, ἐκ ῥιζῶν ἀπώλεσεν.<verse eID="rlxx_job.31.12" />
+        <verse sID="rlxx_job.31.13" osisID="rlxx_job.31.13" />εἰ δὲ καὶ ἐφαύλισα κρίμα θεράποντός μου ἢ θεραπαίνης κρινομένων αὐτῶν πρός με,<verse eID="rlxx_job.31.13" />
+        <verse sID="rlxx_job.31.14" osisID="rlxx_job.31.14" />τί γὰρ ποιήσω, ἐὰν ἔτασίν μου ποιήσηται ὁ κύριος; ἐὰν δὲ καὶ ἐπισκοπήν, τίνα ἀπόκρισιν ποιήσομαι;<verse eID="rlxx_job.31.14" />
+        <verse sID="rlxx_job.31.15" osisID="rlxx_job.31.15" />πότερον οὐχ ὡς καὶ ἐγὼ ἐγενόμην ἐν γαστρί, καὶ ἐκεῖνοι γεγόνασιν; γεγόναμεν δὲ ἐν τῇ αὐτῇ κοιλίᾳ.<verse eID="rlxx_job.31.15" />
+        <verse sID="rlxx_job.31.16" osisID="rlxx_job.31.16" />ἀδύνατοι δὲ χρείαν, ἥν ποτ' εἶχον, οὐκ ἀπέτυχον, χήρας δὲ τὸν ὀφθαλμὸν οὐκ ἐξέτηξα.<verse eID="rlxx_job.31.16" />
+        <verse sID="rlxx_job.31.17" osisID="rlxx_job.31.17" />εἰ δὲ καὶ τὸν ψωμόν μου ἔφαγον μόνος καὶ οὐχὶ ὀρφανῷ μετέδωκα·<verse eID="rlxx_job.31.17" />
+        <verse sID="rlxx_job.31.18" osisID="rlxx_job.31.18" />※ὅτι ἐκ νεότητός μου ἐξέτρεφον ὡς πατὴρ ※καὶ ἐκ γαστρὸς μητρός μου ὡδήγησα·⸕<verse eID="rlxx_job.31.18" />
+        <verse sID="rlxx_job.31.19" osisID="rlxx_job.31.19" />εἰ δὲ καὶ ὑπερεῖδον γυμνὸν ἀπολλύμενον καὶ οὐκ ἠμφίασα,<verse eID="rlxx_job.31.19" />
+        <verse sID="rlxx_job.31.20" osisID="rlxx_job.31.20" />ἀδύνατοι δὲ εἰ μὴ εὐλόγησάν με, ἀπὸ δὲ κουρᾶς ἀμνῶν μου ἐθερμάνθησαν οἱ ὦμοι αὐτῶν,<verse eID="rlxx_job.31.20" />
+        <verse sID="rlxx_job.31.21" osisID="rlxx_job.31.21" />εἰ ἐπῆρα ὀρφανῷ χεῖρα πεποιθὼς ὅτι πολλή μοι βοήθεια περίεστιν,<verse eID="rlxx_job.31.21" />
+        <verse sID="rlxx_job.31.22" osisID="rlxx_job.31.22" />ἀποσταίη ἄρα ὁ ὦμός μου ἀπὸ τῆς κλειδός, ὁ δὲ βραχίων μου ἀπὸ τοῦ ἀγκῶνός μου συντριβείη.<verse eID="rlxx_job.31.22" />
+        <verse sID="rlxx_job.31.23" osisID="rlxx_job.31.23" />φόβος γὰρ κυρίου συνέσχεν με, ※καὶ ἀπὸ τοῦ λήμματος αὐτοῦ οὐχ ὑποίσω.<verse eID="rlxx_job.31.23" />
+        <verse sID="rlxx_job.31.24" osisID="rlxx_job.31.24" />※εἰ ἔταξα χρυσίον ἰσχύν μου,⸕ εἰ δὲ καὶ λίθῳ πολυτελεῖ ἐπεποίθησα,<verse eID="rlxx_job.31.24" />
+        <verse sID="rlxx_job.31.25" osisID="rlxx_job.31.25" />εἰ δὲ καὶ εὐφράνθην πολλοῦ πλούτου μοι γενομένου, εἰ δὲ καὶ ἐπ' ἀναριθμήτοις ἐθέμην χεῖρά μου,<verse eID="rlxx_job.31.25" />
+        <verse sID="rlxx_job.31.26" osisID="rlxx_job.31.26" />ἦ οὐχ ὁρῶ μὲν ἥλιον τὸν ἐπιφαύσκοντα ἐκλείποντα, σελήνην δὲ φθίνουσαν; οὐ γὰρ ἐπ' αὐτοῖς ἐστιν.<verse eID="rlxx_job.31.26" />
+        <verse sID="rlxx_job.31.27" osisID="rlxx_job.31.27" />※καὶ εἰ ἠπατήθη λάθρᾳ ἡ καρδία μου,⸕ εἰ δὲ καὶ χεῖρά μου ἐπιθεὶς ἐπὶ στόματί μου ἐφίλησα,<verse eID="rlxx_job.31.27" />
+        <verse sID="rlxx_job.31.28" osisID="rlxx_job.31.28" />καὶ τοῦτό μοι ἄρα ἀνομία ἡ μεγίστη λογισθείη, ὅτι ἐψευσάμην ἐναντίον κυρίου τοῦ ὑψίστου.<verse eID="rlxx_job.31.28" />
+        <verse sID="rlxx_job.31.29" osisID="rlxx_job.31.29" />εἰ δὲ καὶ ἐπιχαρὴς ἐγενόμην πτώματι ἐχθρῶν μου καὶ εἶπεν ἡ καρδία μου Εὖγε,<verse eID="rlxx_job.31.29" />
+        <verse sID="rlxx_job.31.30" osisID="rlxx_job.31.30" />ἀκούσαι ἄρα τὸ οὖς μου τὴν κατάραν μου, θρυληθείην δὲ ἄρα ὑπὸ λαοῦ μου κακούμενος.<verse eID="rlxx_job.31.30" />
+        <verse sID="rlxx_job.31.31" osisID="rlxx_job.31.31" />εἰ δὲ καὶ πολλάκις εἶπον αἱ θεράπαιναί μου Τίς ἂν δῴη ἡμῖν τῶν σαρκῶν αὐτοῦ πλησθῆναι; λίαν μου χρηστοῦ ὄντος·<verse eID="rlxx_job.31.31" />
+        <verse sID="rlxx_job.31.32" osisID="rlxx_job.31.32" />ἔξω δὲ οὐκ ηὐλίζετο ξένος, ἡ δὲ θύρα μου παντὶ ἐλθόντι ἀνέῳκτο.<verse eID="rlxx_job.31.32" />
+        <verse sID="rlxx_job.31.33" osisID="rlxx_job.31.33" />εἰ δὲ καὶ ἁμαρτὼν ἀκουσίως ἔκρυψα τὴν ἁμαρτίαν μου,<verse eID="rlxx_job.31.33" />
+        <verse sID="rlxx_job.31.34" osisID="rlxx_job.31.34" />οὐ γὰρ διετράπην πολυοχλίαν πλήθους τοῦ μὴ ἐξαγορεῦσαι ἐνώπιον αὐτῶν, εἰ δὲ καὶ εἴασα ἀδύνατον ἐξελθεῖν θύραν μου κόλπῳ κενῷ,<verse eID="rlxx_job.31.34" />
+        <verse sID="rlxx_job.31.35" osisID="rlxx_job.31.35" />※τίς δῴη ἀκούοντά μου;⸕ χεῖρα δὲ κυρίου εἰ μὴ ἐδεδοίκειν, συγγραφὴν δέ, ἣν εἶχον κατά τινος,<verse eID="rlxx_job.31.35" />
+        <verse sID="rlxx_job.31.36" osisID="rlxx_job.31.36" />ἐπ' ὤμοις ἂν περιθέμενος στέφανον ἀνεγίνωσκον,<verse eID="rlxx_job.31.36" />
+        <verse sID="rlxx_job.31.37" osisID="rlxx_job.31.37" />καὶ εἰ μὴ ῥήξας αὐτὴν ἀπέδωκα οὐθὲν λαβὼν παρὰ χρεοφειλέτου,<verse eID="rlxx_job.31.37" />
+        <verse sID="rlxx_job.31.38" osisID="rlxx_job.31.38" />εἰ ἐπ' ἐμοί ποτε ἡ γῆ ἐστέναξεν, εἰ δὲ καὶ οἱ αὔλακες αὐτῆς ἔκλαυσαν ὁμοθυμαδόν,<verse eID="rlxx_job.31.38" />
+        <verse sID="rlxx_job.31.39" osisID="rlxx_job.31.39" />εἰ δὲ καὶ τὴν ἰσχὺν αὐτῆς ἔφαγον μόνος ἄνευ τιμῆς, εἰ δὲ καὶ ψυχὴν κυρίου τῆς γῆς ἐκβαλὼν ἐλύπησα,<verse eID="rlxx_job.31.39" />
+        <verse sID="rlxx_job.31.40" osisID="rlxx_job.31.40" />ἀντὶ πυροῦ ἄρα ἐξέλθοι μοι κνίδη, ἀντὶ δὲ κριθῆς βάτος. Καὶ ἐπαύσατο Ιωβ ῥήμασιν.<verse eID="rlxx_job.31.40" />
+      </p>
+      <chapter eID="rlxx_job.31" />
+      <chapter sID="rlxx_job.32" osisID="rlxx_job.32" />
+      <title>Chapter 32</title>
+      <p>
+        <verse sID="rlxx_job.32.1" osisID="rlxx_job.32.1" />Ἡσύχασαν δὲ καὶ οἱ τρεῖς φίλοι αὐτοῦ ἔτι ἀντειπεῖν Ιωβ· ἦν γὰρ Ιωβ δίκαιος ἐναντίον αὐτῶν.<verse eID="rlxx_job.32.1" />
+        <verse sID="rlxx_job.32.2" osisID="rlxx_job.32.2" />ὠργίσθη δὲ Ελιους ὁ τοῦ Βαραχιηλ ὁ Βουζίτης ἐκ τῆς συγγενείας Ραμ τῆς Αυσίτιδος χώρας, ὠργίσθη δὲ τῷ Ιωβ σφόδρα, διότι ἀπέφηνεν ἑαυτὸν δίκαιον ἐναντίον κυρίου·<verse eID="rlxx_job.32.2" />
+        <verse sID="rlxx_job.32.3" osisID="rlxx_job.32.3" />καὶ κατὰ τῶν τριῶν δὲ φίλων ὠργίσθη σφόδρα, διότι οὐκ ἠδυνήθησαν ἀποκριθῆναι ἀντίθετα Ιωβ καὶ ἔθεντο αὐτὸν εἶναι ἀσεβῆ.<verse eID="rlxx_job.32.3" />
+        <verse sID="rlxx_job.32.4" osisID="rlxx_job.32.4" />Ελιους δὲ ὑπέμεινεν δοῦναι ἀπόκρισιν Ιωβ, ※ὅτι πρεσβύτεροι αὐτοῦ εἰσιν ἡμέραις.<verse eID="rlxx_job.32.4" />
+        <verse sID="rlxx_job.32.5" osisID="rlxx_job.32.5" />※καὶ εἶδεν Ελιους ὅτι οὐκ ἔστιν ἀπόκρισις ※ἐν στόματι τῶν τριῶν ἀνδρῶν, ※καὶ ἐθυμώθη ὀργὴ αὐτοῦ.⸕<verse eID="rlxx_job.32.5" />
+        <verse sID="rlxx_job.32.6" osisID="rlxx_job.32.6" />ὑπολαβὼν δὲ Ελιους ὁ τοῦ Βαραχιηλ ὁ Βουζίτης εἶπεν Νεώτερος μέν εἰμι τῷ χρόνῳ, ὑμεῖς δέ ἐστε πρεσβύτεροι· διὸ ἡσύχασα φοβηθεὶς τοῦ ὑμῖν ἀναγγεῖλαι τὴν ἐμαυτοῦ ἐπιστήμην·<verse eID="rlxx_job.32.6" />
+        <verse sID="rlxx_job.32.7" osisID="rlxx_job.32.7" />εἶπα δὲ ὅτι Ὁ χρόνος ἐστὶν ὁ λαλῶν, ἐν πολλοῖς δὲ ἔτεσιν οἴδασιν σοφίαν.<verse eID="rlxx_job.32.7" />
+        <verse sID="rlxx_job.32.8" osisID="rlxx_job.32.8" />ἀλλὰ πνεῦμά ἐστιν ἐν βροτοῖς, πνοὴ δὲ παντοκράτορός ἐστιν ἡ διδάσκουσα·<verse eID="rlxx_job.32.8" />
+        <verse sID="rlxx_job.32.9" osisID="rlxx_job.32.9" />οὐχ οἱ πολυχρόνιοί εἰσιν σοφοί, οὐδ' οἱ γέροντες οἴδασιν κρίμα.<verse eID="rlxx_job.32.9" />
+        <verse sID="rlxx_job.32.10" osisID="rlxx_job.32.10" />διὸ εἶπα Ἀκούσατέ μου, καὶ ἀναγγελῶ ὑμῖν ἃ οἶδα·<verse eID="rlxx_job.32.10" />
+        <verse sID="rlxx_job.32.11" osisID="rlxx_job.32.11" />ἐνωτίζεσθέ μου τὰ ῥήματα· ἐρῶ γὰρ ὑμῶν ἀκουόντων, ※ἄχρι οὗ ἐτάσητε λόγους.<verse eID="rlxx_job.32.11" />
+        <verse sID="rlxx_job.32.12" osisID="rlxx_job.32.12" />※καὶ μέχρι ὑμῶν συνήσω, ※καὶ ἰδοὺ οὐκ ἦν τῷ Ιωβ ἐλέγχων, ※ἀνταποκρινόμενος ῥήματα αὐτοῦ ἐξ ὑμῶν,⸕<verse eID="rlxx_job.32.12" />
+        <verse sID="rlxx_job.32.13" osisID="rlxx_job.32.13" />ἵνα μὴ εἴπητε Εὕρομεν σοφίαν κυρίῳ προσθέμενοι·<verse eID="rlxx_job.32.13" />
+        <verse sID="rlxx_job.32.14" osisID="rlxx_job.32.14" />ἀνθρώπῳ δὲ ἐπετρέψατε λαλῆσαι τοιαῦτα ῥήματα.–<verse eID="rlxx_job.32.14" />
+        <verse sID="rlxx_job.32.15" osisID="rlxx_job.32.15" />※ἐπτοήθησαν, οὐκ ἀπεκρίθησαν ἔτι, ※ἐπαλαίωσαν ἐξ αὐτῶν λόγους.<verse eID="rlxx_job.32.15" />
+        <verse sID="rlxx_job.32.16" osisID="rlxx_job.32.16" />※ὑπέμεινα, οὐ γὰρ ἐλάλησαν· ※ὅτι ἔστησαν, οὐκ ἀπεκρίθησαν.⸕<verse eID="rlxx_job.32.16" />
+        <verse sID="rlxx_job.32.17" osisID="rlxx_job.32.17" />Ὑπολαβὼν δὲ Ελιους λέγει<verse eID="rlxx_job.32.17" />
+        <verse sID="rlxx_job.32.18" osisID="rlxx_job.32.18" />Πάλιν λαλήσω· πλήρης γάρ εἰμι ῥημάτων, ὀλέκει γάρ με τὸ πνεῦμα τῆς γαστρός·<verse eID="rlxx_job.32.18" />
+        <verse sID="rlxx_job.32.19" osisID="rlxx_job.32.19" />ἡ δὲ γαστήρ μου ὥσπερ ἀσκὸς γλεύκους ζέων δεδεμένος ἢ ὥσπερ φυσητὴρ χαλκέως ἐρρηγώς.<verse eID="rlxx_job.32.19" />
+        <verse sID="rlxx_job.32.20" osisID="rlxx_job.32.20" />λαλήσω, ἵνα ἀναπαύσωμαι ἀνοίξας τὰ χείλη·<verse eID="rlxx_job.32.20" />
+        <verse sID="rlxx_job.32.21" osisID="rlxx_job.32.21" />ἄνθρωπον γὰρ οὐ μὴ αἰσχυνθῶ, ἀλλὰ μὴν οὐδὲ βροτὸν οὐ μὴ ἐντραπῶ·<verse eID="rlxx_job.32.21" />
+        <verse sID="rlxx_job.32.22" osisID="rlxx_job.32.22" />οὐ γὰρ ἐπίσταμαι θαυμάσαι πρόσωπον· εἰ δὲ μή, καὶ ἐμὲ σῆτες ἔδονται.<verse eID="rlxx_job.32.22" />
+      </p>
+      <chapter eID="rlxx_job.32" />
+      <chapter sID="rlxx_job.33" osisID="rlxx_job.33" />
+      <title>Chapter 33</title>
+      <p>
+        <verse sID="rlxx_job.33.1" osisID="rlxx_job.33.1" />οὐ μὴν δὲ ἀλλὰ ἄκουσον, Ιωβ, τὰ ῥήματά μου καὶ λαλιὰν ἐνωτίζου μου·<verse eID="rlxx_job.33.1" />
+        <verse sID="rlxx_job.33.2" osisID="rlxx_job.33.2" />ἰδοὺ γὰρ ἤνοιξα τὸ στόμα μου, καὶ ἐλάλησεν ἡ γλῶσσά μου.<verse eID="rlxx_job.33.2" />
+        <verse sID="rlxx_job.33.3" osisID="rlxx_job.33.3" />καθαρά μου ἡ καρδία ῥήμασιν, σύνεσις δὲ χειλέων μου καθαρὰ νοήσει.<verse eID="rlxx_job.33.3" />
+        <verse sID="rlxx_job.33.4" osisID="rlxx_job.33.4" />πνεῦμα θεῖον τὸ ποιῆσάν με, πνοὴ δὲ παντοκράτορος ἡ διδάσκουσά με.<verse eID="rlxx_job.33.4" />
+        <verse sID="rlxx_job.33.5" osisID="rlxx_job.33.5" />ἐὰν δύνῃ, δός μοι ἀπόκρισιν πρὸς ταῦτα· ὑπόμεινον, στῆθι κατ' ἐμὲ καὶ ἐγὼ κατὰ σέ.<verse eID="rlxx_job.33.5" />
+        <verse sID="rlxx_job.33.6" osisID="rlxx_job.33.6" />ἐκ πηλοῦ διήρτισαι σὺ ὡς καὶ ἐγώ, ἐκ τοῦ αὐτοῦ διηρτίσμεθα.<verse eID="rlxx_job.33.6" />
+        <verse sID="rlxx_job.33.7" osisID="rlxx_job.33.7" />οὐχ ὁ φόβος μού σε στροβήσει, οὐδὲ ἡ χείρ μου βαρεῖα ἔσται ἐπὶ σοί.<verse eID="rlxx_job.33.7" />
+        <verse sID="rlxx_job.33.8" osisID="rlxx_job.33.8" />※πλὴν εἶπας ἐν ὠσίν μου,⸕ φωνὴν ῥημάτων σου ἀκήκοα·<verse eID="rlxx_job.33.8" />
+        <verse sID="rlxx_job.33.9" osisID="rlxx_job.33.9" />διότι λέγεις Καθαρός εἰμι οὐχ ἁμαρτών, ἄμεμπτος δέ εἰμι, οὐ γὰρ ἠνόμησα·<verse eID="rlxx_job.33.9" />
+        <verse sID="rlxx_job.33.10" osisID="rlxx_job.33.10" />μέμψιν δὲ κατ' ἐμοῦ εὗρεν, ἥγηται δέ με ὥσπερ ὑπεναντίον·<verse eID="rlxx_job.33.10" />
+        <verse sID="rlxx_job.33.11" osisID="rlxx_job.33.11" />ἔθετο δὲ ἐν ξύλῳ τὸν πόδα μου, ἐφύλαξεν δέ μου πάσας τὰς ὁδούς.<verse eID="rlxx_job.33.11" />
+        <verse sID="rlxx_job.33.12" osisID="rlxx_job.33.12" />πῶς γὰρ λέγεις Δίκαιός εἰμι, καὶ οὐκ ἐπακήκοέν μου; αἰώνιος γάρ ἐστιν ὁ ἐπάνω βροτῶν.<verse eID="rlxx_job.33.12" />
+        <verse sID="rlxx_job.33.13" osisID="rlxx_job.33.13" />λέγεις δέ Διὰ τί τῆς δίκης μου οὐκ ἐπακήκοεν πᾶν ῥῆμα;<verse eID="rlxx_job.33.13" />
+        <verse sID="rlxx_job.33.14" osisID="rlxx_job.33.14" />ἐν γὰρ τῷ ἅπαξ λαλήσαι ὁ κύριος, ἐν δὲ τῷ δευτέρῳ ἐνύπνιον,<verse eID="rlxx_job.33.14" />
+        <verse sID="rlxx_job.33.15" osisID="rlxx_job.33.15" />ἢ ἐν μελέτῃ νυκτερινῇ, ὡς ὅταν ἐπιπίπτῃ δεινὸς φόβος ἐπ' ἀνθρώπους ἐπὶ νυσταγμάτων ἐπὶ κοίτης·<verse eID="rlxx_job.33.15" />
+        <verse sID="rlxx_job.33.16" osisID="rlxx_job.33.16" />τότε ἀνακαλύπτει νοῦν ἀνθρώπων, ἐν εἴδεσιν φόβου τοιούτοις αὐτοὺς ἐξεφόβησεν<verse eID="rlxx_job.33.16" />
+        <verse sID="rlxx_job.33.17" osisID="rlxx_job.33.17" />ἀποστρέψαι ἄνθρωπον ἐξ ἀδικίας, τὸ δὲ σῶμα αὐτοῦ ἀπὸ πτώματος ἐρρύσατο.<verse eID="rlxx_job.33.17" />
+        <verse sID="rlxx_job.33.18" osisID="rlxx_job.33.18" />ἐφείσατο δὲ τῆς ψυχῆς αὐτοῦ ἀπὸ θανάτου καὶ μὴ πεσεῖν αὐτὸν ἐν πολέμῳ.<verse eID="rlxx_job.33.18" />
+        <verse sID="rlxx_job.33.19" osisID="rlxx_job.33.19" />πάλιν δὲ ἤλεγξεν αὐτὸν ἐν μαλακίᾳ ἐπὶ κοίτης ※καὶ πλῆθος ὀστῶν αὐτοῦ ἐνάρκησεν,⸕<verse eID="rlxx_job.33.19" />
+        <verse sID="rlxx_job.33.20" osisID="rlxx_job.33.20" />πᾶν δὲ βρωτὸν σίτου οὐ μὴ δύνηται προσδέξασθαι ※καὶ ἡ ψυχὴ αὐτοῦ βρῶσιν ἐπιθυμήσει,⸕<verse eID="rlxx_job.33.20" />
+        <verse sID="rlxx_job.33.21" osisID="rlxx_job.33.21" />ἕως ἂν σαπῶσιν αὐτοῦ αἱ σάρκες καὶ ἀποδείξῃ τὰ ὀστᾶ αὐτοῦ κενά·<verse eID="rlxx_job.33.21" />
+        <verse sID="rlxx_job.33.22" osisID="rlxx_job.33.22" />ἤγγισεν δὲ εἰς θάνατον ἡ ψυχὴ αὐτοῦ, ἡ δὲ ζωὴ αὐτοῦ ἐν ᾅδῃ.<verse eID="rlxx_job.33.22" />
+        <verse sID="rlxx_job.33.23" osisID="rlxx_job.33.23" />ἐὰν ὦσιν χίλιοι ἄγγελοι θανατηφόροι, εἷς αὐτῶν οὐ μὴ τρώσῃ αὐτόν· ἐὰν νοήσῃ τῇ καρδίᾳ ἐπιστραφῆναι ἐπὶ κύριον, ἀναγγείλῃ δὲ ἀνθρώπῳ τὴν ἑαυτοῦ μέμψιν, τὴν δὲ ἄνοιαν αὐτοῦ δείξῃ,<verse eID="rlxx_job.33.23" />
+        <verse sID="rlxx_job.33.24" osisID="rlxx_job.33.24" />ἀνθέξεται τοῦ μὴ πεσεῖν αὐτὸν εἰς θάνατον, ἀνανεώσει δὲ αὐτοῦ τὸ σῶμα ὥσπερ ἀλοιφὴν ἐπὶ τοίχου, τὰ δὲ ὀστᾶ αὐτοῦ ἐμπλήσει μυελοῦ·<verse eID="rlxx_job.33.24" />
+        <verse sID="rlxx_job.33.25" osisID="rlxx_job.33.25" />ἁπαλυνεῖ δὲ αὐτοῦ τὰς σάρκας ὥσπερ νηπίου, ἀποκαταστήσει δὲ αὐτὸν ἀνδρωθέντα ἐν ἀνθρώποις.<verse eID="rlxx_job.33.25" />
+        <verse sID="rlxx_job.33.26" osisID="rlxx_job.33.26" />εὐξάμενος δὲ πρὸς κύριον, καὶ δεκτὰ αὐτῷ ἔσται, εἰσελεύσεται δὲ προσώπῳ καθαρῷ σὺν ἐξηγορίᾳ· ἀποδώσει δὲ ἀνθρώποις δικαιοσύνην.<verse eID="rlxx_job.33.26" />
+        <verse sID="rlxx_job.33.27" osisID="rlxx_job.33.27" />εἶτα τότε ἀπομέμψεται ἄνθρωπος αὐτὸς ἑαυτῷ λέγων Οἷα συνετέλουν, καὶ οὐκ ἄξια ἤτασέν με ὧν ἥμαρτον.<verse eID="rlxx_job.33.27" />
+        <verse sID="rlxx_job.33.28" osisID="rlxx_job.33.28" />※σῶσον ψυχήν μου τοῦ μὴ ἐλθεῖν εἰς διαφθοράν, ※καὶ ἡ ζωή μου φῶς ὄψεται.<verse eID="rlxx_job.33.28" />
+        <verse sID="rlxx_job.33.29" osisID="rlxx_job.33.29" />※ἰδοὺ πάντα ταῦτα ἐργᾶται ὁ ἰσχυρὸς ※ὁδοὺς τρεῖς μετὰ ἀνδρός.⸕<verse eID="rlxx_job.33.29" />
+        <verse sID="rlxx_job.33.30" osisID="rlxx_job.33.30" />ἀλλ' ἐρρύσατο τὴν ψυχήν μου ἐκ θανάτου, ἵνα ἡ ζωή μου ἐν φωτὶ αἰνῇ αὐτόν.<verse eID="rlxx_job.33.30" />
+        <verse sID="rlxx_job.33.31" osisID="rlxx_job.33.31" />ἐνωτίζου, Ιωβ, καὶ ἄκουέ μου· ※κώφευσον, καὶ ἐγώ εἰμι λαλήσω.<verse eID="rlxx_job.33.31" />
+        <verse sID="rlxx_job.33.32" osisID="rlxx_job.33.32" />※εἰ εἰσὶν λόγοι, ἀποκρίθητί μοι· ※λάλησον, θέλω γὰρ δικαιωθῆναί σε.<verse eID="rlxx_job.33.32" />
+        <verse sID="rlxx_job.33.33" osisID="rlxx_job.33.33" />※εἰ μή, σὺ ἄκουσόν μου· ※κώφευσον, καὶ διδάξω σε σοφίαν.⸕<verse eID="rlxx_job.33.33" />
+      </p>
+      <chapter eID="rlxx_job.33" />
+      <chapter sID="rlxx_job.34" osisID="rlxx_job.34" />
+      <title>Chapter 34</title>
+      <p>
+        <verse sID="rlxx_job.34.1" osisID="rlxx_job.34.1" />Ὑπολαβὼν δὲ Ελιους λέγει<verse eID="rlxx_job.34.1" />
+        <verse sID="rlxx_job.34.2" osisID="rlxx_job.34.2" />Ἀκούσατέ μου, σοφοί· ἐπιστάμενοι, ἐνωτίζεσθε τὸ καλόν·<verse eID="rlxx_job.34.2" />
+        <verse sID="rlxx_job.34.3" osisID="rlxx_job.34.3" />※ὅτι οὖς λόγους δοκιμάζει, ※καὶ λάρυγξ γεύεται βρῶσιν.<verse eID="rlxx_job.34.3" />
+        <verse sID="rlxx_job.34.4" osisID="rlxx_job.34.4" />※κρίσιν ἑλώμεθα ἑαυτοῖς, ※γνῶμεν ἀνὰ μέσον ἑαυτῶν ὅ τι καλόν.⸕<verse eID="rlxx_job.34.4" />
+        <verse sID="rlxx_job.34.5" osisID="rlxx_job.34.5" />ὅτι εἴρηκεν Ιωβ Δίκαιός εἰμι, ὁ κύριος ἀπήλλαξέν μου τὸ κρίμα,<verse eID="rlxx_job.34.5" />
+        <verse sID="rlxx_job.34.6" osisID="rlxx_job.34.6" />ἐψεύσατο δὲ τῷ κρίματί μου, ※βίαιον τὸ βέλος μου ἄνευ ἀδικίας.<verse eID="rlxx_job.34.6" />
+        <verse sID="rlxx_job.34.7" osisID="rlxx_job.34.7" />※τίς ἀνὴρ ὥσπερ Ιωβ ※πίνων μυκτηρισμὸν ὥσπερ ὕδωρ⸕<verse eID="rlxx_job.34.7" />
+        <verse sID="rlxx_job.34.8" osisID="rlxx_job.34.8" />οὐχ ἁμαρτὼν οὐδὲ ἀσεβήσας ἢ ὁδοῦ κοινωνήσας μετὰ ποιούντων τὰ ἄνομα τοῦ πορευθῆναι μετὰ ἀσεβῶν;<verse eID="rlxx_job.34.8" />
+        <verse sID="rlxx_job.34.9" osisID="rlxx_job.34.9" />μὴ γὰρ εἴπῃς ὅτι Οὐκ ἔσται ἐπισκοπὴ ἀνδρός· καὶ ἐπισκοπὴ αὐτῷ παρὰ κυρίου.<verse eID="rlxx_job.34.9" />
+        <verse sID="rlxx_job.34.10" osisID="rlxx_job.34.10" />διό, συνετοὶ καρδίας, ἀκούσατέ μου Μή μοι εἴη ἔναντι κυρίου ἀσεβῆσαι καὶ ἔναντι παντοκράτορος ταράξαι τὸ δίκαιον·<verse eID="rlxx_job.34.10" />
+        <verse sID="rlxx_job.34.11" osisID="rlxx_job.34.11" />ἀλλὰ ἀποδιδοῖ ἀνθρώπῳ καθὰ ποιεῖ ἕκαστος αὐτῶν, ※καὶ ἐν τρίβῳ ἀνδρὸς εὑρήσει αὐτόν.⸕<verse eID="rlxx_job.34.11" />
+        <verse sID="rlxx_job.34.12" osisID="rlxx_job.34.12" />οἴῃ δὲ τὸν κύριον ἄτοπα ποιήσειν; ἢ ὁ παντοκράτωρ ταράξει κρίσιν;<verse eID="rlxx_job.34.12" />
+        <verse sID="rlxx_job.34.13" osisID="rlxx_job.34.13" />ὃς ἐποίησεν τὴν γῆν· τίς δέ ἐστιν ὁ ποιῶν τὴν ὑπ' οὐρανὸν καὶ τὰ ἐνόντα πάντα;<verse eID="rlxx_job.34.13" />
+        <verse sID="rlxx_job.34.14" osisID="rlxx_job.34.14" />εἰ γὰρ βούλοιτο συνέχειν καὶ τὸ πνεῦμα παρ' αὐτῷ κατασχεῖν,<verse eID="rlxx_job.34.14" />
+        <verse sID="rlxx_job.34.15" osisID="rlxx_job.34.15" />τελευτήσει πᾶσα σὰρξ ὁμοθυμαδόν, πᾶς δὲ βροτὸς εἰς γῆν ἀπελεύσεται, ὅθεν καὶ ἐπλάσθη.<verse eID="rlxx_job.34.15" />
+        <verse sID="rlxx_job.34.16" osisID="rlxx_job.34.16" />εἰ δὲ μὴ νουθετῇ, ἄκουε ταῦτα, ἐνωτίζου φωνὴν ῥημάτων.<verse eID="rlxx_job.34.16" />
+        <verse sID="rlxx_job.34.17" osisID="rlxx_job.34.17" />ἰδὲ σὺ τὸν μισοῦντα ἄνομα καὶ τὸν ὀλλύντα τοὺς πονηροὺς ὄντα αἰώνιον δίκαιον.<verse eID="rlxx_job.34.17" />
+        <verse sID="rlxx_job.34.18" osisID="rlxx_job.34.18" />ἀσεβὴς ὁ λέγων βασιλεῖ Παρανομεῖς, ※ἀσεβέστατε τοῖς ἄρχουσιν·⸕<verse eID="rlxx_job.34.18" />
+        <verse sID="rlxx_job.34.19" osisID="rlxx_job.34.19" />ὃς οὐκ ἐπῃσχύνθη πρόσωπον ἐντίμου οὐδὲ οἶδεν τιμὴν θέσθαι ἁδροῖς θαυμασθῆναι πρόσωπα αὐτῶν.<verse eID="rlxx_job.34.19" />
+        <verse sID="rlxx_job.34.20" osisID="rlxx_job.34.20" />κενὰ δὲ αὐτοῖς ἀποβήσεται τὸ κεκραγέναι καὶ δεῖσθαι ἀνδρός· ἐχρήσαντο γὰρ παρανόμως ἐκκλινομένων ἀδυνάτων.<verse eID="rlxx_job.34.20" />
+        <verse sID="rlxx_job.34.21" osisID="rlxx_job.34.21" />αὐτὸς γὰρ ὁρατής ἐστιν ἔργων ἀνθρώπων, λέληθεν δὲ αὐτὸν οὐδὲν ὧν πράσσουσιν,<verse eID="rlxx_job.34.21" />
+        <verse sID="rlxx_job.34.22" osisID="rlxx_job.34.22" />οὐδὲ ἔσται τόπος τοῦ κρυβῆναι τοὺς ποιοῦντας τὰ ἄνομα·<verse eID="rlxx_job.34.22" />
+        <verse sID="rlxx_job.34.23" osisID="rlxx_job.34.23" />※ὅτι οὐκ ἐπ' ἄνδρα θήσει ἔτι·⸕ ὁ γὰρ κύριος πάντας ἐφορᾷ<verse eID="rlxx_job.34.23" />
+        <verse sID="rlxx_job.34.24" osisID="rlxx_job.34.24" />ὁ καταλαμβάνων ἀνεξιχνίαστα, ἔνδοξά τε καὶ ἐξαίσια, ὧν οὐκ ἔστιν ἀριθμός·<verse eID="rlxx_job.34.24" />
+        <verse sID="rlxx_job.34.25" osisID="rlxx_job.34.25" />ὁ γνωρίζων αὐτῶν τὰ ἔργα ※καὶ στρέψει νύκτα, καὶ ταπεινωθήσονται.⸕<verse eID="rlxx_job.34.25" />
+        <verse sID="rlxx_job.34.26" osisID="rlxx_job.34.26" />ἔσβεσεν δὲ ἀσεβεῖς, ὁρατοὶ δὲ ἐναντίον αὐτοῦ,<verse eID="rlxx_job.34.26" />
+        <verse sID="rlxx_job.34.27" osisID="rlxx_job.34.27" />ὅτι ἐξέκλιναν ἐκ νόμου θεοῦ, δικαιώματα δὲ αὐτοῦ οὐκ ἐπέγνωσαν<verse eID="rlxx_job.34.27" />
+        <verse sID="rlxx_job.34.28" osisID="rlxx_job.34.28" />※τοῦ ἐπαγαγεῖν ἐπ' αὐτὸν κραυγὴν πένητος, ※καὶ κραυγὴν πτωχῶν εἰσακούσεται.<verse eID="rlxx_job.34.28" />
+        <verse sID="rlxx_job.34.29" osisID="rlxx_job.34.29" />※καὶ αὐτὸς ἡσυχίαν παρέξει, καὶ τίς καταδικάσεται; ※καὶ κρύψει πρόσωπον, καὶ τίς ὄψεται αὐτόν; ※καὶ κατὰ ἔθνους καὶ κατὰ ἀνθρώπου ὁμοῦ<verse eID="rlxx_job.34.29" />
+        <verse sID="rlxx_job.34.30" osisID="rlxx_job.34.30" />※βασιλεύων ἄνθρωπον ὑποκριτὴν ἀπὸ δυσκολίας λαοῦ.<verse eID="rlxx_job.34.30" />
+        <verse sID="rlxx_job.34.31" osisID="rlxx_job.34.31" />※ὅτι πρὸς τὸν ἰσχυρὸν ὁ λέγων Εἴληφα, οὐκ ἐνεχυράσω·<verse eID="rlxx_job.34.31" />
+        <verse sID="rlxx_job.34.32" osisID="rlxx_job.34.32" />※ἄνευ ἐμαυτοῦ ὄψομαι, σὺ δεῖξόν μοι· ※εἰ ἀδικίαν ἠργασάμην, οὐ μὴ προσθήσω.<verse eID="rlxx_job.34.32" />
+        <verse sID="rlxx_job.34.33" osisID="rlxx_job.34.33" />※μὴ παρὰ σοῦ ἀποτείσει αὐτήν; ※ὅτι ἀπώσῃ, ὅτι σὺ ἐκλέξῃ καὶ οὐκ ἐγώ· ※καὶ τί ἔγνως λάλησον.⸕<verse eID="rlxx_job.34.33" />
+        <verse sID="rlxx_job.34.34" osisID="rlxx_job.34.34" />διὸ συνετοὶ καρδίας ἐροῦσιν ταῦτα, ἀνὴρ δὲ σοφὸς ἀκήκοέν μου τὸ ῥῆμα.<verse eID="rlxx_job.34.34" />
+        <verse sID="rlxx_job.34.35" osisID="rlxx_job.34.35" />Ιωβ δὲ οὐκ ἐν συνέσει ἐλάλησεν, τὰ δὲ ῥήματα αὐτοῦ οὐκ ἐν ἐπιστήμῃ.<verse eID="rlxx_job.34.35" />
+        <verse sID="rlxx_job.34.36" osisID="rlxx_job.34.36" />οὐ μὴν δὲ ἀλλὰ μάθε, Ιωβ, μὴ δῷς ἔτι ἀνταπόκρισιν ὥσπερ οἱ ἄφρονες,<verse eID="rlxx_job.34.36" />
+        <verse sID="rlxx_job.34.37" osisID="rlxx_job.34.37" />ἵνα μὴ προσθῶμεν ἐφ' ἁμαρτίαις ἡμῶν, ἀνομία δὲ ἐφ' ἡμῖν λογισθήσεται πολλὰ λαλούντων ῥήματα ἐναντίον τοῦ κυρίου.<verse eID="rlxx_job.34.37" />
+      </p>
+      <chapter eID="rlxx_job.34" />
+      <chapter sID="rlxx_job.35" osisID="rlxx_job.35" />
+      <title>Chapter 35</title>
+      <p>
+        <verse sID="rlxx_job.35.1" osisID="rlxx_job.35.1" />Ὑπολαβὼν δὲ Ελιους λέγει<verse eID="rlxx_job.35.1" />
+        <verse sID="rlxx_job.35.2" osisID="rlxx_job.35.2" />Τί τοῦτο ἡγήσω ἐν κρίσει; σὺ τίς εἶ ὅτι εἶπας Δίκαιός εἰμι ἔναντι κυρίου;<verse eID="rlxx_job.35.2" />
+        <verse sID="rlxx_job.35.3" osisID="rlxx_job.35.3" />ἢ ἐρεῖς Τί ποιήσω ἁμαρτών;<verse eID="rlxx_job.35.3" />
+        <verse sID="rlxx_job.35.4" osisID="rlxx_job.35.4" />ἐγὼ σοὶ δώσω ἀπόκρισιν καὶ τοῖς τρισὶν φίλοις σου.<verse eID="rlxx_job.35.4" />
+        <verse sID="rlxx_job.35.5" osisID="rlxx_job.35.5" />ἀνάβλεψον εἰς τὸν οὐρανὸν καὶ ἰδέ, κατάμαθε δὲ νέφη ὡς ὑψηλὰ ἀπὸ σοῦ.<verse eID="rlxx_job.35.5" />
+        <verse sID="rlxx_job.35.6" osisID="rlxx_job.35.6" />εἰ ἥμαρτες, τί πράξεις; εἰ δὲ καὶ πολλὰ ἠνόμησας, τί δύνασαι ποιῆσαι;<verse eID="rlxx_job.35.6" />
+        <verse sID="rlxx_job.35.7" osisID="rlxx_job.35.7" />ἐπεὶ δὲ οὖν δίκαιος εἶ, τί δώσεις αὐτῷ; ※ἢ τί ἐκ χειρός σου λήμψεται;<verse eID="rlxx_job.35.7" />
+        <verse sID="rlxx_job.35.8" osisID="rlxx_job.35.8" />※ἀνδρὶ τῷ ὁμοίῳ σου ἡ ἀσέβειά σου, ※καὶ υἱῷ ἀνθρώπου ἡ δικαιοσύνη σου.<verse eID="rlxx_job.35.8" />
+        <verse sID="rlxx_job.35.9" osisID="rlxx_job.35.9" />※ἀπὸ πλήθους συκοφαντούμενοι κεκράξονται, ※βοήσονται ἀπὸ βραχίονος πολλῶν.<verse eID="rlxx_job.35.9" />
+        <verse sID="rlxx_job.35.10" osisID="rlxx_job.35.10" />※καὶ οὐκ εἶπεν Ποῦ ἐστιν ὁ θεὸς ὁ ποιήσας με,⸕ ὁ κατατάσσων φυλακὰς νυκτερινάς,<verse eID="rlxx_job.35.10" />
+        <verse sID="rlxx_job.35.11" osisID="rlxx_job.35.11" />ὁ διορίζων με ἀπὸ τετραπόδων γῆς, ἀπὸ δὲ πετεινῶν οὐρανοῦ;<verse eID="rlxx_job.35.11" />
+        <verse sID="rlxx_job.35.12" osisID="rlxx_job.35.12" />※ἐκεῖ κεκράξονται, καὶ οὐ μὴ εἰσακούσῃ⸕ καὶ ἀπὸ ὕβρεως πονηρῶν.<verse eID="rlxx_job.35.12" />
+        <verse sID="rlxx_job.35.13" osisID="rlxx_job.35.13" />ἄτοπα γὰρ οὐ βούλεται ὁ κύριος ἰδεῖν· αὐτὸς γὰρ ὁ παντοκράτωρ ὁρατής ἐστιν<verse eID="rlxx_job.35.13" />
+        <verse sID="rlxx_job.35.14" osisID="rlxx_job.35.14" />τῶν συντελούντων τὰ ἄνομα καὶ σώσει με. κρίθητι δὲ ἐναντίον αὐτοῦ, εἰ δύνασαι αἰνέσαι αὐτόν, ὡς ἔστιν.<verse eID="rlxx_job.35.14" />
+        <verse sID="rlxx_job.35.15" osisID="rlxx_job.35.15" />※καὶ νῦν, ὅτι οὐκ ἔστιν ἐπισκεπτόμενος, ὀργὴν αὐτοῦ ※καὶ οὐκ ἔγνω παραπτώματι σφόδρα·<verse eID="rlxx_job.35.15" />
+        <verse sID="rlxx_job.35.16" osisID="rlxx_job.35.16" />※καὶ Ιωβ ματαίως ἀνοίγει τὸ στόμα αὐτοῦ, ※ἐν ἀγνωσίᾳ ῥήματα βαρύνει.⸕<verse eID="rlxx_job.35.16" />
+      </p>
+      <chapter eID="rlxx_job.35" />
+      <chapter sID="rlxx_job.36" osisID="rlxx_job.36" />
+      <title>Chapter 36</title>
+      <p>
+        <verse sID="rlxx_job.36.1" osisID="rlxx_job.36.1" />Προσθεὶς δὲ Ελιους ἔτι λέγει<verse eID="rlxx_job.36.1" />
+        <verse sID="rlxx_job.36.2" osisID="rlxx_job.36.2" />Μεῖνόν με μικρὸν ἔτι, ἵνα διδάξω σε· ἔτι γὰρ ἐν ἐμοί ἐστιν λέξις.<verse eID="rlxx_job.36.2" />
+        <verse sID="rlxx_job.36.3" osisID="rlxx_job.36.3" />ἀναλαβὼν τὴν ἐπιστήμην μου μακρὰν ἔργοις δέ μου δίκαια ἐρῶ<verse eID="rlxx_job.36.3" />
+        <verse sID="rlxx_job.36.4" osisID="rlxx_job.36.4" />ἐπ' ἀληθείας καὶ οὐκ ἄδικα ῥήματα· ἀδίκως συνίεις.<verse eID="rlxx_job.36.4" />
+        <verse sID="rlxx_job.36.5" osisID="rlxx_job.36.5" />γίγνωσκε δὲ ὅτι ὁ κύριος οὐ μὴ ἀποποιήσηται τὸν ἄκακον. ※δυνατὸς ἰσχύι καρδίας<verse eID="rlxx_job.36.5" />
+        <verse sID="rlxx_job.36.6" osisID="rlxx_job.36.6" />※ἀσεβῆ οὐ μὴ ζωοποιήσει ※καὶ κρίμα πτωχῶν δώσει.<verse eID="rlxx_job.36.6" />
+        <verse sID="rlxx_job.36.7" osisID="rlxx_job.36.7" />※οὐκ ἀφελεῖ ἀπὸ δικαίου ὀφθαλμοὺς αὐτοῦ· ※καὶ μετὰ βασιλέων εἰς θρόνον ※καὶ καθιεῖ αὐτοὺς εἰς νεῖκος, καὶ ὑψωθήσονται.<verse eID="rlxx_job.36.7" />
+        <verse sID="rlxx_job.36.8" osisID="rlxx_job.36.8" />※καὶ εἰ πεπεδημένοι ἐν χειροπέδαις ※συσχεθήσονται ἐν σχοινίοις πενίας,<verse eID="rlxx_job.36.8" />
+        <verse sID="rlxx_job.36.9" osisID="rlxx_job.36.9" />※καὶ ἀναγγελεῖ αὐτοῖς τὰ ἔργα αὐτῶν ※καὶ τὰ παραπτώματα αὐτῶν, ὅτι ἰσχύσουσιν.⸕<verse eID="rlxx_job.36.9" />
+        <verse sID="rlxx_job.36.10" osisID="rlxx_job.36.10" />ἀλλὰ τοῦ δικαίου εἰσακούσεται· ※καὶ εἶπεν ὅτι ἐπιστραφήσονται ἐξ ἀδικίας.<verse eID="rlxx_job.36.10" />
+        <verse sID="rlxx_job.36.11" osisID="rlxx_job.36.11" />※ἐὰν ἀκούσωσιν καὶ δουλεύσωσιν, ※συντελέσουσιν τὰς ἡμέρας αὐτῶν ἐν ἀγαθοῖς ※καὶ τὰ ἔτη αὐτῶν ἐν εὐπρεπείαις.⸕<verse eID="rlxx_job.36.11" />
+        <verse sID="rlxx_job.36.12" osisID="rlxx_job.36.12" />ἀσεβεῖς δὲ οὐ διασῴζει παρὰ τὸ μὴ βούλεσθαι εἰδέναι αὐτοὺς τὸν κύριον καὶ διότι νουθετούμενοι ἀνήκοοι ἦσαν.<verse eID="rlxx_job.36.12" />
+        <verse sID="rlxx_job.36.13" osisID="rlxx_job.36.13" />※καὶ ὑποκριταὶ καρδίᾳ τάξουσιν θυμόν· ※οὐ βοήσονται, ὅτι ἔδησεν αὐτούς.⸕<verse eID="rlxx_job.36.13" />
+        <verse sID="rlxx_job.36.14" osisID="rlxx_job.36.14" />ἀποθάνοι τοίνυν ἐν νεότητι ἡ ψυχὴ αὐτῶν, ἡ δὲ ζωὴ αὐτῶν τιτρωσκομένη ὑπὸ ἀγγέλων,<verse eID="rlxx_job.36.14" />
+        <verse sID="rlxx_job.36.15" osisID="rlxx_job.36.15" />ἀνθ' ὧν ἔθλιψαν ἀσθενῆ καὶ ἀδύνατον· κρίμα δὲ πραέων ἐκθήσει.<verse eID="rlxx_job.36.15" />
+        <verse sID="rlxx_job.36.16" osisID="rlxx_job.36.16" />※καὶ προσέτι ἠπάτησέν σε ἐκ στόματος ἐχθροῦ· ※ἄβυσσος, κατάχυσις ὑποκάτω αὐτῆς· ※καὶ κατέβη τράπεζά σου πλήρης πιότητος.⸕<verse eID="rlxx_job.36.16" />
+        <verse sID="rlxx_job.36.17" osisID="rlxx_job.36.17" />οὐχ ὑστερήσει δὲ ἀπὸ δικαίων κρίμα,<verse eID="rlxx_job.36.17" />
+        <verse sID="rlxx_job.36.18" osisID="rlxx_job.36.18" />θυμὸς δὲ ἐπ' ἀσεβεῖς ἔσται δι' ἀσέβειαν δώρων, ὧν ἐδέχοντο ἐπ' ἀδικίαις.<verse eID="rlxx_job.36.18" />
+        <verse sID="rlxx_job.36.19" osisID="rlxx_job.36.19" />μή σε ἐκκλινάτω ἑκὼν ὁ νοῦς δεήσεως ἐν ἀνάγκῃ ὄντων ἀδυνάτων, ※καὶ πάντας τοὺς κραταιοῦντας ἰσχύν.<verse eID="rlxx_job.36.19" />
+        <verse sID="rlxx_job.36.20" osisID="rlxx_job.36.20" />※μὴ ἐξελκύσῃς τὴν νύκτα ※τοῦ ἀναβῆναι λαοὺς ἀντ' αὐτῶν·⸕<verse eID="rlxx_job.36.20" />
+        <verse sID="rlxx_job.36.21" osisID="rlxx_job.36.21" />ἀλλὰ φύλαξαι μὴ πράξῃς ἄτοπα· ※ἐπὶ τοῦτον γὰρ ἐξείλω ἀπὸ πτωχείας.<verse eID="rlxx_job.36.21" />
+        <verse sID="rlxx_job.36.22" osisID="rlxx_job.36.22" />※ἰδοὺ ὁ ἰσχυρὸς κραταιώσει ἐν ἰσχύι αὐτοῦ·⸕ τίς γάρ ἐστιν κατ' αὐτὸν δυνάστης;<verse eID="rlxx_job.36.22" />
+        <verse sID="rlxx_job.36.23" osisID="rlxx_job.36.23" />τίς δέ ἐστιν ὁ ἐτάζων αὐτοῦ τὰ ἔργα; ἢ τίς ὁ εἴπας Ἔπραξεν ἄδικα;<verse eID="rlxx_job.36.23" />
+        <verse sID="rlxx_job.36.24" osisID="rlxx_job.36.24" />μνήσθητι ὅτι μεγάλα ἐστὶν αὐτοῦ τὰ ἔργα, ※ὧν ἦρξαν ἄνδρες·<verse eID="rlxx_job.36.24" />
+        <verse sID="rlxx_job.36.25" osisID="rlxx_job.36.25" />※πᾶς ἄνθρωπος εἶδεν ἐν ἑαυτῷ,⸕ ὅσοι τιτρωσκόμενοί εἰσιν βροτοί.<verse eID="rlxx_job.36.25" />
+        <verse sID="rlxx_job.36.26" osisID="rlxx_job.36.26" />※ἰδοὺ ὁ ἰσχυρὸς πολύς, καὶ οὐ γνωσόμεθα· ※ἀριθμὸς ἐτῶν αὐτοῦ καὶ ἀπέραντος.⸕<verse eID="rlxx_job.36.26" />
+        <verse sID="rlxx_job.36.27" osisID="rlxx_job.36.27" />ἀριθμηταὶ δὲ αὐτῷ σταγόνες ὑετοῦ, ※καὶ ἐπιχυθήσονται ὑετῷ εἰς νεφέλην·<verse eID="rlxx_job.36.27" />
+        <verse sID="rlxx_job.36.28" osisID="rlxx_job.36.28" />※ῥυήσονται παλαιώματα,⸕ ἐσκίασεν δὲ νέφη ἐπὶ ἀμυθήτων βροτῶν.<verse eID="rlxx_job.36.28" />
+        <verse sID="rlxx_job.36.28a" osisID="rlxx_job.36.28a" />ὥραν ἔθετο κτήνεσιν, οἴδασιν δὲ κοίτης τάξιν.<verse eID="rlxx_job.36.28a" />
+        <verse sID="rlxx_job.36.28b" osisID="rlxx_job.36.28b" />ἐπὶ τούτοις πᾶσιν οὐκ ἐξίσταταί σου ἡ διάνοια οὐδὲ διαλλάσσεταί σου ἡ καρδία ἀπὸ σώματος;<verse eID="rlxx_job.36.28b" />
+        <verse sID="rlxx_job.36.29" osisID="rlxx_job.36.29" />※καὶ ἐὰν συνῇ ἀπεκτάσεις νεφέλης, ※ἰσότητα σκηνῆς αὐτοῦ,<verse eID="rlxx_job.36.29" />
+        <verse sID="rlxx_job.36.30" osisID="rlxx_job.36.30" />※ἰδοὺ ἐκτείνει ἐπ' αὐτὸν ηδω ※καὶ ῥιζώματα τῆς θαλάσσης ἐκάλυψεν.<verse eID="rlxx_job.36.30" />
+        <verse sID="rlxx_job.36.31" osisID="rlxx_job.36.31" />※ἐν γὰρ αὐτοῖς κρινεῖ λαούς, ※δώσει τροφὴν τῷ ἰσχύοντι.<verse eID="rlxx_job.36.31" />
+        <verse sID="rlxx_job.36.32" osisID="rlxx_job.36.32" />※ἐπὶ χειρῶν ἐκάλυψεν φῶς ※καὶ ἐνετείλατο περὶ αὐτῆς ἐν ἀπαντῶντι·<verse eID="rlxx_job.36.32" />
+        <verse sID="rlxx_job.36.33" osisID="rlxx_job.36.33" />※ἀναγγελεῖ περὶ αὐτοῦ φίλον αὐτοῦ· ※κτῆσις καὶ περὶ ἀδικίας.<verse eID="rlxx_job.36.33" />
+      </p>
+      <chapter eID="rlxx_job.36" />
+      <chapter sID="rlxx_job.37" osisID="rlxx_job.37" />
+      <title>Chapter 37</title>
+      <p>
+        <verse sID="rlxx_job.37.1" osisID="rlxx_job.37.1" />※καὶ ταύτης ἐταράχθη ἡ καρδία μου ※καὶ ἀπερρύη ἐκ τοῦ τόπου αὐτῆς.<verse eID="rlxx_job.37.1" />
+        <verse sID="rlxx_job.37.2" osisID="rlxx_job.37.2" />※ἄκουε ἀκοὴν ἐν ὀργῇ θυμοῦ κυρίου, ※καὶ μελέτη ἐκ στόματος αὐτοῦ ἐξελεύσεται.<verse eID="rlxx_job.37.2" />
+        <verse sID="rlxx_job.37.3" osisID="rlxx_job.37.3" />※ὑποκάτω παντὸς τοῦ οὐρανοῦ ἀρχὴ αὐτοῦ, ※καὶ τὸ φῶς αὐτοῦ ἐπὶ πτερύγων τῆς γῆς.<verse eID="rlxx_job.37.3" />
+        <verse sID="rlxx_job.37.4" osisID="rlxx_job.37.4" />※ὀπίσω αὐτοῦ βοήσεται φωνή, ※βροντήσει ἐν φωνῇ ὕβρεως αὐτοῦ, ※καὶ οὐκ ἀνταλλάξει αὐτούς, ὅτι ἀκούσει φωνὴν αὐτοῦ.<verse eID="rlxx_job.37.4" />
+        <verse sID="rlxx_job.37.5" osisID="rlxx_job.37.5" />※βροντήσει ὁ ἰσχυρὸς ἐν φωνῇ αὐτοῦ θαυμάσια·⸕ ἐποίησεν γὰρ μεγάλα, ἃ οὐκ ᾔδειμεν,<verse eID="rlxx_job.37.5" />
+        <verse sID="rlxx_job.37.6" osisID="rlxx_job.37.6" />συντάσσων χιόνι Γίνου ἐπὶ τῆς γῆς· ※καὶ χειμὼν ὑετός, καὶ χειμὼν ὑετῶν δυναστείας αὐτοῦ.<verse eID="rlxx_job.37.6" />
+        <verse sID="rlxx_job.37.7" osisID="rlxx_job.37.7" />※ἐν χειρὶ παντὸς ἀνθρώπου κατασφραγίζει,⸕ ἵνα γνῷ πᾶς ἄνθρωπος τὴν ἑαυτοῦ ἀσθένειαν.<verse eID="rlxx_job.37.7" />
+        <verse sID="rlxx_job.37.8" osisID="rlxx_job.37.8" />εἰσῆλθεν δὲ θηρία ὑπὸ σκέπην, ἡσύχασαν δὲ ἐπὶ κοίτης.<verse eID="rlxx_job.37.8" />
+        <verse sID="rlxx_job.37.9" osisID="rlxx_job.37.9" />ἐκ ταμιείων ἐπέρχονται δῖναι, ἀπὸ δὲ ἀκρωτηρίων ψῦχος.<verse eID="rlxx_job.37.9" />
+        <verse sID="rlxx_job.37.10" osisID="rlxx_job.37.10" />※καὶ ἀπὸ πνοῆς ἰσχυροῦ δώσει πάγος,⸕ οἰακίζει δὲ τὸ ὕδωρ ὡς ἐὰν βούληται·<verse eID="rlxx_job.37.10" />
+        <verse sID="rlxx_job.37.11" osisID="rlxx_job.37.11" />※καὶ ἐκλεκτὸν καταπλάσσει νεφέλη, ※διασκορπιεῖ νέφος φῶς αὐτοῦ.<verse eID="rlxx_job.37.11" />
+        <verse sID="rlxx_job.37.12" osisID="rlxx_job.37.12" />※καὶ αὐτὸς κυκλώματα διαστρέψει ※ἐν θεεβουλαθω εἰς ἔργα αὐτῶν· ※πάντα, ὅσα ἂν ἐντείληται αὐτοῖς,⸕ ταῦτα συντέτακται παρ' αὐτοῦ ἐπὶ τῆς γῆς,<verse eID="rlxx_job.37.12" />
+        <verse sID="rlxx_job.37.13" osisID="rlxx_job.37.13" />※ἐὰν εἰς παιδείαν, ἐὰν εἰς τὴν γῆν αὐτοῦ, ※ἐὰν εἰς ἔλεος εὑρήσει αὐτόν.⸕<verse eID="rlxx_job.37.13" />
+        <verse sID="rlxx_job.37.14" osisID="rlxx_job.37.14" />ἐνωτίζου ταῦτα, Ιωβ· στῆθι νουθετοῦ δύναμιν κυρίου.<verse eID="rlxx_job.37.14" />
+        <verse sID="rlxx_job.37.15" osisID="rlxx_job.37.15" />οἴδαμεν ὅτι ὁ θεὸς ἔθετο ἔργα αὐτοῦ φῶς ποιήσας ἐκ σκότους.<verse eID="rlxx_job.37.15" />
+        <verse sID="rlxx_job.37.16" osisID="rlxx_job.37.16" />ἐπίσταται δὲ διάκρισιν νεφῶν, ἐξαίσια δὲ πτώματα πονηρῶν.<verse eID="rlxx_job.37.16" />
+        <verse sID="rlxx_job.37.17" osisID="rlxx_job.37.17" />σοῦ δὲ ἡ στολὴ θερμή· ἡσυχάζεται δὲ ἐπὶ τῆς γῆς.<verse eID="rlxx_job.37.17" />
+        <verse sID="rlxx_job.37.18" osisID="rlxx_job.37.18" />※στερεώσεις μετ' αὐτοῦ εἰς παλαιώματα, ※ἰσχυραὶ ὡς ὅρασις ἐπιχύσεως.⸕<verse eID="rlxx_job.37.18" />
+        <verse sID="rlxx_job.37.19" osisID="rlxx_job.37.19" />διὰ τί; δίδαξόν με τί ἐροῦμεν αὐτῷ· καὶ παυσώμεθα πολλὰ λέγοντες.<verse eID="rlxx_job.37.19" />
+        <verse sID="rlxx_job.37.20" osisID="rlxx_job.37.20" />μὴ βίβλος ἢ γραμματεύς μοι παρέστηκεν, ἵνα ἄνθρωπον ἑστηκὼς κατασιωπήσω;<verse eID="rlxx_job.37.20" />
+        <verse sID="rlxx_job.37.21" osisID="rlxx_job.37.21" />πᾶσιν δ' οὐχ ὁρατὸν τὸ φῶς, ※τηλαυγές ἐστιν ἐν τοῖς παλαιώμασιν,⸕ ὥσπερ τὸ παρ' αὐτοῦ ἐπὶ νεφῶν.<verse eID="rlxx_job.37.21" />
+        <verse sID="rlxx_job.37.22" osisID="rlxx_job.37.22" />ἀπὸ βορρᾶ νέφη χρυσαυγοῦντα· ἐπὶ τούτοις μεγάλη ἡ δόξα καὶ τιμὴ παντοκράτορος.<verse eID="rlxx_job.37.22" />
+        <verse sID="rlxx_job.37.23" osisID="rlxx_job.37.23" />καὶ οὐχ εὑρίσκομεν ἄλλον ὅμοιον τῇ ἰσχύι αὐτοῦ· ὁ τὰ δίκαια κρίνων, οὐκ οἴει ἐπακούειν αὐτόν;<verse eID="rlxx_job.37.23" />
+        <verse sID="rlxx_job.37.24" osisID="rlxx_job.37.24" />διὸ φοβηθήσονται αὐτὸν οἱ ἄνθρωποι, φοβηθήσονται δὲ αὐτὸν καὶ οἱ σοφοὶ καρδίᾳ.<verse eID="rlxx_job.37.24" />
+      </p>
+      <chapter eID="rlxx_job.37" />
+      <chapter sID="rlxx_job.38" osisID="rlxx_job.38" />
+      <title>Chapter 38</title>
+      <p>
+        <verse sID="rlxx_job.38.1" osisID="rlxx_job.38.1" />Μετὰ δὲ τὸ παύσασθαι Ελιουν τῆς λέξεως εἶπεν ὁ κύριος τῷ Ιωβ διὰ λαίλαπος καὶ νεφῶν<verse eID="rlxx_job.38.1" />
+        <verse sID="rlxx_job.38.2" osisID="rlxx_job.38.2" />Τίς οὗτος ὁ κρύπτων με βουλήν, συνέχων δὲ ῥήματα ἐν καρδίᾳ, ἐμὲ δὲ οἴεται κρύπτειν;<verse eID="rlxx_job.38.2" />
+        <verse sID="rlxx_job.38.3" osisID="rlxx_job.38.3" />ζῶσαι ὥσπερ ἀνὴρ τὴν ὀσφύν σου, ἐρωτήσω δέ σε, σὺ δέ μοι ἀποκρίθητι.<verse eID="rlxx_job.38.3" />
+        <verse sID="rlxx_job.38.4" osisID="rlxx_job.38.4" />ποῦ ἦς ἐν τῷ θεμελιοῦν με τὴν γῆν; ἀπάγγειλον δέ μοι, εἰ ἐπίστῃ σύνεσιν.<verse eID="rlxx_job.38.4" />
+        <verse sID="rlxx_job.38.5" osisID="rlxx_job.38.5" />τίς ἔθετο τὰ μέτρα αὐτῆς, εἰ οἶδας; ἢ τίς ὁ ἐπαγαγὼν σπαρτίον ἐπ' αὐτῆς;<verse eID="rlxx_job.38.5" />
+        <verse sID="rlxx_job.38.6" osisID="rlxx_job.38.6" />ἐπὶ τίνος οἱ κρίκοι αὐτῆς πεπήγασιν; τίς δέ ἐστιν ὁ βαλὼν λίθον γωνιαῖον ἐπ' αὐτῆς;<verse eID="rlxx_job.38.6" />
+        <verse sID="rlxx_job.38.7" osisID="rlxx_job.38.7" />ὅτε ἐγενήθησαν ἄστρα, ᾔνεσάν με φωνῇ μεγάλῃ πάντες ἄγγελοί μου.<verse eID="rlxx_job.38.7" />
+        <verse sID="rlxx_job.38.8" osisID="rlxx_job.38.8" />ἔφραξα δὲ θάλασσαν πύλαις, ὅτε ἐμαίμασσεν ἐκ κοιλίας μητρὸς αὐτῆς ἐκπορευομένη·<verse eID="rlxx_job.38.8" />
+        <verse sID="rlxx_job.38.9" osisID="rlxx_job.38.9" />ἐθέμην δὲ αὐτῇ νέφος ἀμφίασιν, ὁμίχλῃ δὲ αὐτὴν ἐσπαργάνωσα·<verse eID="rlxx_job.38.9" />
+        <verse sID="rlxx_job.38.10" osisID="rlxx_job.38.10" />ἐθέμην δὲ αὐτῇ ὅρια περιθεὶς κλεῖθρα καὶ πύλας·<verse eID="rlxx_job.38.10" />
+        <verse sID="rlxx_job.38.11" osisID="rlxx_job.38.11" />εἶπα δὲ αὐτῇ Μέχρι τούτου ἐλεύσῃ καὶ οὐχ ὑπερβήσῃ, ἀλλ' ἐν σεαυτῇ συντριβήσεταί σου τὰ κύματα.<verse eID="rlxx_job.38.11" />
+        <verse sID="rlxx_job.38.12" osisID="rlxx_job.38.12" />ἦ ἐπὶ σοῦ συντέταχα φέγγος πρωινόν, ἑωσφόρος δὲ εἶδεν τὴν ἑαυτοῦ τάξιν<verse eID="rlxx_job.38.12" />
+        <verse sID="rlxx_job.38.13" osisID="rlxx_job.38.13" />ἐπιλαβέσθαι πτερύγων γῆς, ἐκτινάξαι ἀσεβεῖς ἐξ αὐτῆς;<verse eID="rlxx_job.38.13" />
+        <verse sID="rlxx_job.38.14" osisID="rlxx_job.38.14" />ἦ σὺ λαβὼν γῆν πηλὸν ἔπλασας ζῷον καὶ λαλητὸν αὐτὸν ἔθου ἐπὶ γῆς;<verse eID="rlxx_job.38.14" />
+        <verse sID="rlxx_job.38.15" osisID="rlxx_job.38.15" />ἀφεῖλας δὲ ἀπὸ ἀσεβῶν τὸ φῶς, βραχίονα δὲ ὑπερηφάνων συνέτριψας;<verse eID="rlxx_job.38.15" />
+        <verse sID="rlxx_job.38.16" osisID="rlxx_job.38.16" />ἦλθες δὲ ἐπὶ πηγὴν θαλάσσης, ἐν δὲ ἴχνεσιν ἀβύσσου περιεπάτησας;<verse eID="rlxx_job.38.16" />
+        <verse sID="rlxx_job.38.17" osisID="rlxx_job.38.17" />ἀνοίγονται δέ σοι φόβῳ πύλαι θανάτου, πυλωροὶ δὲ ᾅδου ἰδόντες σε ἔπτηξαν;<verse eID="rlxx_job.38.17" />
+        <verse sID="rlxx_job.38.18" osisID="rlxx_job.38.18" />νενουθέτησαι δὲ τὸ εὖρος τῆς ὑπ' οὐρανόν; ἀνάγγειλον δή μοι πόση τίς ἐστιν.<verse eID="rlxx_job.38.18" />
+        <verse sID="rlxx_job.38.19" osisID="rlxx_job.38.19" />ποίᾳ δὲ γῇ αὐλίζεται τὸ φῶς, σκότους δὲ ποῖος ὁ τόπος;<verse eID="rlxx_job.38.19" />
+        <verse sID="rlxx_job.38.20" osisID="rlxx_job.38.20" />εἰ ἀγάγοις με εἰς ὅρια αὐτῶν; εἰ δὲ καὶ ἐπίστασαι τρίβους αὐτῶν;<verse eID="rlxx_job.38.20" />
+        <verse sID="rlxx_job.38.21" osisID="rlxx_job.38.21" />οἶδα ἄρα ὅτι τότε γεγέννησαι, ἀριθμὸς δὲ ἐτῶν σου πολύς.<verse eID="rlxx_job.38.21" />
+        <verse sID="rlxx_job.38.22" osisID="rlxx_job.38.22" />ἦλθες δὲ ἐπὶ θησαυροὺς χιόνος, θησαυροὺς δὲ χαλάζης ἑόρακας.<verse eID="rlxx_job.38.22" />
+        <verse sID="rlxx_job.38.23" osisID="rlxx_job.38.23" />ἀπόκειται δέ σοι εἰς ὥραν ἐχθρῶν, εἰς ἡμέραν πολέμου καὶ μάχης.<verse eID="rlxx_job.38.23" />
+        <verse sID="rlxx_job.38.24" osisID="rlxx_job.38.24" />πόθεν δὲ ἐκπορεύεται πάχνη ἢ διασκεδάννυται νότος εἰς τὴν ὑπ' οὐρανόν;<verse eID="rlxx_job.38.24" />
+        <verse sID="rlxx_job.38.25" osisID="rlxx_job.38.25" />τίς δὲ ἡτοίμασεν ὑετῷ λάβρῳ ῥύσιν, ὁδὸν δὲ κυδοιμῶν<verse eID="rlxx_job.38.25" />
+        <verse sID="rlxx_job.38.26" osisID="rlxx_job.38.26" />※τοῦ ὑετίσαι ἐπὶ γῆν, οὗ οὐκ ἀνήρ, ※ἔρημον, οὗ οὐχ ὑπάρχει ἄνθρωπος ἐν αὐτῇ,<verse eID="rlxx_job.38.26" />
+        <verse sID="rlxx_job.38.27" osisID="rlxx_job.38.27" />※τοῦ χορτάσαι ἄβατον καὶ ἀοίκητον ※καὶ τοῦ ἐκβλαστῆσαι ἔξοδον χλόης;⸕<verse eID="rlxx_job.38.27" />
+        <verse sID="rlxx_job.38.28" osisID="rlxx_job.38.28" />τίς ἐστιν ὑετοῦ πατήρ; τίς δέ ἐστιν ὁ τετοκὼς βώλους δρόσου;<verse eID="rlxx_job.38.28" />
+        <verse sID="rlxx_job.38.29" osisID="rlxx_job.38.29" />ἐκ γαστρὸς δὲ τίνος ἐκπορεύεται ὁ κρύσταλλος; πάχνην δὲ ἐν οὐρανῷ τίς τέτοκεν,<verse eID="rlxx_job.38.29" />
+        <verse sID="rlxx_job.38.30" osisID="rlxx_job.38.30" />ἣ καταβαίνει ὥσπερ ὕδωρ ῥέον; πρόσωπον δὲ ἀβύσσου τίς ἔπηξεν;<verse eID="rlxx_job.38.30" />
+        <verse sID="rlxx_job.38.31" osisID="rlxx_job.38.31" />συνῆκας δὲ δεσμὸν Πλειάδος καὶ φραγμὸν Ὠρίωνος ἤνοιξας;<verse eID="rlxx_job.38.31" />
+        <verse sID="rlxx_job.38.32" osisID="rlxx_job.38.32" />※ἦ διανοίξεις μαζουρωθ ἐν καιρῷ αὐτοῦ ※καὶ Ἕσπερον ἐπὶ κόμης αὐτοῦ ἄξεις αὐτά;⸕<verse eID="rlxx_job.38.32" />
+        <verse sID="rlxx_job.38.33" osisID="rlxx_job.38.33" />ἐπίστασαι δὲ τροπὰς οὐρανοῦ ἢ τὰ ὑπ' οὐρανὸν ὁμοθυμαδὸν γινόμενα;<verse eID="rlxx_job.38.33" />
+        <verse sID="rlxx_job.38.34" osisID="rlxx_job.38.34" />καλέσεις δὲ νέφος φωνῇ, καὶ τρόμῳ ὕδατος λάβρῳ ὑπακούσεταί σου;<verse eID="rlxx_job.38.34" />
+        <verse sID="rlxx_job.38.35" osisID="rlxx_job.38.35" />ἀποστελεῖς δὲ κεραυνοὺς καὶ πορεύσονται; ἐροῦσιν δέ σοι Τί ἐστιν;<verse eID="rlxx_job.38.35" />
+        <verse sID="rlxx_job.38.36" osisID="rlxx_job.38.36" />τίς δὲ ἔδωκεν γυναιξὶν ὑφάσματος σοφίαν ἢ ποικιλτικὴν ἐπιστήμην;<verse eID="rlxx_job.38.36" />
+        <verse sID="rlxx_job.38.37" osisID="rlxx_job.38.37" />τίς δὲ ὁ ἀριθμῶν νέφη σοφίᾳ, οὐρανὸν δὲ εἰς γῆν ἔκλινεν;<verse eID="rlxx_job.38.37" />
+        <verse sID="rlxx_job.38.38" osisID="rlxx_job.38.38" />κέχυται δὲ ὥσπερ γῆ κονία, κεκόλληκα δὲ αὐτὸν ὥσπερ λίθῳ κύβον.<verse eID="rlxx_job.38.38" />
+        <verse sID="rlxx_job.38.39" osisID="rlxx_job.38.39" />θηρεύσεις δὲ λέουσιν βοράν, ψυχὰς δὲ δρακόντων ἐμπλήσεις;<verse eID="rlxx_job.38.39" />
+        <verse sID="rlxx_job.38.40" osisID="rlxx_job.38.40" />δεδοίκασιν γὰρ ἐν κοίταις αὐτῶν, κάθηνται δὲ ἐν ὕλαις ἐνεδρεύοντες.<verse eID="rlxx_job.38.40" />
+        <verse sID="rlxx_job.38.41" osisID="rlxx_job.38.41" />τίς δὲ ἡτοίμασεν κόρακι βοράν; νεοσσοὶ γὰρ αὐτοῦ πρὸς κύριον κεκράγασιν πλανώμενοι τὰ σῖτα ζητοῦντες.<verse eID="rlxx_job.38.41" />
+      </p>
+      <chapter eID="rlxx_job.38" />
+      <chapter sID="rlxx_job.39" osisID="rlxx_job.39" />
+      <title>Chapter 39</title>
+      <p>
+        <verse sID="rlxx_job.39.1" osisID="rlxx_job.39.1" />※εἰ ἔγνως καιρὸν τοκετοῦ τραγελάφων πέτρας,⸕ ἐφύλαξας δὲ ὠδῖνας ἐλάφων; ἠρίθμησας δὲ αὐτῶν μῆνας πλήρεις τοκετοῦ, ὠδῖνας δὲ αὐτῶν ἔλυσας;<verse eID="rlxx_job.39.1" />
+        <verse sID="rlxx_job.39.3" osisID="rlxx_job.39.3" />ἐξέθρεψας δὲ αὐτῶν τὰ παιδία ἔξω φόβου; ※ὠδῖνας αὐτῶν ἐξαποστελεῖς;<verse eID="rlxx_job.39.3" />
+        <verse sID="rlxx_job.39.4" osisID="rlxx_job.39.4" />※ἀπορρήξουσιν τὰ τέκνα αὐτῶν, πληθυνθήσονται ἐν γενήματι, ※ἐξελεύσονται καὶ οὐ μὴ ἀνακάμψουσιν αὐτοῖς.⸕<verse eID="rlxx_job.39.4" />
+        <verse sID="rlxx_job.39.5" osisID="rlxx_job.39.5" />τίς δέ ἐστιν ὁ ἀφεὶς ὄνον ἄγριον ἐλεύθερον, δεσμοὺς δὲ αὐτοῦ τίς ἔλυσεν;<verse eID="rlxx_job.39.5" />
+        <verse sID="rlxx_job.39.6" osisID="rlxx_job.39.6" />ἐθέμην δὲ τὴν δίαιταν αὐτοῦ ἔρημον ※καὶ τὰ σκηνώματα αὐτοῦ ἁλμυρίδα·⸕<verse eID="rlxx_job.39.6" />
+        <verse sID="rlxx_job.39.7" osisID="rlxx_job.39.7" />καταγελῶν πολυοχλίας πόλεως, μέμψιν δὲ φορολόγου οὐκ ἀκούων<verse eID="rlxx_job.39.7" />
+        <verse sID="rlxx_job.39.8" osisID="rlxx_job.39.8" />※κατασκέψεται ὄρη νομὴν αὐτοῦ ※καὶ ὀπίσω παντὸς χλωροῦ ζητεῖ.⸕<verse eID="rlxx_job.39.8" />
+        <verse sID="rlxx_job.39.9" osisID="rlxx_job.39.9" />βουλήσεται δέ σοι μονόκερως δουλεῦσαι ἢ κοιμηθῆναι ἐπὶ φάτνης σου;<verse eID="rlxx_job.39.9" />
+        <verse sID="rlxx_job.39.10" osisID="rlxx_job.39.10" />δήσεις δὲ ἐν ἱμᾶσι ζυγὸν αὐτοῦ, ἢ ἑλκύσει σου αὔλακας ἐν πεδίῳ;<verse eID="rlxx_job.39.10" />
+        <verse sID="rlxx_job.39.11" osisID="rlxx_job.39.11" />πέποιθας δὲ ἐπ' αὐτῷ, ὅτι πολλὴ ἡ ἰσχὺς αὐτοῦ, ἐπαφήσεις δὲ αὐτῷ τὰ ἔργα σου;<verse eID="rlxx_job.39.11" />
+        <verse sID="rlxx_job.39.12" osisID="rlxx_job.39.12" />πιστεύσεις δὲ ὅτι ἀποδώσει σοι τὸν σπόρον, εἰσοίσει δέ σου τὸν ἅλωνα;<verse eID="rlxx_job.39.12" />
+        <verse sID="rlxx_job.39.13" osisID="rlxx_job.39.13" />※πτέρυξ τερπομένων νεελασα, ※ἐὰν συλλάβῃ ασιδα καὶ νεσσα·<verse eID="rlxx_job.39.13" />
+        <verse sID="rlxx_job.39.14" osisID="rlxx_job.39.14" />※ὅτι ἀφήσει εἰς γῆν τὰ ᾠὰ αὐτῆς ※καὶ ἐπὶ χοῦν θάλψει<verse eID="rlxx_job.39.14" />
+        <verse sID="rlxx_job.39.15" osisID="rlxx_job.39.15" />※καὶ ἐπελάθετο ὅτι ποὺς σκορπιεῖ ※καὶ θηρία ἀγροῦ καταπατήσει·<verse eID="rlxx_job.39.15" />
+        <verse sID="rlxx_job.39.16" osisID="rlxx_job.39.16" />※ἀπεσκλήρυνεν τὰ τέκνα αὐτῆς ὥστε μὴ ἑαυτῇ, ※εἰς κενὸν ἐκοπίασεν ἄνευ φόβου·<verse eID="rlxx_job.39.16" />
+        <verse sID="rlxx_job.39.17" osisID="rlxx_job.39.17" />※ὅτι κατεσιώπησεν αὐτῇ ὁ θεὸς σοφίαν ※καὶ οὐκ ἐμέρισεν αὐτῇ ἐν τῇ συνέσει.<verse eID="rlxx_job.39.17" />
+        <verse sID="rlxx_job.39.18" osisID="rlxx_job.39.18" />※κατὰ καιρὸν ἐν ὕψει ὑψώσει, ※καταγελάσεται ἵππου καὶ τοῦ ἐπιβάτου αὐτοῦ.⸕<verse eID="rlxx_job.39.18" />
+        <verse sID="rlxx_job.39.19" osisID="rlxx_job.39.19" />ἦ σὺ περιέθηκας ἵππῳ δύναμιν, ἐνέδυσας δὲ τραχήλῳ αὐτοῦ φόβον;<verse eID="rlxx_job.39.19" />
+        <verse sID="rlxx_job.39.20" osisID="rlxx_job.39.20" />περιέθηκας δὲ αὐτῷ πανοπλίαν, δόξαν δὲ στηθέων αὐτοῦ τόλμῃ;<verse eID="rlxx_job.39.20" />
+        <verse sID="rlxx_job.39.21" osisID="rlxx_job.39.21" />ἀνορύσσων ἐν πεδίῳ γαυριᾷ, ἐκπορεύεται δὲ εἰς πεδίον ἐν ἰσχύι·<verse eID="rlxx_job.39.21" />
+        <verse sID="rlxx_job.39.22" osisID="rlxx_job.39.22" />συναντῶν βέλει καταγελᾷ καὶ οὐ μὴ ἀποστραφῇ ἀπὸ σιδήρου·<verse eID="rlxx_job.39.22" />
+        <verse sID="rlxx_job.39.23" osisID="rlxx_job.39.23" />ἐπ' αὐτῷ γαυριᾷ τόξον καὶ μάχαιρα,<verse eID="rlxx_job.39.23" />
+        <verse sID="rlxx_job.39.24" osisID="rlxx_job.39.24" />καὶ ὀργῇ ἀφανιεῖ τὴν γῆν καὶ οὐ μὴ πιστεύσῃ, ἕως ἂν σημάνῃ σάλπιγξ·<verse eID="rlxx_job.39.24" />
+        <verse sID="rlxx_job.39.25" osisID="rlxx_job.39.25" />σάλπιγγος δὲ σημαινούσης λέγει Εὖγε, πόρρωθεν δὲ ὀσφραίνεται πολέμου σὺν ἅλματι καὶ κραυγῇ.<verse eID="rlxx_job.39.25" />
+        <verse sID="rlxx_job.39.26" osisID="rlxx_job.39.26" />ἐκ δὲ τῆς σῆς ἐπιστήμης ἕστηκεν ἱέραξ ἀναπετάσας τὰς πτέρυγας ἀκίνητος καθορῶν τὰ πρὸς νότον;<verse eID="rlxx_job.39.26" />
+        <verse sID="rlxx_job.39.27" osisID="rlxx_job.39.27" />ἐπὶ δὲ σῷ προστάγματι ὑψοῦται ἀετός, γὺψ δὲ ἐπὶ νοσσιᾶς αὐτοῦ καθεσθεὶς αὐλίζεται<verse eID="rlxx_job.39.27" />
+        <verse sID="rlxx_job.39.28" osisID="rlxx_job.39.28" />※ἐπ' ἐξοχῇ πέτρας καὶ ἀποκρύφῳ;⸕<verse eID="rlxx_job.39.28" />
+        <verse sID="rlxx_job.39.29" osisID="rlxx_job.39.29" />ἐκεῖσε ὢν ζητεῖ τὰ σῖτα, ※πόρρωθεν οἱ ὀφθαλμοὶ αὐτοῦ σκοπεύουσιν·⸕<verse eID="rlxx_job.39.29" />
+        <verse sID="rlxx_job.39.30" osisID="rlxx_job.39.30" />νεοσσοὶ δὲ αὐτοῦ φύρονται ἐν αἵματι, οὗ δ' ἂν ὦσι τεθνεῶτες, παραχρῆμα εὑρίσκονται.<verse eID="rlxx_job.39.30" />
+      </p>
+      <chapter eID="rlxx_job.39" />
+      <chapter sID="rlxx_job.40" osisID="rlxx_job.40" />
+      <title>Chapter 40</title>
+      <p>
+        <verse sID="rlxx_job.40.1" osisID="rlxx_job.40.1" />※Καὶ ἀπεκρίθη κύριος ὁ θεὸς τῷ Ιωβ καὶ εἶπεν<verse eID="rlxx_job.40.1" />
+        <verse sID="rlxx_job.40.2" osisID="rlxx_job.40.2" />※Μὴ κρίσιν μετὰ ἱκανοῦ ἐκκλινεῖ, ※ἐλέγχων θεὸν ἀποκριθήσεται αὐτήν;⸕<verse eID="rlxx_job.40.2" />
+        <verse sID="rlxx_job.40.3" osisID="rlxx_job.40.3" />Ὑπολαβὼν δὲ Ιωβ λέγει τῷ κυρίῳ<verse eID="rlxx_job.40.3" />
+        <verse sID="rlxx_job.40.4" osisID="rlxx_job.40.4" />Τί ἔτι ἐγὼ κρίνομαι νουθετούμενος καὶ ἐλέγχων κύριον ἀκούων τοιαῦτα οὐθὲν ὤν; ἐγὼ δὲ τίνα ἀπόκρισιν δῶ πρὸς ταῦτα; χεῖρα θήσω ἐπὶ στόματί μου·<verse eID="rlxx_job.40.4" />
+        <verse sID="rlxx_job.40.5" osisID="rlxx_job.40.5" />ἅπαξ λελάληκα, ἐπὶ δὲ τῷ δευτέρῳ οὐ προσθήσω.<verse eID="rlxx_job.40.5" />
+        <verse sID="rlxx_job.40.6" osisID="rlxx_job.40.6" />Ἔτι δὲ ὑπολαβὼν ὁ κύριος εἶπεν τῷ Ιωβ ἐκ τοῦ νέφους<verse eID="rlxx_job.40.6" />
+        <verse sID="rlxx_job.40.7" osisID="rlxx_job.40.7" />Μή, ἀλλὰ ζῶσαι ὥσπερ ἀνὴρ τὴν ὀσφύν σου, ἐρωτήσω δέ σε, σὺ δέ μοι ἀποκρίθητι·<verse eID="rlxx_job.40.7" />
+        <verse sID="rlxx_job.40.8" osisID="rlxx_job.40.8" />μὴ ἀποποιοῦ μου τὸ κρίμα. οἴει δέ με ἄλλως σοι κεχρηματικέναι ἢ ἵνα ἀναφανῇς δίκαιος;<verse eID="rlxx_job.40.8" />
+        <verse sID="rlxx_job.40.9" osisID="rlxx_job.40.9" />ἦ βραχίων σοί ἐστιν κατὰ τοῦ κυρίου, ἢ φωνῇ κατ' αὐτὸν βροντᾷς;<verse eID="rlxx_job.40.9" />
+        <verse sID="rlxx_job.40.10" osisID="rlxx_job.40.10" />ἀνάλαβε δὴ ὕψος καὶ δύναμιν, δόξαν δὲ καὶ τιμὴν ἀμφίεσαι·<verse eID="rlxx_job.40.10" />
+        <verse sID="rlxx_job.40.11" osisID="rlxx_job.40.11" />ἀπόστειλον δὲ ἀγγέλους ὀργῇ, πᾶν δὲ ὑβριστὴν ταπείνωσον,<verse eID="rlxx_job.40.11" />
+        <verse sID="rlxx_job.40.12" osisID="rlxx_job.40.12" />ὑπερήφανον δὲ σβέσον, σῆψον δὲ ἀσεβεῖς παραχρῆμα,<verse eID="rlxx_job.40.12" />
+        <verse sID="rlxx_job.40.13" osisID="rlxx_job.40.13" />κρύψον δὲ εἰς γῆν ἔξω ὁμοθυμαδόν, τὰ δὲ πρόσωπα αὐτῶν ἀτιμίας ἔμπλησον·<verse eID="rlxx_job.40.13" />
+        <verse sID="rlxx_job.40.14" osisID="rlxx_job.40.14" />ὁμολογήσω ἄρα ὅτι δύναται ἡ δεξιά σου σῶσαι.–<verse eID="rlxx_job.40.14" />
+        <verse sID="rlxx_job.40.15" osisID="rlxx_job.40.15" />ἀλλὰ δὴ ἰδοὺ θηρία παρὰ σοί· χόρτον ἴσα βουσὶν ἐσθίει.<verse eID="rlxx_job.40.15" />
+        <verse sID="rlxx_job.40.16" osisID="rlxx_job.40.16" />ἰδοὺ δὴ ἰσχὺς αὐτοῦ ἐπ' ὀσφύι, ἡ δὲ δύναμις ἐπ' ὀμφαλοῦ γαστρός·<verse eID="rlxx_job.40.16" />
+        <verse sID="rlxx_job.40.17" osisID="rlxx_job.40.17" />ἔστησεν οὐρὰν ὡς κυπάρισσον, τὰ δὲ νεῦρα αὐτοῦ συμπέπλεκται·<verse eID="rlxx_job.40.17" />
+        <verse sID="rlxx_job.40.18" osisID="rlxx_job.40.18" />αἱ πλευραὶ αὐτοῦ πλευραὶ χάλκειαι, ἡ δὲ ῥάχις αὐτοῦ σίδηρος χυτός.<verse eID="rlxx_job.40.18" />
+        <verse sID="rlxx_job.40.19" osisID="rlxx_job.40.19" />τοῦτ' ἔστιν ἀρχὴ πλάσματος κυρίου, πεποιημένον ἐγκαταπαίζεσθαι ὑπὸ τῶν ἀγγέλων αὐτοῦ.<verse eID="rlxx_job.40.19" />
+        <verse sID="rlxx_job.40.20" osisID="rlxx_job.40.20" />ἐπελθὼν δὲ ἐπ' ὄρος ἀκρότομον ἐποίησεν χαρμονὴν τετράποσιν ἐν τῷ ταρτάρῳ·<verse eID="rlxx_job.40.20" />
+        <verse sID="rlxx_job.40.21" osisID="rlxx_job.40.21" />ὑπὸ παντοδαπὰ δένδρα κοιμᾶται παρὰ πάπυρον καὶ κάλαμον καὶ βούτομον·<verse eID="rlxx_job.40.21" />
+        <verse sID="rlxx_job.40.22" osisID="rlxx_job.40.22" />σκιάζονται δὲ ἐν αὐτῷ δένδρα μεγάλα σὺν ῥαδάμνοις καὶ κλῶνες ἄγνου.<verse eID="rlxx_job.40.22" />
+        <verse sID="rlxx_job.40.23" osisID="rlxx_job.40.23" />ἐὰν γένηται πλήμμυρα, οὐ μὴ αἰσθηθῇ, ※πέποιθεν ὅτι προσκρούσει ὁ Ιορδάνης εἰς τὸ στόμα αὐτοῦ.<verse eID="rlxx_job.40.23" />
+        <verse sID="rlxx_job.40.24" osisID="rlxx_job.40.24" />※ἐν τῷ ὀφθαλμῷ αὐτοῦ δέξεται αὐτόν, ※ἐνσκολιευόμενος τρήσει ῥῖνα;⸕–<verse eID="rlxx_job.40.24" />
+        <verse sID="rlxx_job.40.25" osisID="rlxx_job.40.25" />ἄξεις δὲ δράκοντα ἐν ἀγκίστρῳ, περιθήσεις δὲ φορβεὰν περὶ ῥῖνα αὐτοῦ;<verse eID="rlxx_job.40.25" />
+        <verse sID="rlxx_job.40.26" osisID="rlxx_job.40.26" />※εἰ δήσεις κρίκον ἐν τῷ μυκτῆρι αὐτοῦ,⸕ ψελίῳ δὲ τρυπήσεις τὸ χεῖλος αὐτοῦ;<verse eID="rlxx_job.40.26" />
+        <verse sID="rlxx_job.40.27" osisID="rlxx_job.40.27" />λαλήσει δέ σοι δεήσει, ἱκετηρίᾳ μαλακῶς;<verse eID="rlxx_job.40.27" />
+        <verse sID="rlxx_job.40.28" osisID="rlxx_job.40.28" />θήσεται δὲ διαθήκην μετὰ σοῦ, λήμψῃ δὲ αὐτὸν δοῦλον αἰώνιον;<verse eID="rlxx_job.40.28" />
+        <verse sID="rlxx_job.40.29" osisID="rlxx_job.40.29" />παίξῃ δὲ ἐν αὐτῷ ὥσπερ ὀρνέῳ ἢ δήσεις αὐτὸν ὥσπερ στρουθίον παιδίῳ;<verse eID="rlxx_job.40.29" />
+        <verse sID="rlxx_job.40.30" osisID="rlxx_job.40.30" />ἐνσιτοῦνται δὲ ἐν αὐτῷ ἔθνη, μεριτεύονται δὲ αὐτὸν Φοινίκων γένη;<verse eID="rlxx_job.40.30" />
+        <verse sID="rlxx_job.40.31" osisID="rlxx_job.40.31" />πᾶν δὲ πλωτὸν συνελθὸν οὐ μὴ ἐνέγκωσιν βύρσαν μίαν οὐρᾶς αὐτοῦ ※καὶ ἐν πλοίοις ἁλιέων κεφαλὴν αὐτοῦ.⸕<verse eID="rlxx_job.40.31" />
+        <verse sID="rlxx_job.40.32" osisID="rlxx_job.40.32" />ἐπιθήσεις δὲ αὐτῷ χεῖρα μνησθεὶς πόλεμον τὸν γινόμενον ἐν σώματι αὐτοῦ, καὶ μηκέτι γινέσθω.<verse eID="rlxx_job.40.32" />
+      </p>
+      <chapter eID="rlxx_job.40" />
+      <chapter sID="rlxx_job.41" osisID="rlxx_job.41" />
+      <title>Chapter 41</title>
+      <p>
+        <verse sID="rlxx_job.41.1" osisID="rlxx_job.41.1" />οὐχ ἑόρακας αὐτὸν οὐδὲ ἐπὶ τοῖς λεγομένοις τεθαύμακας;<verse eID="rlxx_job.41.1" />
+        <verse sID="rlxx_job.41.2" osisID="rlxx_job.41.2" />οὐ δέδοικας ὅτι ἡτοίμασταί μοι; τίς γάρ ἐστιν ὁ ἐμοὶ ἀντιστάς;<verse eID="rlxx_job.41.2" />
+        <verse sID="rlxx_job.41.3" osisID="rlxx_job.41.3" />ἢ τίς ἀντιστήσεταί μοι καὶ ὑπομενεῖ, εἰ πᾶσα ἡ ὑπ' οὐρανὸν ἐμή ἐστιν;<verse eID="rlxx_job.41.3" />
+        <verse sID="rlxx_job.41.4" osisID="rlxx_job.41.4" />※οὐ σιωπήσομαι δι' αὐτόν, ※καὶ λόγον δυνάμεως ἐλεήσει τὸν ἴσον αὐτοῦ.⸕<verse eID="rlxx_job.41.4" />
+        <verse sID="rlxx_job.41.5" osisID="rlxx_job.41.5" />τίς ἀποκαλύψει πρόσωπον ἐνδύσεως αὐτοῦ; εἰς δὲ πτύξιν θώρακος αὐτοῦ τίς ἂν εἰσέλθοι;<verse eID="rlxx_job.41.5" />
+        <verse sID="rlxx_job.41.6" osisID="rlxx_job.41.6" />πύλας προσώπου αὐτοῦ τίς ἀνοίξει; κύκλῳ ὀδόντων αὐτοῦ φόβος.<verse eID="rlxx_job.41.6" />
+        <verse sID="rlxx_job.41.7" osisID="rlxx_job.41.7" />τὰ ἔγκατα αὐτοῦ ἀσπίδες χάλκειαι, σύνδεσμος δὲ αὐτοῦ ὥσπερ σμιρίτης λίθος·<verse eID="rlxx_job.41.7" />
+        <verse sID="rlxx_job.41.8" osisID="rlxx_job.41.8" />※εἷς τοῦ ἑνὸς κολλῶνται,⸕ πνεῦμα δὲ οὐ μὴ διέλθῃ αὐτόν·<verse eID="rlxx_job.41.8" />
+        <verse sID="rlxx_job.41.9" osisID="rlxx_job.41.9" />※ἀνὴρ τῷ ἀδελφῷ αὐτοῦ προσκολληθήσεται, ※συνέχονται καὶ οὐ μὴ ἀποσπασθῶσιν.⸕<verse eID="rlxx_job.41.9" />
+        <verse sID="rlxx_job.41.10" osisID="rlxx_job.41.10" />ἐν πταρμῷ αὐτοῦ ἐπιφαύσκεται φέγγος, οἱ δὲ ὀφθαλμοὶ αὐτοῦ εἶδος ἑωσφόρου.<verse eID="rlxx_job.41.10" />
+        <verse sID="rlxx_job.41.11" osisID="rlxx_job.41.11" />ἐκ στόματος αὐτοῦ ἐκπορεύονται λαμπάδες καιόμεναι καὶ διαρριπτοῦνται ἐσχάραι πυρός·<verse eID="rlxx_job.41.11" />
+        <verse sID="rlxx_job.41.12" osisID="rlxx_job.41.12" />ἐκ μυκτήρων αὐτοῦ ἐκπορεύεται καπνὸς καμίνου καιομένης πυρὶ ἀνθράκων·<verse eID="rlxx_job.41.12" />
+        <verse sID="rlxx_job.41.13" osisID="rlxx_job.41.13" />ἡ ψυχὴ αὐτοῦ ἄνθρακες, φλὸξ δὲ ἐκ στόματος αὐτοῦ ἐκπορεύεται.<verse eID="rlxx_job.41.13" />
+        <verse sID="rlxx_job.41.14" osisID="rlxx_job.41.14" />ἐν δὲ τραχήλῳ αὐτοῦ αὐλίζεται δύναμις, ἔμπροσθεν αὐτοῦ τρέχει ἀπώλεια.<verse eID="rlxx_job.41.14" />
+        <verse sID="rlxx_job.41.15" osisID="rlxx_job.41.15" />σάρκες δὲ σώματος αὐτοῦ κεκόλληνται· ※καταχέει ἐπ' αὐτόν, οὐ σαλευθήσεται.⸕<verse eID="rlxx_job.41.15" />
+        <verse sID="rlxx_job.41.16" osisID="rlxx_job.41.16" />ἡ καρδία αὐτοῦ πέπηγεν ὡς λίθος, ἕστηκεν δὲ ὥσπερ ἄκμων ἀνήλατος.<verse eID="rlxx_job.41.16" />
+        <verse sID="rlxx_job.41.17" osisID="rlxx_job.41.17" />στραφέντος δὲ αὐτοῦ φόβος θηρίοις τετράποσιν ἐπὶ γῆς ἁλλομένοις.<verse eID="rlxx_job.41.17" />
+        <verse sID="rlxx_job.41.18" osisID="rlxx_job.41.18" />ἐὰν συναντήσωσιν αὐτῷ λόγχαι, οὐδὲν μὴ ποιήσωσιν ※δόρυ ἐπηρμένον καὶ θώρακα·⸕<verse eID="rlxx_job.41.18" />
+        <verse sID="rlxx_job.41.19" osisID="rlxx_job.41.19" />ἥγηται μὲν γὰρ σίδηρον ἄχυρα, χαλκὸν δὲ ὥσπερ ξύλον σαθρόν·<verse eID="rlxx_job.41.19" />
+        <verse sID="rlxx_job.41.20" osisID="rlxx_job.41.20" />οὐ μὴ τρώσῃ αὐτὸν τόξον χάλκειον, ἥγηται μὲν πετροβόλον χόρτον·<verse eID="rlxx_job.41.20" />
+        <verse sID="rlxx_job.41.21" osisID="rlxx_job.41.21" />※ὡς καλάμη ἐλογίσθησαν σφῦραι,⸕ καταγελᾷ δὲ σεισμοῦ πυρφόρου.<verse eID="rlxx_job.41.21" />
+        <verse sID="rlxx_job.41.22" osisID="rlxx_job.41.22" />ἡ στρωμνὴ αὐτοῦ ὀβελίσκοι ὀξεῖς, πᾶς δὲ χρυσὸς θαλάσσης ὑπ' αὐτὸν ὥσπερ πηλὸς ἀμύθητος.<verse eID="rlxx_job.41.22" />
+        <verse sID="rlxx_job.41.23" osisID="rlxx_job.41.23" />ἀναζεῖ τὴν ἄβυσσον ὥσπερ χαλκεῖον, ἥγηται δὲ τὴν θάλασσαν ὥσπερ ἐξάλειπτρον,<verse eID="rlxx_job.41.23" />
+        <verse sID="rlxx_job.41.24" osisID="rlxx_job.41.24" />τὸν δὲ τάρταρον τῆς ἀβύσσου ὥσπερ αἰχμάλωτον· ※ἐλογίσατο ἄβυσσον εἰς περίπατον.⸕<verse eID="rlxx_job.41.24" />
+        <verse sID="rlxx_job.41.25" osisID="rlxx_job.41.25" />οὐκ ἔστιν οὐδὲν ἐπὶ τῆς γῆς ὅμοιον αὐτῷ πεποιημένον ἐγκαταπαίζεσθαι ὑπὸ τῶν ἀγγέλων μου·<verse eID="rlxx_job.41.25" />
+        <verse sID="rlxx_job.41.26" osisID="rlxx_job.41.26" />πᾶν ὑψηλὸν ὁρᾷ, αὐτὸς δὲ βασιλεὺς πάντων τῶν ἐν τοῖς ὕδασιν.<verse eID="rlxx_job.41.26" />
+      </p>
+      <chapter eID="rlxx_job.41" />
+      <chapter sID="rlxx_job.42" osisID="rlxx_job.42" />
+      <title>Chapter 42</title>
+      <p>
+        <verse sID="rlxx_job.42.1" osisID="rlxx_job.42.1" />Ὑπολαβὼν δὲ Ιωβ λέγει τῷ κυρίῳ<verse eID="rlxx_job.42.1" />
+        <verse sID="rlxx_job.42.2" osisID="rlxx_job.42.2" />Οἶδα ὅτι πάντα δύνασαι, ἀδυνατεῖ δέ σοι οὐθέν.<verse eID="rlxx_job.42.2" />
+        <verse sID="rlxx_job.42.3" osisID="rlxx_job.42.3" />τίς γάρ ἐστιν ὁ κρύπτων σε βουλήν; φειδόμενος δὲ ῥημάτων καὶ σὲ οἴεται κρύπτειν; τίς δὲ ἀναγγελεῖ μοι ἃ οὐκ ᾔδειν, μεγάλα καὶ θαυμαστὰ ἃ οὐκ ἠπιστάμην;<verse eID="rlxx_job.42.3" />
+        <verse sID="rlxx_job.42.4" osisID="rlxx_job.42.4" />ἄκουσον δέ μου, κύριε, ἵνα κἀγὼ λαλήσω· ἐρωτήσω δέ σε, σὺ δέ με δίδαξον.<verse eID="rlxx_job.42.4" />
+        <verse sID="rlxx_job.42.5" osisID="rlxx_job.42.5" />ἀκοὴν μὲν ὠτὸς ἤκουόν σου τὸ πρότερον, νυνὶ δὲ ὁ ὀφθαλμός μου ἑόρακέν σε·<verse eID="rlxx_job.42.5" />
+        <verse sID="rlxx_job.42.6" osisID="rlxx_job.42.6" />διὸ ἐφαύλισα ἐμαυτὸν καὶ ἐτάκην, ἥγημαι δὲ ἐμαυτὸν γῆν καὶ σποδόν.<verse eID="rlxx_job.42.6" />
+        <verse sID="rlxx_job.42.7" osisID="rlxx_job.42.7" />Ἐγένετο δὲ μετὰ τὸ λαλῆσαι τὸν κύριον πάντα τὰ ῥήματα ταῦτα τῷ Ιωβ εἶπεν ὁ κύριος Ελιφας τῷ Θαιμανίτῃ Ἥμαρτες σὺ καὶ οἱ δύο φίλοι σου· οὐ γὰρ ἐλαλήσατε ἐνώπιόν μου ἀληθὲς οὐδὲν ὥσπερ ὁ θεράπων μου Ιωβ.<verse eID="rlxx_job.42.7" />
+        <verse sID="rlxx_job.42.8" osisID="rlxx_job.42.8" />νῦν δὲ λάβετε ἑπτὰ μόσχους καὶ ἑπτὰ κριοὺς καὶ πορεύθητε πρὸς τὸν θεράποντά μου Ιωβ, καὶ ποιήσει κάρπωσιν περὶ ὑμῶν· Ιωβ δὲ ὁ θεράπων μου εὔξεται περὶ ὑμῶν, ※ὅτι εἰ μὴ πρόσωπον αὐτοῦ λήμψομαι·⸕ εἰ μὴ γὰρ δι' αὐτόν, ἀπώλεσα ἂν ὑμᾶς· οὐ γὰρ ἐλαλήσατε ἀληθὲς κατὰ τοῦ θεράποντός μου Ιωβ.–<verse eID="rlxx_job.42.8" />
+        <verse sID="rlxx_job.42.9" osisID="rlxx_job.42.9" />ἐπορεύθη δὲ Ελιφας ὁ Θαιμανίτης καὶ Βαλδαδ ὁ Σαυχίτης καὶ Σωφαρ ὁ Μιναῖος καὶ ἐποίησαν καθὼς συνέταξεν αὐτοῖς ὁ κύριος, καὶ ἔλυσεν τὴν ἁμαρτίαν αὐτοῖς διὰ Ιωβ.<verse eID="rlxx_job.42.9" />
+        <verse sID="rlxx_job.42.10" osisID="rlxx_job.42.10" />ὁ δὲ κύριος ηὔξησεν τὸν Ιωβ· εὐξαμένου δὲ αὐτοῦ καὶ περὶ τῶν φίλων αὐτοῦ ἀφῆκεν αὐτοῖς τὴν ἁμαρτίαν· ἔδωκεν δὲ ὁ κύριος διπλᾶ ὅσα ἦν ἔμπροσθεν Ιωβ εἰς διπλασιασμόν.<verse eID="rlxx_job.42.10" />
+        <verse sID="rlxx_job.42.11" osisID="rlxx_job.42.11" />ἤκουσαν δὲ πάντες οἱ ἀδελφοὶ αὐτοῦ καὶ αἱ ἀδελφαὶ αὐτοῦ πάντα τὰ συμβεβηκότα αὐτῷ καὶ ἦλθον πρὸς αὐτὸν καὶ πάντες ὅσοι ᾔδεισαν αὐτὸν ἐκ πρώτου· φαγόντες δὲ καὶ πιόντες παρ' αὐτῷ παρεκάλεσαν αὐτόν, καὶ ἐθαύμασαν ἐπὶ πᾶσιν, οἷς ἐπήγαγεν αὐτῷ ὁ κύριος· ἔδωκεν δὲ αὐτῷ ἕκαστος ἀμνάδα μίαν καὶ τετράδραχμον χρυσοῦν ἄσημον.<verse eID="rlxx_job.42.11" />
+        <verse sID="rlxx_job.42.12" osisID="rlxx_job.42.12" />ὁ δὲ κύριος εὐλόγησεν τὰ ἔσχατα Ιωβ ἢ τὰ ἔμπροσθεν· ἦν δὲ τὰ κτήνη αὐτοῦ πρόβατα μύρια τετρακισχίλια, κάμηλοι ἑξακισχίλιαι, ζεύγη βοῶν χίλια, ὄνοι θήλειαι νομάδες χίλιαι.<verse eID="rlxx_job.42.12" />
+        <verse sID="rlxx_job.42.13" osisID="rlxx_job.42.13" />γεννῶνται δὲ αὐτῷ υἱοὶ ἑπτὰ καὶ θυγατέρες τρεῖς·<verse eID="rlxx_job.42.13" />
+        <verse sID="rlxx_job.42.14" osisID="rlxx_job.42.14" />καὶ ἐκάλεσεν τὴν μὲν πρώτην Ἡμέραν, τὴν δὲ δευτέραν Κασίαν, τὴν δὲ τρίτην Ἀμαλθείας κέρας·<verse eID="rlxx_job.42.14" />
+        <verse sID="rlxx_job.42.15" osisID="rlxx_job.42.15" />καὶ οὐχ εὑρέθησαν κατὰ τὰς θυγατέρας Ιωβ βελτίους αὐτῶν ἐν τῇ ὑπ' οὐρανόν· ἔδωκεν δὲ αὐταῖς ὁ πατὴρ κληρονομίαν ἐν τοῖς ἀδελφοῖς.<verse eID="rlxx_job.42.15" />
+        <verse sID="rlxx_job.42.16" osisID="rlxx_job.42.16" />ἔζησεν δὲ Ιωβ μετὰ τὴν πληγὴν ἔτη ἑκατὸν ἑβδομήκοντα, τὰ δὲ πάντα ἔζησεν ἔτη διακόσια τεσσαράκοντα ὀκτώ· ※καὶ εἶδεν Ιωβ τοὺς υἱοὺς αὐτοῦ καὶ τοὺς υἱοὺς τῶν υἱῶν αὐτοῦ τετάρτην γενεάν·<verse eID="rlxx_job.42.16" />
+        <verse sID="rlxx_job.42.17" osisID="rlxx_job.42.17" />※καὶ ἐτελεύτησεν Ιωβ πρεσβύτερος καὶ πλήρης ἡμερῶν.⸕<verse eID="rlxx_job.42.17" />
+        <verse sID="rlxx_job.42.17a" osisID="rlxx_job.42.17a" />γέγραπται δὲ αὐτὸν πάλιν ἀναστήσεσθαι μεθ' ὧν ὁ κύριος ἀνίστησιν. –––<verse eID="rlxx_job.42.17a" />
+        <verse sID="rlxx_job.42.17b" osisID="rlxx_job.42.17b" />Οὗτος ἑρμηνεύεται ἐκ τῆς Συριακῆς βίβλου ἐν μὲν γῇ κατοικῶν τῇ Αυσίτιδι ἐπὶ τοῖς ὁρίοις τῆς Ιδουμαίας καὶ Ἀραβίας, προϋπῆρχεν δὲ αὐτῷ ὄνομα Ιωβαβ·<verse eID="rlxx_job.42.17b" />
+        <verse sID="rlxx_job.42.17c" osisID="rlxx_job.42.17c" />λαβὼν δὲ γυναῖκα Ἀράβισσαν γεννᾷ υἱόν, ᾧ ὄνομα Εννων, ἦν δὲ αὐτὸς πατρὸς μὲν Ζαρε, τῶν Ησαυ υἱῶν υἱός, μητρὸς δὲ Βοσορρας, ὥστε εἶναι αὐτὸν πέμπτον ἀπὸ Αβρααμ.<verse eID="rlxx_job.42.17c" />
+        <verse sID="rlxx_job.42.17d" osisID="rlxx_job.42.17d" />καὶ οὗτοι οἱ βασιλεῖς οἱ βασιλεύσαντες ἐν Εδωμ, ἧς καὶ αὐτὸς ἦρξεν χώρας· πρῶτος Βαλακ ὁ τοῦ Βεωρ, καὶ ὄνομα τῇ πόλει αὐτοῦ Δενναβα· μετὰ δὲ Βαλακ Ιωβαβ ὁ καλούμενος Ιωβ· μετὰ δὲ τοῦτον Ασομ ὁ ὑπάρχων ἡγεμὼν ἐκ τῆς Θαιμανίτιδος χώρας· μετὰ δὲ τοῦτον Αδαδ υἱὸς Βαραδ ὁ ἐκκόψας Μαδιαμ ἐν τῷ πεδίῳ Μωαβ, καὶ ὄνομα τῇ πόλει αὐτοῦ Γεθθαιμ.<verse eID="rlxx_job.42.17d" />
+        <verse sID="rlxx_job.42.17e" osisID="rlxx_job.42.17e" />οἱ δὲ ἐλθόντες πρὸς αὐτὸν φίλοι· Ελιφας τῶν Ησαυ υἱῶν Θαιμανων βασιλεύς, Βαλδαδ ὁ Σαυχαίων τύραννος, Σωφαρ ὁ Μιναίων βασιλεύς.<verse eID="rlxx_job.42.17e" />
+      </p>
+      <chapter eID="rlxx_job.42" />
+    </div>
+  </osisText>
+</osis>

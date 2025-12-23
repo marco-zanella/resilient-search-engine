@@ -1,0 +1,1103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="rlxx_proverbs" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="rlxx_proverbs">
+        <title>Proverbs</title>
+        <creator>ITSERR-Italian Strengthening of the ESFRI RI RESILIENCE: WP8-uBIQUity; PRIN 2022- Resilient Septuagint. An Initial Exploration of the Semantics of Killing and Healing in the Septuagint and its Reception in Patristic and Late Antique Sources (3rd cent. BCE – 5th cent. CE)</creator>
+        <subject>Proverbs</subject>
+        <date event="original">3rd-1st cent. BCE</date>
+        <date event="eversion">2025-07-23</date>
+        <date event="edition">2006 (1rst ed.: A. Rahlfs, 1935)</date>
+        <description type="x-edition">A. Rahlfs - R. Hanhart (eds.), Septuaginta: Id est Vetus
+                    Testamentum graece iuxta LXX interpretes. Editio altera, Stuttgart: Deutsche
+                    Bibelgesellschaft, 2006 (1rst ed.: A. Rahlfs, 1935)</description>
+        <description type="x-apparatus_n">1</description>
+        <identifier type="ISBN">978-3-438-05119-6</identifier>
+        <relation type="x-isAPartOf">R-LXX</relation>
+        <rights>© Deutsche Bibelgesellschaft, Stuttgart. All rights reserved.</rights>
+        <refSystem>Greek: Scriptures</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="rlxx_proverbs">
+      <title>ΠΑΡΟΙΜΙΑΙ</title>
+      <chapter sID="rlxx_proverbs.1" osisID="rlxx_proverbs.1" />
+      <title>Chapter 1</title>
+      <p>
+        <verse sID="rlxx_proverbs.1.1" osisID="rlxx_proverbs.1.1" />Παροιμίαι Σαλωμῶντος υἱοῦ Δαυιδ, ὃς ἐβασίλευσεν ἐν Ισραηλ,<verse eID="rlxx_proverbs.1.1" />
+        <verse sID="rlxx_proverbs.1.2" osisID="rlxx_proverbs.1.2" />γνῶναι σοφίαν καὶ παιδείαν νοῆσαί τε λόγους φρονήσεως<verse eID="rlxx_proverbs.1.2" />
+        <verse sID="rlxx_proverbs.1.3" osisID="rlxx_proverbs.1.3" />δέξασθαί τε στροφὰς λόγων νοῆσαί τε δικαιοσύνην ἀληθῆ καὶ κρίμα κατευθύνειν,<verse eID="rlxx_proverbs.1.3" />
+        <verse sID="rlxx_proverbs.1.4" osisID="rlxx_proverbs.1.4" />ἵνα δῷ ἀκάκοις πανουργίαν, παιδὶ δὲ νέῳ αἴσθησίν τε καὶ ἔννοιαν·<verse eID="rlxx_proverbs.1.4" />
+        <verse sID="rlxx_proverbs.1.5" osisID="rlxx_proverbs.1.5" />τῶνδε γὰρ ἀκούσας σοφὸς σοφώτερος ἔσται, ὁ δὲ νοήμων κυβέρνησιν κτήσεται<verse eID="rlxx_proverbs.1.5" />
+        <verse sID="rlxx_proverbs.1.6" osisID="rlxx_proverbs.1.6" />νοήσει τε παραβολὴν καὶ σκοτεινὸν λόγον ῥήσεις τε σοφῶν καὶ αἰνίγματα.<verse eID="rlxx_proverbs.1.6" />
+        <verse sID="rlxx_proverbs.1.7" osisID="rlxx_proverbs.1.7" />Ἀρχὴ σοφίας φόβος θεοῦ, σύνεσις δὲ ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν· εὐσέβεια δὲ εἰς θεὸν ἀρχὴ αἰσθήσεως, σοφίαν δὲ καὶ παιδείαν ἀσεβεῖς ἐξουθενήσουσιν.<verse eID="rlxx_proverbs.1.7" />
+        <verse sID="rlxx_proverbs.1.8" osisID="rlxx_proverbs.1.8" />ἄκουε, υἱέ, παιδείαν πατρός σου καὶ μὴ ἀπώσῃ θεσμοὺς μητρός σου·<verse eID="rlxx_proverbs.1.8" />
+        <verse sID="rlxx_proverbs.1.9" osisID="rlxx_proverbs.1.9" />στέφανον γὰρ χαρίτων δέξῃ σῇ κορυφῇ καὶ κλοιὸν χρύσεον περὶ σῷ τραχήλῳ.<verse eID="rlxx_proverbs.1.9" />
+        <verse sID="rlxx_proverbs.1.10" osisID="rlxx_proverbs.1.10" />υἱέ, μή σε πλανήσωσιν ἄνδρες ἀσεβεῖς, μηδὲ βουληθῇς, ἐὰν παρακαλέσωσί σε λέγοντες<verse eID="rlxx_proverbs.1.10" />
+        <verse sID="rlxx_proverbs.1.11" osisID="rlxx_proverbs.1.11" />Ἐλθὲ μεθ' ἡμῶν, κοινώνησον αἵματος, κρύψωμεν δὲ εἰς γῆν ἄνδρα δίκαιον ἀδίκως,<verse eID="rlxx_proverbs.1.11" />
+        <verse sID="rlxx_proverbs.1.12" osisID="rlxx_proverbs.1.12" />καταπίωμεν δὲ αὐτὸν ὥσπερ ᾅδης ζῶντα καὶ ἄρωμεν αὐτοῦ τὴν μνήμην ἐκ γῆς·<verse eID="rlxx_proverbs.1.12" />
+        <verse sID="rlxx_proverbs.1.13" osisID="rlxx_proverbs.1.13" />τὴν κτῆσιν αὐτοῦ τὴν πολυτελῆ καταλαβώμεθα, πλήσωμεν δὲ οἴκους ἡμετέρους σκύλων·<verse eID="rlxx_proverbs.1.13" />
+        <verse sID="rlxx_proverbs.1.14" osisID="rlxx_proverbs.1.14" />τὸν δὲ σὸν κλῆρον βάλε ἐν ἡμῖν, κοινὸν δὲ βαλλάντιον κτησώμεθα πάντες, καὶ μαρσίππιον ἓν γενηθήτω ἡμῖν.<verse eID="rlxx_proverbs.1.14" />
+        <verse sID="rlxx_proverbs.1.15" osisID="rlxx_proverbs.1.15" />μὴ πορευθῇς ἐν ὁδῷ μετ' αὐτῶν, ἔκκλινον δὲ τὸν πόδα σου ἐκ τῶν τρίβων αὐτῶν·<verse eID="rlxx_proverbs.1.15" />
+        <verse sID="rlxx_proverbs.1.16" osisID="rlxx_proverbs.1.16" />οἱ γὰρ πόδες αὐτῶν εἰς κακίαν τρέχουσιν καὶ ταχινοὶ τοῦ ἐκχέαι αἷμα·<verse eID="rlxx_proverbs.1.16" />
+        <verse sID="rlxx_proverbs.1.17" osisID="rlxx_proverbs.1.17" />οὐ γὰρ ἀδίκως ἐκτείνεται δίκτυα πτερωτοῖς.<verse eID="rlxx_proverbs.1.17" />
+        <verse sID="rlxx_proverbs.1.18" osisID="rlxx_proverbs.1.18" />αὐτοὶ γὰρ οἱ φόνου μετέχοντες θησαυρίζουσιν ἑαυτοῖς κακά, ἡ δὲ καταστροφὴ ἀνδρῶν παρανόμων κακή.<verse eID="rlxx_proverbs.1.18" />
+        <verse sID="rlxx_proverbs.1.19" osisID="rlxx_proverbs.1.19" />αὗται αἱ ὁδοί εἰσιν πάντων τῶν συντελούντων τὰ ἄνομα· τῇ γὰρ ἀσεβείᾳ τὴν ἑαυτῶν ψυχὴν ἀφαιροῦνται.<verse eID="rlxx_proverbs.1.19" />
+        <verse sID="rlxx_proverbs.1.20" osisID="rlxx_proverbs.1.20" />Σοφία ἐν ἐξόδοις ὑμνεῖται, ἐν δὲ πλατείαις παρρησίαν ἄγει,<verse eID="rlxx_proverbs.1.20" />
+        <verse sID="rlxx_proverbs.1.21" osisID="rlxx_proverbs.1.21" />ἐπ' ἄκρων δὲ τειχέων κηρύσσεται, ἐπὶ δὲ πύλαις δυναστῶν παρεδρεύει, ἐπὶ δὲ πύλαις πόλεως θαρροῦσα λέγει<verse eID="rlxx_proverbs.1.21" />
+        <verse sID="rlxx_proverbs.1.22" osisID="rlxx_proverbs.1.22" />Ὅσον ἂν χρόνον ἄκακοι ἔχωνται τῆς δικαιοσύνης, οὐκ αἰσχυνθήσονται· οἱ δὲ ἄφρονες, τῆς ὕβρεως ὄντες ἐπιθυμηταί, ἀσεβεῖς γενόμενοι ἐμίσησαν αἴσθησιν<verse eID="rlxx_proverbs.1.22" />
+        <verse sID="rlxx_proverbs.1.23" osisID="rlxx_proverbs.1.23" />καὶ ὑπεύθυνοι ἐγένοντο ἐλέγχοις. ἰδοὺ προήσομαι ὑμῖν ἐμῆς πνοῆς ῥῆσιν, διδάξω δὲ ὑμᾶς τὸν ἐμὸν λόγον.<verse eID="rlxx_proverbs.1.23" />
+        <verse sID="rlxx_proverbs.1.24" osisID="rlxx_proverbs.1.24" />ἐπειδὴ ἐκάλουν καὶ οὐχ ὑπηκούσατε καὶ ἐξέτεινον λόγους καὶ οὐ προσείχετε,<verse eID="rlxx_proverbs.1.24" />
+        <verse sID="rlxx_proverbs.1.25" osisID="rlxx_proverbs.1.25" />ἀλλὰ ἀκύρους ἐποιεῖτε ἐμὰς βουλάς, τοῖς δὲ ἐμοῖς ἐλέγχοις ἠπειθήσατε,<verse eID="rlxx_proverbs.1.25" />
+        <verse sID="rlxx_proverbs.1.26" osisID="rlxx_proverbs.1.26" />τοιγαροῦν κἀγὼ τῇ ὑμετέρᾳ ἀπωλείᾳ ἐπιγελάσομαι, καταχαροῦμαι δέ, ἡνίκα ἂν ἔρχηται ὑμῖν ὄλεθρος,<verse eID="rlxx_proverbs.1.26" />
+        <verse sID="rlxx_proverbs.1.27" osisID="rlxx_proverbs.1.27" />καὶ ὡς ἂν ἀφίκηται ὑμῖν ἄφνω θόρυβος, ἡ δὲ καταστροφὴ ὁμοίως καταιγίδι παρῇ, καὶ ὅταν ἔρχηται ὑμῖν θλῖψις καὶ πολιορκία, ἢ ὅταν ἔρχηται ὑμῖν ὄλεθρος.<verse eID="rlxx_proverbs.1.27" />
+        <verse sID="rlxx_proverbs.1.28" osisID="rlxx_proverbs.1.28" />ἔσται γὰρ ὅταν ἐπικαλέσησθέ με, ἐγὼ δὲ οὐκ εἰσακούσομαι ὑμῶν· ζητήσουσίν με κακοὶ καὶ οὐχ εὑρήσουσιν.<verse eID="rlxx_proverbs.1.28" />
+        <verse sID="rlxx_proverbs.1.29" osisID="rlxx_proverbs.1.29" />ἐμίσησαν γὰρ σοφίαν, τὸν δὲ φόβον τοῦ κυρίου οὐ προείλαντο<verse eID="rlxx_proverbs.1.29" />
+        <verse sID="rlxx_proverbs.1.30" osisID="rlxx_proverbs.1.30" />οὐδὲ ἤθελον ἐμαῖς προσέχειν βουλαῖς, ἐμυκτήριζον δὲ ἐμοὺς ἐλέγχους.<verse eID="rlxx_proverbs.1.30" />
+        <verse sID="rlxx_proverbs.1.31" osisID="rlxx_proverbs.1.31" />τοιγαροῦν ἔδονται τῆς ἑαυτῶν ὁδοῦ τοὺς καρποὺς καὶ τῆς ἑαυτῶν ἀσεβείας πλησθήσονται·<verse eID="rlxx_proverbs.1.31" />
+        <verse sID="rlxx_proverbs.1.32" osisID="rlxx_proverbs.1.32" />ἀνθ' ὧν γὰρ ἠδίκουν νηπίους, φονευθήσονται, καὶ ἐξετασμὸς ἀσεβεῖς ὀλεῖ.<verse eID="rlxx_proverbs.1.32" />
+        <verse sID="rlxx_proverbs.1.33" osisID="rlxx_proverbs.1.33" />ὁ δὲ ἐμοῦ ἀκούων κατασκηνώσει ἐπ' ἐλπίδι καὶ ἡσυχάσει ἀφόβως ἀπὸ παντὸς κακοῦ.<verse eID="rlxx_proverbs.1.33" />
+      </p>
+      <chapter eID="rlxx_proverbs.1" />
+      <chapter sID="rlxx_proverbs.2" osisID="rlxx_proverbs.2" />
+      <title>Chapter 2</title>
+      <p>
+        <verse sID="rlxx_proverbs.2.1" osisID="rlxx_proverbs.2.1" />Υἱέ, ἐὰν δεξάμενος ῥῆσιν ἐμῆς ἐντολῆς κρύψῃς παρὰ σεαυτῷ,<verse eID="rlxx_proverbs.2.1" />
+        <verse sID="rlxx_proverbs.2.2" osisID="rlxx_proverbs.2.2" />ὑπακούσεται σοφίας τὸ οὖς σου, καὶ παραβαλεῖς καρδίαν σου εἰς σύνεσιν, παραβαλεῖς δὲ αὐτὴν ἐπὶ νουθέτησιν τῷ υἱῷ σου.<verse eID="rlxx_proverbs.2.2" />
+        <verse sID="rlxx_proverbs.2.3" osisID="rlxx_proverbs.2.3" />ἐὰν γὰρ τὴν σοφίαν ἐπικαλέσῃ καὶ τῇ συνέσει δῷς φωνήν σου, τὴν δὲ αἴσθησιν ζητήσῃς μεγάλῃ τῇ φωνῇ,<verse eID="rlxx_proverbs.2.3" />
+        <verse sID="rlxx_proverbs.2.4" osisID="rlxx_proverbs.2.4" />καὶ ἐὰν ζητήσῃς αὐτὴν ὡς ἀργύριον καὶ ὡς θησαυροὺς ἐξερευνήσῃς αὐτήν,<verse eID="rlxx_proverbs.2.4" />
+        <verse sID="rlxx_proverbs.2.5" osisID="rlxx_proverbs.2.5" />τότε συνήσεις φόβον κυρίου καὶ ἐπίγνωσιν θεοῦ εὑρήσεις.<verse eID="rlxx_proverbs.2.5" />
+        <verse sID="rlxx_proverbs.2.6" osisID="rlxx_proverbs.2.6" />ὅτι κύριος δίδωσιν σοφίαν, καὶ ἀπὸ προσώπου αὐτοῦ γνῶσις καὶ σύνεσις·<verse eID="rlxx_proverbs.2.6" />
+        <verse sID="rlxx_proverbs.2.7" osisID="rlxx_proverbs.2.7" />καὶ θησαυρίζει τοῖς κατορθοῦσι σωτηρίαν, ὑπερασπιεῖ τὴν πορείαν αὐτῶν<verse eID="rlxx_proverbs.2.7" />
+        <verse sID="rlxx_proverbs.2.8" osisID="rlxx_proverbs.2.8" />τοῦ φυλάξαι ὁδοὺς δικαιωμάτων καὶ ὁδὸν εὐλαβουμένων αὐτὸν διαφυλάξει.<verse eID="rlxx_proverbs.2.8" />
+        <verse sID="rlxx_proverbs.2.9" osisID="rlxx_proverbs.2.9" />τότε συνήσεις δικαιοσύνην καὶ κρίμα καὶ κατορθώσεις πάντας ἄξονας ἀγαθούς.<verse eID="rlxx_proverbs.2.9" />
+        <verse sID="rlxx_proverbs.2.10" osisID="rlxx_proverbs.2.10" />ἐὰν γὰρ ἔλθῃ ἡ σοφία εἰς σὴν διάνοιαν, ἡ δὲ αἴσθησις τῇ σῇ ψυχῇ καλὴ εἶναι δόξῃ,<verse eID="rlxx_proverbs.2.10" />
+        <verse sID="rlxx_proverbs.2.11" osisID="rlxx_proverbs.2.11" />βουλὴ καλὴ φυλάξει σε, ἔννοια δὲ ὁσία τηρήσει σε, ἵνα ῥύσηταί σε ἀπὸ ὁδοῦ κακῆς καὶ ἀπὸ ἀνδρὸς λαλοῦντος μηδὲν πιστόν.<verse eID="rlxx_proverbs.2.11" />
+        <verse sID="rlxx_proverbs.2.13" osisID="rlxx_proverbs.2.13" />ὦ οἱ ἐγκαταλείποντες ὁδοὺς εὐθείας τοῦ πορεύεσθαι ἐν ὁδοῖς σκότους,<verse eID="rlxx_proverbs.2.13" />
+        <verse sID="rlxx_proverbs.2.14" osisID="rlxx_proverbs.2.14" />οἱ εὐφραινόμενοι ἐπὶ κακοῖς καὶ χαίροντες ἐπὶ διαστροφῇ κακῇ,<verse eID="rlxx_proverbs.2.14" />
+        <verse sID="rlxx_proverbs.2.15" osisID="rlxx_proverbs.2.15" />ὧν αἱ τρίβοι σκολιαὶ καὶ καμπύλαι αἱ τροχιαὶ αὐτῶν<verse eID="rlxx_proverbs.2.15" />
+        <verse sID="rlxx_proverbs.2.16" osisID="rlxx_proverbs.2.16" />τοῦ μακράν σε ποιῆσαι ἀπὸ ὁδοῦ εὐθείας καὶ ἀλλότριον τῆς δικαίας γνώμης.<verse eID="rlxx_proverbs.2.16" />
+        <verse sID="rlxx_proverbs.2.17" osisID="rlxx_proverbs.2.17" />υἱέ, μή σε καταλάβῃ κακὴ βουλὴ ἡ ἀπολείπουσα διδασκαλίαν νεότητος καὶ διαθήκην θείαν ἐπιλελησμένη·<verse eID="rlxx_proverbs.2.17" />
+        <verse sID="rlxx_proverbs.2.18" osisID="rlxx_proverbs.2.18" />ἔθετο γὰρ παρὰ τῷ θανάτῳ τὸν οἶκον αὐτῆς καὶ παρὰ τῷ ᾅδῃ μετὰ τῶν γηγενῶν τοὺς ἄξονας αὐτῆς·<verse eID="rlxx_proverbs.2.18" />
+        <verse sID="rlxx_proverbs.2.19" osisID="rlxx_proverbs.2.19" />πάντες οἱ πορευόμενοι ἐν αὐτῇ οὐκ ἀναστρέψουσιν οὐδὲ μὴ καταλάβωσιν τρίβους εὐθείας· οὐ γὰρ καταλαμβάνονται ὑπὸ ἐνιαυτῶν ζωῆς.<verse eID="rlxx_proverbs.2.19" />
+        <verse sID="rlxx_proverbs.2.20" osisID="rlxx_proverbs.2.20" />εἰ γὰρ ἐπορεύοντο τρίβους ἀγαθάς, εὕροσαν ἂν τρίβους δικαιοσύνης λείους.<verse eID="rlxx_proverbs.2.20" />
+        <verse sID="rlxx_proverbs.2.21" osisID="rlxx_proverbs.2.21" />χρηστοὶ ἔσονται οἰκήτορες γῆς, ἄκακοι δὲ ὑπολειφθήσονται ἐν αὐτῇ, ὅτι εὐθεῖς κατασκηνώσουσι γῆν, καὶ ὅσιοι ὑπολειφθήσονται ἐν αὐτῇ·<verse eID="rlxx_proverbs.2.21" />
+        <verse sID="rlxx_proverbs.2.22" osisID="rlxx_proverbs.2.22" />ὁδοὶ ἀσεβῶν ἐκ γῆς ὀλοῦνται, οἱ δὲ παράνομοι ἐξωσθήσονται ἀπ' αὐτῆς.<verse eID="rlxx_proverbs.2.22" />
+      </p>
+      <chapter eID="rlxx_proverbs.2" />
+      <chapter sID="rlxx_proverbs.3" osisID="rlxx_proverbs.3" />
+      <title>Chapter 3</title>
+      <p>
+        <verse sID="rlxx_proverbs.3.1" osisID="rlxx_proverbs.3.1" />Υἱέ, ἐμῶν νομίμων μὴ ἐπιλανθάνου, τὰ δὲ ῥήματά μου τηρείτω σὴ καρδία·<verse eID="rlxx_proverbs.3.1" />
+        <verse sID="rlxx_proverbs.3.2" osisID="rlxx_proverbs.3.2" />μῆκος γὰρ βίου καὶ ἔτη ζωῆς καὶ εἰρήνην προσθήσουσίν σοι.<verse eID="rlxx_proverbs.3.2" />
+        <verse sID="rlxx_proverbs.3.3" osisID="rlxx_proverbs.3.3" />ἐλεημοσύναι καὶ πίστεις μὴ ἐκλιπέτωσάν σε, ἄφαψαι δὲ αὐτὰς ἐπὶ σῷ τραχήλῳ, καὶ εὑρήσεις χάριν·<verse eID="rlxx_proverbs.3.3" />
+        <verse sID="rlxx_proverbs.3.4" osisID="rlxx_proverbs.3.4" />καὶ προνοοῦ καλὰ ἐνώπιον κυρίου καὶ ἀνθρώπων.<verse eID="rlxx_proverbs.3.4" />
+        <verse sID="rlxx_proverbs.3.5" osisID="rlxx_proverbs.3.5" />ἴσθι πεποιθὼς ἐν ὅλῃ καρδίᾳ ἐπὶ θεῷ, ἐπὶ δὲ σῇ σοφίᾳ μὴ ἐπαίρου·<verse eID="rlxx_proverbs.3.5" />
+        <verse sID="rlxx_proverbs.3.6" osisID="rlxx_proverbs.3.6" />ἐν πάσαις ὁδοῖς σου γνώριζε αὐτήν, ἵνα ὀρθοτομῇ τὰς ὁδούς σου, [ὁ δὲ πούς σου οὐ μὴ προσκόπτῃ.]<verse eID="rlxx_proverbs.3.6" />
+        <verse sID="rlxx_proverbs.3.7" osisID="rlxx_proverbs.3.7" />μὴ ἴσθι φρόνιμος παρὰ σεαυτῷ, φοβοῦ δὲ τὸν θεὸν καὶ ἔκκλινε ἀπὸ παντὸς κακοῦ·<verse eID="rlxx_proverbs.3.7" />
+        <verse sID="rlxx_proverbs.3.8" osisID="rlxx_proverbs.3.8" />τότε ἴασις ἔσται τῷ σώματί σου καὶ ἐπιμέλεια τοῖς ὀστέοις σου.<verse eID="rlxx_proverbs.3.8" />
+        <verse sID="rlxx_proverbs.3.9" osisID="rlxx_proverbs.3.9" />τίμα τὸν κύριον ἀπὸ σῶν δικαίων πόνων καὶ ἀπάρχου αὐτῷ ἀπὸ σῶν καρπῶν δικαιοσύνης,<verse eID="rlxx_proverbs.3.9" />
+        <verse sID="rlxx_proverbs.3.10" osisID="rlxx_proverbs.3.10" />ἵνα πίμπληται τὰ ταμίειά σου πλησμονῆς σίτου, οἴνῳ δὲ αἱ ληνοί σου ἐκβλύζωσιν.<verse eID="rlxx_proverbs.3.10" />
+        <verse sID="rlxx_proverbs.3.11" osisID="rlxx_proverbs.3.11" />Υἱέ, μὴ ὀλιγώρει παιδείας κυρίου μηδὲ ἐκλύου ὑπ' αὐτοῦ ἐλεγχόμενος·<verse eID="rlxx_proverbs.3.11" />
+        <verse sID="rlxx_proverbs.3.12" osisID="rlxx_proverbs.3.12" />ὃν γὰρ ἀγαπᾷ κύριος παιδεύει, μαστιγοῖ δὲ πάντα υἱὸν ὃν παραδέχεται.<verse eID="rlxx_proverbs.3.12" />
+        <verse sID="rlxx_proverbs.3.13" osisID="rlxx_proverbs.3.13" />μακάριος ἄνθρωπος ὃς εὗρεν σοφίαν καὶ θνητὸς ὃς εἶδεν φρόνησιν·<verse eID="rlxx_proverbs.3.13" />
+        <verse sID="rlxx_proverbs.3.14" osisID="rlxx_proverbs.3.14" />κρεῖττον γὰρ αὐτὴν ἐμπορεύεσθαι ἢ χρυσίου καὶ ἀργυρίου θησαυρούς.<verse eID="rlxx_proverbs.3.14" />
+        <verse sID="rlxx_proverbs.3.15" osisID="rlxx_proverbs.3.15" />τιμιωτέρα δέ ἐστιν λίθων πολυτελῶν, οὐκ ἀντιτάξεται αὐτῇ οὐδὲν πονηρόν· εὔγνωστός ἐστιν πᾶσιν τοῖς ἐγγίζουσιν αὐτῇ, πᾶν δὲ τίμιον οὐκ ἄξιον αὐτῆς ἐστιν.<verse eID="rlxx_proverbs.3.15" />
+        <verse sID="rlxx_proverbs.3.16" osisID="rlxx_proverbs.3.16" />μῆκος γὰρ βίου καὶ ἔτη ζωῆς ἐν τῇ δεξιᾷ αὐτῆς, ἐν δὲ τῇ ἀριστερᾷ αὐτῆς πλοῦτος καὶ δόξα·<verse eID="rlxx_proverbs.3.16" />
+        <verse sID="rlxx_proverbs.3.16a" osisID="rlxx_proverbs.3.16a" />ἐκ τοῦ στόματος αὐτῆς ἐκπορεύεται δικαιοσύνη, νόμον δὲ καὶ ἔλεον ἐπὶ γλώσσης φορεῖ.<verse eID="rlxx_proverbs.3.16a" />
+        <verse sID="rlxx_proverbs.3.17" osisID="rlxx_proverbs.3.17" />αἱ ὁδοὶ αὐτῆς ὁδοὶ καλαί, καὶ πάντες οἱ τρίβοι αὐτῆς ἐν εἰρήνῃ·<verse eID="rlxx_proverbs.3.17" />
+        <verse sID="rlxx_proverbs.3.18" osisID="rlxx_proverbs.3.18" />ξύλον ζωῆς ἐστι πᾶσι τοῖς ἀντεχομένοις αὐτῆς, καὶ τοῖς ἐπερειδομένοις ἐπ' αὐτὴν ὡς ἐπὶ κύριον ἀσφαλής.<verse eID="rlxx_proverbs.3.18" />
+        <verse sID="rlxx_proverbs.3.19" osisID="rlxx_proverbs.3.19" />ὁ θεὸς τῇ σοφίᾳ ἐθεμελίωσεν τὴν γῆν, ἡτοίμασεν δὲ οὐρανοὺς ἐν φρονήσει·<verse eID="rlxx_proverbs.3.19" />
+        <verse sID="rlxx_proverbs.3.20" osisID="rlxx_proverbs.3.20" />ἐν αἰσθήσει ἄβυσσοι ἐρράγησαν, νέφη δὲ ἐρρύησαν δρόσους.<verse eID="rlxx_proverbs.3.20" />
+        <verse sID="rlxx_proverbs.3.21" osisID="rlxx_proverbs.3.21" />Υἱέ, μὴ παραρρυῇς, τήρησον δὲ ἐμὴν βουλὴν καὶ ἔννοιαν,<verse eID="rlxx_proverbs.3.21" />
+        <verse sID="rlxx_proverbs.3.22" osisID="rlxx_proverbs.3.22" />ἵνα ζήσῃ ἡ ψυχή σου, καὶ χάρις ᾖ περὶ σῷ τραχήλῳ.<verse eID="rlxx_proverbs.3.22" />
+        <verse sID="rlxx_proverbs.3.22a" osisID="rlxx_proverbs.3.22a" />ἔσται δὲ ἴασις ταῖς σαρξί σου καὶ ἐπιμέλεια τοῖς σοῖς ὀστέοις,<verse eID="rlxx_proverbs.3.22a" />
+        <verse sID="rlxx_proverbs.3.23" osisID="rlxx_proverbs.3.23" />ἵνα πορεύῃ πεποιθὼς ἐν εἰρήνῃ πάσας τὰς ὁδούς σου, ὁ δὲ πούς σου οὐ μὴ προσκόψῃ.<verse eID="rlxx_proverbs.3.23" />
+        <verse sID="rlxx_proverbs.3.24" osisID="rlxx_proverbs.3.24" />ἐὰν γὰρ κάθῃ, ἄφοβος ἔσῃ, ἐὰν δὲ καθεύδῃς, ἡδέως ὑπνώσεις·<verse eID="rlxx_proverbs.3.24" />
+        <verse sID="rlxx_proverbs.3.25" osisID="rlxx_proverbs.3.25" />καὶ οὐ φοβηθήσῃ πτόησιν ἐπελθοῦσαν οὐδὲ ὁρμὰς ἀσεβῶν ἐπερχομένας·<verse eID="rlxx_proverbs.3.25" />
+        <verse sID="rlxx_proverbs.3.26" osisID="rlxx_proverbs.3.26" />ὁ γὰρ κύριος ἔσται ἐπὶ πασῶν ὁδῶν σου καὶ ἐρείσει σὸν πόδα, ἵνα μὴ σαλευθῇς.<verse eID="rlxx_proverbs.3.26" />
+        <verse sID="rlxx_proverbs.3.27" osisID="rlxx_proverbs.3.27" />μὴ ἀπόσχῃ εὖ ποιεῖν ἐνδεῆ, ἡνίκα ἂν ἔχῃ ἡ χείρ σου βοηθεῖν·<verse eID="rlxx_proverbs.3.27" />
+        <verse sID="rlxx_proverbs.3.28" osisID="rlxx_proverbs.3.28" />μὴ εἴπης Ἐπανελθὼν ἐπάνηκε καὶ αὔριον δώσω, δυνατοῦ σου ὄντος εὖ ποιεῖν· οὐ γὰρ οἶδας τί τέξεται ἡ ἐπιοῦσα.<verse eID="rlxx_proverbs.3.28" />
+        <verse sID="rlxx_proverbs.3.29" osisID="rlxx_proverbs.3.29" />μὴ τεκτήνῃ ἐπὶ σὸν φίλον κακὰ παροικοῦντα καὶ πεποιθότα ἐπὶ σοί. μὴ φιλεχθρήσῃς πρὸς ἄνθρωπον μάτην, μή τι εἰς σὲ ἐργάσηται κακόν.<verse eID="rlxx_proverbs.3.29" />
+        <verse sID="rlxx_proverbs.3.31" osisID="rlxx_proverbs.3.31" />μὴ κτήσῃ κακῶν ἀνδρῶν ὀνείδη μηδὲ ζηλώσῃς τὰς ὁδοὺς αὐτῶν·<verse eID="rlxx_proverbs.3.31" />
+        <verse sID="rlxx_proverbs.3.32" osisID="rlxx_proverbs.3.32" />ἀκάθαρτος γὰρ ἔναντι κυρίου πᾶς παράνομος, ἐν δὲ δικαίοις οὐ συνεδριάζει.<verse eID="rlxx_proverbs.3.32" />
+        <verse sID="rlxx_proverbs.3.33" osisID="rlxx_proverbs.3.33" />κατάρα θεοῦ ἐν οἴκοις ἀσεβῶν, ἐπαύλεις δὲ δικαίων εὐλογοῦνται.<verse eID="rlxx_proverbs.3.33" />
+        <verse sID="rlxx_proverbs.3.34" osisID="rlxx_proverbs.3.34" />κύριος ὑπερηφάνοις ἀντιτάσσεται, ταπεινοῖς δὲ δίδωσιν χάριν.<verse eID="rlxx_proverbs.3.34" />
+        <verse sID="rlxx_proverbs.3.35" osisID="rlxx_proverbs.3.35" />δόξαν σοφοὶ κληρονομήσουσιν, οἱ δὲ ἀσεβεῖς ὕψωσαν ἀτιμίαν.<verse eID="rlxx_proverbs.3.35" />
+      </p>
+      <chapter eID="rlxx_proverbs.3" />
+      <chapter sID="rlxx_proverbs.4" osisID="rlxx_proverbs.4" />
+      <title>Chapter 4</title>
+      <p>
+        <verse sID="rlxx_proverbs.4.1" osisID="rlxx_proverbs.4.1" />Ἀκούσατε, παῖδες, παιδείαν πατρὸς καὶ προσέχετε γνῶναι ἔννοιαν·<verse eID="rlxx_proverbs.4.1" />
+        <verse sID="rlxx_proverbs.4.2" osisID="rlxx_proverbs.4.2" />δῶρον γὰρ ἀγαθὸν δωροῦμαι ὑμῖν, τὸν ἐμὸν νόμον μὴ ἐγκαταλίπητε.<verse eID="rlxx_proverbs.4.2" />
+        <verse sID="rlxx_proverbs.4.3" osisID="rlxx_proverbs.4.3" />υἱὸς γὰρ ἐγενόμην κἀγὼ πατρὶ ὑπήκοος καὶ ἀγαπώμενος ἐν προσώπῳ μητρός,<verse eID="rlxx_proverbs.4.3" />
+        <verse sID="rlxx_proverbs.4.4" osisID="rlxx_proverbs.4.4" />οἳ ἔλεγον καὶ ἐδίδασκόν με Ἐρειδέτω ὁ ἡμέτερος λόγος εἰς σὴν καρδίαν·<verse eID="rlxx_proverbs.4.4" />
+        <verse sID="rlxx_proverbs.4.5" osisID="rlxx_proverbs.4.5" />φύλασσε ἐντολάς, μὴ ἐπιλάθῃ μηδὲ παρίδῃς ῥῆσιν ἐμοῦ στόματος<verse eID="rlxx_proverbs.4.5" />
+        <verse sID="rlxx_proverbs.4.6" osisID="rlxx_proverbs.4.6" />μηδὲ ἐγκαταλίπῃς αὐτήν, καὶ ἀνθέξεταί σου· ἐράσθητι αὐτῆς, καὶ τηρήσει σε·<verse eID="rlxx_proverbs.4.6" />
+        <verse sID="rlxx_proverbs.4.8" osisID="rlxx_proverbs.4.8" />περιχαράκωσον αὐτήν, καὶ ὑψώσει σε· τίμησον αὐτήν, ἵνα σε περιλάβῃ,<verse eID="rlxx_proverbs.4.8" />
+        <verse sID="rlxx_proverbs.4.9" osisID="rlxx_proverbs.4.9" />ἵνα δῷ τῇ σῇ κεφαλῇ στέφανον χαρίτων, στεφάνῳ δὲ τρυφῆς ὑπερασπίσῃ σου.<verse eID="rlxx_proverbs.4.9" />
+        <verse sID="rlxx_proverbs.4.10" osisID="rlxx_proverbs.4.10" />Ἄκουε, υἱέ, καὶ δέξαι ἐμοὺς λόγους, καὶ πληθυνθήσεται ἔτη ζωῆς σου, ἵνα σοι γένωνται πολλαὶ ὁδοὶ βίου·<verse eID="rlxx_proverbs.4.10" />
+        <verse sID="rlxx_proverbs.4.11" osisID="rlxx_proverbs.4.11" />ὁδοὺς γὰρ σοφίας διδάσκω σε, ἐμβιβάζω δέ σε τροχιαῖς ὀρθαῖς.<verse eID="rlxx_proverbs.4.11" />
+        <verse sID="rlxx_proverbs.4.12" osisID="rlxx_proverbs.4.12" />ἐὰν γὰρ πορεύῃ, οὐ συγκλεισθήσεταί σου τὰ διαβήματα· ἐὰν δὲ τρέχῃς, οὐ κοπιάσεις.<verse eID="rlxx_proverbs.4.12" />
+        <verse sID="rlxx_proverbs.4.13" osisID="rlxx_proverbs.4.13" />ἐπιλαβοῦ ἐμῆς παιδείας, μὴ ἀφῇς, ἀλλὰ φύλαξον αὐτὴν σεαυτῷ εἰς ζωήν σου.<verse eID="rlxx_proverbs.4.13" />
+        <verse sID="rlxx_proverbs.4.14" osisID="rlxx_proverbs.4.14" />ὁδοὺς ἀσεβῶν μὴ ἐπέλθῃς μηδὲ ζηλώσῃς ὁδοὺς παρανόμων·<verse eID="rlxx_proverbs.4.14" />
+        <verse sID="rlxx_proverbs.4.15" osisID="rlxx_proverbs.4.15" />ἐν ᾧ ἂν τόπῳ στρατοπεδεύσωσιν, μὴ ἐπέλθῃς ἐκεῖ, ἔκκλινον δὲ ἀπ' αὐτῶν καὶ παράλλαξον.<verse eID="rlxx_proverbs.4.15" />
+        <verse sID="rlxx_proverbs.4.16" osisID="rlxx_proverbs.4.16" />οὐ γὰρ μὴ ὑπνώσωσιν, ἐὰν μὴ κακοποιήσωσιν· ἀφῄρηται ὁ ὕπνος αὐτῶν, καὶ οὐ κοιμῶνται·<verse eID="rlxx_proverbs.4.16" />
+        <verse sID="rlxx_proverbs.4.17" osisID="rlxx_proverbs.4.17" />οἵδε γὰρ σιτοῦνται σῖτα ἀσεβείας, οἴνῳ δὲ παρανόμῳ μεθύσκονται.<verse eID="rlxx_proverbs.4.17" />
+        <verse sID="rlxx_proverbs.4.18" osisID="rlxx_proverbs.4.18" />αἱ δὲ ὁδοὶ τῶν δικαίων ὁμοίως φωτὶ λάμπουσιν, προπορεύονται καὶ φωτίζουσιν, ἕως κατορθώσῃ ἡ ἡμέρα·<verse eID="rlxx_proverbs.4.18" />
+        <verse sID="rlxx_proverbs.4.19" osisID="rlxx_proverbs.4.19" />αἱ δὲ ὁδοὶ τῶν ἀσεβῶν σκοτειναί, οὐκ οἴδασιν πῶς προσκόπτουσιν.<verse eID="rlxx_proverbs.4.19" />
+        <verse sID="rlxx_proverbs.4.20" osisID="rlxx_proverbs.4.20" />Υἱέ, ἐμῇ ῥήσει πρόσεχε, τοῖς δὲ ἐμοῖς λόγοις παράβαλε σὸν οὖς,<verse eID="rlxx_proverbs.4.20" />
+        <verse sID="rlxx_proverbs.4.21" osisID="rlxx_proverbs.4.21" />ὅπως μὴ ἐκλίπωσίν σε αἱ πηγαί σου, φύλασσε αὐτὰς ἐν σῇ καρδίᾳ·<verse eID="rlxx_proverbs.4.21" />
+        <verse sID="rlxx_proverbs.4.22" osisID="rlxx_proverbs.4.22" />ζωὴ γάρ ἐστιν τοῖς εὑρίσκουσιν αὐτὰς καὶ πάσῃ σαρκὶ ἴασις.<verse eID="rlxx_proverbs.4.22" />
+        <verse sID="rlxx_proverbs.4.23" osisID="rlxx_proverbs.4.23" />πάσῃ φυλακῇ τήρει σὴν καρδίαν· ἐκ γὰρ τούτων ἔξοδοι ζωῆς.<verse eID="rlxx_proverbs.4.23" />
+        <verse sID="rlxx_proverbs.4.24" osisID="rlxx_proverbs.4.24" />περίελε σεαυτοῦ σκολιὸν στόμα καὶ ἄδικα χείλη μακρὰν ἀπὸ σοῦ ἄπωσαι. οἱ ὀφθαλμοί σου ὀρθὰ βλεπέτωσαν, τὰ δὲ βλέφαρά σου νευέτω δίκαια.<verse eID="rlxx_proverbs.4.24" />
+        <verse sID="rlxx_proverbs.4.26" osisID="rlxx_proverbs.4.26" />ὀρθὰς τροχιὰς ποίει σοῖς ποσὶν καὶ τὰς ὁδούς σου κατεύθυνε.<verse eID="rlxx_proverbs.4.26" />
+        <verse sID="rlxx_proverbs.4.27" osisID="rlxx_proverbs.4.27" />μὴ ἐκκλίνῃς εἰς τὰ δεξιὰ μηδὲ εἰς τὰ ἀριστερά, ἀπόστρεψον δὲ σὸν πόδα ἀπὸ ὁδοῦ κακῆς·<verse eID="rlxx_proverbs.4.27" />
+        <verse sID="rlxx_proverbs.4.27a" osisID="rlxx_proverbs.4.27a" />ὁδοὺς γὰρ τὰς ἐκ δεξιῶν οἶδεν ὁ θεός, διεστραμμέναι δέ εἰσιν αἱ ἐξ ἀριστερῶν·<verse eID="rlxx_proverbs.4.27a" />
+        <verse sID="rlxx_proverbs.4.27b" osisID="rlxx_proverbs.4.27b" />αὐτὸς δὲ ὀρθὰς ποιήσει τὰς τροχιάς σου, τὰς δὲ πορείας σου ἐν εἰρήνῃ προάξει.<verse eID="rlxx_proverbs.4.27b" />
+      </p>
+      <chapter eID="rlxx_proverbs.4" />
+      <chapter sID="rlxx_proverbs.5" osisID="rlxx_proverbs.5" />
+      <title>Chapter 5</title>
+      <p>
+        <verse sID="rlxx_proverbs.5.1" osisID="rlxx_proverbs.5.1" />Υἱέ, ἐμῇ σοφίᾳ πρόσεχε, ἐμοῖς δὲ λόγοις παράβαλλε σὸν οὖς,<verse eID="rlxx_proverbs.5.1" />
+        <verse sID="rlxx_proverbs.5.2" osisID="rlxx_proverbs.5.2" />ἵνα φυλάξῃς ἔννοιαν ἀγαθήν· αἴσθησιν δὲ ἐμῶν χειλέων ἐντέλλομαί σοι.<verse eID="rlxx_proverbs.5.2" />
+        <verse sID="rlxx_proverbs.5.3" osisID="rlxx_proverbs.5.3" />μὴ πρόσεχε φαύλῃ γυναικί· μέλι γὰρ ἀποστάζει ἀπὸ χειλέων γυναικὸς πόρνης, ἣ πρὸς καιρὸν λιπαίνει σὸν φάρυγγα,<verse eID="rlxx_proverbs.5.3" />
+        <verse sID="rlxx_proverbs.5.4" osisID="rlxx_proverbs.5.4" />ὕστερον μέντοι πικρότερον χολῆς εὑρήσεις καὶ ἠκονημένον μᾶλλον μαχαίρας διστόμου.<verse eID="rlxx_proverbs.5.4" />
+        <verse sID="rlxx_proverbs.5.5" osisID="rlxx_proverbs.5.5" />τῆς γὰρ ἀφροσύνης οἱ πόδες κατάγουσιν τοὺς χρωμένους αὐτῇ μετὰ θανάτου εἰς τὸν ᾅδην, τὰ δὲ ἴχνη αὐτῆς οὐκ ἐρείδεται·<verse eID="rlxx_proverbs.5.5" />
+        <verse sID="rlxx_proverbs.5.6" osisID="rlxx_proverbs.5.6" />ὁδοὺς γὰρ ζωῆς οὐκ ἐπέρχεται, σφαλεραὶ δὲ αἱ τροχιαὶ αὐτῆς καὶ οὐκ εὔγνωστοι.<verse eID="rlxx_proverbs.5.6" />
+        <verse sID="rlxx_proverbs.5.7" osisID="rlxx_proverbs.5.7" />νῦν οὖν, υἱέ, ἄκουέ μου καὶ μὴ ἀκύρους ποιήσῃς ἐμοὺς λόγους·<verse eID="rlxx_proverbs.5.7" />
+        <verse sID="rlxx_proverbs.5.8" osisID="rlxx_proverbs.5.8" />μακρὰν ποίησον ἀπ' αὐτῆς σὴν ὁδόν, μὴ ἐγγίσῃς πρὸς θύραις οἴκων αὐτῆς,<verse eID="rlxx_proverbs.5.8" />
+        <verse sID="rlxx_proverbs.5.9" osisID="rlxx_proverbs.5.9" />ἵνα μὴ πρόῃ ἄλλοις ζωήν σου καὶ σὸν βίον ἀνελεήμοσιν, ἵνα μὴ πλησθῶσιν ἀλλότριοι σῆς ἰσχύος, οἱ δὲ σοὶ πόνοι εἰς οἴκους ἀλλοτρίων εἰσέλθωσιν,<verse eID="rlxx_proverbs.5.9" />
+        <verse sID="rlxx_proverbs.5.11" osisID="rlxx_proverbs.5.11" />καὶ μεταμεληθήσῃ ἐπ' ἐσχάτων, ἡνίκα ἂν κατατριβῶσιν σάρκες σώματός σου,<verse eID="rlxx_proverbs.5.11" />
+        <verse sID="rlxx_proverbs.5.12" osisID="rlxx_proverbs.5.12" />καὶ ἐρεῖς Πῶς ἐμίσησα παιδείαν, καὶ ἐλέγχους ἐξέκλινεν ἡ καρδία μου·<verse eID="rlxx_proverbs.5.12" />
+        <verse sID="rlxx_proverbs.5.13" osisID="rlxx_proverbs.5.13" />οὐκ ἤκουον φωνὴν παιδεύοντός με καὶ διδάσκοντός με οὐδὲ παρέβαλλον τὸ οὖς μου·<verse eID="rlxx_proverbs.5.13" />
+        <verse sID="rlxx_proverbs.5.14" osisID="rlxx_proverbs.5.14" />παρ' ὀλίγον ἐγενόμην ἐν παντὶ κακῷ ἐν μέσῳ ἐκκλησίας καὶ συναγωγῆς.<verse eID="rlxx_proverbs.5.14" />
+        <verse sID="rlxx_proverbs.5.15" osisID="rlxx_proverbs.5.15" />πῖνε ὕδατα ἀπὸ σῶν ἀγγείων καὶ ἀπὸ σῶν φρεάτων πηγῆς.<verse eID="rlxx_proverbs.5.15" />
+        <verse sID="rlxx_proverbs.5.16" osisID="rlxx_proverbs.5.16" />μὴ ὑπερεκχείσθω σοι τὰ ὕδατα ἐκ τῆς σῆς πηγῆς, εἰς δὲ σὰς πλατείας διαπορευέσθω τὰ σὰ ὕδατα·<verse eID="rlxx_proverbs.5.16" />
+        <verse sID="rlxx_proverbs.5.17" osisID="rlxx_proverbs.5.17" />ἔστω σοι μόνῳ ὑπάρχοντα, καὶ μηδεὶς ἀλλότριος μετασχέτω σοι·<verse eID="rlxx_proverbs.5.17" />
+        <verse sID="rlxx_proverbs.5.18" osisID="rlxx_proverbs.5.18" />ἡ πηγή σου τοῦ ὕδατος ἔστω σοι ἰδία, καὶ συνευφραίνου μετὰ γυναικὸς τῆς ἐκ νεότητός σου.<verse eID="rlxx_proverbs.5.18" />
+        <verse sID="rlxx_proverbs.5.19" osisID="rlxx_proverbs.5.19" />ἔλαφος φιλίας καὶ πῶλος σῶν χαρίτων ὁμιλείτω σοι, ἡ δὲ ἰδία ἡγείσθω σου καὶ συνέστω σοι ἐν παντὶ καιρῷ ἐν γὰρ τῇ ταύτης φιλίᾳ συμπεριφερόμενος πολλοστὸς ἔσῃ.<verse eID="rlxx_proverbs.5.19" />
+        <verse sID="rlxx_proverbs.5.20" osisID="rlxx_proverbs.5.20" />μὴ πολὺς ἴσθι πρὸς ἀλλοτρίαν μηδὲ συνέχου ἀγκάλαις τῆς μὴ ἰδίας·<verse eID="rlxx_proverbs.5.20" />
+        <verse sID="rlxx_proverbs.5.21" osisID="rlxx_proverbs.5.21" />ἐνώπιον γάρ εἰσιν τῶν τοῦ θεοῦ ὀφθαλμῶν ὁδοὶ ἀνδρός, εἰς δὲ πάσας τὰς τροχιὰς αὐτοῦ σκοπεύει.<verse eID="rlxx_proverbs.5.21" />
+        <verse sID="rlxx_proverbs.5.22" osisID="rlxx_proverbs.5.22" />παρανομίαι ἄνδρα ἀγρεύουσιν, σειραῖς δὲ τῶν ἑαυτοῦ ἁμαρτιῶν ἕκαστος σφίγγεται·<verse eID="rlxx_proverbs.5.22" />
+        <verse sID="rlxx_proverbs.5.23" osisID="rlxx_proverbs.5.23" />οὗτος τελευτᾷ μετὰ ἀπαιδεύτων, ἐκ δὲ πλήθους τῆς ἑαυτοῦ βιότητος ἐξερρίφη καὶ ἀπώλετο δι' ἀφροσύνην. Υἱέ, ἐὰν ἐγγυήσῃ σὸν φίλον, παραδώσεις σὴν χεῖρα ἐχθρῷ·<verse eID="rlxx_proverbs.5.23" />
+      </p>
+      <chapter eID="rlxx_proverbs.5" />
+      <chapter sID="rlxx_proverbs.6" osisID="rlxx_proverbs.6" />
+      <title>Chapter 6</title>
+      <p>
+        <verse sID="rlxx_proverbs.6.2" osisID="rlxx_proverbs.6.2" />παγὶς γὰρ ἰσχυρὰ ἀνδρὶ τὰ ἴδια χείλη, καὶ ἁλίσκεται χείλεσιν ἰδίου στόματος.<verse eID="rlxx_proverbs.6.2" />
+        <verse sID="rlxx_proverbs.6.3" osisID="rlxx_proverbs.6.3" />ποίει, υἱέ, ἃ ἐγώ σοι ἐντέλλομαι, καὶ σῴζου – ἥκεις γὰρ εἰς χεῖρας κακῶν διὰ σὸν φίλον –ἴθι μὴ ἐκλυόμενος, παρόξυνε δὲ καὶ τὸν φίλον σου, ὃν ἐνεγυήσω·<verse eID="rlxx_proverbs.6.3" />
+        <verse sID="rlxx_proverbs.6.4" osisID="rlxx_proverbs.6.4" />μὴ δῷς ὕπνον σοῖς ὄμμασιν μηδὲ ἐπινυστάξῃς σοῖς βλεφάροις,<verse eID="rlxx_proverbs.6.4" />
+        <verse sID="rlxx_proverbs.6.5" osisID="rlxx_proverbs.6.5" />ἵνα σῴζῃ ὥσπερ δορκὰς ἐκ βρόχων καὶ ὥσπερ ὄρνεον ἐκ παγίδος.<verse eID="rlxx_proverbs.6.5" />
+        <verse sID="rlxx_proverbs.6.6" osisID="rlxx_proverbs.6.6" />Ἴθι πρὸς τὸν μύρμηκα, ὦ ὀκνηρέ, καὶ ζήλωσον ἰδὼν τὰς ὁδοὺς αὐτοῦ καὶ γενοῦ ἐκείνου σοφώτερος·<verse eID="rlxx_proverbs.6.6" />
+        <verse sID="rlxx_proverbs.6.7" osisID="rlxx_proverbs.6.7" />ἐκείνῳ γὰρ γεωργίου μὴ ὑπάρχοντος μηδὲ τὸν ἀναγκάζοντα ἔχων μηδὲ ὑπὸ δεσπότην ὢν<verse eID="rlxx_proverbs.6.7" />
+        <verse sID="rlxx_proverbs.6.8" osisID="rlxx_proverbs.6.8" />ἑτοιμάζεται θέρους τὴν τροφὴν πολλήν τε ἐν τῷ ἀμήτῳ ποιεῖται τὴν παράθεσιν.<verse eID="rlxx_proverbs.6.8" />
+        <verse sID="rlxx_proverbs.6.8a" osisID="rlxx_proverbs.6.8a" />ἢ πορεύθητι πρὸς τὴν μέλισσαν καὶ μάθε ὡς ἐργάτις ἐστὶν τήν τε ἐργασίαν ὡς σεμνὴν ποιεῖται,<verse eID="rlxx_proverbs.6.8a" />
+        <verse sID="rlxx_proverbs.6.8b" osisID="rlxx_proverbs.6.8b" />ἧς τοὺς πόνους βασιλεῖς καὶ ἰδιῶται πρὸς ὑγίειαν προςφέρονται, ποθεινὴ δέ ἐστιν πᾶσιν καὶ ἐπίδοξος·<verse eID="rlxx_proverbs.6.8b" />
+        <verse sID="rlxx_proverbs.6.8c" osisID="rlxx_proverbs.6.8c" />καίπερ οὖσα τῇ ῥώμῃ ἀσθενής, τὴν σοφίαν τιμήσασα προήχθη.<verse eID="rlxx_proverbs.6.8c" />
+        <verse sID="rlxx_proverbs.6.9" osisID="rlxx_proverbs.6.9" />ἕως τίνος, ὀκνηρέ, κατάκεισαι; πότε δὲ ἐξ ὕπνου ἐγερθήσῃ; ὀλίγον μὲν ὑπνοῖς, ὀλίγον δὲ κάθησαι, μικρὸν δὲ νυστάζεις, ὀλίγον δὲ ἐναγκαλίζῃ χερσὶν στήθη·<verse eID="rlxx_proverbs.6.9" />
+        <verse sID="rlxx_proverbs.6.11" osisID="rlxx_proverbs.6.11" />εἶτ' ἐμπαραγίνεταί σοι ὥσπερ κακὸς ὁδοιπόρος ἡ πενία καὶ ἡ ἔνδεια ὥσπερ ἀγαθὸς δρομεύς.<verse eID="rlxx_proverbs.6.11" />
+        <verse sID="rlxx_proverbs.6.11a" osisID="rlxx_proverbs.6.11a" />ἐὰν δὲ ἄοκνος ᾖς, ἥξει ὥσπερ πηγὴ ὁ ἀμητός σου, ἡ δὲ ἔνδεια ὥσπερ κακὸς δρομεὺς ἀπαυτομολήσει.<verse eID="rlxx_proverbs.6.11a" />
+        <verse sID="rlxx_proverbs.6.12" osisID="rlxx_proverbs.6.12" />Ἀνὴρ ἄφρων καὶ παράνομος πορεύεται ὁδοὺς οὐκ ἀγαθάς·<verse eID="rlxx_proverbs.6.12" />
+        <verse sID="rlxx_proverbs.6.13" osisID="rlxx_proverbs.6.13" />ὁ δ' αὐτὸς ἐννεύει ὀφθαλμῷ, σημαίνει δὲ ποδί, διδάσκει δὲ ἐννεύμασιν δακτύλων,<verse eID="rlxx_proverbs.6.13" />
+        <verse sID="rlxx_proverbs.6.14" osisID="rlxx_proverbs.6.14" />διεστραμμένῃ δὲ καρδίᾳ τεκταίνεται κακὰ ἐν παντὶ καιρῷ· ὁ τοιοῦτος ταραχὰς συνίστησιν πόλει.<verse eID="rlxx_proverbs.6.14" />
+        <verse sID="rlxx_proverbs.6.15" osisID="rlxx_proverbs.6.15" />διὰ τοῦτο ἐξαπίνης ἔρχεται ἡ ἀπώλεια αὐτοῦ, διακοπὴ καὶ συντριβὴ ἀνίατος.<verse eID="rlxx_proverbs.6.15" />
+        <verse sID="rlxx_proverbs.6.16" osisID="rlxx_proverbs.6.16" />ὅτι χαίρει πᾶσιν, οἷς μισεῖ ὁ κύριος, συντρίβεται δὲ δι' ἀκαθαρσίαν ψυχῆς·<verse eID="rlxx_proverbs.6.16" />
+        <verse sID="rlxx_proverbs.6.17" osisID="rlxx_proverbs.6.17" />ὀφθαλμὸς ὑβριστοῦ, γλῶσσα ἄδικος, χεῖρες ἐκχέουσαι αἷμα δικαίου<verse eID="rlxx_proverbs.6.17" />
+        <verse sID="rlxx_proverbs.6.18" osisID="rlxx_proverbs.6.18" />καὶ καρδία τεκταινομένη λογισμοὺς κακοὺς καὶ πόδες ἐπισπεύδοντες κακοποιεῖν·<verse eID="rlxx_proverbs.6.18" />
+        <verse sID="rlxx_proverbs.6.19" osisID="rlxx_proverbs.6.19" />ἐκκαίει ψεύδη μάρτυς ἄδικος καὶ ἐπιπέμπει κρίσεις ἀνὰ μέσον ἀδελφῶν.<verse eID="rlxx_proverbs.6.19" />
+        <verse sID="rlxx_proverbs.6.20" osisID="rlxx_proverbs.6.20" />Υἱέ, φύλασσε νόμους πατρός σου καὶ μὴ ἀπώσῃ θεσμοὺς μητρός σου·<verse eID="rlxx_proverbs.6.20" />
+        <verse sID="rlxx_proverbs.6.21" osisID="rlxx_proverbs.6.21" />ἄφαψαι δὲ αὐτοὺς ἐπὶ σῇ ψυχῇ διὰ παντὸς καὶ ἐγκλοίωσαι ἐπὶ σῷ τραχήλῳ.<verse eID="rlxx_proverbs.6.21" />
+        <verse sID="rlxx_proverbs.6.22" osisID="rlxx_proverbs.6.22" />ἡνίκα ἂν περιπατῇς, ἐπάγου αὐτήν, καὶ μετὰ σοῦ ἔστω· ὡς δ' ἂν καθεύδῃς, φυλασσέτω σε, ἵνα ἐγειρομένῳ συλλαλῇ σοι·<verse eID="rlxx_proverbs.6.22" />
+        <verse sID="rlxx_proverbs.6.23" osisID="rlxx_proverbs.6.23" />ὅτι λύχνος ἐντολὴ νόμου καὶ φῶς, καὶ ὁδὸς ζωῆς ἔλεγχος καὶ παιδεία τοῦ διαφυλάσσειν σε ἀπὸ γυναικὸς ὑπάνδρου καὶ ἀπὸ διαβολῆς γλώσσης ἀλλοτρίας.<verse eID="rlxx_proverbs.6.23" />
+        <verse sID="rlxx_proverbs.6.25" osisID="rlxx_proverbs.6.25" />μή σε νικήσῃ κάλλους ἐπιθυμία, μηδὲ ἀγρευθῇς σοῖς ὀφθαλμοῖς μηδὲ συναρπασθῇς ἀπὸ τῶν αὐτῆς βλεφάρων·<verse eID="rlxx_proverbs.6.25" />
+        <verse sID="rlxx_proverbs.6.26" osisID="rlxx_proverbs.6.26" />τιμὴ γὰρ πόρνης ὅση καὶ ἑνὸς ἄρτου, γυνὴ δὲ ἀνδρῶν τιμίας ψυχὰς ἀγρεύει.<verse eID="rlxx_proverbs.6.26" />
+        <verse sID="rlxx_proverbs.6.27" osisID="rlxx_proverbs.6.27" />ἀποδήσει τις πῦρ ἐν κόλπῳ, τὰ δὲ ἱμάτια οὐ κατακαύσει;<verse eID="rlxx_proverbs.6.27" />
+        <verse sID="rlxx_proverbs.6.28" osisID="rlxx_proverbs.6.28" />ἢ περιπατήσει τις ἐπ' ἀνθράκων πυρός, τοὺς δὲ πόδας οὐ κατακαύσει;<verse eID="rlxx_proverbs.6.28" />
+        <verse sID="rlxx_proverbs.6.29" osisID="rlxx_proverbs.6.29" />οὕτως ὁ εἰσελθὼν πρὸς γυναῖκα ὕπανδρον, οὐκ ἀθῳωθήσεται οὐδὲ πᾶς ὁ ἁπτόμενος αὐτῆς.<verse eID="rlxx_proverbs.6.29" />
+        <verse sID="rlxx_proverbs.6.30" osisID="rlxx_proverbs.6.30" />οὐ θαυμαστὸν ἐὰν ἁλῷ τις κλέπτων, κλέπτει γὰρ ἵνα ἐμπλήσῃ τὴν ψυχὴν πεινῶν·<verse eID="rlxx_proverbs.6.30" />
+        <verse sID="rlxx_proverbs.6.31" osisID="rlxx_proverbs.6.31" />ἐὰν δὲ ἁλῷ, ἀποτείσει ἑπταπλάσια καὶ πάντα τὰ ὑπάρχοντα αὐτοῦ δοὺς ῥύσεται ἑαυτόν.<verse eID="rlxx_proverbs.6.31" />
+        <verse sID="rlxx_proverbs.6.32" osisID="rlxx_proverbs.6.32" />ὁ δὲ μοιχὸς δι' ἔνδειαν φρενῶν ἀπώλειαν τῇ ψυχῇ αὐτοῦ περιποιεῖται,<verse eID="rlxx_proverbs.6.32" />
+        <verse sID="rlxx_proverbs.6.33" osisID="rlxx_proverbs.6.33" />ὀδύνας τε καὶ ἀτιμίας ὑποφέρει, τὸ δὲ ὄνειδος αὐτοῦ οὐκ ἐξαλειφθήσεται εἰς τὸν αἰῶνα.<verse eID="rlxx_proverbs.6.33" />
+        <verse sID="rlxx_proverbs.6.34" osisID="rlxx_proverbs.6.34" />μεστὸς γὰρ ζήλου θυμὸς ἀνδρὸς αὐτῆς· οὐ φείσεται ἐν ἡμέρᾳ κρίσεως,<verse eID="rlxx_proverbs.6.34" />
+        <verse sID="rlxx_proverbs.6.35" osisID="rlxx_proverbs.6.35" />οὐκ ἀνταλλάξεται οὐδενὸς λύτρου τὴν ἔχθραν οὐδὲ μὴ διαλυθῇ πολλῶν δώρων.<verse eID="rlxx_proverbs.6.35" />
+      </p>
+      <chapter eID="rlxx_proverbs.6" />
+      <chapter sID="rlxx_proverbs.7" osisID="rlxx_proverbs.7" />
+      <title>Chapter 7</title>
+      <p>
+        <verse sID="rlxx_proverbs.7.1" osisID="rlxx_proverbs.7.1" />Υἱέ, φύλασσε ἐμοὺς λόγους, τὰς δὲ ἐμὰς ἐντολὰς κρύψον παρὰ σεαυτῷ·<verse eID="rlxx_proverbs.7.1" />
+        <verse sID="rlxx_proverbs.7.1a" osisID="rlxx_proverbs.7.1a" />υἱέ, τίμα τὸν κύριον, καὶ ἰσχύσεις, πλὴν δὲ αὐτοῦ μὴ φοβοῦ ἄλλον.<verse eID="rlxx_proverbs.7.1a" />
+        <verse sID="rlxx_proverbs.7.2" osisID="rlxx_proverbs.7.2" />φύλαξον ἐμὰς ἐντολάς, καὶ βιώσεις, τοὺς δὲ ἐμοὺς λόγους ὥσπερ κόρας ὀμμάτων· περίθου δὲ αὐτοὺς σοῖς δακτύλοις, ἐπίγραψον δὲ ἐπὶ τὸ πλάτος τῆς καρδίας σου.<verse eID="rlxx_proverbs.7.2" />
+        <verse sID="rlxx_proverbs.7.4" osisID="rlxx_proverbs.7.4" />εἶπον τὴν σοφίαν σὴν ἀδελφὴν εἶναι, τὴν δὲ φρόνησιν γνώριμον περιποίησαι σεαυτῷ,<verse eID="rlxx_proverbs.7.4" />
+        <verse sID="rlxx_proverbs.7.5" osisID="rlxx_proverbs.7.5" />ἵνα σε τηρήσῃ ἀπὸ γυναικὸς ἀλλοτρίας καὶ πονηρᾶς, ἐάν σε λόγοις τοῖς πρὸς χάριν ἐμβάληται.<verse eID="rlxx_proverbs.7.5" />
+        <verse sID="rlxx_proverbs.7.6" osisID="rlxx_proverbs.7.6" />ἀπὸ γὰρ θυρίδος ἐκ τοῦ οἴκου αὐτῆς εἰς τὰς πλατείας παρακύπτουσα,<verse eID="rlxx_proverbs.7.6" />
+        <verse sID="rlxx_proverbs.7.7" osisID="rlxx_proverbs.7.7" />ὃν ἂν ἴδῃ τῶν ἀφρόνων τέκνων νεανίαν ἐνδεῆ φρενῶν<verse eID="rlxx_proverbs.7.7" />
+        <verse sID="rlxx_proverbs.7.8" osisID="rlxx_proverbs.7.8" />παραπορευόμενον παρὰ γωνίαν ἐν διόδοις οἴκων αὐτῆς<verse eID="rlxx_proverbs.7.8" />
+        <verse sID="rlxx_proverbs.7.9" osisID="rlxx_proverbs.7.9" />καὶ λαλοῦντα ἐν σκότει ἑσπερινῷ, ἡνίκα ἂν ἡσυχία νυκτερινὴ ᾖ καὶ γνοφώδης,<verse eID="rlxx_proverbs.7.9" />
+        <verse sID="rlxx_proverbs.7.10" osisID="rlxx_proverbs.7.10" />ἡ δὲ γυνὴ συναντᾷ αὐτῷ, εἶδος ἔχουσα πορνικόν, ἣ ποιεῖ νέων ἐξίπτασθαι καρδίας.<verse eID="rlxx_proverbs.7.10" />
+        <verse sID="rlxx_proverbs.7.11" osisID="rlxx_proverbs.7.11" />ἀνεπτερωμένη δέ ἐστιν καὶ ἄσωτος, ἐν οἴκῳ δὲ οὐχ ἡσυχάζουσιν οἱ πόδες αὐτῆς·<verse eID="rlxx_proverbs.7.11" />
+        <verse sID="rlxx_proverbs.7.12" osisID="rlxx_proverbs.7.12" />χρόνον γάρ τινα ἔξω ῥέμβεται, χρόνον δὲ ἐν πλατείαις παρὰ πᾶσαν γωνίαν ἐνεδρεύει.<verse eID="rlxx_proverbs.7.12" />
+        <verse sID="rlxx_proverbs.7.13" osisID="rlxx_proverbs.7.13" />εἶτα ἐπιλαβομένη ἐφίλησεν αὐτόν, ἀναιδεῖ δὲ προσώπῳ προσεῖπεν αὐτῷ<verse eID="rlxx_proverbs.7.13" />
+        <verse sID="rlxx_proverbs.7.14" osisID="rlxx_proverbs.7.14" />Θυσία εἰρηνική μοί ἐστιν, σήμερον ἀποδίδωμι τὰς εὐχάς μου·<verse eID="rlxx_proverbs.7.14" />
+        <verse sID="rlxx_proverbs.7.15" osisID="rlxx_proverbs.7.15" />ἕνεκα τούτου ἐξῆλθον εἰς συνάντησίν σοι, ποθοῦσα τὸ σὸν πρόσωπον εὕρηκά σε·<verse eID="rlxx_proverbs.7.15" />
+        <verse sID="rlxx_proverbs.7.16" osisID="rlxx_proverbs.7.16" />κειρίαις τέτακα τὴν κλίνην μου, ἀμφιτάποις δὲ ἔστρωκα τοῖς ἀπ' Αἰγύπτου·<verse eID="rlxx_proverbs.7.16" />
+        <verse sID="rlxx_proverbs.7.17" osisID="rlxx_proverbs.7.17" />διέρραγκα τὴν κοίτην μου κρόκῳ, τὸν δὲ οἶκόν μου κινναμώμῳ·<verse eID="rlxx_proverbs.7.17" />
+        <verse sID="rlxx_proverbs.7.18" osisID="rlxx_proverbs.7.18" />ἐλθὲ καὶ ἀπολαύσωμεν φιλίας ἕως ὄρθρου, δεῦρο καὶ ἐγκυλισθῶμεν ἔρωτι·<verse eID="rlxx_proverbs.7.18" />
+        <verse sID="rlxx_proverbs.7.19" osisID="rlxx_proverbs.7.19" />οὐ γὰρ πάρεστιν ὁ ἀνήρ μου ἐν οἴκῳ, πεπόρευται δὲ ὁδὸν μακρὰν<verse eID="rlxx_proverbs.7.19" />
+        <verse sID="rlxx_proverbs.7.20" osisID="rlxx_proverbs.7.20" />ἔνδεσμον ἀργυρίου λαβὼν ἐν χειρὶ αὐτοῦ, δι' ἡμερῶν πολλῶν ἐπανήξει εἰς τὸν οἶκον αὐτοῦ.<verse eID="rlxx_proverbs.7.20" />
+        <verse sID="rlxx_proverbs.7.21" osisID="rlxx_proverbs.7.21" />ἀπεπλάνησεν δὲ αὐτὸν πολλῇ ὁμιλίᾳ βρόχοις τε τοῖς ἀπὸ χειλέων ἐξώκειλεν αὐτόν.<verse eID="rlxx_proverbs.7.21" />
+        <verse sID="rlxx_proverbs.7.22" osisID="rlxx_proverbs.7.22" />ὁ δὲ ἐπηκολούθησεν αὐτῇ κεπφωθείς, ὥσπερ δὲ βοῦς ἐπὶ σφαγὴν ἄγεται καὶ ὥσπερ κύων ἐπὶ δεσμοὺς<verse eID="rlxx_proverbs.7.22" />
+        <verse sID="rlxx_proverbs.7.23" osisID="rlxx_proverbs.7.23" />ἢ ὡς ἔλαφος τοξεύματι πεπληγὼς εἰς τὸ ἧπαρ, σπεύδει δὲ ὥσπερ ὄρνεον εἰς παγίδα οὐκ εἰδὼς ὅτι περὶ ψυχῆς τρέχει.<verse eID="rlxx_proverbs.7.23" />
+        <verse sID="rlxx_proverbs.7.24" osisID="rlxx_proverbs.7.24" />νῦν οὖν, υἱέ, ἄκουέ μου καὶ πρόσεχε ῥήμασιν στόματός μου·<verse eID="rlxx_proverbs.7.24" />
+        <verse sID="rlxx_proverbs.7.25" osisID="rlxx_proverbs.7.25" />μὴ ἐκκλινάτω εἰς τὰς ὁδοὺς αὐτῆς ἡ καρδία σου·<verse eID="rlxx_proverbs.7.25" />
+        <verse sID="rlxx_proverbs.7.26" osisID="rlxx_proverbs.7.26" />πολλοὺς γὰρ τρώσασα καταβέβληκεν, καὶ ἀναρίθμητοί εἰσιν οὓς πεφόνευκεν·<verse eID="rlxx_proverbs.7.26" />
+        <verse sID="rlxx_proverbs.7.27" osisID="rlxx_proverbs.7.27" />ὁδοὶ ᾅδου ὁ οἶκος αὐτῆς κατάγουσαι εἰς τὰ ταμίεια τοῦ θανάτου.<verse eID="rlxx_proverbs.7.27" />
+      </p>
+      <chapter eID="rlxx_proverbs.7" />
+      <chapter sID="rlxx_proverbs.8" osisID="rlxx_proverbs.8" />
+      <title>Chapter 8</title>
+      <p>
+        <verse sID="rlxx_proverbs.8.1" osisID="rlxx_proverbs.8.1" />Σὺ τὴν σοφίαν κηρύξεις, ἵνα φρόνησίς σοι ὑπακούσῃ·<verse eID="rlxx_proverbs.8.1" />
+        <verse sID="rlxx_proverbs.8.2" osisID="rlxx_proverbs.8.2" />ἐπὶ γὰρ τῶν ὑψηλῶν ἄκρων ἐστίν, ἀνὰ μέσον δὲ τῶν τρίβων ἕστηκεν·<verse eID="rlxx_proverbs.8.2" />
+        <verse sID="rlxx_proverbs.8.3" osisID="rlxx_proverbs.8.3" />παρὰ γὰρ πύλαις δυναστῶν παρεδρεύει, ἐν δὲ εἰσόδοις ὑμνεῖται<verse eID="rlxx_proverbs.8.3" />
+        <verse sID="rlxx_proverbs.8.4" osisID="rlxx_proverbs.8.4" />Ὑμᾶς, ὦ ἄνθρωποι, παρακαλῶ καὶ προΐεμαι ἐμὴν φωνὴν υἱοῖς ἀνθρώπων·<verse eID="rlxx_proverbs.8.4" />
+        <verse sID="rlxx_proverbs.8.5" osisID="rlxx_proverbs.8.5" />νοήσατε, ἄκακοι, πανουργίαν, οἱ δὲ ἀπαίδευτοι, ἔνθεσθε καρδίαν.<verse eID="rlxx_proverbs.8.5" />
+        <verse sID="rlxx_proverbs.8.6" osisID="rlxx_proverbs.8.6" />εἰσακούσατέ μου, σεμνὰ γὰρ ἐρῶ καὶ ἀνοίσω ἀπὸ χειλέων ὀρθά·<verse eID="rlxx_proverbs.8.6" />
+        <verse sID="rlxx_proverbs.8.7" osisID="rlxx_proverbs.8.7" />ὅτι ἀλήθειαν μελετήσει ὁ φάρυγξ μου, ἐβδελυγμένα δὲ ἐναντίον ἐμοῦ χείλη ψευδῆ.<verse eID="rlxx_proverbs.8.7" />
+        <verse sID="rlxx_proverbs.8.8" osisID="rlxx_proverbs.8.8" />μετὰ δικαιοσύνης πάντα τὰ ῥήματα τοῦ στόματός μου, οὐδὲν ἐν αὐτοῖς σκολιὸν οὐδὲ στραγγαλῶδες·<verse eID="rlxx_proverbs.8.8" />
+        <verse sID="rlxx_proverbs.8.9" osisID="rlxx_proverbs.8.9" />πάντα ἐνώπια τοῖς συνιοῦσιν καὶ ὀρθὰ τοῖς εὑρίσκουσι γνῶσιν.<verse eID="rlxx_proverbs.8.9" />
+        <verse sID="rlxx_proverbs.8.10" osisID="rlxx_proverbs.8.10" />λάβετε παιδείαν καὶ μὴ ἀργύριον καὶ γνῶσιν ὑπὲρ χρυσίον δεδοκιμασμένον, ἀνθαιρεῖσθε δὲ αἴσθησιν χρυσίου καθαροῦ·<verse eID="rlxx_proverbs.8.10" />
+        <verse sID="rlxx_proverbs.8.11" osisID="rlxx_proverbs.8.11" />κρείσσων γὰρ σοφία λίθων πολυτελῶν, πᾶν δὲ τίμιον οὐκ ἄξιον αὐτῆς ἐστιν.<verse eID="rlxx_proverbs.8.11" />
+        <verse sID="rlxx_proverbs.8.12" osisID="rlxx_proverbs.8.12" />ἐγὼ ἡ σοφία κατεσκήνωσα βουλήν, καὶ γνῶσιν καὶ ἔννοιαν ἐγὼ ἐπεκαλεσάμην.<verse eID="rlxx_proverbs.8.12" />
+        <verse sID="rlxx_proverbs.8.13" osisID="rlxx_proverbs.8.13" />φόβος κυρίου μισεῖ ἀδικίαν, ὕβριν τε καὶ ὑπερηφανίαν καὶ ὁδοὺς πονηρῶν· μεμίσηκα δὲ ἐγὼ διεστραμμένας ὁδοὺς κακῶν.<verse eID="rlxx_proverbs.8.13" />
+        <verse sID="rlxx_proverbs.8.14" osisID="rlxx_proverbs.8.14" />ἐμὴ βουλὴ καὶ ἀσφάλεια, ἐμὴ φρόνησις, ἐμὴ δὲ ἰσχύς·<verse eID="rlxx_proverbs.8.14" />
+        <verse sID="rlxx_proverbs.8.15" osisID="rlxx_proverbs.8.15" />δι' ἐμοῦ βασιλεῖς βασιλεύουσιν, καὶ οἱ δυνάσται γράφουσιν δικαιοσύνην·<verse eID="rlxx_proverbs.8.15" />
+        <verse sID="rlxx_proverbs.8.16" osisID="rlxx_proverbs.8.16" />δι' ἐμοῦ μεγιστᾶνες μεγαλύνονται, καὶ τύραννοι δι' ἐμοῦ κρατοῦσι γῆς.<verse eID="rlxx_proverbs.8.16" />
+        <verse sID="rlxx_proverbs.8.17" osisID="rlxx_proverbs.8.17" />ἐγὼ τοὺς ἐμὲ φιλοῦντας ἀγαπῶ, οἱ δὲ ἐμὲ ζητοῦντες εὑρήσουσιν.<verse eID="rlxx_proverbs.8.17" />
+        <verse sID="rlxx_proverbs.8.18" osisID="rlxx_proverbs.8.18" />πλοῦτος καὶ δόξα ἐμοὶ ὑπάρχει καὶ κτῆσις πολλῶν καὶ δικαιοσύνη·<verse eID="rlxx_proverbs.8.18" />
+        <verse sID="rlxx_proverbs.8.19" osisID="rlxx_proverbs.8.19" />βέλτιον ἐμὲ καρπίζεσθαι ὑπὲρ χρυσίον καὶ λίθον τίμιον, τὰ δὲ ἐμὰ γενήματα κρείσσω ἀργυρίου ἐκλεκτοῦ.<verse eID="rlxx_proverbs.8.19" />
+        <verse sID="rlxx_proverbs.8.20" osisID="rlxx_proverbs.8.20" />ἐν ὁδοῖς δικαιοσύνης περιπατῶ καὶ ἀνὰ μέσον τρίβων δικαιώματος ἀναστρέφομαι,<verse eID="rlxx_proverbs.8.20" />
+        <verse sID="rlxx_proverbs.8.21" osisID="rlxx_proverbs.8.21" />ἵνα μερίσω τοῖς ἐμὲ ἀγαπῶσιν ὕπαρξιν καὶ τοὺς θησαυροὺς αὐτῶν ἐμπλήσω ἀγαθῶν.<verse eID="rlxx_proverbs.8.21" />
+        <verse sID="rlxx_proverbs.8.21a" osisID="rlxx_proverbs.8.21a" />ἐὰν ἀναγγείλω ὑμῖν τὰ καθ' ἡμέραν γινόμενα, μνημονεύσω τὰ ἐξ αἰῶνος ἀριθμῆσαι.<verse eID="rlxx_proverbs.8.21a" />
+        <verse sID="rlxx_proverbs.8.22" osisID="rlxx_proverbs.8.22" />κύριος ἔκτισέν με ἀρχὴν ὁδῶν αὐτοῦ εἰς ἔργα αὐτοῦ,<verse eID="rlxx_proverbs.8.22" />
+        <verse sID="rlxx_proverbs.8.23" osisID="rlxx_proverbs.8.23" />πρὸ τοῦ αἰῶνος ἐθεμελίωσέν με ἐν ἀρχῇ,<verse eID="rlxx_proverbs.8.23" />
+        <verse sID="rlxx_proverbs.8.24" osisID="rlxx_proverbs.8.24" />πρὸ τοῦ τὴν γῆν ποιῆσαι καὶ πρὸ τοῦ τὰς ἀβύσσους ποιῆσαι, πρὸ τοῦ προελθεῖν τὰς πηγὰς τῶν ὑδάτων,<verse eID="rlxx_proverbs.8.24" />
+        <verse sID="rlxx_proverbs.8.25" osisID="rlxx_proverbs.8.25" />πρὸ τοῦ ὄρη ἑδρασθῆναι, πρὸ δὲ πάντων βουνῶν γεννᾷ με.<verse eID="rlxx_proverbs.8.25" />
+        <verse sID="rlxx_proverbs.8.26" osisID="rlxx_proverbs.8.26" />κύριος ἐποίησεν χώρας καὶ ἀοικήτους καὶ ἄκρα οἰκούμενα τῆς ὑπ' οὐρανόν.<verse eID="rlxx_proverbs.8.26" />
+        <verse sID="rlxx_proverbs.8.27" osisID="rlxx_proverbs.8.27" />ἡνίκα ἡτοίμαζεν τὸν οὐρανόν, συμπαρήμην αὐτῷ, καὶ ὅτε ἀφώριζεν τὸν ἑαυτοῦ θρόνον ἐπ' ἀνέμων.<verse eID="rlxx_proverbs.8.27" />
+        <verse sID="rlxx_proverbs.8.28" osisID="rlxx_proverbs.8.28" />ἡνίκα ἰσχυρὰ ἐποίει τὰ ἄνω νέφη, καὶ ὡς ἀσφαλεῖς ἐτίθει πηγὰς τῆς ὑπ' οὐρανὸν<verse eID="rlxx_proverbs.8.28" />
+        <verse sID="rlxx_proverbs.8.29" osisID="rlxx_proverbs.8.29" />καὶ ἰσχυρὰ ἐποίει τὰ θεμέλια τῆς γῆς,<verse eID="rlxx_proverbs.8.29" />
+        <verse sID="rlxx_proverbs.8.30" osisID="rlxx_proverbs.8.30" />ἤμην παρ' αὐτῷ ἁρμόζουσα, ἐγὼ ἤμην ᾗ προσέχαιρεν. καθ' ἡμέραν δὲ εὐφραινόμην ἐν προσώπῳ αὐτοῦ ἐν παντὶ καιρῷ,<verse eID="rlxx_proverbs.8.30" />
+        <verse sID="rlxx_proverbs.8.31" osisID="rlxx_proverbs.8.31" />ὅτε ἐυφραίνετο τὴν οἰκουμένην συντελέσας καὶ ἐνευφραίνετο ἐν υἱοῖς ἀνθρώπων.<verse eID="rlxx_proverbs.8.31" />
+        <verse sID="rlxx_proverbs.8.32" osisID="rlxx_proverbs.8.32" />νῦν οὖν, υἱέ, ἄκουέ μου.<verse eID="rlxx_proverbs.8.32" />
+        <verse sID="rlxx_proverbs.8.34" osisID="rlxx_proverbs.8.34" />μακάριος ἀνήρ, ὃς εἰσακούσεταί μου, καὶ ἄνθρωπος, ὃς τὰς ἐμὰς ὁδοὺς φυλάξει ἀγρυπνῶν ἐπ' ἐμαῖς θύραις καθ' ἡμέραν τηρῶν σταθμοὺς ἐμῶν εἰσόδων·<verse eID="rlxx_proverbs.8.34" />
+        <verse sID="rlxx_proverbs.8.35" osisID="rlxx_proverbs.8.35" />αἱ γὰρ ἔξοδοί μου ἔξοδοι ζωῆς, καὶ ἑτοιμάζεται θέλησις παρὰ κυρίου.<verse eID="rlxx_proverbs.8.35" />
+        <verse sID="rlxx_proverbs.8.36" osisID="rlxx_proverbs.8.36" />οἱ δὲ εἰς ἐμὲ ἁμαρτάνοντες ἀσεβοῦσιν τὰς ἑαυτῶν ψυχάς, καὶ οἱ μισοῦντές με ἀγαπῶσιν θάνατον.<verse eID="rlxx_proverbs.8.36" />
+      </p>
+      <chapter eID="rlxx_proverbs.8" />
+      <chapter sID="rlxx_proverbs.9" osisID="rlxx_proverbs.9" />
+      <title>Chapter 9</title>
+      <p>
+        <verse sID="rlxx_proverbs.9.1" osisID="rlxx_proverbs.9.1" />Ἡ σοφία ᾠκοδόμησεν ἑαυτῇ οἶκον καὶ ὑπήρεισεν στύλους ἑπτά·<verse eID="rlxx_proverbs.9.1" />
+        <verse sID="rlxx_proverbs.9.2" osisID="rlxx_proverbs.9.2" />ἔσφαξεν τὰ ἑαυτῆς θύματα, ἐκέρασεν εἰς κρατῆρα τὸν ἑαυτῆς οἶνον καὶ ἡτοιμάσατο τὴν ἑαυτῆς τράπεζαν·<verse eID="rlxx_proverbs.9.2" />
+        <verse sID="rlxx_proverbs.9.3" osisID="rlxx_proverbs.9.3" />ἀπέστειλεν τοὺς ἑαυτῆς δούλους συγκαλούσα μετὰ ὑψηλοῦ κηρύγματος ἐπὶ κρατῆρα λέγουσα<verse eID="rlxx_proverbs.9.3" />
+        <verse sID="rlxx_proverbs.9.4" osisID="rlxx_proverbs.9.4" />Ὅς ἐστιν ἄφρων, ἐκκλινάτω πρός με· καὶ τοῖς ἐνδεέσι φρενῶν εἶπεν<verse eID="rlxx_proverbs.9.4" />
+        <verse sID="rlxx_proverbs.9.5" osisID="rlxx_proverbs.9.5" />Ἔλθατε φάγετε τῶν ἐμῶν ἄρτων καὶ πίετε οἶνον, ὃν ἐκέρασα ὑμῖν·<verse eID="rlxx_proverbs.9.5" />
+        <verse sID="rlxx_proverbs.9.6" osisID="rlxx_proverbs.9.6" />ἀπολείπετε ἀφροσύνην, καὶ ζήσεσθε, καὶ ζητήσατε φρόνησιν, ἵνα βιώσητε, καὶ κατορθώσατε ἐν γνώσει σύνεσιν.<verse eID="rlxx_proverbs.9.6" />
+        <verse sID="rlxx_proverbs.9.7" osisID="rlxx_proverbs.9.7" />Ὁ παιδεύων κακοὺς λήμψεται ἑαυτῷ ἀτιμίαν, ἐλέγχων δὲ τὸν ἀσεβῆ μωμήσεται ἑαυτόν.<verse eID="rlxx_proverbs.9.7" />
+        <verse sID="rlxx_proverbs.9.8" osisID="rlxx_proverbs.9.8" />μὴ ἔλεγχε κακούς, ἵνα μὴ μισῶσίν σε· ἔλεγχε σοφόν, καὶ ἀγαπήσει σε.<verse eID="rlxx_proverbs.9.8" />
+        <verse sID="rlxx_proverbs.9.9" osisID="rlxx_proverbs.9.9" />δίδου σοφῷ ἀφορμήν, καὶ σοφώτερος ἔσται· γνώριζε δικαίῳ, καὶ προσθήσει τοῦ δέχεσθαι.<verse eID="rlxx_proverbs.9.9" />
+        <verse sID="rlxx_proverbs.9.10" osisID="rlxx_proverbs.9.10" />ἀρχὴ σοφίας φόβος κυρίου, καὶ βουλὴ ἁγίων σύνεσις·<verse eID="rlxx_proverbs.9.10" />
+        <verse sID="rlxx_proverbs.9.10a" osisID="rlxx_proverbs.9.10a" />τὸ γὰρ γνῶναι νόμον διανοίας ἐστὶν ἀγαθῆς·<verse eID="rlxx_proverbs.9.10a" />
+        <verse sID="rlxx_proverbs.9.11" osisID="rlxx_proverbs.9.11" />τούτῳ γὰρ τῷ τρόπῳ πολὺν ζήσεις χρόνον, καὶ προστεθήσεταί σοι ἔτη ζωῆς σου.<verse eID="rlxx_proverbs.9.11" />
+        <verse sID="rlxx_proverbs.9.12" osisID="rlxx_proverbs.9.12" />υἱέ, ἐὰν σοφὸς γένῃ σεαυτῷ, σοφὸς ἔσῃ καὶ τοῖς πλησίον· ἐὰν δὲ κακὸς ἀποβῇς, μόνος ἀναντλήσεις κακά. ὃς ἐρείδεται ἐπὶ ψεύδεσιν, οὗτος ποιμανεῖ ἀνέμους, ὁ δ' αὐτὸς διώξεται ὄρνεα πετόμενα·<verse eID="rlxx_proverbs.9.12" />
+        <verse sID="rlxx_proverbs.9.12b" osisID="rlxx_proverbs.9.12b" />ἀπέλιπεν γὰρ ὁδοὺς τοῦ ἑαυτοῦ ἀμπελῶνος, τοὺς δὲ ἄξονας τοῦ ἰδίου γεωργίου πεπλάνηται·<verse eID="rlxx_proverbs.9.12b" />
+        <verse sID="rlxx_proverbs.9.12c" osisID="rlxx_proverbs.9.12c" />διαπορεύεται δὲ δι' ἀνύδρου ἐρήμου καὶ γῆν διατεταγμένην ἐν διψώδεσιν, συνάγει δὲ χερσὶν ἀκαρπίαν.<verse eID="rlxx_proverbs.9.12c" />
+        <verse sID="rlxx_proverbs.9.13" osisID="rlxx_proverbs.9.13" />Γυνὴ ἄφρων καὶ θρασεῖα ἐνδεὴς ψωμοῦ γίνεται, ἣ οὐκ ἐπίσταται αἰσχύνην·<verse eID="rlxx_proverbs.9.13" />
+        <verse sID="rlxx_proverbs.9.14" osisID="rlxx_proverbs.9.14" />ἐκάθισεν ἐπὶ θύραις τοῦ ἑαυτῆς οἴκου ἐπὶ δίφρου ἐμφανῶς ἐν πλατείαις<verse eID="rlxx_proverbs.9.14" />
+        <verse sID="rlxx_proverbs.9.15" osisID="rlxx_proverbs.9.15" />προσκαλουμένη τοὺς παριόντας καὶ κατευθύνοντας ἐν ταῖς ὁδοῖς αὐτῶν<verse eID="rlxx_proverbs.9.15" />
+        <verse sID="rlxx_proverbs.9.16" osisID="rlxx_proverbs.9.16" />Ὅς ἐστιν ὑμῶν ἀφρονέστατος, ἐκκλινάτω πρός με· ἐνδεέσι δὲ φρονήσεως παρακελεύομαι λέγουσα<verse eID="rlxx_proverbs.9.16" />
+        <verse sID="rlxx_proverbs.9.17" osisID="rlxx_proverbs.9.17" />Ἄρτων κρυφίων ἡδέως ἅψασθε καὶ ὕδατος κλοπῆς γλυκεροῦ.<verse eID="rlxx_proverbs.9.17" />
+        <verse sID="rlxx_proverbs.9.18" osisID="rlxx_proverbs.9.18" />ὁ δὲ οὐκ οἶδεν ὅτι γηγενεῖς παρ' αὐτῇ ὄλλυνται, καὶ ἐπὶ πέτευρον ᾅδου συναντᾷ.<verse eID="rlxx_proverbs.9.18" />
+        <verse sID="rlxx_proverbs.9.18a" osisID="rlxx_proverbs.9.18a" />ἀλλὰ ἀποπήδησον, μὴ ἐγχρονίσῃς ἐν τῷ τόπῳ μηδὲ ἐπιστήσῃς τὸ σὸν ὄμμα πρὸς αὐτήν·<verse eID="rlxx_proverbs.9.18a" />
+        <verse sID="rlxx_proverbs.9.18b" osisID="rlxx_proverbs.9.18b" />οὕτως γὰρ διαβήσῃ ὕδωρ ἀλλότριον καὶ ὑπερβήσῃ ποταμὸν ἀλλότριον·<verse eID="rlxx_proverbs.9.18b" />
+        <verse sID="rlxx_proverbs.9.18c" osisID="rlxx_proverbs.9.18c" />ἀπὸ δὲ ὕδατος ἀλλοτρίου ἀπόσχου καὶ ἀπὸ πηγῆς ἀλλοτρίας μὴ πίῃς,<verse eID="rlxx_proverbs.9.18c" />
+        <verse sID="rlxx_proverbs.9.18d" osisID="rlxx_proverbs.9.18d" />ἵνα πολὺν ζήσῃς χρόνον, προστεθῇ δέ σοι ἔτη ζωῆς. –––<verse eID="rlxx_proverbs.9.18d" />
+      </p>
+      <chapter eID="rlxx_proverbs.9" />
+      <chapter sID="rlxx_proverbs.10" osisID="rlxx_proverbs.10" />
+      <title>Chapter 10</title>
+      <p>
+        <verse sID="rlxx_proverbs.10.1" osisID="rlxx_proverbs.10.1" />Υἱὸς σοφὸς εὐφραίνει πατέρα, υἱὸς δὲ ἄφρων λύπη τῇ μητρί.<verse eID="rlxx_proverbs.10.1" />
+        <verse sID="rlxx_proverbs.10.2" osisID="rlxx_proverbs.10.2" />οὐκ ὠφελήσουσιν θησαυροὶ ἀνόμους, δικαιοσύνη δὲ ῥύσεται ἐκ θανάτου.<verse eID="rlxx_proverbs.10.2" />
+        <verse sID="rlxx_proverbs.10.3" osisID="rlxx_proverbs.10.3" />οὐ λιμοκτονήσει κύριος ψυχὴν δικαίαν, ζωὴν δὲ ἀσεβῶν ἀνατρέψει.<verse eID="rlxx_proverbs.10.3" />
+        <verse sID="rlxx_proverbs.10.4" osisID="rlxx_proverbs.10.4" />πενία ἄνδρα ταπεινοῖ, χεῖρες δὲ ἀνδρείων πλουτίζουσιν.<verse eID="rlxx_proverbs.10.4" />
+        <verse sID="rlxx_proverbs.10.4a" osisID="rlxx_proverbs.10.4a" />υἱὸς πεπαιδευμένος σοφὸς ἔσται, τῷ δὲ ἄφρονι διακόνῳ χρήσεται.<verse eID="rlxx_proverbs.10.4a" />
+        <verse sID="rlxx_proverbs.10.5" osisID="rlxx_proverbs.10.5" />διεσώθη ἀπὸ καύματος υἱὸς νοήμων, ἀνεμόφθορος δὲ γίνεται ἐν ἀμήτῳ υἱὸς παράνομος.<verse eID="rlxx_proverbs.10.5" />
+        <verse sID="rlxx_proverbs.10.6" osisID="rlxx_proverbs.10.6" />εὐλογία κυρίου ἐπὶ κεφαλὴν δικαίου, στόμα δὲ ἀσεβῶν καλύψει πένθος ἄωρον.<verse eID="rlxx_proverbs.10.6" />
+        <verse sID="rlxx_proverbs.10.7" osisID="rlxx_proverbs.10.7" />μνήμη δικαίων μετ' ἐγκωμίων, ὄνομα δὲ ἀσεβοῦς σβέννυται.<verse eID="rlxx_proverbs.10.7" />
+        <verse sID="rlxx_proverbs.10.8" osisID="rlxx_proverbs.10.8" />σοφὸς καρδίᾳ δέξεται ἐντολάς, ὁ δὲ ἄστεγος χείλεσιν σκολιάζων ὑποσκελισθήσεται.<verse eID="rlxx_proverbs.10.8" />
+        <verse sID="rlxx_proverbs.10.9" osisID="rlxx_proverbs.10.9" />ὃς πορεύεται ἁπλῶς, πορεύεται πεποιθώς, ὁ δὲ διαστρέφων τὰς ὁδοὺς αὐτοῦ γνωσθήσεται.<verse eID="rlxx_proverbs.10.9" />
+        <verse sID="rlxx_proverbs.10.10" osisID="rlxx_proverbs.10.10" />ὁ ἐννεύων ὀφθαλμοῖς μετὰ δόλου συνάγει ἀνδράσι λύπας, ὁ δὲ ἐλέγχων μετὰ παρρησίας εἰρηνοποιεῖ.<verse eID="rlxx_proverbs.10.10" />
+        <verse sID="rlxx_proverbs.10.11" osisID="rlxx_proverbs.10.11" />πηγὴ ζωῆς ἐν χειρὶ δικαίου, στόμα δὲ ἀσεβοῦς καλύψει ἀπώλεια.<verse eID="rlxx_proverbs.10.11" />
+        <verse sID="rlxx_proverbs.10.12" osisID="rlxx_proverbs.10.12" />μῖσος ἐγείρει νεῖκος, πάντας δὲ τοὺς μὴ φιλονεικοῦντας καλύπτει φιλία.<verse eID="rlxx_proverbs.10.12" />
+        <verse sID="rlxx_proverbs.10.13" osisID="rlxx_proverbs.10.13" />ὃς ἐκ χειλέων προφέρει σοφίαν, ῥάβδῳ τύπτει ἄνδρα ἀκάρδιον.<verse eID="rlxx_proverbs.10.13" />
+        <verse sID="rlxx_proverbs.10.14" osisID="rlxx_proverbs.10.14" />σοφοὶ κρύψουσιν αἴσθησιν, στόμα δὲ προπετοῦς ἐγγίζει συντριβῇ. κτῆσις πλουσίων πόλις ὀχυρά, συντριβὴ δὲ ἀσεβῶν πενία.<verse eID="rlxx_proverbs.10.14" />
+        <verse sID="rlxx_proverbs.10.16" osisID="rlxx_proverbs.10.16" />ἔργα δικαίων ζωὴν ποιεῖ, καρποὶ δὲ ἀσεβῶν ἁμαρτίας.<verse eID="rlxx_proverbs.10.16" />
+        <verse sID="rlxx_proverbs.10.17" osisID="rlxx_proverbs.10.17" />ὁδοὺς δικαίας ζωῆς φυλάσσει παιδεία, παιδεία δὲ ἀνεξέλεγκτος πλανᾶται.<verse eID="rlxx_proverbs.10.17" />
+        <verse sID="rlxx_proverbs.10.18" osisID="rlxx_proverbs.10.18" />καλύπτουσιν ἔχθραν χείλη δίκαια, οἱ δὲ ἐκφέροντες λοιδορίας ἀφρονέστατοί εἰσιν.<verse eID="rlxx_proverbs.10.18" />
+        <verse sID="rlxx_proverbs.10.19" osisID="rlxx_proverbs.10.19" />ἐκ πολυλογίας οὐκ ἐκφεύξῃ ἁμαρτίαν, φειδόμενος δὲ χειλέων νοήμων ἔσῃ.<verse eID="rlxx_proverbs.10.19" />
+        <verse sID="rlxx_proverbs.10.20" osisID="rlxx_proverbs.10.20" />ἄργυρος πεπυρωμένος γλῶσσα δικαίου, καρδία δὲ ἀσεβοῦς ἐκλείψει.<verse eID="rlxx_proverbs.10.20" />
+        <verse sID="rlxx_proverbs.10.21" osisID="rlxx_proverbs.10.21" />χείλη δικαίων ἐπίσταται ὑψηλά, οἱ δὲ ἄφρονες ἐν ἐνδείᾳ τελευτῶσιν.<verse eID="rlxx_proverbs.10.21" />
+        <verse sID="rlxx_proverbs.10.22" osisID="rlxx_proverbs.10.22" />εὐλογία κυρίου ἐπὶ κεφαλὴν δικαίου· αὕτη πλουτίζει, καὶ οὐ μὴ προστεθῇ αὐτῇ λύπη ἐν καρδίᾳ.<verse eID="rlxx_proverbs.10.22" />
+        <verse sID="rlxx_proverbs.10.23" osisID="rlxx_proverbs.10.23" />ἐν γέλωτι ἄφρων πράσσει κακά, ἡ δὲ σοφία ἀνδρὶ τίκτει φρόνησιν.<verse eID="rlxx_proverbs.10.23" />
+        <verse sID="rlxx_proverbs.10.24" osisID="rlxx_proverbs.10.24" />ἐν ἀπωλείᾳ ἀσεβὴς περιφέρεται, ἐπιθυμία δὲ δικαίου δεκτή.<verse eID="rlxx_proverbs.10.24" />
+        <verse sID="rlxx_proverbs.10.25" osisID="rlxx_proverbs.10.25" />παραπορευομένης καταιγίδος ἀφανίζεται ἀσεβής, δίκαιος δὲ ἐκκλίνας σῴζεται εἰς τὸν αἰῶνα.<verse eID="rlxx_proverbs.10.25" />
+        <verse sID="rlxx_proverbs.10.26" osisID="rlxx_proverbs.10.26" />ὥσπερ ὄμφαξ ὀδοῦσι βλαβερὸν καὶ καπνὸς ὄμμασιν, οὕτως παρανομία τοῖς χρωμένοις αὐτήν.<verse eID="rlxx_proverbs.10.26" />
+        <verse sID="rlxx_proverbs.10.27" osisID="rlxx_proverbs.10.27" />φόβος κυρίου προστίθησιν ἡμέρας, ἔτη δὲ ἀσεβῶν ὀλιγωθήσεται.<verse eID="rlxx_proverbs.10.27" />
+        <verse sID="rlxx_proverbs.10.28" osisID="rlxx_proverbs.10.28" />ἐγχρονίζει δικαίοις εὐφροσύνη, ἐλπὶς δὲ ἀσεβῶν ὄλλυται.<verse eID="rlxx_proverbs.10.28" />
+        <verse sID="rlxx_proverbs.10.29" osisID="rlxx_proverbs.10.29" />ὀχύρωμα ὁσίου φόβος κυρίου, συντριβὴ δὲ τοῖς ἐργαζομένοις κακά. δίκαιος τὸν αἰῶνα οὐκ ἐνδώσει, ἀσεβεῖς δὲ οὐκ οἰκήσουσιν γῆν.<verse eID="rlxx_proverbs.10.29" />
+        <verse sID="rlxx_proverbs.10.31" osisID="rlxx_proverbs.10.31" />στόμα δικαίου ἀποστάζει σοφίαν, γλῶσσα δὲ ἀδίκου ἐξολεῖται.<verse eID="rlxx_proverbs.10.31" />
+        <verse sID="rlxx_proverbs.10.32" osisID="rlxx_proverbs.10.32" />χείλη ἀνδρῶν δικαίων ἀποστάζει χάριτας, στόμα δὲ ἀσεβῶν ἀποστρέφεται.<verse eID="rlxx_proverbs.10.32" />
+      </p>
+      <chapter eID="rlxx_proverbs.10" />
+      <chapter sID="rlxx_proverbs.11" osisID="rlxx_proverbs.11" />
+      <title>Chapter 11</title>
+      <p>
+        <verse sID="rlxx_proverbs.11.1" osisID="rlxx_proverbs.11.1" />ζυγοὶ δόλιοι βδέλυγμα ἐνώπιον κυρίου, στάθμιον δὲ δίκαιον δεκτὸν αὐτῷ.<verse eID="rlxx_proverbs.11.1" />
+        <verse sID="rlxx_proverbs.11.2" osisID="rlxx_proverbs.11.2" />οὗ ἐὰν εἰσέλθῃ ὕβρις, ἐκεῖ καὶ ἀτιμία· στόμα δὲ ταπεινῶν μελετᾷ σοφίαν.<verse eID="rlxx_proverbs.11.2" />
+        <verse sID="rlxx_proverbs.11.3" osisID="rlxx_proverbs.11.3" />ἀποθανὼν δίκαιος ἔλιπεν μετάμελον, πρόχειρος δὲ γίνεται καὶ ἐπίχαρτος ἀσεβῶν ἀπώλεια.<verse eID="rlxx_proverbs.11.3" />
+        <verse sID="rlxx_proverbs.11.5" osisID="rlxx_proverbs.11.5" />δικαιοσύνη ἀμώμους ὀρθοτομεῖ ὁδούς, ἀσέβεια δὲ περιπίπτει ἀδικίᾳ.<verse eID="rlxx_proverbs.11.5" />
+        <verse sID="rlxx_proverbs.11.6" osisID="rlxx_proverbs.11.6" />δικαιοσύνη ἀνδρῶν ὀρθῶν ῥύεται αὐτούς, τῇ δὲ ἀπωλείᾳ αὐτῶν ἁλίσκονται παράνομοι.<verse eID="rlxx_proverbs.11.6" />
+        <verse sID="rlxx_proverbs.11.7" osisID="rlxx_proverbs.11.7" />τελευτήσαντος ἀνδρὸς δικαίου οὐκ ὄλλυται ἐλπίς, τὸ δὲ καύχημα τῶν ἀσεβῶν ὄλλυται.<verse eID="rlxx_proverbs.11.7" />
+        <verse sID="rlxx_proverbs.11.8" osisID="rlxx_proverbs.11.8" />δίκαιος ἐκ θήρας ἐκδύνει, ἀντ' αὐτοῦ δὲ παραδίδοται ὁ ἀσεβής.<verse eID="rlxx_proverbs.11.8" />
+        <verse sID="rlxx_proverbs.11.9" osisID="rlxx_proverbs.11.9" />ἐν στόματι ἀσεβῶν παγὶς πολίταις, αἴσθησις δὲ δικαίων εὔοδος.<verse eID="rlxx_proverbs.11.9" />
+        <verse sID="rlxx_proverbs.11.10" osisID="rlxx_proverbs.11.10" />ἐν ἀγαθοῖς δικαίων κατώρθωσεν πόλις,<verse eID="rlxx_proverbs.11.10" />
+        <verse sID="rlxx_proverbs.11.11" osisID="rlxx_proverbs.11.11" />στόμασιν δὲ ἀσεβῶν κατεσκάφη.<verse eID="rlxx_proverbs.11.11" />
+        <verse sID="rlxx_proverbs.11.12" osisID="rlxx_proverbs.11.12" />μυκτηρίζει πολίτας ἐνδεὴς φρενῶν, ἀνὴρ δὲ φρόνιμος ἡσυχίαν ἄγει.<verse eID="rlxx_proverbs.11.12" />
+        <verse sID="rlxx_proverbs.11.13" osisID="rlxx_proverbs.11.13" />ἀνὴρ δίγλωσσος ἀποκαλύπτει βουλὰς ἐν συνεδρίῳ, πιστὸς δὲ πνοῇ κρύπτει πράγματα.<verse eID="rlxx_proverbs.11.13" />
+        <verse sID="rlxx_proverbs.11.14" osisID="rlxx_proverbs.11.14" />οἷς μὴ ὑπάρχει κυβέρνησις, πίπτουσιν ὥσπερ φύλλα, σωτηρία δὲ ὑπάρχει ἐν πολλῇ βουλῇ. πονηρὸς κακοποιεῖ, ὅταν συμμείξῃ δικαίῳ, μισεῖ δὲ ἦχον ἀσφαλείας.<verse eID="rlxx_proverbs.11.14" />
+        <verse sID="rlxx_proverbs.11.16" osisID="rlxx_proverbs.11.16" />γυνὴ εὐχάριστος ἐγείρει ἀνδρὶ δόξαν, θρόνος δὲ ἀτιμίας γυνὴ μισοῦσα δίκαια. πλούτου ὀκνηροὶ ἐνδεεῖς γίνονται, οἱ δὲ ἀνδρεῖοι ἐρείδονται πλούτῳ.<verse eID="rlxx_proverbs.11.16" />
+        <verse sID="rlxx_proverbs.11.17" osisID="rlxx_proverbs.11.17" />τῇ ψυχῇ αὐτοῦ ἀγαθὸν ποιεῖ ἀνὴρ ἐλεήμων, ἐξολλύει δὲ αὐτοῦ σῶμα ὁ ἀνελεήμων.<verse eID="rlxx_proverbs.11.17" />
+        <verse sID="rlxx_proverbs.11.18" osisID="rlxx_proverbs.11.18" />ἀσεβὴς ποιεῖ ἔργα ἄδικα, σπέρμα δὲ δικαίων μισθὸς ἀληθείας.<verse eID="rlxx_proverbs.11.18" />
+        <verse sID="rlxx_proverbs.11.19" osisID="rlxx_proverbs.11.19" />υἱὸς δίκαιος γεννᾶται εἰς ζωήν, διωγμὸς δὲ ἀσεβοῦς εἰς θάνατον.<verse eID="rlxx_proverbs.11.19" />
+        <verse sID="rlxx_proverbs.11.20" osisID="rlxx_proverbs.11.20" />βδέλυγμα κυρίῳ διεστραμμέναι ὁδοί, προσδεκτοὶ δὲ αὐτῷ πάντες ἄμωμοι ἐν ταῖς ὁδοῖς αὐτῶν.<verse eID="rlxx_proverbs.11.20" />
+        <verse sID="rlxx_proverbs.11.21" osisID="rlxx_proverbs.11.21" />χειρὶ χεῖρας ἐμβαλὼν ἀδίκως οὐκ ἀτιμώρητος ἔσται, ὁ δὲ σπείρων δικαιοσύνην λήμψεται μισθὸν πιστόν.<verse eID="rlxx_proverbs.11.21" />
+        <verse sID="rlxx_proverbs.11.22" osisID="rlxx_proverbs.11.22" />ὥσπερ ἐνώτιον ἐν ῥινὶ ὑός, οὕτως γυναικὶ κακόφρονι κάλλος.<verse eID="rlxx_proverbs.11.22" />
+        <verse sID="rlxx_proverbs.11.23" osisID="rlxx_proverbs.11.23" />ἐπιθυμία δικαίων πᾶσα ἀγαθή, ἐλπὶς δὲ ἀσεβῶν ἀπολεῖται.<verse eID="rlxx_proverbs.11.23" />
+        <verse sID="rlxx_proverbs.11.24" osisID="rlxx_proverbs.11.24" />εἰσὶν οἳ τὰ ἴδια σπείροντες πλείονα ποιοῦσιν, εἰσὶν καὶ οἳ συνάγοντες ἐλαττονοῦνται.<verse eID="rlxx_proverbs.11.24" />
+        <verse sID="rlxx_proverbs.11.25" osisID="rlxx_proverbs.11.25" />ψυχὴ εὐλογουμένη πᾶσα ἁπλῆ, ἀνὴρ δὲ θυμώδης οὐκ εὐσχήμων.<verse eID="rlxx_proverbs.11.25" />
+        <verse sID="rlxx_proverbs.11.26" osisID="rlxx_proverbs.11.26" />ὁ συνέχων σῖτον ὑπολίποιτο αὐτὸν τοῖς ἔθνεσιν, εὐλογία δὲ εἰς κεφαλὴν τοῦ μεταδιδόντος.<verse eID="rlxx_proverbs.11.26" />
+        <verse sID="rlxx_proverbs.11.27" osisID="rlxx_proverbs.11.27" />τεκταινόμενος ἀγαθὰ ζητεῖ χάριν ἀγαθήν· ἐκζητοῦντα δὲ κακά, καταλήμψεται αὐτόν.<verse eID="rlxx_proverbs.11.27" />
+        <verse sID="rlxx_proverbs.11.28" osisID="rlxx_proverbs.11.28" />ὁ πεποιθὼς ἐπὶ πλούτῳ, οὗτος πεσεῖται· ὁ δὲ ἀντιλαμβανόμενος δικαίων, οὗτος ἀνατελεῖ. ὁ μὴ συμπεριφερόμενος τῷ ἑαυτοῦ οἴκῳ κληρονομήσει ἄνεμον, δουλεύσει δὲ ἄφρων φρονίμῳ.<verse eID="rlxx_proverbs.11.28" />
+        <verse sID="rlxx_proverbs.11.30" osisID="rlxx_proverbs.11.30" />ἐκ καρποῦ δικαιοσύνης φύεται δένδρον ζωῆς, ἀφαιροῦνται δὲ ἄωροι ψυχαὶ παρανόμων.<verse eID="rlxx_proverbs.11.30" />
+        <verse sID="rlxx_proverbs.11.31" osisID="rlxx_proverbs.11.31" />εἰ ὁ μὲν δίκαιος μόλις σῴζεται, ὁ ἀσεβὴς καὶ ἁμαρτωλὸς ποῦ φανεῖται;<verse eID="rlxx_proverbs.11.31" />
+      </p>
+      <chapter eID="rlxx_proverbs.11" />
+      <chapter sID="rlxx_proverbs.12" osisID="rlxx_proverbs.12" />
+      <title>Chapter 12</title>
+      <p>
+        <verse sID="rlxx_proverbs.12.1" osisID="rlxx_proverbs.12.1" />ὁ ἀγαπῶν παιδείαν ἀγαπᾷ αἴσθησιν, ὁ δὲ μισῶν ἐλέγχους ἄφρων.<verse eID="rlxx_proverbs.12.1" />
+        <verse sID="rlxx_proverbs.12.2" osisID="rlxx_proverbs.12.2" />κρείσσων ὁ εὑρὼν χάριν παρὰ κυρίῳ, ἀνὴρ δὲ παράνομος παρασιωπηθήσεται.<verse eID="rlxx_proverbs.12.2" />
+        <verse sID="rlxx_proverbs.12.3" osisID="rlxx_proverbs.12.3" />οὐ κατορθώσει ἄνθρωπος ἐξ ἀνόμου, αἱ δὲ ῥίζαι τῶν δικαίων οὐκ ἐξαρθήσονται.<verse eID="rlxx_proverbs.12.3" />
+        <verse sID="rlxx_proverbs.12.4" osisID="rlxx_proverbs.12.4" />γυνὴ ἀνδρεία στέφανος τῷ ἀνδρὶ αὐτῆς· ὥσπερ δὲ ἐν ξύλῳ σκώληξ, οὕτως ἄνδρα ἀπόλλυσιν γυνὴ κακοποιός.<verse eID="rlxx_proverbs.12.4" />
+        <verse sID="rlxx_proverbs.12.5" osisID="rlxx_proverbs.12.5" />λογισμοὶ δικαίων κρίματα, κυβερνῶσιν δὲ ἀσεβεῖς δόλους.<verse eID="rlxx_proverbs.12.5" />
+        <verse sID="rlxx_proverbs.12.6" osisID="rlxx_proverbs.12.6" />λόγοι ἀσεβῶν δόλιοι, στόμα δὲ ὀρθῶν ῥύσεται αὐτούς.<verse eID="rlxx_proverbs.12.6" />
+        <verse sID="rlxx_proverbs.12.7" osisID="rlxx_proverbs.12.7" />οὗ ἐὰν στραφῇ, ἀσεβὴς ἀφανίζεται, οἶκοι δὲ δικαίων παραμένουσιν.<verse eID="rlxx_proverbs.12.7" />
+        <verse sID="rlxx_proverbs.12.8" osisID="rlxx_proverbs.12.8" />στόμα συνετοῦ ἐγκωμιάζεται ὑπὸ ἀνδρός, νωθροκάρδιος δὲ μυκτηρίζεται.<verse eID="rlxx_proverbs.12.8" />
+        <verse sID="rlxx_proverbs.12.9" osisID="rlxx_proverbs.12.9" />κρείσσων ἀνὴρ ἐν ἀτιμίᾳ δουλεύων ἑαυτῷ ἢ τιμὴν ἑαυτῷ περιτιθεὶς καὶ προσδεόμενος ἄρτου.<verse eID="rlxx_proverbs.12.9" />
+        <verse sID="rlxx_proverbs.12.10" osisID="rlxx_proverbs.12.10" />δίκαιος οἰκτίρει ψυχὰς κτηνῶν αὐτοῦ, τὰ δὲ σπλάγχνα τῶν ἀσεβῶν ἀνελεήμονα.<verse eID="rlxx_proverbs.12.10" />
+        <verse sID="rlxx_proverbs.12.11" osisID="rlxx_proverbs.12.11" />ὁ ἐργαζόμενος τὴν ἑαυτοῦ γῆν ἐμπλησθήσεται ἄρτων, οἱ δὲ διώκοντες μάταια ἐνδεεῖς φρενῶν.<verse eID="rlxx_proverbs.12.11" />
+        <verse sID="rlxx_proverbs.12.11a" osisID="rlxx_proverbs.12.11a" />ὅς ἐστιν ἡδὺς ἐν οἴνων διατριβαῖς, ἐν τοῖς ἑαυτοῦ ὀχυρώμασιν καταλείψει ἀτιμίαν.<verse eID="rlxx_proverbs.12.11a" />
+        <verse sID="rlxx_proverbs.12.12" osisID="rlxx_proverbs.12.12" />ἐπιθυμίαι ἀσεβῶν κακαί, αἱ δὲ ῥίζαι τῶν εὐσεβῶν ἐν ὀχυρώμασιν.<verse eID="rlxx_proverbs.12.12" />
+        <verse sID="rlxx_proverbs.12.13" osisID="rlxx_proverbs.12.13" />δι' ἁμαρτίαν χειλέων ἐμπίπτει εἰς παγίδας ἁμαρτωλός, ἐκφεύγει δὲ ἐξ αὐτῶν δίκαιος.<verse eID="rlxx_proverbs.12.13" />
+        <verse sID="rlxx_proverbs.12.13a" osisID="rlxx_proverbs.12.13a" />ὁ βλέπων λεῖα ἐλεηθήσεται, ὁ δὲ συναντῶν ἐν πύλαις ἐκθλίψει ψυχάς.<verse eID="rlxx_proverbs.12.13a" />
+        <verse sID="rlxx_proverbs.12.14" osisID="rlxx_proverbs.12.14" />ἀπὸ καρπῶν στόματος ψυχὴ ἀνδρὸς πλησθήσεται ἀγαθῶν, ἀνταπόδομα δὲ χειλέων αὐτοῦ δοθήσεται αὐτῷ.<verse eID="rlxx_proverbs.12.14" />
+        <verse sID="rlxx_proverbs.12.15" osisID="rlxx_proverbs.12.15" />ὁδοὶ ἀφρόνων ὀρθαὶ ἐνώπιον αὐτῶν, εἰσακούει δὲ συμβουλίας σοφός.<verse eID="rlxx_proverbs.12.15" />
+        <verse sID="rlxx_proverbs.12.16" osisID="rlxx_proverbs.12.16" />ἄφρων αὐθημερὸν ἐξαγγέλλει ὀργὴν αὐτοῦ, κρύπτει δὲ τὴν ἑαυτοῦ ἀτιμίαν πανοῦργος.<verse eID="rlxx_proverbs.12.16" />
+        <verse sID="rlxx_proverbs.12.17" osisID="rlxx_proverbs.12.17" />ἐπιδεικνυμένην πίστιν ἀπαγγέλλει δίκαιος, ὁ δὲ μάρτυς τῶν ἀδίκων δόλιος.<verse eID="rlxx_proverbs.12.17" />
+        <verse sID="rlxx_proverbs.12.18" osisID="rlxx_proverbs.12.18" />εἰσὶν οἳ λέγοντες τιτρώσκουσιν μαχαίρᾳ, γλῶσσαι δὲ σοφῶν ἰῶνται.<verse eID="rlxx_proverbs.12.18" />
+        <verse sID="rlxx_proverbs.12.19" osisID="rlxx_proverbs.12.19" />χείλη ἀληθινὰ κατορθοῖ μαρτυρίαν, μάρτυς δὲ ταχὺς γλῶσσαν ἔχει ἄδικον.<verse eID="rlxx_proverbs.12.19" />
+        <verse sID="rlxx_proverbs.12.20" osisID="rlxx_proverbs.12.20" />δόλος ἐν καρδίᾳ τεκταινομένου κακά, οἱ δὲ βουλόμενοι εἰρήνην εὐφρανθήσονται.<verse eID="rlxx_proverbs.12.20" />
+        <verse sID="rlxx_proverbs.12.21" osisID="rlxx_proverbs.12.21" />οὐκ ἀρέσει τῷ δικαίῳ οὐδὲν ἄδικον, οἱ δὲ ἀσεβεῖς πλησθήσονται κακῶν.<verse eID="rlxx_proverbs.12.21" />
+        <verse sID="rlxx_proverbs.12.22" osisID="rlxx_proverbs.12.22" />βδέλυγμα κυρίῳ χείλη ψευδῆ, ὁ δὲ ποιῶν πίστεις δεκτὸς παρ' αὐτῷ.<verse eID="rlxx_proverbs.12.22" />
+        <verse sID="rlxx_proverbs.12.23" osisID="rlxx_proverbs.12.23" />ἀνὴρ συνετὸς θρόνος αἰσθήσεως, καρδία δὲ ἀφρόνων συναντήσεται ἀραῖς.<verse eID="rlxx_proverbs.12.23" />
+        <verse sID="rlxx_proverbs.12.24" osisID="rlxx_proverbs.12.24" />χεὶρ ἐκλεκτῶν κρατήσει εὐχερῶς, δόλιοι δὲ ἔσονται εἰς προνομήν.<verse eID="rlxx_proverbs.12.24" />
+        <verse sID="rlxx_proverbs.12.25" osisID="rlxx_proverbs.12.25" />φοβερὸς λόγος καρδίαν ταράσσει ἀνδρὸς δικαίου, ἀγγελία δὲ ἀγαθὴ εὐφραίνει αὐτόν.<verse eID="rlxx_proverbs.12.25" />
+        <verse sID="rlxx_proverbs.12.26" osisID="rlxx_proverbs.12.26" />ἐπιγνώμων δίκαιος ἑαυτοῦ φίλος ἔσται, αἱ δὲ γνῶμαι τῶν ἀσεβῶν ἀνεπιεικεῖς. ἁμαρτάνοντας καταδιώξεται κακά, ἡ δὲ ὁδὸς τῶν ἀσεβῶν πλανήσει αὐτούς.<verse eID="rlxx_proverbs.12.26" />
+        <verse sID="rlxx_proverbs.12.27" osisID="rlxx_proverbs.12.27" />οὐκ ἐπιτεύξεται δόλιος θήρας, κτῆμα δὲ τίμιον ἀνὴρ καθαρός.<verse eID="rlxx_proverbs.12.27" />
+        <verse sID="rlxx_proverbs.12.28" osisID="rlxx_proverbs.12.28" />ἐν ὁδοῖς δικαιοσύνης ζωή, ὁδοὶ δὲ μνησικάκων εἰς θάνατον.<verse eID="rlxx_proverbs.12.28" />
+      </p>
+      <chapter eID="rlxx_proverbs.12" />
+      <chapter sID="rlxx_proverbs.13" osisID="rlxx_proverbs.13" />
+      <title>Chapter 13</title>
+      <p>
+        <verse sID="rlxx_proverbs.13.1" osisID="rlxx_proverbs.13.1" />υἱὸς πανοῦργος ὑπήκοος πατρί, υἱὸς δὲ ἀνήκοος ἐν ἀπωλείᾳ.<verse eID="rlxx_proverbs.13.1" />
+        <verse sID="rlxx_proverbs.13.2" osisID="rlxx_proverbs.13.2" />ἀπὸ καρπῶν δικαιοσύνης φάγεται ἀγαθός, ψυχαὶ δὲ παρανόμων ὀλοῦνται ἄωροι.<verse eID="rlxx_proverbs.13.2" />
+        <verse sID="rlxx_proverbs.13.3" osisID="rlxx_proverbs.13.3" />ὃς φυλάσσει τὸ ἑαυτοῦ στόμα, τηρεῖ τὴν ἑαυτοῦ ψυχήν· ὁ δὲ προπετὴς χείλεσιν πτοήσει ἑαυτόν.<verse eID="rlxx_proverbs.13.3" />
+        <verse sID="rlxx_proverbs.13.4" osisID="rlxx_proverbs.13.4" />ἐν ἐπιθυμίαις ἐστὶν πᾶς ἀεργός, χεῖρες δὲ ἀνδρείων ἐν ἐπιμελείᾳ.<verse eID="rlxx_proverbs.13.4" />
+        <verse sID="rlxx_proverbs.13.5" osisID="rlxx_proverbs.13.5" />λόγον ἄδικον μισεῖ δίκαιος, ἀσεβὴς δὲ αἰσχύνεται καὶ οὐχ ἕξει παρρησίαν.<verse eID="rlxx_proverbs.13.5" />
+        <verse sID="rlxx_proverbs.13.6" osisID="rlxx_proverbs.13.6" />δικαιοσύνη φυλάσσει ἀκάκους, τοὺς δὲ ἀσεβεῖς φαύλους ποιεῖ ἁμαρτία.<verse eID="rlxx_proverbs.13.6" />
+        <verse sID="rlxx_proverbs.13.7" osisID="rlxx_proverbs.13.7" />εἰσὶν οἱ πλουτίζοντες ἑαυτοὺς μηδὲν ἔχοντες, καὶ εἰσὶν οἱ ταπεινοῦντες ἑαυτοὺς ἐν πολλῷ πλούτῳ.<verse eID="rlxx_proverbs.13.7" />
+        <verse sID="rlxx_proverbs.13.8" osisID="rlxx_proverbs.13.8" />λύτρον ἀνδρὸς ψυχῆς ὁ ἴδιος πλοῦτος, πτωχὸς δὲ οὐχ ὑφίσταται ἀπειλήν.<verse eID="rlxx_proverbs.13.8" />
+        <verse sID="rlxx_proverbs.13.9" osisID="rlxx_proverbs.13.9" />φῶς δικαίοις διὰ παντός, φῶς δὲ ἀσεβῶν σβέννυται.<verse eID="rlxx_proverbs.13.9" />
+        <verse sID="rlxx_proverbs.13.9a" osisID="rlxx_proverbs.13.9a" />ψυχαὶ δόλιαι πλανῶνται ἐν ἁμαρτίαις, δίκαιοι δὲ οἰκτίρουσιν καὶ ἐλεῶσιν. κακὸς μεθ' ὕβρεως πράσσει κακά, οἱ δὲ ἑαυτῶν ἐπιγνώμονες σοφοί.<verse eID="rlxx_proverbs.13.9a" />
+        <verse sID="rlxx_proverbs.13.11" osisID="rlxx_proverbs.13.11" />ὕπαρξις ἐπισπουδαζομένη μετὰ ἀνομίας ἐλάσσων γίνεται, ὁ δὲ συνάγων ἑαυτῷ μετ' εὐσεβείας πληθυνθήσεται· δίκαιος οἰκτίρει καὶ κιχρᾷ.<verse eID="rlxx_proverbs.13.11" />
+        <verse sID="rlxx_proverbs.13.12" osisID="rlxx_proverbs.13.12" />κρείσσων ἐναρχόμενος βοηθῶν καρδίᾳ τοῦ ἐπαγγελλομένου καὶ εἰς ἐλπίδα ἄγοντος· δένδρον γὰρ ζωῆς ἐπιθυμία ἀγαθή.<verse eID="rlxx_proverbs.13.12" />
+        <verse sID="rlxx_proverbs.13.13" osisID="rlxx_proverbs.13.13" />ὃς καταφρονεῖ πράγματος, καταφρονηθήσεται ὑπ' αὐτοῦ· ὁ δὲ φοβούμενος ἐντολήν, οὗτος ὑγιαίνει.<verse eID="rlxx_proverbs.13.13" />
+        <verse sID="rlxx_proverbs.13.13a" osisID="rlxx_proverbs.13.13a" />υἱῷ δολίῳ οὐδὲν ἔσται ἀγαθόν, οἰκέτῃ δὲ σοφῷ εὔοδοι ἔσονται πράξεις, καὶ κατευθυνθήσεται ἡ ὁδὸς αὐτοῦ.<verse eID="rlxx_proverbs.13.13a" />
+        <verse sID="rlxx_proverbs.13.14" osisID="rlxx_proverbs.13.14" />νόμος σοφοῦ πηγὴ ζωῆς, ὁ δὲ ἄνους ὑπὸ παγίδος θανεῖται.<verse eID="rlxx_proverbs.13.14" />
+        <verse sID="rlxx_proverbs.13.15" osisID="rlxx_proverbs.13.15" />σύνεσις ἀγαθὴ δίδωσιν χάριν, τὸ δὲ γνῶναι νόμον διανοίας ἐστὶν ἀγαθῆς, ὁδοὶ δὲ καταφρονούντων ἐν ἀπωλείᾳ.<verse eID="rlxx_proverbs.13.15" />
+        <verse sID="rlxx_proverbs.13.16" osisID="rlxx_proverbs.13.16" />πᾶς πανοῦργος πράσσει μετὰ γνώσεως, ὁ δὲ ἄφρων ἐξεπέτασεν ἑαυτοῦ κακίαν.<verse eID="rlxx_proverbs.13.16" />
+        <verse sID="rlxx_proverbs.13.17" osisID="rlxx_proverbs.13.17" />βασιλεὺς θρασὺς ἐμπεσεῖται εἰς κακά, ἄγγελος δὲ πιστὸς ῥύσεται αὐτόν.<verse eID="rlxx_proverbs.13.17" />
+        <verse sID="rlxx_proverbs.13.18" osisID="rlxx_proverbs.13.18" />πενίαν καὶ ἀτιμίαν ἀφαιρεῖται παιδεία, ὁ δὲ φυλάσσων ἐλέγχους δοξασθήσεται.<verse eID="rlxx_proverbs.13.18" />
+        <verse sID="rlxx_proverbs.13.19" osisID="rlxx_proverbs.13.19" />ἐπιθυμίαι εὐσεβῶν ἡδύνουσιν ψυχήν, ἔργα δὲ ἀσεβῶν μακρὰν ἀπὸ γνώσεως.<verse eID="rlxx_proverbs.13.19" />
+        <verse sID="rlxx_proverbs.13.20" osisID="rlxx_proverbs.13.20" />ὁ συμπορευόμενος σοφοῖς σοφὸς ἔσται, ὁ δὲ συμπορευόμενος ἄφροσι γνωσθήσεται.<verse eID="rlxx_proverbs.13.20" />
+        <verse sID="rlxx_proverbs.13.21" osisID="rlxx_proverbs.13.21" />ἁμαρτάνοντας καταδιώξεται κακά, τοὺς δὲ δικαίους καταλήμψεται ἀγαθά. ἀγαθὸς ἀνὴρ κληρονομήσει υἱοὺς υἱῶν, θησαυρίζεται δὲ δικαίοις πλοῦτος ἀσεβὼν.<verse eID="rlxx_proverbs.13.21" />
+        <verse sID="rlxx_proverbs.13.23" osisID="rlxx_proverbs.13.23" />δίκαιοι ποιήσουσιν ἐν πλούτῳ ἔτη πολλά, ἄδικοι δὲ ἀπολοῦνται συντόμως.<verse eID="rlxx_proverbs.13.23" />
+        <verse sID="rlxx_proverbs.13.24" osisID="rlxx_proverbs.13.24" />ὃς φείδεται τῆς βακτηρίας, μισεῖ τὸν υἱὸν αὐτοῦ· ὁ δὲ ἀγαπῶν ἐπιμελῶς παιδεύει.<verse eID="rlxx_proverbs.13.24" />
+        <verse sID="rlxx_proverbs.13.25" osisID="rlxx_proverbs.13.25" />δίκαιος ἔσθων ἐμπιπλᾷ τὴν ψυχὴν αὐτοῦ, ψυχαὶ δὲ ἀσεβῶν ἐνδεεῖς.<verse eID="rlxx_proverbs.13.25" />
+      </p>
+      <chapter eID="rlxx_proverbs.13" />
+      <chapter sID="rlxx_proverbs.14" osisID="rlxx_proverbs.14" />
+      <title>Chapter 14</title>
+      <p>
+        <verse sID="rlxx_proverbs.14.1" osisID="rlxx_proverbs.14.1" />σοφαὶ γυναῖκες ᾠκοδόμησαν οἴκους, ἡ δὲ ἄφρων κατέσκαψεν ταῖς χερσὶν αὐτῆς.<verse eID="rlxx_proverbs.14.1" />
+        <verse sID="rlxx_proverbs.14.2" osisID="rlxx_proverbs.14.2" />ὁ πορευόμενος ὀρθῶς φοβεῖται τὸν κύριον, ὁ δὲ σκολιάζων ταῖς ὁδοῖς αὐτοῦ ἀτιμασθήσεται.<verse eID="rlxx_proverbs.14.2" />
+        <verse sID="rlxx_proverbs.14.3" osisID="rlxx_proverbs.14.3" />ἐκ στόματος ἀφρόνων βακτηρία ὕβρεως, χείλη δὲ σοφῶν φυλάσσει αὐτούς.<verse eID="rlxx_proverbs.14.3" />
+        <verse sID="rlxx_proverbs.14.4" osisID="rlxx_proverbs.14.4" />οὗ μή εἰσιν βόες, φάτναι καθαραί· οὗ δὲ πολλὰ γενήματα, φανερὰ βοὸς ἰσχύς.<verse eID="rlxx_proverbs.14.4" />
+        <verse sID="rlxx_proverbs.14.5" osisID="rlxx_proverbs.14.5" />μάρτυς πιστὸς οὐ ψεύδεται, ἐκκαίει δὲ ψεύδη μάρτυς ἄδικος.<verse eID="rlxx_proverbs.14.5" />
+        <verse sID="rlxx_proverbs.14.6" osisID="rlxx_proverbs.14.6" />ζητήσεις σοφίαν παρὰ κακοῖς καὶ οὐχ εὑρήσεις, αἴσθησις δὲ παρὰ φρονίμοις εὐχερής.<verse eID="rlxx_proverbs.14.6" />
+        <verse sID="rlxx_proverbs.14.7" osisID="rlxx_proverbs.14.7" />πάντα ἐναντία ἀνδρὶ ἄφρονι, ὅπλα δὲ αἰσθήσεως χείλη σοφά.<verse eID="rlxx_proverbs.14.7" />
+        <verse sID="rlxx_proverbs.14.8" osisID="rlxx_proverbs.14.8" />σοφία πανούργων ἐπιγνώσεται τὰς ὁδοὺς αὐτῶν, ἄνοια δὲ ἀφρόνων ἐν πλάνῃ.<verse eID="rlxx_proverbs.14.8" />
+        <verse sID="rlxx_proverbs.14.9" osisID="rlxx_proverbs.14.9" />οἰκίαι παρανόμων ὀφειλήσουσιν καθαρισμόν, οἰκίαι δὲ δικαίων δεκταί.<verse eID="rlxx_proverbs.14.9" />
+        <verse sID="rlxx_proverbs.14.10" osisID="rlxx_proverbs.14.10" />καρδία ἀνδρὸς αἰσθητική, λυπηρὰ ψυχὴ αὐτοῦ· ὅταν δὲ εὐφραίνηται, οὐκ ἐπιμείγνυται ὕβρει.<verse eID="rlxx_proverbs.14.10" />
+        <verse sID="rlxx_proverbs.14.11" osisID="rlxx_proverbs.14.11" />οἰκίαι ἀσεβῶν ἀφανισθήσονται, σκηναὶ δὲ κατορθούντων στήσονται. ἔστιν ὁδὸς ἣ δοκεῖ ὀρθὴ εἶναι παρὰ ἀνθρώποις, τὰ δὲ τελευταῖα αὐτῆς ἔρχεται εἰς πυθμένα ᾅδου.<verse eID="rlxx_proverbs.14.11" />
+        <verse sID="rlxx_proverbs.14.13" osisID="rlxx_proverbs.14.13" />ἐν εὐφροσύναις οὐ προσμείγνυται λύπη, τελευταία δὲ χαρὰ εἰς πένθος ἔρχεται.<verse eID="rlxx_proverbs.14.13" />
+        <verse sID="rlxx_proverbs.14.14" osisID="rlxx_proverbs.14.14" />τῶν ἑαυτοῦ ὁδῶν πλησθήσεται θρασυκάρδιος, ἀπὸ δὲ τῶν διανοημάτων αὐτοῦ ἀνὴρ ἀγαθός.<verse eID="rlxx_proverbs.14.14" />
+        <verse sID="rlxx_proverbs.14.15" osisID="rlxx_proverbs.14.15" />ἄκακος πιστεύει παντὶ λόγῳ, πανοῦργος δὲ ἔρχεται εἰς μετάνοιαν.<verse eID="rlxx_proverbs.14.15" />
+        <verse sID="rlxx_proverbs.14.16" osisID="rlxx_proverbs.14.16" />σοφὸς φοβηθεὶς ἐξέκλινεν ἀπὸ κακοῦ, ὁ δὲ ἄφρων ἑαυτῷ πεποιθὼς μείγνυται ἀνόμῳ.<verse eID="rlxx_proverbs.14.16" />
+        <verse sID="rlxx_proverbs.14.17" osisID="rlxx_proverbs.14.17" />ὀξύθυμος πράσσει μετὰ ἀβουλίας, ἀνὴρ δὲ φρόνιμος πολλὰ ὑποφέρει.<verse eID="rlxx_proverbs.14.17" />
+        <verse sID="rlxx_proverbs.14.18" osisID="rlxx_proverbs.14.18" />μεριοῦνται ἄφρονες κακίαν, οἱ δὲ πανοῦργοι κρατήσουσιν αἰσθήσεως.<verse eID="rlxx_proverbs.14.18" />
+        <verse sID="rlxx_proverbs.14.19" osisID="rlxx_proverbs.14.19" />ὀλισθήσουσιν κακοὶ ἔναντι ἀγαθῶν, καὶ ἀσεβεῖς θεραπεύσουσιν θύρας δικαίων.<verse eID="rlxx_proverbs.14.19" />
+        <verse sID="rlxx_proverbs.14.20" osisID="rlxx_proverbs.14.20" />φίλοι μισήσουσιν φίλους πτωχούς, φίλοι δὲ πλουσίων πολλοί.<verse eID="rlxx_proverbs.14.20" />
+        <verse sID="rlxx_proverbs.14.21" osisID="rlxx_proverbs.14.21" />ὁ ἀτιμάζων πένητας ἁμαρτάνει, ἐλεῶν δὲ πτωχοὺς μακαριστός.<verse eID="rlxx_proverbs.14.21" />
+        <verse sID="rlxx_proverbs.14.22" osisID="rlxx_proverbs.14.22" />πλανώμενοι τεκταίνουσι κακά, ἔλεον δὲ καὶ ἀλήθειαν τεκταίνουσιν ἀγαθοί. οὐκ ἐπίστανται ἔλεον καὶ πίστιν τέκτονες κακῶν, ἐλεημοσύναι δὲ καὶ πίστεις παρὰ τέκτοσιν ἀγαθοῖς.<verse eID="rlxx_proverbs.14.22" />
+        <verse sID="rlxx_proverbs.14.23" osisID="rlxx_proverbs.14.23" />ἐν παντὶ μεριμνῶντι ἔνεστιν περισσόν, ὁ δὲ ἡδὺς καὶ ἀνάλγητος ἐν ἐνδείᾳ ἔσται.<verse eID="rlxx_proverbs.14.23" />
+        <verse sID="rlxx_proverbs.14.24" osisID="rlxx_proverbs.14.24" />στέφανος σοφῶν πανοῦργος, ἡ δὲ διατριβὴ ἀφρόνων κακή.<verse eID="rlxx_proverbs.14.24" />
+        <verse sID="rlxx_proverbs.14.25" osisID="rlxx_proverbs.14.25" />ῥύσεται ἐκ κακῶν ψυχὴν μάρτυς πιστός, ἐκκαίει δὲ ψεύδη δόλιος. ἐν φόβῳ κυρίου ἐλπὶς ἰσχύος, τοῖς δὲ τέκνοις αὐτοῦ καταλείπει ἔρεισμα.<verse eID="rlxx_proverbs.14.25" />
+        <verse sID="rlxx_proverbs.14.27" osisID="rlxx_proverbs.14.27" />πρόσταγμα κυρίου πηγὴ ζωῆς, ποιεῖ δὲ ἐκκλίνειν ἐκ παγίδος θανάτου.<verse eID="rlxx_proverbs.14.27" />
+        <verse sID="rlxx_proverbs.14.28" osisID="rlxx_proverbs.14.28" />ἐν πολλῷ ἔθνει δόξα βασιλέως, ἐν δὲ ἐκλείψει λαοῦ συντριβὴ δυνάστου.<verse eID="rlxx_proverbs.14.28" />
+        <verse sID="rlxx_proverbs.14.29" osisID="rlxx_proverbs.14.29" />μακρόθυμος ἀνὴρ πολὺς ἐν φρονήσει, ὁ δὲ ὀλιγόψυχος ἰσχυρῶς ἄφρων.<verse eID="rlxx_proverbs.14.29" />
+        <verse sID="rlxx_proverbs.14.30" osisID="rlxx_proverbs.14.30" />πραΰθυμος ἀνὴρ καρδίας ἰατρός, σὴς δὲ ὀστέων καρδία αἰσθητική.<verse eID="rlxx_proverbs.14.30" />
+        <verse sID="rlxx_proverbs.14.31" osisID="rlxx_proverbs.14.31" />ὁ συκοφαντῶν πένητα παροξύνει τὸν ποιήσαντα αὐτόν, ὁ δὲ τιμῶν αὐτὸν ἐλεᾷ πτωχόν.<verse eID="rlxx_proverbs.14.31" />
+        <verse sID="rlxx_proverbs.14.32" osisID="rlxx_proverbs.14.32" />ἐν κακίᾳ αὐτοῦ ἀπωσθήσεται ἀσεβής, ὁ δὲ πεποιθὼς τῇ ἑαυτοῦ ὁσιότητι δίκαιος.<verse eID="rlxx_proverbs.14.32" />
+        <verse sID="rlxx_proverbs.14.33" osisID="rlxx_proverbs.14.33" />ἐν καρδίᾳ ἀγαθῇ ἀνδρὸς σοφία, ἐν δὲ καρδίᾳ ἀφρόνων οὐ διαγινώσκεται.<verse eID="rlxx_proverbs.14.33" />
+        <verse sID="rlxx_proverbs.14.34" osisID="rlxx_proverbs.14.34" />δικαιοσύνη ὑψοῖ ἔθνος, ἐλασσονοῦσι δὲ φυλὰς ἁμαρτίαι.<verse eID="rlxx_proverbs.14.34" />
+        <verse sID="rlxx_proverbs.14.35" osisID="rlxx_proverbs.14.35" />δεκτὸς βασιλεῖ ὑπηρέτης νοήμων, τῇ δὲ ἑαυτοῦ εὐστροφίᾳ ἀφαιρεῖται ἀτιμίαν.<verse eID="rlxx_proverbs.14.35" />
+      </p>
+      <chapter eID="rlxx_proverbs.14" />
+      <chapter sID="rlxx_proverbs.15" osisID="rlxx_proverbs.15" />
+      <title>Chapter 15</title>
+      <p>
+        <verse sID="rlxx_proverbs.15.1" osisID="rlxx_proverbs.15.1" />ὀργὴ ἀπόλλυσιν καὶ φρονίμους, ἀπόκρισις δὲ ὑποπίπτουσα ἀποστρέφει θυμόν, λόγος δὲ λυπηρὸς ἐγείρει ὀργάς.<verse eID="rlxx_proverbs.15.1" />
+        <verse sID="rlxx_proverbs.15.2" osisID="rlxx_proverbs.15.2" />γλῶσσα σοφῶν καλὰ ἐπίσταται, στόμα δὲ ἀφρόνων ἀναγγελεῖ κακά.<verse eID="rlxx_proverbs.15.2" />
+        <verse sID="rlxx_proverbs.15.3" osisID="rlxx_proverbs.15.3" />ἐν παντὶ τόπῳ ὀφθαλμοὶ κυρίου, σκοπεύουσιν κακούς τε καὶ ἀγαθούς.<verse eID="rlxx_proverbs.15.3" />
+        <verse sID="rlxx_proverbs.15.4" osisID="rlxx_proverbs.15.4" />ἴασις γλώσσης δένδρον ζωῆς, ὁ δὲ συντηρῶν αὐτὴν πλησθήσεται πνεύματος.<verse eID="rlxx_proverbs.15.4" />
+        <verse sID="rlxx_proverbs.15.5" osisID="rlxx_proverbs.15.5" />ἄφρων μυκτηρίζει παιδείαν πατρός, ὁ δὲ φυλάσσων ἐντολὰς πανουργότερος.<verse eID="rlxx_proverbs.15.5" />
+        <verse sID="rlxx_proverbs.15.6" osisID="rlxx_proverbs.15.6" />ἐν πλεοναζούσῃ δικαιοσύνῃ ἰσχὺς πολλή, οἱ δὲ ἀσεβεῖς ὁλόρριζοι ἐκ γῆς ὀλοῦνται. οἴκοις δικαίων ἰσχὺς πολλή, καρποὶ δὲ ἀσεβῶν ἀπολοῦνται.<verse eID="rlxx_proverbs.15.6" />
+        <verse sID="rlxx_proverbs.15.7" osisID="rlxx_proverbs.15.7" />χείλη σοφῶν δέδεται αἰσθήσει, καρδίαι δὲ ἀφρόνων οὐκ ἀσφαλεῖς.<verse eID="rlxx_proverbs.15.7" />
+        <verse sID="rlxx_proverbs.15.8" osisID="rlxx_proverbs.15.8" />θυσίαι ἀσεβῶν βδέλυγμα κυρίῳ, εὐχαὶ δὲ κατευθυνόντων δεκταὶ παρ' αὐτῷ.<verse eID="rlxx_proverbs.15.8" />
+        <verse sID="rlxx_proverbs.15.9" osisID="rlxx_proverbs.15.9" />βδέλυγμα κυρίῳ ὁδοὶ ἀσεβοῦς, διώκοντας δὲ δικαιοσύνην ἀγαπᾷ.<verse eID="rlxx_proverbs.15.9" />
+        <verse sID="rlxx_proverbs.15.10" osisID="rlxx_proverbs.15.10" />παιδεία ἀκάκου γνωρίζεται ὑπὸ τῶν παριόντων, οἱ δὲ μισοῦντες ἐλέγχους τελευτῶσιν αἰσχρῶς.<verse eID="rlxx_proverbs.15.10" />
+        <verse sID="rlxx_proverbs.15.11" osisID="rlxx_proverbs.15.11" />ᾅδης καὶ ἀπώλεια φανερὰ παρὰ τῷ κυρίῳ, πῶς οὐχὶ καὶ αἱ καρδίαι τῶν ἀνθρώπων;<verse eID="rlxx_proverbs.15.11" />
+        <verse sID="rlxx_proverbs.15.12" osisID="rlxx_proverbs.15.12" />οὐκ ἀγαπήσει ἀπαίδευτος τοὺς ἐλέγχοντας αὐτόν, μετὰ δὲ σοφῶν οὐχ ὁμιλήσει.<verse eID="rlxx_proverbs.15.12" />
+        <verse sID="rlxx_proverbs.15.13" osisID="rlxx_proverbs.15.13" />καρδίας εὐφραινομένης πρόσωπον θάλλει, ἐν δὲ λύπαις οὔσης σκυθρωπάζει.<verse eID="rlxx_proverbs.15.13" />
+        <verse sID="rlxx_proverbs.15.14" osisID="rlxx_proverbs.15.14" />καρδία ὀρθὴ ζητεῖ αἴσθησιν, στόμα δὲ ἀπαιδεύτων γνώσεται κακά.<verse eID="rlxx_proverbs.15.14" />
+        <verse sID="rlxx_proverbs.15.15" osisID="rlxx_proverbs.15.15" />πάντα τὸν χρόνον οἱ ὀφθαλμοὶ τῶν κακῶν προσδέχονται κακά, οἱ δὲ ἀγαθοὶ ἡσυχάζουσιν διὰ παντός.<verse eID="rlxx_proverbs.15.15" />
+        <verse sID="rlxx_proverbs.15.16" osisID="rlxx_proverbs.15.16" />κρείσσων μικρὰ μερὶς μετὰ φόβου κυρίου ἢ θησαυροὶ μεγάλοι μετὰ ἀφοβίας.<verse eID="rlxx_proverbs.15.16" />
+        <verse sID="rlxx_proverbs.15.17" osisID="rlxx_proverbs.15.17" />κρείσσων ξενισμὸς λαχάνων πρὸς φιλίαν καὶ χάριν ἢ παράθεσις μόσχων μετὰ ἔχθρας.<verse eID="rlxx_proverbs.15.17" />
+        <verse sID="rlxx_proverbs.15.18" osisID="rlxx_proverbs.15.18" />ἀνὴρ θυμώδης παρασκευάζει μάχας, μακρόθυμος δὲ καὶ τὴν μέλλουσαν καταπραΰνει. μακρόθυμος ἀνὴρ κατασβέσει κρίσεις, ὁ δὲ ἀσεβὴς ἐγείρει μᾶλλον.<verse eID="rlxx_proverbs.15.18" />
+        <verse sID="rlxx_proverbs.15.19" osisID="rlxx_proverbs.15.19" />ὁδοὶ ἀεργῶν ἐστρωμέναι ἀκάνθαις, αἱ δὲ τῶν ἀνδρείων τετριμμέναι.<verse eID="rlxx_proverbs.15.19" />
+        <verse sID="rlxx_proverbs.15.20" osisID="rlxx_proverbs.15.20" />υἱὸς σοφὸς εὐφραίνει πατέρα, υἱὸς δὲ ἄφρων μυκτηρίζει μητέρα αὐτοῦ.<verse eID="rlxx_proverbs.15.20" />
+        <verse sID="rlxx_proverbs.15.21" osisID="rlxx_proverbs.15.21" />ἀνοήτου τρίβοι ἐνδεεῖς φρενῶν, ἀνὴρ δὲ φρόνιμος κατευθύνων πορεύεται.<verse eID="rlxx_proverbs.15.21" />
+        <verse sID="rlxx_proverbs.15.22" osisID="rlxx_proverbs.15.22" />ὑπερτίθενται λογισμοὺς οἱ μὴ τιμῶντες συνέδρια, ἐν δὲ καρδίαις βουλευομένων μένει βουλή.<verse eID="rlxx_proverbs.15.22" />
+        <verse sID="rlxx_proverbs.15.23" osisID="rlxx_proverbs.15.23" />οὐ μὴ ὑπακούσῃ ὁ κακὸς αὐτῇ οὐδὲ μὴ εἴπῃ καίριόν τι καὶ καλὸν τῷ κοινῷ.<verse eID="rlxx_proverbs.15.23" />
+        <verse sID="rlxx_proverbs.15.24" osisID="rlxx_proverbs.15.24" />ὁδοὶ ζωῆς διανοήματα συνετοῦ, ἵνα ἐκκλίνας ἐκ τοῦ ᾅδου σωθῇ.<verse eID="rlxx_proverbs.15.24" />
+        <verse sID="rlxx_proverbs.15.25" osisID="rlxx_proverbs.15.25" />οἴκους ὑβριστῶν κατασπᾷ κύριος, ἐστήρισεν δὲ ὅριον χήρας.<verse eID="rlxx_proverbs.15.25" />
+        <verse sID="rlxx_proverbs.15.26" osisID="rlxx_proverbs.15.26" />βδέλυγμα κυρίῳ λογισμὸς ἄδικος, ἁγνῶν δὲ ῥήσεις σεμναί.<verse eID="rlxx_proverbs.15.26" />
+        <verse sID="rlxx_proverbs.15.27" osisID="rlxx_proverbs.15.27" />ἐξόλλυσιν ἑαυτὸν ὁ δωρολήμπτης, ὁ δὲ μισῶν δώρων λήμψεις σῴζεται.<verse eID="rlxx_proverbs.15.27" />
+        <verse sID="rlxx_proverbs.15.27a" osisID="rlxx_proverbs.15.27a" />ἐλεημοσύναις καὶ πίστεσιν ἀποκαθαίρονται ἁμαρτίαι, τῷ δὲ φόβῳ κυρίου ἐκκλίνει πᾶς ἀπὸ κακοῦ.<verse eID="rlxx_proverbs.15.27a" />
+        <verse sID="rlxx_proverbs.15.28" osisID="rlxx_proverbs.15.28" />καρδίαι δικαίων μελετῶσιν πίστεις, στόμα δὲ ἀσεβῶν ἀποκρίνεται κακά.<verse eID="rlxx_proverbs.15.28" />
+        <verse sID="rlxx_proverbs.15.28a" osisID="rlxx_proverbs.15.28a" />δεκταὶ παρὰ κυρίῳ ὁδοὶ ἀνθρώπων δικαίων, διὰ δὲ αὐτῶν καὶ οἱ ἐχθροὶ φίλοι γίνονται.<verse eID="rlxx_proverbs.15.28a" />
+        <verse sID="rlxx_proverbs.15.29" osisID="rlxx_proverbs.15.29" />μακρὰν ἀπέχει ὁ θεὸς ἀπὸ ἀσεβῶν, εὐχαῖς δὲ δικαίων ἐπακούει.<verse eID="rlxx_proverbs.15.29" />
+        <verse sID="rlxx_proverbs.15.29a" osisID="rlxx_proverbs.15.29a" />κρείσσων ὀλίγη λῆμψις μετὰ δικαιοσύνης ἢ πολλὰ γενήματα μετὰ ἀδικίας.<verse eID="rlxx_proverbs.15.29a" />
+        <verse sID="rlxx_proverbs.15.29b" osisID="rlxx_proverbs.15.29b" />καρδία ἀνδρὸς λογιζέσθω δίκαια, ἵνα ὑπὸ τοῦ θεοῦ διορθωθῇ τὰ διαβήματα αὐτοῦ.<verse eID="rlxx_proverbs.15.29b" />
+        <verse sID="rlxx_proverbs.15.30" osisID="rlxx_proverbs.15.30" />θεωρῶν ὀφθαλμὸς καλὰ εὐφραίνει καρδίαν, φήμη δὲ ἀγαθὴ πιαίνει ὀστᾶ.<verse eID="rlxx_proverbs.15.30" />
+        <verse sID="rlxx_proverbs.15.32" osisID="rlxx_proverbs.15.32" />ὃς ἀπωθεῖται παιδείαν, μισεῖ ἑαυτόν· ὁ δὲ τηρῶν ἐλέγχους ἀγαπᾷ ψυχὴν αὐτοῦ.<verse eID="rlxx_proverbs.15.32" />
+        <verse sID="rlxx_proverbs.15.33" osisID="rlxx_proverbs.15.33" />φόβος θεοῦ παιδεία καὶ σοφία, καὶ ἀρχὴ δόξης ἀποκριθήσεται αὐτῇ.<verse eID="rlxx_proverbs.15.33" />
+      </p>
+      <chapter eID="rlxx_proverbs.15" />
+      <chapter sID="rlxx_proverbs.16" osisID="rlxx_proverbs.16" />
+      <title>Chapter 16</title>
+      <p>
+        <verse sID="rlxx_proverbs.16.2" osisID="rlxx_proverbs.16.2" />πάντα τὰ ἔργα τοῦ ταπεινοῦ φανερὰ παρὰ τῷ θεῷ, οἱ δὲ ἀσεβεῖς ἐν ἡμέρᾳ κακῇ ὀλοῦνται.<verse eID="rlxx_proverbs.16.2" />
+        <verse sID="rlxx_proverbs.16.5" osisID="rlxx_proverbs.16.5" />ἀκάθαρτος παρὰ θεῷ πᾶς ὑψηλοκάρδιος, χειρὶ δὲ χεῖρας ἐμβαλὼν ἀδίκως οὐκ ἀθῳωθήσεται.<verse eID="rlxx_proverbs.16.5" />
+        <verse sID="rlxx_proverbs.16.7" osisID="rlxx_proverbs.16.7" />ἀρχὴ ὁδοῦ ἀγαθῆς τὸ ποιεῖν τὰ δίκαια, δεκτὰ δὲ παρὰ θεῷ μᾶλλον ἢ θύειν θυσίας.<verse eID="rlxx_proverbs.16.7" />
+        <verse sID="rlxx_proverbs.16.8" osisID="rlxx_proverbs.16.8" />ὁ ζητῶν τὸν κύριον εὑρήσει γνῶσιν μετὰ δικαιοσύνης, οἱ δὲ ὀρθῶς ζητοῦντες αὐτὸν εὑρήσουσιν εἰρήνην.<verse eID="rlxx_proverbs.16.8" />
+        <verse sID="rlxx_proverbs.16.9" osisID="rlxx_proverbs.16.9" />πάντα τὰ ἔργα τοῦ κυρίου μετὰ δικαιοσύνης, φυλάσσεται δὲ ὁ ἀσεβὴς εἰς ἡμέραν κακήν.<verse eID="rlxx_proverbs.16.9" />
+        <verse sID="rlxx_proverbs.16.10" osisID="rlxx_proverbs.16.10" />μαντεῖον ἐπὶ χείλεσιν βασιλέως, ἐν δὲ κρίσει οὐ μὴ πλανηθῇ τὸ στόμα αὐτοῦ.<verse eID="rlxx_proverbs.16.10" />
+        <verse sID="rlxx_proverbs.16.11" osisID="rlxx_proverbs.16.11" />ῥοπὴ ζυγοῦ δικαιοσύνη παρὰ κυρίῳ, τὰ δὲ ἔργα αὐτοῦ στάθμια δίκαια.<verse eID="rlxx_proverbs.16.11" />
+        <verse sID="rlxx_proverbs.16.12" osisID="rlxx_proverbs.16.12" />βδέλυγμα βασιλεῖ ὁ ποιῶν κακά, μετὰ γὰρ δικαιοσύνης ἑτοιμάζεται θρόνος ἀρχῆς.<verse eID="rlxx_proverbs.16.12" />
+        <verse sID="rlxx_proverbs.16.13" osisID="rlxx_proverbs.16.13" />δεκτὰ βασιλεῖ χείλη δίκαια, λόγους δὲ ὀρθοὺς ἀγαπᾷ.<verse eID="rlxx_proverbs.16.13" />
+        <verse sID="rlxx_proverbs.16.14" osisID="rlxx_proverbs.16.14" />θυμὸς βασιλέως ἄγγελος θανάτου, ἀνὴρ δὲ σοφὸς ἐξιλάσεται αὐτόν.<verse eID="rlxx_proverbs.16.14" />
+        <verse sID="rlxx_proverbs.16.15" osisID="rlxx_proverbs.16.15" />ἐν φωτὶ ζωῆς υἱὸς βασιλέως, οἱ δὲ προσδεκτοὶ αὐτῷ ὥσπερ νέφος ὄψιμον.<verse eID="rlxx_proverbs.16.15" />
+        <verse sID="rlxx_proverbs.16.16" osisID="rlxx_proverbs.16.16" />νοσσιαὶ σοφίας αἱρετώτεραι χρυσίου, νοσσιαὶ δὲ φρονήσεως αἱρετώτεραι ὑπὲρ ἀργύριον.<verse eID="rlxx_proverbs.16.16" />
+        <verse sID="rlxx_proverbs.16.17" osisID="rlxx_proverbs.16.17" />τρίβοι ζωῆς ἐκκλίνουσιν ἀπὸ κακῶν, μῆκος δὲ βίου ὁδοὶ δικαιοσύνης. ὁ δεχόμενος παιδείαν ἐν ἀγαθοῖς ἔσται, ὁ δὲ φυλάσσων ἐλέγχους σοφισθήσεται. ὃς φυλάσσει τὰς ἑαυτοῦ ὁδούς, τηρεῖ τὴν ἑαυτοῦ ψυχήν· ἀγαπῶν δὲ ζωὴν αὐτοῦ φείσεται στόματος αὐτοῦ.<verse eID="rlxx_proverbs.16.17" />
+        <verse sID="rlxx_proverbs.16.18" osisID="rlxx_proverbs.16.18" />πρὸ συντριβῆς ἡγεῖται ὕβρις, πρὸ δὲ πτώματος κακοφροσύνη.<verse eID="rlxx_proverbs.16.18" />
+        <verse sID="rlxx_proverbs.16.19" osisID="rlxx_proverbs.16.19" />κρείσσων πραΰθυμος μετὰ ταπεινώσεως ἢ ὃς διαιρεῖται σκῦλα μετὰ ὑβριστῶν.<verse eID="rlxx_proverbs.16.19" />
+        <verse sID="rlxx_proverbs.16.20" osisID="rlxx_proverbs.16.20" />συνετὸς ἐν πράγμασιν εὑρετὴς ἀγαθῶν, πεποιθὼς δὲ ἐπὶ θεῷ μακαριστός.<verse eID="rlxx_proverbs.16.20" />
+        <verse sID="rlxx_proverbs.16.21" osisID="rlxx_proverbs.16.21" />τοὺς σοφοὺς καὶ συνετοὺς φαύλους καλοῦσιν, οἱ δὲ γλυκεῖς ἐν λόγῳ πλείονα ἀκούσονται.<verse eID="rlxx_proverbs.16.21" />
+        <verse sID="rlxx_proverbs.16.22" osisID="rlxx_proverbs.16.22" />πηγὴ ζωῆς ἔννοια τοῖς κεκτημένοις, παιδεία δὲ ἀφρόνων κακή.<verse eID="rlxx_proverbs.16.22" />
+        <verse sID="rlxx_proverbs.16.23" osisID="rlxx_proverbs.16.23" />καρδία σοφοῦ νοήσει τὰ ἀπὸ τοῦ ἰδίου στόματος, ἐπὶ δὲ χείλεσιν φορέσει ἐπιγνωμοσύνην.<verse eID="rlxx_proverbs.16.23" />
+        <verse sID="rlxx_proverbs.16.24" osisID="rlxx_proverbs.16.24" />κηρία μέλιτος λόγοι καλοί, γλύκασμα δὲ αὐτῶν ἴασις ψυχῆς.<verse eID="rlxx_proverbs.16.24" />
+        <verse sID="rlxx_proverbs.16.25" osisID="rlxx_proverbs.16.25" />εἰσὶν ὁδοὶ δοκοῦσαι εἶναι ὀρθαὶ ἀνδρί, τὰ μέντοι τελευταῖα αὐτῶν βλέπει εἰς πυθμένα ᾅδου.<verse eID="rlxx_proverbs.16.25" />
+        <verse sID="rlxx_proverbs.16.26" osisID="rlxx_proverbs.16.26" />ἀνὴρ ἐν πόνοις πονεῖ ἑαυτῷ καὶ ἐκβιάζεται ἑαυτοῦ τὴν ἀπώλειαν, ὁ μέντοι σκολιὸς ἐπὶ τῷ ἑαυτοῦ στόματι φορεῖ τὴν ἀπώλειαν.<verse eID="rlxx_proverbs.16.26" />
+        <verse sID="rlxx_proverbs.16.27" osisID="rlxx_proverbs.16.27" />ἀνὴρ ἄφρων ὀρύσσει ἑαυτῷ κακά, ἐπὶ δὲ τῶν ἑαυτοῦ χειλέων θησαυρίζει πῦρ.<verse eID="rlxx_proverbs.16.27" />
+        <verse sID="rlxx_proverbs.16.28" osisID="rlxx_proverbs.16.28" />ἀνὴρ σκολιὸς διαπέμπεται κακὰ καὶ λαμπτῆρα δόλου πυρσεύει κακοῖς καὶ διαχωρίζει φίλους.<verse eID="rlxx_proverbs.16.28" />
+        <verse sID="rlxx_proverbs.16.29" osisID="rlxx_proverbs.16.29" />ἀνὴρ παράνομος ἀποπειρᾶται φίλων καὶ ἀπάγει αὐτοὺς ὁδοὺς οὐκ ἀγαθάς.<verse eID="rlxx_proverbs.16.29" />
+        <verse sID="rlxx_proverbs.16.30" osisID="rlxx_proverbs.16.30" />στηρίζων ὀφθαλμοὺς αὐτοῦ λογίζεται διεστραμμένα, ὁρίζει δὲ τοῖς χείλεσιν αὐτοῦ πάντα τὰ κακά, οὗτος κάμινός ἐστιν κακίας.<verse eID="rlxx_proverbs.16.30" />
+        <verse sID="rlxx_proverbs.16.31" osisID="rlxx_proverbs.16.31" />στέφανος καυχήσεως γῆρας, ἐν δὲ ὁδοῖς δικαιοσύνης εὑρίσκεται.<verse eID="rlxx_proverbs.16.31" />
+        <verse sID="rlxx_proverbs.16.32" osisID="rlxx_proverbs.16.32" />κρείσσων ἀνὴρ μακρόθυμος ἰσχυροῦ, ὁ δὲ κρατῶν ὀργῆς κρείσσων καταλαμβανομένου πόλιν.<verse eID="rlxx_proverbs.16.32" />
+        <verse sID="rlxx_proverbs.16.33" osisID="rlxx_proverbs.16.33" />εἰς κόλπους ἐπέρχεται πάντα τοῖς ἀδίκοις, παρὰ δὲ κυρίου πάντα τὰ δίκαια.<verse eID="rlxx_proverbs.16.33" />
+      </p>
+      <chapter eID="rlxx_proverbs.16" />
+      <chapter sID="rlxx_proverbs.17" osisID="rlxx_proverbs.17" />
+      <title>Chapter 17</title>
+      <p>
+        <verse sID="rlxx_proverbs.17.1" osisID="rlxx_proverbs.17.1" />κρείσσων ψωμὸς μεθ' ἡδονῆς ἐν εἰρήνῃ ἢ οἶκος πλήρης πολλῶν ἀγαθῶν καὶ ἀδίκων θυμάτων μετὰ μάχης.<verse eID="rlxx_proverbs.17.1" />
+        <verse sID="rlxx_proverbs.17.2" osisID="rlxx_proverbs.17.2" />οἰκέτης νοήμων κρατήσει δεσποτῶν ἀφρόνων, ἐν δὲ ἀδελφοῖς διελεῖται μέρη.<verse eID="rlxx_proverbs.17.2" />
+        <verse sID="rlxx_proverbs.17.3" osisID="rlxx_proverbs.17.3" />ὥσπερ δοκιμάζεται ἐν καμίνῳ ἄργυρος καὶ χρυσός, οὕτως ἐκλεκταὶ καρδίαι παρὰ κυρίῳ.<verse eID="rlxx_proverbs.17.3" />
+        <verse sID="rlxx_proverbs.17.4" osisID="rlxx_proverbs.17.4" />κακὸς ὑπακούει γλώσσης παρανόμων, δίκαιος δὲ οὐ προσέχει χείλεσιν ψευδέσιν.<verse eID="rlxx_proverbs.17.4" />
+        <verse sID="rlxx_proverbs.17.5" osisID="rlxx_proverbs.17.5" />ὁ καταγελῶν πτωχοῦ παροξύνει τὸν ποιήσαντα αὐτόν, ὁ δὲ ἐπιχαίρων ἀπολλυμένῳ οὐκ ἀθῳωθήσεται· ὁ δὲ ἐπισπλαγχνιζόμενος ἐλεηθήσεται.<verse eID="rlxx_proverbs.17.5" />
+        <verse sID="rlxx_proverbs.17.6" osisID="rlxx_proverbs.17.6" />στέφανος γερόντων τέκνα τέκνων, καύχημα δὲ τέκνων πατέρες αὐτῶν.<verse eID="rlxx_proverbs.17.6" />
+        <verse sID="rlxx_proverbs.17.6a" osisID="rlxx_proverbs.17.6a" />τοῦ πιστοῦ ὅλος ὁ κόσμος τῶν χρημάτων, τοῦ δὲ ἀπίστου οὐδὲ ὀβολός.<verse eID="rlxx_proverbs.17.6a" />
+        <verse sID="rlxx_proverbs.17.7" osisID="rlxx_proverbs.17.7" />οὐχ ἁρμόσει ἄφρονι χείλη πιστὰ οὐδὲ δικαίῳ χείλη ψευδῆ.<verse eID="rlxx_proverbs.17.7" />
+        <verse sID="rlxx_proverbs.17.8" osisID="rlxx_proverbs.17.8" />μισθὸς χαρίτων ἡ παιδεία τοῖς χρωμένοις, οὗ δ' ἂν ἐπιστρέψῃ, εὐοδωθήσεται.<verse eID="rlxx_proverbs.17.8" />
+        <verse sID="rlxx_proverbs.17.9" osisID="rlxx_proverbs.17.9" />ὃς κρύπτει ἀδικήματα, ζητεῖ φιλίαν· ὃς δὲ μισεῖ κρύπτειν, διίστησιν φίλους καὶ οἰκείους.<verse eID="rlxx_proverbs.17.9" />
+        <verse sID="rlxx_proverbs.17.10" osisID="rlxx_proverbs.17.10" />συντρίβει ἀπειλὴ καρδίαν φρονίμου, ἄφρων δὲ μαστιγωθεὶς οὐκ αἰσθάνεται.<verse eID="rlxx_proverbs.17.10" />
+        <verse sID="rlxx_proverbs.17.11" osisID="rlxx_proverbs.17.11" />ἀντιλογίας ἐγείρει πᾶς κακός, ὁ δὲ κύριος ἄγγελον ἀνελεήμονα ἐκπέμψει αὐτῷ.<verse eID="rlxx_proverbs.17.11" />
+        <verse sID="rlxx_proverbs.17.12" osisID="rlxx_proverbs.17.12" />ἐμπεσεῖται μέριμνα ἀνδρὶ νοήμονι, οἱ δὲ ἄφρονες διαλογιοῦνται κακά.<verse eID="rlxx_proverbs.17.12" />
+        <verse sID="rlxx_proverbs.17.13" osisID="rlxx_proverbs.17.13" />ὃς ἀποδίδωσιν κακὰ ἀντὶ ἀγαθῶν, οὐ κινηθήσεται κακὰ ἐκ τοῦ οἴκου αὐτοῦ.<verse eID="rlxx_proverbs.17.13" />
+        <verse sID="rlxx_proverbs.17.14" osisID="rlxx_proverbs.17.14" />ἐξουσίαν δίδωσιν λόγοις ἀρχὴ δικαιοσύνης, προηγεῖται δὲ τῆς ἐνδείας στάσις καὶ μάχη.<verse eID="rlxx_proverbs.17.14" />
+        <verse sID="rlxx_proverbs.17.15" osisID="rlxx_proverbs.17.15" />ὃς δίκαιον κρίνει τὸν ἄδικον, ἄδικον δὲ τὸν δίκαιον, ἀκάθαρτος καὶ βδελυκτὸς παρὰ θεῷ.<verse eID="rlxx_proverbs.17.15" />
+        <verse sID="rlxx_proverbs.17.16" osisID="rlxx_proverbs.17.16" />ἵνα τί ὑπῆρξεν χρήματα ἄφρονι; κτήσασθαι γὰρ σοφίαν ἀκάρδιος οὐ δυνήσεται.<verse eID="rlxx_proverbs.17.16" />
+        <verse sID="rlxx_proverbs.17.16a" osisID="rlxx_proverbs.17.16a" />ὃς ὑψηλὸν ποιεῖ τὸν ἑαυτοῦ οἶκον, ζητεῖ συντριβήν· ὁ δὲ σκολιάζων τοῦ μαθεῖν ἐμπεσεῖται εἰς κακά.<verse eID="rlxx_proverbs.17.16a" />
+        <verse sID="rlxx_proverbs.17.17" osisID="rlxx_proverbs.17.17" />εἰς πάντα καιρὸν φίλος ὑπαρχέτω σοι, ἀδελφοὶ δὲ ἐν ἀνάγκαις χρήσιμοι ἔστωσαν· τούτου γὰρ χάριν γεννῶνται.<verse eID="rlxx_proverbs.17.17" />
+        <verse sID="rlxx_proverbs.17.18" osisID="rlxx_proverbs.17.18" />ἀνὴρ ἄφρων ἐπικροτεῖ καὶ ἐπιχαίρει ἑαυτῷ ὡς καὶ ὁ ἐγγυώμενος ἐγγύῃ τὸν ἑαυτοῦ φίλον.<verse eID="rlxx_proverbs.17.18" />
+        <verse sID="rlxx_proverbs.17.19" osisID="rlxx_proverbs.17.19" />φιλαμαρτήμων χαίρει μάχαις,<verse eID="rlxx_proverbs.17.19" />
+        <verse sID="rlxx_proverbs.17.20" osisID="rlxx_proverbs.17.20" />ὁ δὲ σκληροκάρδιος οὐ συναντᾷ ἀγαθοῖς. ἀνὴρ εὐμετάβολος γλώσσῃ ἐμπεσεῖται εἰς κακά,<verse eID="rlxx_proverbs.17.20" />
+        <verse sID="rlxx_proverbs.17.21" osisID="rlxx_proverbs.17.21" />καρδία δὲ ἄφρονος ὀδύνη τῷ κεκτημένῳ αὐτήν. οὐκ εὐφραίνεται πατὴρ ἐπὶ υἱῷ ἀπαιδεύτῳ, υἱὸς δὲ φρόνιμος εὐφραίνει μητέρα αὐτοῦ.<verse eID="rlxx_proverbs.17.21" />
+        <verse sID="rlxx_proverbs.17.22" osisID="rlxx_proverbs.17.22" />καρδία εὐφραινομένη εὐεκτεῖν ποιεῖ, ἀνδρὸς δὲ λυπηροῦ ξηραίνεται τὰ ὀστᾶ.<verse eID="rlxx_proverbs.17.22" />
+        <verse sID="rlxx_proverbs.17.23" osisID="rlxx_proverbs.17.23" />λαμβάνοντος δῶρα ἐν κόλπῳ ἀδίκως οὐ κατευοδοῦνται ὁδοί, ἀσεβὴς δὲ ἐκκλίνει ὁδοὺς δικαιοσύνης.<verse eID="rlxx_proverbs.17.23" />
+        <verse sID="rlxx_proverbs.17.24" osisID="rlxx_proverbs.17.24" />πρόσωπον συνετὸν ἀνδρὸς σοφοῦ, οἱ δὲ ὀφθαλμοὶ τοῦ ἄφρονος ἐπ' ἄκρα γῆς.<verse eID="rlxx_proverbs.17.24" />
+        <verse sID="rlxx_proverbs.17.25" osisID="rlxx_proverbs.17.25" />ὀργὴ πατρὶ υἱὸς ἄφρων καὶ ὀδύνη τῇ τεκούσῃ αὐτοῦ.<verse eID="rlxx_proverbs.17.25" />
+        <verse sID="rlxx_proverbs.17.26" osisID="rlxx_proverbs.17.26" />ζημιοῦν ἄνδρα δίκαιον οὐ καλόν, οὐδὲ ὅσιον ἐπιβουλεύειν δυνάσταις δικαίοις.<verse eID="rlxx_proverbs.17.26" />
+        <verse sID="rlxx_proverbs.17.27" osisID="rlxx_proverbs.17.27" />ὃς φείδεται ῥῆμα προέσθαι σκληρόν, ἐπιγνώμων· μακρόθυμος δὲ ἀνὴρ φρόνιμος.<verse eID="rlxx_proverbs.17.27" />
+        <verse sID="rlxx_proverbs.17.28" osisID="rlxx_proverbs.17.28" />ἀνοήτῳ ἐπερωτήσαντι σοφίαν σοφία λογισθήσεται, ἐνεὸν δέ τις ἑαυτὸν ποιήσας δόξει φρόνιμος εἶναι.<verse eID="rlxx_proverbs.17.28" />
+      </p>
+      <chapter eID="rlxx_proverbs.17" />
+      <chapter sID="rlxx_proverbs.18" osisID="rlxx_proverbs.18" />
+      <title>Chapter 18</title>
+      <p>
+        <verse sID="rlxx_proverbs.18.1" osisID="rlxx_proverbs.18.1" />προφάσεις ζητεῖ ἀνὴρ βουλόμενος χωρίζεσθαι ἀπὸ φίλων, ἐν παντὶ δὲ καιρῷ ἐπονείδιστος ἔσται.<verse eID="rlxx_proverbs.18.1" />
+        <verse sID="rlxx_proverbs.18.2" osisID="rlxx_proverbs.18.2" />οὐ χρείαν ἔχει σοφίας ἐνδεὴς φρενῶν· μᾶλλον γὰρ ἄγεται ἀφροσύνῃ.<verse eID="rlxx_proverbs.18.2" />
+        <verse sID="rlxx_proverbs.18.3" osisID="rlxx_proverbs.18.3" />ὅταν ἔλθῃ ἀσεβὴς εἰς βάθος κακῶν, καταφρονεῖ, ἐπέρχεται δὲ αὐτῷ ἀτιμία καὶ ὄνειδος.<verse eID="rlxx_proverbs.18.3" />
+        <verse sID="rlxx_proverbs.18.4" osisID="rlxx_proverbs.18.4" />ὕδωρ βαθὺ λόγος ἐν καρδίᾳ ἀνδρός, ποταμὸς δὲ ἀναπηδύει καὶ πηγὴ ζωῆς.<verse eID="rlxx_proverbs.18.4" />
+        <verse sID="rlxx_proverbs.18.5" osisID="rlxx_proverbs.18.5" />θαυμάσαι πρόσωπον ἀσεβοῦς οὐ καλόν, οὐδὲ ὅσιον ἐκκλίνειν τὸ δίκαιον ἐν κρίσει.<verse eID="rlxx_proverbs.18.5" />
+        <verse sID="rlxx_proverbs.18.6" osisID="rlxx_proverbs.18.6" />χείλη ἄφρονος ἄγουσιν αὐτὸν εἰς κακά, τὸ δὲ στόμα αὐτοῦ τὸ θρασὺ θάνατον ἐπικαλεῖται. στόμα ἄφρονος συντριβὴ αὐτῷ, τὰ δὲ χείλη αὐτοῦ παγὶς τῇ ψυχῇ αὐτοῦ.<verse eID="rlxx_proverbs.18.6" />
+        <verse sID="rlxx_proverbs.18.8" osisID="rlxx_proverbs.18.8" />ὀκνηροὺς καταβάλλει φόβος, ψυχαὶ δὲ ἀνδρογύνων πεινάσουσιν.<verse eID="rlxx_proverbs.18.8" />
+        <verse sID="rlxx_proverbs.18.9" osisID="rlxx_proverbs.18.9" />ὁ μὴ ἰώμενος ἑαυτὸν ἐν τοῖς ἔργοις αὐτοῦ ἀδελφός ἐστιν τοῦ λυμαινομένου ἑαυτόν.<verse eID="rlxx_proverbs.18.9" />
+        <verse sID="rlxx_proverbs.18.10" osisID="rlxx_proverbs.18.10" />ἐκ μεγαλωσύνης ἰσχύος ὄνομα κυρίου, αὐτῷ δὲ προσδραμόντες δίκαιοι ὑψοῦνται.<verse eID="rlxx_proverbs.18.10" />
+        <verse sID="rlxx_proverbs.18.11" osisID="rlxx_proverbs.18.11" />ὕπαρξις πλουσίου ἀνδρὸς πόλις ὀχυρά, ἡ δὲ δόξα αὐτῆς μέγα ἐπισκιάζει.<verse eID="rlxx_proverbs.18.11" />
+        <verse sID="rlxx_proverbs.18.12" osisID="rlxx_proverbs.18.12" />πρὸ συντριβῆς ὑψοῦται καρδία ἀνδρός, καὶ πρὸ δόξης ταπεινοῦται.<verse eID="rlxx_proverbs.18.12" />
+        <verse sID="rlxx_proverbs.18.13" osisID="rlxx_proverbs.18.13" />ὃς ἀποκρίνεται λόγον πρὶν ἀκοῦσαι, ἀφροσύνη αὐτῷ ἐστιν καὶ ὄνειδος.<verse eID="rlxx_proverbs.18.13" />
+        <verse sID="rlxx_proverbs.18.14" osisID="rlxx_proverbs.18.14" />θυμὸν ἀνδρὸς πραΰνει θεράπων φρόνιμος· ὀλιγόψυχον δὲ ἄνδρα τίς ὑποίσει;<verse eID="rlxx_proverbs.18.14" />
+        <verse sID="rlxx_proverbs.18.15" osisID="rlxx_proverbs.18.15" />καρδία φρονίμου κτᾶται αἴσθησιν, ὦτα δὲ σοφῶν ζητεῖ ἔννοιαν.<verse eID="rlxx_proverbs.18.15" />
+        <verse sID="rlxx_proverbs.18.16" osisID="rlxx_proverbs.18.16" />δόμα ἀνθρώπου ἐμπλατύνει αὐτὸν καὶ παρὰ δυνάσταις καθιζάνει αὐτόν.<verse eID="rlxx_proverbs.18.16" />
+        <verse sID="rlxx_proverbs.18.17" osisID="rlxx_proverbs.18.17" />δίκαιος ἑαυτοῦ κατήγορος ἐν πρωτολογίᾳ· ὡς δ' ἂν ἐπιβάλῃ ὁ ἀντίδικος, ἐλέγχεται.<verse eID="rlxx_proverbs.18.17" />
+        <verse sID="rlxx_proverbs.18.18" osisID="rlxx_proverbs.18.18" />ἀντιλογίας παύει κλῆρος, ἐν δὲ δυνάσταις ὁρίζει.<verse eID="rlxx_proverbs.18.18" />
+        <verse sID="rlxx_proverbs.18.19" osisID="rlxx_proverbs.18.19" />ἀδελφὸς ὑπὸ ἀδελφοῦ βοηθούμενος ὡς πόλις ὀχυρὰ καὶ ὑψηλή, ἰσχύει δὲ ὥσπερ τεθεμελιωμένον βασίλειον.<verse eID="rlxx_proverbs.18.19" />
+        <verse sID="rlxx_proverbs.18.20" osisID="rlxx_proverbs.18.20" />ἀπὸ καρπῶν στόματος ἀνὴρ πίμπλησιν κοιλίαν αὐτοῦ, ἀπὸ δὲ καρπῶν χειλέων αὐτοῦ ἐμπλησθήσεται.<verse eID="rlxx_proverbs.18.20" />
+        <verse sID="rlxx_proverbs.18.21" osisID="rlxx_proverbs.18.21" />θάνατος καὶ ζωὴ ἐν χειρὶ γλώσσης, οἱ δὲ κρατοῦντες αὐτῆς ἔδονται τοὺς καρποὺς αὐτῆς.<verse eID="rlxx_proverbs.18.21" />
+        <verse sID="rlxx_proverbs.18.22" osisID="rlxx_proverbs.18.22" />ὃς εὗρεν γυναῖκα ἀγαθήν, εὗρεν χάριτας, ἔλαβεν δὲ παρὰ θεοῦ ἱλαρότητα.<verse eID="rlxx_proverbs.18.22" />
+        <verse sID="rlxx_proverbs.18.22a" osisID="rlxx_proverbs.18.22a" />ὃς ἐκβάλλει γυναῖκα ἀγαθήν, ἐκβάλλει τὰ ἀγαθά· ὁ δὲ κατέχων μοιχαλίδα ἄφρων καὶ ἀσεβής.<verse eID="rlxx_proverbs.18.22a" />
+      </p>
+      <chapter eID="rlxx_proverbs.18" />
+      <chapter sID="rlxx_proverbs.19" osisID="rlxx_proverbs.19" />
+      <title>Chapter 19</title>
+      <p>
+        <verse sID="rlxx_proverbs.19.3" osisID="rlxx_proverbs.19.3" />ἀφροσύνη ἀνδρὸς λυμαίνεται τὰς ὁδοὺς αὐτοῦ, τὸν δὲ θεὸν αἰτιᾶται τῇ καρδίᾳ αὐτοῦ.<verse eID="rlxx_proverbs.19.3" />
+        <verse sID="rlxx_proverbs.19.4" osisID="rlxx_proverbs.19.4" />πλοῦτος προστίθησιν φίλους πολλούς, ὁ δὲ πτωχὸς καὶ ἀπὸ τοῦ ὑπάρχοντος φίλου λείπεται.<verse eID="rlxx_proverbs.19.4" />
+        <verse sID="rlxx_proverbs.19.5" osisID="rlxx_proverbs.19.5" />μάρτυς ψευδὴς οὐκ ἀτιμώρητος ἔσται, ὁ δὲ ἐγκαλῶν ἀδίκως οὐ διαφεύξεται.<verse eID="rlxx_proverbs.19.5" />
+        <verse sID="rlxx_proverbs.19.6" osisID="rlxx_proverbs.19.6" />πολλοὶ θεραπεύουσιν πρόσωπα βασιλέων, πᾶς δὲ ὁ κακὸς γίνεται ὄνειδος ἀνδρί.<verse eID="rlxx_proverbs.19.6" />
+        <verse sID="rlxx_proverbs.19.7" osisID="rlxx_proverbs.19.7" />πᾶς, ὃς ἀδελφὸν πτωχὸν μισεῖ, καὶ φιλίας μακρὰν ἔσται. ἔννοια ἀγαθὴ τοῖς εἰδόσιν αὐτὴν ἐγγιεῖ, ἀνὴρ δὲ φρόνιμος εὑρήσει αὐτήν. ὁ πολλὰ κακοποιῶν τελεσιουργεῖ κακίαν· ὃς δὲ ἐρεθίζει λόγους, οὐ σωθήσεται.<verse eID="rlxx_proverbs.19.7" />
+        <verse sID="rlxx_proverbs.19.8" osisID="rlxx_proverbs.19.8" />ὁ κτώμενος φρόνησιν ἀγαπᾷ ἑαυτόν· ὃς δὲ φυλάσσει φρόνησιν, εὑρήσει ἀγαθά.<verse eID="rlxx_proverbs.19.8" />
+        <verse sID="rlxx_proverbs.19.9" osisID="rlxx_proverbs.19.9" />μάρτυς ψευδὴς οὐκ ἀτιμώρητος ἔσται· ὃς δ' ἂν ἐκκαύσῃ κακίαν, ἀπολεῖται ὑπ' αὐτῆς.<verse eID="rlxx_proverbs.19.9" />
+        <verse sID="rlxx_proverbs.19.10" osisID="rlxx_proverbs.19.10" />οὐ συμφέρει ἄφρονι τρυφή, καὶ ἐὰν οἰκέτης ἄρξηται μεθ' ὕβρεως δυναστεύειν.<verse eID="rlxx_proverbs.19.10" />
+        <verse sID="rlxx_proverbs.19.11" osisID="rlxx_proverbs.19.11" />ἐλεήμων ἀνὴρ μακροθυμεῖ, τὸ δὲ καύχημα αὐτοῦ ἐπέρχεται παρανόμοις.<verse eID="rlxx_proverbs.19.11" />
+        <verse sID="rlxx_proverbs.19.12" osisID="rlxx_proverbs.19.12" />βασιλέως ἀπειλὴ ὁμοία βρυγμῷ λέοντος· ὥσπερ δὲ δρόσος ἐπὶ χόρτῳ, οὕτως τὸ ἱλαρὸν αὐτοῦ.<verse eID="rlxx_proverbs.19.12" />
+        <verse sID="rlxx_proverbs.19.13" osisID="rlxx_proverbs.19.13" />αἰσχύνη πατρὶ υἱὸς ἄφρων, καὶ οὐχ ἁγναὶ εὐχαὶ ἀπὸ μισθώματος ἑταίρας.<verse eID="rlxx_proverbs.19.13" />
+        <verse sID="rlxx_proverbs.19.14" osisID="rlxx_proverbs.19.14" />οἶκον καὶ ὕπαρξιν μερίζουσιν πατέρες παισίν, παρὰ δὲ θεοῦ ἁρμόζεται γυνὴ ἀνδρί.<verse eID="rlxx_proverbs.19.14" />
+        <verse sID="rlxx_proverbs.19.15" osisID="rlxx_proverbs.19.15" />δειλία κατέχει ἀνδρογύναιον, ψυχὴ δὲ ἀεργοῦ πεινάσει.<verse eID="rlxx_proverbs.19.15" />
+        <verse sID="rlxx_proverbs.19.16" osisID="rlxx_proverbs.19.16" />ὃς φυλάσσει ἐντολήν, τηρεῖ τὴν ἑαυτοῦ ψυχήν· ὁ δὲ καταφρονῶν τῶν ἑαυτοῦ ὁδῶν ἀπολεῖται.<verse eID="rlxx_proverbs.19.16" />
+        <verse sID="rlxx_proverbs.19.17" osisID="rlxx_proverbs.19.17" />δανίζει θεῷ ὁ ἐλεῶν πτωχόν, κατὰ δὲ τὸ δόμα αὐτοῦ ἀνταποδώσει αὐτῷ.<verse eID="rlxx_proverbs.19.17" />
+        <verse sID="rlxx_proverbs.19.18" osisID="rlxx_proverbs.19.18" />παίδευε υἱόν σου, οὕτως γὰρ ἔσται εὔελπις· εἰς δὲ ὕβριν μὴ ἐπαίρου τῇ ψυχῇ σου.<verse eID="rlxx_proverbs.19.18" />
+        <verse sID="rlxx_proverbs.19.19" osisID="rlxx_proverbs.19.19" />κακόφρων ἀνὴρ πολλὰ ζημιωθήσεται· ἐὰν δὲ λοιμεύηται, καὶ τὴν ψυχὴν αὐτοῦ προσθήσει.<verse eID="rlxx_proverbs.19.19" />
+        <verse sID="rlxx_proverbs.19.20" osisID="rlxx_proverbs.19.20" />ἄκουε, υἱέ, παιδείαν πατρός σου, ἵνα σοφὸς γένῃ ἐπ' ἐσχάτων σου.<verse eID="rlxx_proverbs.19.20" />
+        <verse sID="rlxx_proverbs.19.21" osisID="rlxx_proverbs.19.21" />πολλοὶ λογισμοὶ ἐν καρδίᾳ ἀνδρός, ἡ δὲ βουλὴ τοῦ κυρίου εἰς τὸν αἰῶνα μένει.<verse eID="rlxx_proverbs.19.21" />
+        <verse sID="rlxx_proverbs.19.22" osisID="rlxx_proverbs.19.22" />καρπὸς ἀνδρὶ ἐλεημοσύνη, κρείσσων δὲ πτωχὸς δίκαιος ἢ πλούσιος ψεύστης.<verse eID="rlxx_proverbs.19.22" />
+        <verse sID="rlxx_proverbs.19.23" osisID="rlxx_proverbs.19.23" />φόβος κυρίου εἰς ζωὴν ἀνδρί, ὁ δὲ ἄφοβος αὐλισθήσεται ἐν τόποις, οὗ οὐκ ἐπισκοπεῖται γνῶσις.<verse eID="rlxx_proverbs.19.23" />
+        <verse sID="rlxx_proverbs.19.24" osisID="rlxx_proverbs.19.24" />ὁ ἐγκρύπτων εἰς τὸν κόλπον αὐτοῦ χεῖρας ἀδίκως, οὐδὲ τῷ στόματι οὐ μὴ προσαγάγῃ αὐτάς.<verse eID="rlxx_proverbs.19.24" />
+        <verse sID="rlxx_proverbs.19.25" osisID="rlxx_proverbs.19.25" />λοιμοῦ μαστιγουμένου ἄφρων πανουργότερος γίνεται· ἐὰν δὲ ἐλέγχῃς ἄνδρα φρόνιμον, νοήσει αἴσθησιν.<verse eID="rlxx_proverbs.19.25" />
+        <verse sID="rlxx_proverbs.19.26" osisID="rlxx_proverbs.19.26" />ὁ ἀτιμάζων πατέρα καὶ ἀπωθούμενος μητέρα αὐτοῦ καταισχυνθήσεται καὶ ἐπονείδιστος ἔσται.<verse eID="rlxx_proverbs.19.26" />
+        <verse sID="rlxx_proverbs.19.27" osisID="rlxx_proverbs.19.27" />υἱὸς ἀπολειπόμενος φυλάξαι παιδείαν πατρὸς μελετήσει ῥήσεις κακάς. ὁ ἐγγυώμενος παῖδα ἄφρονα καθυβρίζει δικαίωμα, στόμα δὲ ἀσεβῶν καταπίεται κρίσεις.<verse eID="rlxx_proverbs.19.27" />
+        <verse sID="rlxx_proverbs.19.29" osisID="rlxx_proverbs.19.29" />ἑτοιμάζονται ἀκολάστοις μάστιγες καὶ τιμωρίαι ὤμοις ἀφρόνων.<verse eID="rlxx_proverbs.19.29" />
+      </p>
+      <chapter eID="rlxx_proverbs.19" />
+      <chapter sID="rlxx_proverbs.20" osisID="rlxx_proverbs.20" />
+      <title>Chapter 20</title>
+      <p>
+        <verse sID="rlxx_proverbs.20.1" osisID="rlxx_proverbs.20.1" />ἀκόλαστον οἶνος καὶ ὑβριστικὸν μέθη, πᾶς δὲ ὁ συμμειγνύμενος αὐτῇ οὐκ ἔσται σοφός.<verse eID="rlxx_proverbs.20.1" />
+        <verse sID="rlxx_proverbs.20.2" osisID="rlxx_proverbs.20.2" />οὐ διαφέρει ἀπειλὴ βασιλέως θυμοῦ λέοντος, ὁ δὲ παροξύνων αὐτὸν ἁμαρτάνει εἰς τὴν ἑαυτοῦ ψυχήν.<verse eID="rlxx_proverbs.20.2" />
+        <verse sID="rlxx_proverbs.20.3" osisID="rlxx_proverbs.20.3" />δόξα ἀνδρὶ ἀποστρέφεσθαι λοιδορίας, πᾶς δὲ ἄφρων τοιούτοις συμπλέκεται.<verse eID="rlxx_proverbs.20.3" />
+        <verse sID="rlxx_proverbs.20.4" osisID="rlxx_proverbs.20.4" />ὀνειδιζόμενος ὀκνηρὸς οὐκ αἰσχύνεται, ὡσαύτως καὶ ὁ δανιζόμενος σῖτον ἐν ἀμήτῳ.<verse eID="rlxx_proverbs.20.4" />
+        <verse sID="rlxx_proverbs.20.5" osisID="rlxx_proverbs.20.5" />ὕδωρ βαθὺ βουλὴ ἐν καρδίᾳ ἀνδρός, ἀνὴρ δὲ φρόνιμος ἐξαντλήσει αὐτήν.<verse eID="rlxx_proverbs.20.5" />
+        <verse sID="rlxx_proverbs.20.6" osisID="rlxx_proverbs.20.6" />μέγα ἄνθρωπος καὶ τίμιον ἀνὴρ ἐλεήμων, ἄνδρα δὲ πιστὸν ἔργον εὑρεῖν.<verse eID="rlxx_proverbs.20.6" />
+        <verse sID="rlxx_proverbs.20.7" osisID="rlxx_proverbs.20.7" />ὃς ἀναστρέφεται ἄμωμος ἐν δικαιοσύνῃ, μακαρίους τοὺς παῖδας αὐτοῦ καταλείψει.<verse eID="rlxx_proverbs.20.7" />
+        <verse sID="rlxx_proverbs.20.8" osisID="rlxx_proverbs.20.8" />ὅταν βασιλεὺς δίκαιος καθίσῃ ἐπὶ θρόνου, οὐκ ἐναντιοῦται ἐν ὀφθαλμοῖς αὐτοῦ πᾶν πονηρόν.<verse eID="rlxx_proverbs.20.8" />
+        <verse sID="rlxx_proverbs.20.9" osisID="rlxx_proverbs.20.9" />τίς καυχήσεται ἁγνὴν ἔχειν τὴν καρδίαν; ἢ τίς παρρησιάσεται καθαρὸς εἶναι ἀπὸ ἁμαρτιῶν;<verse eID="rlxx_proverbs.20.9" />
+        <verse sID="rlxx_proverbs.20.9a" osisID="rlxx_proverbs.20.9a" />κακολογοῦντος πατέρα ἢ μητέρα σβεσθήσεται λαμπτήρ, αἱ δὲ κόραι τῶν ὀφθαλμῶν αὐτοῦ ὄψονται σκότος.<verse eID="rlxx_proverbs.20.9a" />
+        <verse sID="rlxx_proverbs.20.9b" osisID="rlxx_proverbs.20.9b" />μερὶς ἐπισπουδαζομένη ἐν πρώτοις ἐν τοῖς τελευταίοις οὐκ εὐλογηθήσεται.<verse eID="rlxx_proverbs.20.9b" />
+        <verse sID="rlxx_proverbs.20.9c" osisID="rlxx_proverbs.20.9c" />μὴ εἴπῃς Τείσομαι τὸν ἐχθρόν· ἀλλὰ ὑπόμεινον τὸν κύριον, ἵνα σοι βοηθήσῃ.<verse eID="rlxx_proverbs.20.9c" />
+        <verse sID="rlxx_proverbs.20.10" osisID="rlxx_proverbs.20.10" />στάθμιον μέγα καὶ μικρὸν καὶ μέτρα δισσά, ἀκάθαρτα ἐνώπιον κυρίου καὶ ἀμφότερα. καὶ ὁ ποιῶν αὐτὰ ἐν τοῖς ἐπιτηδεύμασιν αὐτοῦ συμποδισθή<verse eID="rlxx_proverbs.20.10" />
+        <verse sID="rlxx_proverbs.20.11" osisID="rlxx_proverbs.20.11" />σεται, νεανίσκος μετὰ ὁσίου, καὶ εὐθεῖα ἡ ὁδὸς αὐτοῦ.<verse eID="rlxx_proverbs.20.11" />
+        <verse sID="rlxx_proverbs.20.12" osisID="rlxx_proverbs.20.12" />οὖς ἀκούει καὶ ὀφθαλμὸς ὁρᾷ· κυρίου ἔργα καὶ ἀμφότερα.<verse eID="rlxx_proverbs.20.12" />
+        <verse sID="rlxx_proverbs.20.13" osisID="rlxx_proverbs.20.13" />μὴ ἀγάπα καταλαλεῖν, ἵνα μὴ ἐξαρθῇς· διάνοιξον τοὺς ὀφθαλμούς σου καὶ ἐμπλήσθητι ἄρτων.<verse eID="rlxx_proverbs.20.13" />
+        <verse sID="rlxx_proverbs.20.23" osisID="rlxx_proverbs.20.23" />βδέλυγμα κυρίῳ δισσὸν στάθμιον, καὶ ζυγὸς δόλιος οὐ καλὸν ἐνώπιον αὐτοῦ.<verse eID="rlxx_proverbs.20.23" />
+        <verse sID="rlxx_proverbs.20.24" osisID="rlxx_proverbs.20.24" />παρὰ κυρίου εὐθύνεται τὰ διαβήματα ἀνδρί· θνητὸς δὲ πῶς ἂν νοήσαι τὰς ὁδοὺς αὐτοῦ;<verse eID="rlxx_proverbs.20.24" />
+        <verse sID="rlxx_proverbs.20.25" osisID="rlxx_proverbs.20.25" />παγὶς ἀνδρὶ ταχύ τι τῶν ἰδίων ἁγιάσαι· μετὰ γὰρ τὸ εὔξασθαι μετανοεῖν γίνεται.<verse eID="rlxx_proverbs.20.25" />
+        <verse sID="rlxx_proverbs.20.26" osisID="rlxx_proverbs.20.26" />λικμήτωρ ἀσεβῶν βασιλεὺς σοφὸς καὶ ἐπιβαλεῖ αὐτοῖς τροχόν.<verse eID="rlxx_proverbs.20.26" />
+        <verse sID="rlxx_proverbs.20.27" osisID="rlxx_proverbs.20.27" />φῶς κυρίου πνοὴ ἀνθρώπων, ὃς ἐρευνᾷ ταμίεια κοιλίας.<verse eID="rlxx_proverbs.20.27" />
+        <verse sID="rlxx_proverbs.20.28" osisID="rlxx_proverbs.20.28" />ἐλεημοσύνη καὶ ἀλήθεια φυλακὴ βασιλεῖ καὶ περικυκλώσουσιν ἐν δικαιοσύνῃ τὸν θρόνον αὐτοῦ.<verse eID="rlxx_proverbs.20.28" />
+        <verse sID="rlxx_proverbs.20.29" osisID="rlxx_proverbs.20.29" />κόσμος νεανίαις σοφία, δόξα δὲ πρεσβυτέρων πολιαί.<verse eID="rlxx_proverbs.20.29" />
+        <verse sID="rlxx_proverbs.20.30" osisID="rlxx_proverbs.20.30" />ὑπώπια καὶ συντρίμματα συναντᾷ κακοῖς, πληγαὶ δὲ εἰς ταμίεια κοιλίας.<verse eID="rlxx_proverbs.20.30" />
+      </p>
+      <chapter eID="rlxx_proverbs.20" />
+      <chapter sID="rlxx_proverbs.21" osisID="rlxx_proverbs.21" />
+      <title>Chapter 21</title>
+      <p>
+        <verse sID="rlxx_proverbs.21.1" osisID="rlxx_proverbs.21.1" />ὥσπερ ὁρμὴ ὕδατος, οὕτως καρδία βασιλέως ἐν χειρὶ θεοῦ· οὗ ἐὰν θέλων νεύσῃ, ἐκεῖ ἔκλινεν αὐτήν.<verse eID="rlxx_proverbs.21.1" />
+        <verse sID="rlxx_proverbs.21.2" osisID="rlxx_proverbs.21.2" />πᾶς ἀνὴρ φαίνεται ἑαυτῷ δίκαιος, κατευθύνει δὲ καρδίας κύριος.<verse eID="rlxx_proverbs.21.2" />
+        <verse sID="rlxx_proverbs.21.3" osisID="rlxx_proverbs.21.3" />ποιεῖν δίκαια καὶ ἀληθεύειν ἀρεστὰ παρὰ θεῷ μᾶλλον ἢ θυσιῶν αἷμα.<verse eID="rlxx_proverbs.21.3" />
+        <verse sID="rlxx_proverbs.21.4" osisID="rlxx_proverbs.21.4" />μεγαλόφρων ἐφ' ὕβρει θρασυκάρδιος, λαμπτὴρ δὲ ἀσεβῶν ἁμαρτία.<verse eID="rlxx_proverbs.21.4" />
+        <verse sID="rlxx_proverbs.21.6" osisID="rlxx_proverbs.21.6" />ὁ ἐνεργῶν θησαυρίσματα γλώσσῃ ψευδεῖ μάταια διώκει ἐπὶ παγίδας θανάτου.<verse eID="rlxx_proverbs.21.6" />
+        <verse sID="rlxx_proverbs.21.7" osisID="rlxx_proverbs.21.7" />ὄλεθρος ἀσεβέσιν ἐπιξενωθήσεται· οὐ γὰρ βούλονται πράσσειν τὰ δίκαια.<verse eID="rlxx_proverbs.21.7" />
+        <verse sID="rlxx_proverbs.21.8" osisID="rlxx_proverbs.21.8" />πρὸς τοὺς σκολιοὺς σκολιὰς ὁδοὺς ἀποστέλλει ὁ θεός· ἁγνὰ γὰρ καὶ ὀρθὰ τὰ ἔργα αὐτοῦ.<verse eID="rlxx_proverbs.21.8" />
+        <verse sID="rlxx_proverbs.21.9" osisID="rlxx_proverbs.21.9" />κρεῖσσον οἰκεῖν ἐπὶ γωνίας ὑπαίθρου ἢ ἐν κεκονιαμένοις μετὰ ἀδικίας καὶ ἐν οἴκῳ κοινῷ.<verse eID="rlxx_proverbs.21.9" />
+        <verse sID="rlxx_proverbs.21.10" osisID="rlxx_proverbs.21.10" />ψυχὴ ἀσεβοῦς οὐκ ἐλεηθήσεται ὑπ' οὐδενὸς τῶν ἀνθρώπων.<verse eID="rlxx_proverbs.21.10" />
+        <verse sID="rlxx_proverbs.21.11" osisID="rlxx_proverbs.21.11" />ζημιουμένου ἀκολάστου πανουργότερος γίνεται ὁ ἄκακος, συνίων δὲ σοφὸς δέξεται γνῶσιν.<verse eID="rlxx_proverbs.21.11" />
+        <verse sID="rlxx_proverbs.21.12" osisID="rlxx_proverbs.21.12" />συνίει δίκαιος καρδίας ἀσεβῶν καὶ φαυλίζει ἀσεβεῖς ἐν κακοῖς.<verse eID="rlxx_proverbs.21.12" />
+        <verse sID="rlxx_proverbs.21.13" osisID="rlxx_proverbs.21.13" />ὃς φράσσει τὰ ὦτα τοῦ μὴ ἐπακοῦσαι ἀσθενοῦς, καὶ αὐτὸς ἐπικαλέσεται, καὶ οὐκ ἔσται ὁ εἰσακούων.<verse eID="rlxx_proverbs.21.13" />
+        <verse sID="rlxx_proverbs.21.14" osisID="rlxx_proverbs.21.14" />δόσις λάθριος ἀνατρέπει ὀργάς, δώρων δὲ ὁ φειδόμενος θυμὸν ἐγείρει ἰσχυρόν.<verse eID="rlxx_proverbs.21.14" />
+        <verse sID="rlxx_proverbs.21.15" osisID="rlxx_proverbs.21.15" />εὐφροσύνη δικαίων ποιεῖν κρίμα, ὅσιος δὲ ἀκάθαρτος παρὰ κακούργοις.<verse eID="rlxx_proverbs.21.15" />
+        <verse sID="rlxx_proverbs.21.16" osisID="rlxx_proverbs.21.16" />ἀνὴρ πλανώμενος ἐξ ὁδοῦ δικαιοσύνης ἐν συναγωγῇ γιγάντων ἀναπαύσεται.<verse eID="rlxx_proverbs.21.16" />
+        <verse sID="rlxx_proverbs.21.17" osisID="rlxx_proverbs.21.17" />ἀνὴρ ἐνδεὴς ἀγαπᾷ εὐφροσύνην φιλῶν οἶνον καὶ ἔλαιον εἰς πλοῦτον·<verse eID="rlxx_proverbs.21.17" />
+        <verse sID="rlxx_proverbs.21.18" osisID="rlxx_proverbs.21.18" />περικάθαρμα δὲ δικαίου ἄνομος.<verse eID="rlxx_proverbs.21.18" />
+        <verse sID="rlxx_proverbs.21.19" osisID="rlxx_proverbs.21.19" />κρεῖσσον οἰκεῖν ἐν γῇ ἐρήμῳ ἢ μετὰ γυναικὸς μαχίμου καὶ γλωσσώδους καὶ ὀργίλου.<verse eID="rlxx_proverbs.21.19" />
+        <verse sID="rlxx_proverbs.21.20" osisID="rlxx_proverbs.21.20" />θησαυρὸς ἐπιθυμητὸς ἀναπαύσεται ἐπὶ στόματος σοφοῦ, ἄφρονες δὲ ἄνδρες καταπίονται αὐτόν.<verse eID="rlxx_proverbs.21.20" />
+        <verse sID="rlxx_proverbs.21.21" osisID="rlxx_proverbs.21.21" />ὁδὸς δικαιοσύνης καὶ ἐλεημοσύνης εὑρήσει ζωὴν καὶ δόξαν. πόλεις ὀχυρὰς ἐπέβη σοφὸς καὶ καθεῖλεν τὸ ὀχύρωμα, ἐφ' ᾧ ἐπεποίθεισαν οἱ ἀσεβεῖς.<verse eID="rlxx_proverbs.21.21" />
+        <verse sID="rlxx_proverbs.21.23" osisID="rlxx_proverbs.21.23" />ὃς φυλάσσει τὸ στόμα αὐτοῦ καὶ τὴν γλῶσσαν, διατηρεῖ ἐκ θλίψεως τὴν ψυχὴν αὐτοῦ.<verse eID="rlxx_proverbs.21.23" />
+        <verse sID="rlxx_proverbs.21.24" osisID="rlxx_proverbs.21.24" />θρασὺς καὶ αὐθάδης καὶ ἀλαζὼν λοιμὸς καλεῖται· ὃς δὲ μνησικακεῖ, παράνομος.<verse eID="rlxx_proverbs.21.24" />
+        <verse sID="rlxx_proverbs.21.25" osisID="rlxx_proverbs.21.25" />ἐπιθυμίαι ὀκνηρὸν ἀποκτείνουσιν· οὐ γὰρ προαιροῦνται αἱ χεῖρες αὐτοῦ ποιεῖν τι.<verse eID="rlxx_proverbs.21.25" />
+        <verse sID="rlxx_proverbs.21.26" osisID="rlxx_proverbs.21.26" />ἀσεβὴς ἐπιθυμεῖ ὅλην τὴν ἡμέραν ἐπιθυμίας κακάς, ὁ δὲ δίκαιος ἐλεᾷ καὶ οἰκτίρει ἀφειδῶς.<verse eID="rlxx_proverbs.21.26" />
+        <verse sID="rlxx_proverbs.21.27" osisID="rlxx_proverbs.21.27" />θυσίαι ἀσεβῶν βδέλυγμα κυρίῳ· καὶ γὰρ παρανόμως προσφέρουσιν αὐτάς.<verse eID="rlxx_proverbs.21.27" />
+        <verse sID="rlxx_proverbs.21.28" osisID="rlxx_proverbs.21.28" />μάρτυς ψευδὴς ἀπολεῖται, ἀνὴρ δὲ ὑπήκοος φυλασσόμενος λαλήσει.<verse eID="rlxx_proverbs.21.28" />
+        <verse sID="rlxx_proverbs.21.29" osisID="rlxx_proverbs.21.29" />ἀσεβὴς ἀνὴρ ἀναιδῶς ὑφίσταται προσώπῳ, ὁ δὲ εὐθὴς αὐτὸς συνίει τὰς ὁδοὺς αὐτοῦ.<verse eID="rlxx_proverbs.21.29" />
+        <verse sID="rlxx_proverbs.21.30" osisID="rlxx_proverbs.21.30" />οὐκ ἔστιν σοφία, οὐκ ἔστιν ἀνδρεία, οὐκ ἔστιν βουλὴ πρὸς τὸν ἀσεβῆ.<verse eID="rlxx_proverbs.21.30" />
+        <verse sID="rlxx_proverbs.21.31" osisID="rlxx_proverbs.21.31" />ἵππος ἑτοιμάζεται εἰς ἡμέραν πολέμου, παρὰ δὲ κυρίου ἡ βοήθεια.<verse eID="rlxx_proverbs.21.31" />
+      </p>
+      <chapter eID="rlxx_proverbs.21" />
+      <chapter sID="rlxx_proverbs.22" osisID="rlxx_proverbs.22" />
+      <title>Chapter 22</title>
+      <p>
+        <verse sID="rlxx_proverbs.22.1" osisID="rlxx_proverbs.22.1" />αἱρετώτερον ὄνομα καλὸν ἢ πλοῦτος πολύς, ὑπὲρ δὲ ἀργύριον καὶ χρυσίον χάρις ἀγαθή.<verse eID="rlxx_proverbs.22.1" />
+        <verse sID="rlxx_proverbs.22.2" osisID="rlxx_proverbs.22.2" />πλούσιος καὶ πτωχὸς συνήντησαν ἀλλήλοις, ἀμφοτέρους δὲ ὁ κύριος ἐποίησεν.<verse eID="rlxx_proverbs.22.2" />
+        <verse sID="rlxx_proverbs.22.3" osisID="rlxx_proverbs.22.3" />πανοῦργος ἰδὼν πονηρὸν τιμωρούμενον κραταιῶς αὐτὸς παιδεύεται, οἱ δὲ ἄφρονες παρελθόντες ἐζημιώθησαν.<verse eID="rlxx_proverbs.22.3" />
+        <verse sID="rlxx_proverbs.22.4" osisID="rlxx_proverbs.22.4" />γενεὰ σοφίας φόβος κυρίου καὶ πλοῦτος καὶ δόξα καὶ ζωή. τρίβολοι καὶ παγίδες ἐν ὁδοῖς σκολιαῖς, ὁ δὲ φυλάσσων τὴν ἑαυτοῦ ψυχὴν ἀφέξεται αὐτῶν.<verse eID="rlxx_proverbs.22.4" />
+        <verse sID="rlxx_proverbs.22.7" osisID="rlxx_proverbs.22.7" />πλούσιοι πτωχῶν ἄρξουσιν, καὶ οἰκέται ἰδίοις δεσπόταις δανιοῦσιν.<verse eID="rlxx_proverbs.22.7" />
+        <verse sID="rlxx_proverbs.22.8" osisID="rlxx_proverbs.22.8" />ὁ σπείρων φαῦλα θερίσει κακά, πληγὴν δὲ ἔργων αὐτοῦ συντελέσει.<verse eID="rlxx_proverbs.22.8" />
+        <verse sID="rlxx_proverbs.22.8a" osisID="rlxx_proverbs.22.8a" />ἄνδρα ἱλαρὸν καὶ δότην εὐλογεῖ ὁ θεός, ματαιότητα δὲ ἔργων αὐτοῦ συντελέσει.<verse eID="rlxx_proverbs.22.8a" />
+        <verse sID="rlxx_proverbs.22.9" osisID="rlxx_proverbs.22.9" />ὁ ἐλεῶν πτωχὸν αὐτὸς διατραφήσεται· τῶν γὰρ ἑαυτοῦ ἄρτων ἔδωκεν τῷ πτωχῷ.<verse eID="rlxx_proverbs.22.9" />
+        <verse sID="rlxx_proverbs.22.9a" osisID="rlxx_proverbs.22.9a" />νίκην καὶ τιμὴν περιποιεῖται ὁ δῶρα δούς, τὴν μέντοι ψυχὴν ἀφαιρεῖται τῶν κεκτημένων.<verse eID="rlxx_proverbs.22.9a" />
+        <verse sID="rlxx_proverbs.22.10" osisID="rlxx_proverbs.22.10" />ἔκβαλε ἐκ συνεδρίου λοιμόν, καὶ συνεξελεύσεται αὐτῷ νεῖκος· ὅταν γὰρ καθίσῃ ἐν συνεδρίῳ, πάντας ἀτιμάζει.<verse eID="rlxx_proverbs.22.10" />
+        <verse sID="rlxx_proverbs.22.11" osisID="rlxx_proverbs.22.11" />ἀγαπᾷ κύριος ὁσίας καρδίας, δεκτοὶ δὲ αὐτῷ πάντες ἄμωμοι· χείλεσιν ποιμαίνει βασιλεύς.<verse eID="rlxx_proverbs.22.11" />
+        <verse sID="rlxx_proverbs.22.12" osisID="rlxx_proverbs.22.12" />οἱ δὲ ὀφθαλμοὶ κυρίου διατηροῦσιν αἴσθησιν, φαυλίζει δὲ λόγους παράνομος.<verse eID="rlxx_proverbs.22.12" />
+        <verse sID="rlxx_proverbs.22.13" osisID="rlxx_proverbs.22.13" />προφασίζεται καὶ λέγει ὀκνηρός Λέων ἐν ταῖς ὁδοῖς, ἐν δὲ ταῖς πλατείαις φονευταί.<verse eID="rlxx_proverbs.22.13" />
+        <verse sID="rlxx_proverbs.22.14" osisID="rlxx_proverbs.22.14" />βόθρος βαθὺς στόμα παρανόμου, ὁ δὲ μισηθεὶς ὑπὸ κυρίου ἐμπεσεῖται εἰς αὐτόν.<verse eID="rlxx_proverbs.22.14" />
+        <verse sID="rlxx_proverbs.22.14a" osisID="rlxx_proverbs.22.14a" />εἰσὶν ὁδοὶ κακαὶ ἐνώπιον ἀνδρός, καὶ οὐκ ἀγαπᾷ τοῦ ἀποστρέψαι ἀπ' αὐτῶν· ἀποστρέφειν δὲ δεῖ ἀπὸ ὁδοῦ σκολιᾶς καὶ κακῆς.<verse eID="rlxx_proverbs.22.14a" />
+        <verse sID="rlxx_proverbs.22.15" osisID="rlxx_proverbs.22.15" />ἄνοια ἐξῆπται καρδίας νέου, ῥάβδος δὲ καὶ παιδεία μακρὰν ἀπ' αὐτοῦ.<verse eID="rlxx_proverbs.22.15" />
+        <verse sID="rlxx_proverbs.22.16" osisID="rlxx_proverbs.22.16" />ὁ συκοφαντῶν πένητα πολλὰ ποιεῖ τὰ ἑαυτοῦ· δίδωσιν δὲ πλουσίῳ ἐπ' ἐλάσσονι. –––<verse eID="rlxx_proverbs.22.16" />
+        <verse sID="rlxx_proverbs.22.17" osisID="rlxx_proverbs.22.17" />Λόγοις σοφῶν παράβαλλε σὸν οὖς καὶ ἄκουε ἐμὸν λόγον, τὴν δὲ σὴν καρδίαν ἐπίστησον, ἵνα γνῷς ὅτι καλοί εἰσιν·<verse eID="rlxx_proverbs.22.17" />
+        <verse sID="rlxx_proverbs.22.18" osisID="rlxx_proverbs.22.18" />καὶ ἐὰν ἐμβάλῃς αὐτοὺς εἰς τὴν καρδίαν σου, εὐφρανοῦσίν σε ἅμα ἐπὶ σοῖς χείλεσιν,<verse eID="rlxx_proverbs.22.18" />
+        <verse sID="rlxx_proverbs.22.19" osisID="rlxx_proverbs.22.19" />ἵνα σου γένηται ἐπὶ κύριον ἡ ἐλπὶς καὶ γνωρίσῃ σοι τὴν ὁδὸν αὐτοῦ.<verse eID="rlxx_proverbs.22.19" />
+        <verse sID="rlxx_proverbs.22.20" osisID="rlxx_proverbs.22.20" />καὶ σὺ δὲ ἀπόγραψαι αὐτὰ σεαυτῷ τρισσῶς εἰς βουλὴν καὶ γνῶσιν ἐπὶ τὸ πλάτος τῆς καρδίας σου.<verse eID="rlxx_proverbs.22.20" />
+        <verse sID="rlxx_proverbs.22.21" osisID="rlxx_proverbs.22.21" />διδάσκω οὖν σε ἀληθῆ λόγον καὶ γνῶσιν ἀγαθὴν ὑπακούειν τοῦ ἀποκρίνεσθαι λόγους ἀληθείας τοῖς προβαλλομένοις σοι.<verse eID="rlxx_proverbs.22.21" />
+        <verse sID="rlxx_proverbs.22.22" osisID="rlxx_proverbs.22.22" />Μὴ ἀποβιάζου πένητα, πτωχὸς γάρ ἐστιν, καὶ μὴ ἀτιμάσῃς ἀσθενῆ ἐν πύλαις·<verse eID="rlxx_proverbs.22.22" />
+        <verse sID="rlxx_proverbs.22.23" osisID="rlxx_proverbs.22.23" />ὁ γὰρ κύριος κρινεῖ αὐτοῦ τὴν κρίσιν, καὶ ῥύσῃ σὴν ἄσυλον ψυχήν.<verse eID="rlxx_proverbs.22.23" />
+        <verse sID="rlxx_proverbs.22.24" osisID="rlxx_proverbs.22.24" />μὴ ἴσθι ἑταῖρος ἀνδρὶ θυμώδει, φίλῳ δὲ ὀργίλῳ μὴ συναυλίζου,<verse eID="rlxx_proverbs.22.24" />
+        <verse sID="rlxx_proverbs.22.25" osisID="rlxx_proverbs.22.25" />μήποτε μάθῃς τῶν ὁδῶν αὐτοῦ καὶ λάβῃς βρόχους τῇ σῇ ψυχῇ.<verse eID="rlxx_proverbs.22.25" />
+        <verse sID="rlxx_proverbs.22.26" osisID="rlxx_proverbs.22.26" />μὴ δίδου σεαυτὸν εἰς ἐγγύην αἰσχυνόμενος πρόσωπον·<verse eID="rlxx_proverbs.22.26" />
+        <verse sID="rlxx_proverbs.22.27" osisID="rlxx_proverbs.22.27" />ἐὰν γὰρ μὴ ἔχῃς πόθεν ἀποτείσῃς, λήμψονται τὸ στρῶμα τὸ ὑπὸ τὰς πλευράς σου.<verse eID="rlxx_proverbs.22.27" />
+        <verse sID="rlxx_proverbs.22.28" osisID="rlxx_proverbs.22.28" />μὴ μέταιρε ὅρια αἰώνια, ἃ ἔθεντο οἱ πατέρες σου.<verse eID="rlxx_proverbs.22.28" />
+        <verse sID="rlxx_proverbs.22.29" osisID="rlxx_proverbs.22.29" />ὁρατικὸν ἄνδρα καὶ ὀξὺν ἐν τοῖς ἔργοις αὐτοῦ βασιλεῦσι δεῖ παρεστάναι καὶ μὴ παρεστάναι ἀνδράσι νωθροῖς.<verse eID="rlxx_proverbs.22.29" />
+      </p>
+      <chapter eID="rlxx_proverbs.22" />
+      <chapter sID="rlxx_proverbs.23" osisID="rlxx_proverbs.23" />
+      <title>Chapter 23</title>
+      <p>
+        <verse sID="rlxx_proverbs.23.1" osisID="rlxx_proverbs.23.1" />ἐὰν καθίσῃς δειπνεῖν ἐπὶ τραπέζης δυναστῶν, νοητῶς νόει τὰ παρατιθέμενά σοι<verse eID="rlxx_proverbs.23.1" />
+        <verse sID="rlxx_proverbs.23.2" osisID="rlxx_proverbs.23.2" />καὶ ἐπίβαλλε τὴν χεῖρά σου εἰδὼς ὅτι τοιαῦτά σε δεῖ παρασκευάσαι·<verse eID="rlxx_proverbs.23.2" />
+        <verse sID="rlxx_proverbs.23.3" osisID="rlxx_proverbs.23.3" />εἰ δὲ ἀπληστότερος εἶ, μὴ ἐπιθύμει τῶν ἐδεσμάτων αὐτοῦ, ταῦτα γὰρ ἔχεται ζωῆς ψευδοῦς.<verse eID="rlxx_proverbs.23.3" />
+        <verse sID="rlxx_proverbs.23.4" osisID="rlxx_proverbs.23.4" />μὴ παρεκτείνου πένης ὢν πλουσίῳ, τῇ δὲ σῇ ἐννοίᾳ ἀπόσχου·<verse eID="rlxx_proverbs.23.4" />
+        <verse sID="rlxx_proverbs.23.5" osisID="rlxx_proverbs.23.5" />ἐὰν ἐπιστήσῃς τὸ σὸν ὄμμα πρὸς αὐτόν, οὐδαμοῦ φανεῖται, κατεσκεύασται γὰρ αὐτῷ πτέρυγες ὥσπερ ἀετοῦ, καὶ ὑποστρέφει εἰς τὸν οἶκον τοῦ προεστηκότος αὐτοῦ.<verse eID="rlxx_proverbs.23.5" />
+        <verse sID="rlxx_proverbs.23.6" osisID="rlxx_proverbs.23.6" />μὴ συνδείπνει ἀνδρὶ βασκάνῳ μηδὲ ἐπιθύμει τῶν βρωμάτων αὐτοῦ·<verse eID="rlxx_proverbs.23.6" />
+        <verse sID="rlxx_proverbs.23.7" osisID="rlxx_proverbs.23.7" />ὃν τρόπον γὰρ εἴ τις καταπίοι τρίχα, οὕτως ἐσθίει καὶ πίνει.<verse eID="rlxx_proverbs.23.7" />
+        <verse sID="rlxx_proverbs.23.8" osisID="rlxx_proverbs.23.8" />μηδὲ πρὸς σὲ εἰσαγάγῃς αὐτὸν καὶ φάγῃς τὸν ψωμόν σου μετ' αὐτοῦ· ἐξεμέσει γὰρ αὐτὸν καὶ λυμανεῖται τοὺς λόγους σου τοὺς καλούς.<verse eID="rlxx_proverbs.23.8" />
+        <verse sID="rlxx_proverbs.23.9" osisID="rlxx_proverbs.23.9" />εἰς ὦτα ἄφρονος μηδὲν λέγε, μήποτε μυκτηρίσῃ τοὺς συνετοὺς λόγους σου.<verse eID="rlxx_proverbs.23.9" />
+        <verse sID="rlxx_proverbs.23.10" osisID="rlxx_proverbs.23.10" />μὴ μεταθῇς ὅρια αἰώνια, εἰς δὲ κτῆμα ὀρφανῶν μὴ εἰσέλθῃς·<verse eID="rlxx_proverbs.23.10" />
+        <verse sID="rlxx_proverbs.23.11" osisID="rlxx_proverbs.23.11" />ὁ γὰρ λυτρούμενος αὐτοὺς κύριος κραταιός ἐστιν καὶ κρινεῖ τὴν κρίσιν αὐτῶν μετὰ σοῦ.<verse eID="rlxx_proverbs.23.11" />
+        <verse sID="rlxx_proverbs.23.12" osisID="rlxx_proverbs.23.12" />δὸς εἰς παιδείαν τὴν καρδίαν σου, τὰ δὲ ὦτά σου ἑτοίμασον λόγοις αἰσθήσεως.<verse eID="rlxx_proverbs.23.12" />
+        <verse sID="rlxx_proverbs.23.13" osisID="rlxx_proverbs.23.13" />μὴ ἀπόσχῃ νήπιον παιδεύειν, ὅτι ἐὰν πατάξῃς αὐτὸν ῥάβδῳ, οὐ μὴ ἀποθάνῃ·<verse eID="rlxx_proverbs.23.13" />
+        <verse sID="rlxx_proverbs.23.14" osisID="rlxx_proverbs.23.14" />σὺ μὲν γὰρ πατάξεις αὐτὸν ῥάβδῳ, τὴν δὲ ψυχὴν αὐτοῦ ἐκ θανάτου ῥύσῃ.<verse eID="rlxx_proverbs.23.14" />
+        <verse sID="rlxx_proverbs.23.15" osisID="rlxx_proverbs.23.15" />υἱέ, ἐὰν σοφὴ γένηταί σου ἡ καρδία, εὐφρανεῖς καὶ τὴν ἐμὴν καρδίαν,<verse eID="rlxx_proverbs.23.15" />
+        <verse sID="rlxx_proverbs.23.16" osisID="rlxx_proverbs.23.16" />καὶ ἐνδιατρίψει λόγοις τὰ σὰ χείλη πρὸς τὰ ἐμὰ χείλη, ἐὰν ὀρθὰ ὦσιν.<verse eID="rlxx_proverbs.23.16" />
+        <verse sID="rlxx_proverbs.23.17" osisID="rlxx_proverbs.23.17" />μὴ ζηλούτω ἡ καρδία σου ἁμαρτωλούς, ἀλλὰ ἐν φόβῳ κυρίου ἴσθι ὅλην τὴν ἡμέραν·<verse eID="rlxx_proverbs.23.17" />
+        <verse sID="rlxx_proverbs.23.18" osisID="rlxx_proverbs.23.18" />ἐὰν γὰρ τηρήσῃς αὐτά, ἔσται σοι ἔκγονα, ἡ δὲ ἐλπίς σου οὐκ ἀποστήσεται.<verse eID="rlxx_proverbs.23.18" />
+        <verse sID="rlxx_proverbs.23.19" osisID="rlxx_proverbs.23.19" />ἄκουε, υἱέ, καὶ σοφὸς γίνου καὶ κατεύθυνε ἐννοίας σῆς καρδίας·<verse eID="rlxx_proverbs.23.19" />
+        <verse sID="rlxx_proverbs.23.20" osisID="rlxx_proverbs.23.20" />μὴ ἴσθι οἰνοπότης μηδὲ ἐκτείνου συμβολαῖς κρεῶν τε ἀγορασμοῖς·<verse eID="rlxx_proverbs.23.20" />
+        <verse sID="rlxx_proverbs.23.21" osisID="rlxx_proverbs.23.21" />πᾶς γὰρ μέθυσος καὶ πορνοκόπος πτωχεύσει, καὶ ἐνδύσεται διερρηγμένα καὶ ῥακώδη πᾶς ὑπνώδης.<verse eID="rlxx_proverbs.23.21" />
+        <verse sID="rlxx_proverbs.23.22" osisID="rlxx_proverbs.23.22" />ἄκουε, υἱέ, πατρὸς τοῦ γεννήσαντός σε καὶ μὴ καταφρόνει ὅτι γεγήρακέν σου ἡ μήτηρ.<verse eID="rlxx_proverbs.23.22" />
+        <verse sID="rlxx_proverbs.23.24" osisID="rlxx_proverbs.23.24" />καλῶς ἐκτρέφει πατὴρ δίκαιος, ἐπὶ δὲ υἱῷ σοφῷ εὐφραίνεται ἡ ψυχὴ αὐτοῦ·<verse eID="rlxx_proverbs.23.24" />
+        <verse sID="rlxx_proverbs.23.25" osisID="rlxx_proverbs.23.25" />εὐφραινέσθω ὁ πατὴρ καὶ ἡ μήτηρ ἐπὶ σοί, καὶ χαιρέτω ἡ τεκοῦσά σε.<verse eID="rlxx_proverbs.23.25" />
+        <verse sID="rlxx_proverbs.23.26" osisID="rlxx_proverbs.23.26" />δός μοι, υἱέ, σὴν καρδίαν, οἱ δὲ σοὶ ὀφθαλμοὶ ἐμὰς ὁδοὺς τηρείτωσαν·<verse eID="rlxx_proverbs.23.26" />
+        <verse sID="rlxx_proverbs.23.27" osisID="rlxx_proverbs.23.27" />πίθος γὰρ τετρημένος ἐστὶν ἀλλότριος οἶκος, καὶ φρέαρ στενὸν ἀλλότριον·<verse eID="rlxx_proverbs.23.27" />
+        <verse sID="rlxx_proverbs.23.28" osisID="rlxx_proverbs.23.28" />οὗτος γὰρ συντόμως ἀπολεῖται, καὶ πᾶς παράνομος ἀναλωθήσεται.<verse eID="rlxx_proverbs.23.28" />
+        <verse sID="rlxx_proverbs.23.29" osisID="rlxx_proverbs.23.29" />τίνι οὐαί; τίνι θόρυβος; τίνι κρίσις; τίνι ἀηδίαι καὶ λέσχαι; τίνι συντρίμματα διὰ κενῆς; τίνος πέλειοι οἱ ὀφθαλμοί;<verse eID="rlxx_proverbs.23.29" />
+        <verse sID="rlxx_proverbs.23.30" osisID="rlxx_proverbs.23.30" />οὐ τῶν ἐγχρονιζόντων ἐν οἴνοις; οὐ τῶν ἰχνευόντων ποῦ πότοι γίνονται;<verse eID="rlxx_proverbs.23.30" />
+        <verse sID="rlxx_proverbs.23.31" osisID="rlxx_proverbs.23.31" />μὴ μεθύσκεσθε οἴνῳ, ἀλλὰ ὁμιλεῖτε ἀνθρώποις δικαίοις καὶ ὁμιλεῖτε ἐν περιπάτοις· ἐὰν γὰρ εἰς τὰς φιάλας καὶ τὰ ποτήρια δῷς τοὺς ὀφθαλμούς σου, ὕστερον περιπατήσεις γυμνότερος ὑπέρου,<verse eID="rlxx_proverbs.23.31" />
+        <verse sID="rlxx_proverbs.23.32" osisID="rlxx_proverbs.23.32" />τὸ δὲ ἔσχατον ὥσπερ ὑπὸ ὄφεως πεπληγὼς ἐκτείνεται καὶ ὥσπερ ὑπὸ κεράστου διαχεῖται αὐτῷ ὁ ἰός.<verse eID="rlxx_proverbs.23.32" />
+        <verse sID="rlxx_proverbs.23.33" osisID="rlxx_proverbs.23.33" />οἱ ὀφθαλμοί σου ὅταν ἴδωσιν ἀλλοτρίαν, τὸ στόμα σου τότε λαλήσει σκολιά,<verse eID="rlxx_proverbs.23.33" />
+        <verse sID="rlxx_proverbs.23.34" osisID="rlxx_proverbs.23.34" />καὶ κατακείσῃ ὥσπερ ἐν καρδίᾳ θαλάσσης καὶ ὥσπερ κυβερνήτης ἐν πολλῷ κλύδωνι·<verse eID="rlxx_proverbs.23.34" />
+        <verse sID="rlxx_proverbs.23.35" osisID="rlxx_proverbs.23.35" />ἐρεῖς δέ Τύπτουσίν με, καὶ οὐκ ἐπόνεσα, καὶ ἐνέπαιξάν μοι, ἐγὼ δὲ οὐκ ᾔδειν· πότε ὄρθρος ἔσται, ἵνα ἐλθὼν ζητήσω μεθ' ὧν συνελεύσομαι;<verse eID="rlxx_proverbs.23.35" />
+      </p>
+      <chapter eID="rlxx_proverbs.23" />
+      <chapter sID="rlxx_proverbs.24" osisID="rlxx_proverbs.24" />
+      <title>Chapter 24</title>
+      <p>
+        <verse sID="rlxx_proverbs.24.1" osisID="rlxx_proverbs.24.1" />υἱέ, μὴ ζηλώσῃς κακοὺς ἄνδρας μηδὲ ἐπιθυμήσῃς εἶναι μετ' αὐτῶν·<verse eID="rlxx_proverbs.24.1" />
+        <verse sID="rlxx_proverbs.24.2" osisID="rlxx_proverbs.24.2" />ψεύδη γὰρ μελετᾷ ἡ καρδία αὐτῶν, καὶ πόνους τὰ χείλη αὐτῶν λαλεῖ.<verse eID="rlxx_proverbs.24.2" />
+        <verse sID="rlxx_proverbs.24.3" osisID="rlxx_proverbs.24.3" />μετὰ σοφίας οἰκοδομεῖται οἶκος καὶ μετὰ συνέσεως ἀνορθοῦται·<verse eID="rlxx_proverbs.24.3" />
+        <verse sID="rlxx_proverbs.24.4" osisID="rlxx_proverbs.24.4" />μετὰ αἰσθήσεως ἐμπίμπλαται ταμίεια ἐκ παντὸς πλούτου τιμίου καὶ καλοῦ.<verse eID="rlxx_proverbs.24.4" />
+        <verse sID="rlxx_proverbs.24.5" osisID="rlxx_proverbs.24.5" />κρείσσων σοφὸς ἰσχυροῦ καὶ ἀνὴρ φρόνησιν ἔχων γεωργίου μεγάλου·<verse eID="rlxx_proverbs.24.5" />
+        <verse sID="rlxx_proverbs.24.6" osisID="rlxx_proverbs.24.6" />μετὰ κυβερνήσεως γίνεται πόλεμος, βοήθεια δὲ μετὰ καρδίας βουλευτικῆς.<verse eID="rlxx_proverbs.24.6" />
+        <verse sID="rlxx_proverbs.24.7" osisID="rlxx_proverbs.24.7" />σοφία καὶ ἔννοια ἀγαθὴ ἐν πύλαις σοφῶν· σοφοὶ οὐκ ἐκκλίνουσιν ἐκ στόματος κυρίου,<verse eID="rlxx_proverbs.24.7" />
+        <verse sID="rlxx_proverbs.24.8" osisID="rlxx_proverbs.24.8" />ἀλλὰ λογίζονται ἐν συνεδρίοις. ἀπαιδεύτοις συναντᾷ θάνατος,<verse eID="rlxx_proverbs.24.8" />
+        <verse sID="rlxx_proverbs.24.9" osisID="rlxx_proverbs.24.9" />ἀποθνῄσκει δὲ ἄφρων ἐν ἁμαρτίαις· ἀκαθαρσία δὲ ἀνδρὶ λοιμῷ ἐμμολυνθήσεται<verse eID="rlxx_proverbs.24.9" />
+        <verse sID="rlxx_proverbs.24.10" osisID="rlxx_proverbs.24.10" />ἐν ἡμέρᾳ κακῇ καὶ ἐν ἡμέρᾳ θλίψεως, ἕως ἂν ἐκλίπῃ.<verse eID="rlxx_proverbs.24.10" />
+        <verse sID="rlxx_proverbs.24.11" osisID="rlxx_proverbs.24.11" />ῥῦσαι ἀγομένους εἰς θάνατον καὶ ἐκπρίου κτεινομένους, μὴ φείσῃ·<verse eID="rlxx_proverbs.24.11" />
+        <verse sID="rlxx_proverbs.24.12" osisID="rlxx_proverbs.24.12" />ἐὰν δὲ εἴπῃς Οὐκ οἶδα τοῦτον, γίνωσκε ὅτι κύριος καρδίας πάντων γινώσκει, καὶ ὁ πλάσας πνοὴν πᾶσιν αὐτὸς οἶδεν πάντα, ὃς ἀποδίδωσιν ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ.<verse eID="rlxx_proverbs.24.12" />
+        <verse sID="rlxx_proverbs.24.13" osisID="rlxx_proverbs.24.13" />φάγε μέλι, υἱέ, ἀγαθὸν γὰρ κηρίον, ἵνα γλυκανθῇ σου ὁ φάρυγξ·<verse eID="rlxx_proverbs.24.13" />
+        <verse sID="rlxx_proverbs.24.14" osisID="rlxx_proverbs.24.14" />οὕτως αἰσθήσῃ σοφίαν τῇ σῇ ψυχῇ· ἐὰν γὰρ εὕρῃς, ἔσται καλὴ ἡ τελευτή σου, καὶ ἐλπίς σε οὐκ ἐγκαταλείψει.<verse eID="rlxx_proverbs.24.14" />
+        <verse sID="rlxx_proverbs.24.15" osisID="rlxx_proverbs.24.15" />μὴ προσαγάγῃς ἀσεβῆ νομῇ δικαίων μηδὲ ἀπατηθῇς χορτασίᾳ κοιλίας·<verse eID="rlxx_proverbs.24.15" />
+        <verse sID="rlxx_proverbs.24.16" osisID="rlxx_proverbs.24.16" />ἑπτάκι γὰρ πεσεῖται ὁ δίκαιος καὶ ἀναστήσεται, οἱ δὲ ἀσεβεῖς ἀσθενήσουσιν ἐν κακοῖς.<verse eID="rlxx_proverbs.24.16" />
+        <verse sID="rlxx_proverbs.24.17" osisID="rlxx_proverbs.24.17" />ἐὰν πέσῃ ὁ ἐχθρός σου, μὴ ἐπιχαρῇς αὐτῷ, ἐν δὲ τῷ ὑποσκελίσματι αὐτοῦ μὴ ἐπαίρου·<verse eID="rlxx_proverbs.24.17" />
+        <verse sID="rlxx_proverbs.24.18" osisID="rlxx_proverbs.24.18" />ὅτι ὄψεται κύριος, καὶ οὐκ ἀρέσει αὐτῷ, καὶ ἀποστρέψει τὸν θυμὸν αὐτοῦ ἀπ' αὐτοῦ.<verse eID="rlxx_proverbs.24.18" />
+        <verse sID="rlxx_proverbs.24.19" osisID="rlxx_proverbs.24.19" />μὴ χαῖρε ἐπὶ κακοποιοῖς μηδὲ ζήλου ἁμαρτωλούς·<verse eID="rlxx_proverbs.24.19" />
+        <verse sID="rlxx_proverbs.24.20" osisID="rlxx_proverbs.24.20" />οὐ γὰρ μὴ γένηται ἔκγονα πονηρῶν, λαμπτὴρ δὲ ἀσεβῶν σβεσθήσεται.<verse eID="rlxx_proverbs.24.20" />
+        <verse sID="rlxx_proverbs.24.21" osisID="rlxx_proverbs.24.21" />φοβοῦ τὸν θεόν, υἱέ, καὶ βασιλέα καὶ μηθετέρῳ αὐτῶν ἀπειθήσῃς·<verse eID="rlxx_proverbs.24.21" />
+        <verse sID="rlxx_proverbs.24.22" osisID="rlxx_proverbs.24.22" />ἐξαίφνης γὰρ τείσονται τοὺς ἀσεβεῖς, τὰς δὲ τιμωρίας ἀμφοτέρων τίς γνώσεται;<verse eID="rlxx_proverbs.24.22" />
+        <verse sID="rlxx_proverbs.24.22a" osisID="rlxx_proverbs.24.22a" />λόγον φυλασσόμενος υἱὸς ἀπωλείας ἐκτὸς ἔσται, δεχόμενος δὲ ἐδέξατο αὐτόν.<verse eID="rlxx_proverbs.24.22a" />
+        <verse sID="rlxx_proverbs.24.22b" osisID="rlxx_proverbs.24.22b" />μηδὲν ψεῦδος ἀπὸ γλώσσης βασιλεῖ λεγέσθω, καὶ οὐδὲν ψεῦδος ἀπὸ γλώσσης αὐτοῦ οὐ μὴ ἐξέλθῃ.<verse eID="rlxx_proverbs.24.22b" />
+        <verse sID="rlxx_proverbs.24.22c" osisID="rlxx_proverbs.24.22c" />μάχαιρα γλῶσσα βασιλέως καὶ οὐ σαρκίνη, ὃς δ' ἂν παραδοθῇ, συντριβήσεται·<verse eID="rlxx_proverbs.24.22c" />
+        <verse sID="rlxx_proverbs.24.22d" osisID="rlxx_proverbs.24.22d" />ἐὰν γὰρ ὀξυνθῇ ὁ θυμὸς αὐτοῦ, σὺν νεύροις ἀνθρώπους ἀναλίσκει<verse eID="rlxx_proverbs.24.22d" />
+        <verse sID="rlxx_proverbs.24.22e" osisID="rlxx_proverbs.24.22e" />καὶ ὀστᾶ ἀνθρώπων κατατρώγει καὶ συγκαίει ὥσπερ φλὸξ ὥστε ἄβρωτα εἶναι νεοσσοῖς ἀετῶν. –––<verse eID="rlxx_proverbs.24.22e" />
+      </p>
+      <chapter eID="rlxx_proverbs.24" />
+      <chapter sID="rlxx_proverbs.30" osisID="rlxx_proverbs.30" />
+      <title>Chapter 30</title>
+      <p>
+        <verse sID="rlxx_proverbs.30.1" osisID="rlxx_proverbs.30.1" />Τοὺς ἐμοὺς λόγους, υἱέ, φοβήθητι καὶ δεξάμενος αὐτοὺς μετανόει· τάδε λέγει ὁ ἀνὴρ τοῖς πιστεύουσιν θεῷ, καὶ παύομαι·<verse eID="rlxx_proverbs.30.1" />
+        <verse sID="rlxx_proverbs.30.2" osisID="rlxx_proverbs.30.2" />ἀφρονέστατος γάρ εἰμι πάντων ἀνθρώπων, καὶ φρόνησις ἀνθρώπων οὐκ ἔστιν ἐν ἐμοί·<verse eID="rlxx_proverbs.30.2" />
+        <verse sID="rlxx_proverbs.30.3" osisID="rlxx_proverbs.30.3" />θεὸς δεδίδαχέν με σοφίαν, καὶ γνῶσιν ἁγίων ἔγνωκα.<verse eID="rlxx_proverbs.30.3" />
+        <verse sID="rlxx_proverbs.30.4" osisID="rlxx_proverbs.30.4" />τίς ἀνέβη εἰς τὸν οὐρανὸν καὶ κατέβη; τίς συνήγαγεν ἀνέμους ἐν κόλπῳ; τίς συνέστρεψεν ὕδωρ ἐν ἱματίῳ; τίς ἐκράτησεν πάντων τῶν ἄκρων τῆς γῆς; τί ὄνομα αὐτῷ, ἢ τί ὄνομα τοῖς τέκνοις αὐτοῦ, ἵνα γνῷς;<verse eID="rlxx_proverbs.30.4" />
+        <verse sID="rlxx_proverbs.30.5" osisID="rlxx_proverbs.30.5" />πάντες λόγοι θεοῦ πεπυρωμένοι, ὑπερασπίζει δὲ αὐτὸς τῶν εὐλαβουμένων αὐτόν·<verse eID="rlxx_proverbs.30.5" />
+        <verse sID="rlxx_proverbs.30.6" osisID="rlxx_proverbs.30.6" />μὴ προσθῇς τοῖς λόγοις αὐτοῦ, ἵνα μὴ ἐλέγξῃ σε καὶ ψευδὴς γένῃ.<verse eID="rlxx_proverbs.30.6" />
+        <verse sID="rlxx_proverbs.30.7" osisID="rlxx_proverbs.30.7" />δύο αἰτοῦμαι παρὰ σοῦ, μὴ ἀφέλῃς μου χάριν πρὸ τοῦ ἀποθανεῖν με· μάταιον λόγον καὶ ψευδῆ μακράν μου ποίησον, πλοῦτον δὲ καὶ πενίαν μή μοι δῷς, σύνταξον δέ μοι τὰ δέοντα καὶ τὰ αὐτάρκη,<verse eID="rlxx_proverbs.30.7" />
+        <verse sID="rlxx_proverbs.30.9" osisID="rlxx_proverbs.30.9" />ἵνα μὴ πλησθεὶς ψευδὴς γένωμαι καὶ εἴπω Τίς με ὁρᾷ; ἢ πενηθεὶς κλέψω καὶ ὀμόσω τὸ ὄνομα τοῦ θεοῦ.<verse eID="rlxx_proverbs.30.9" />
+        <verse sID="rlxx_proverbs.30.10" osisID="rlxx_proverbs.30.10" />μὴ παραδῷς οἰκέτην εἰς χεῖρας δεσπότου. μήποτε καταράσηταί σε καὶ ἀφανισθῇς.<verse eID="rlxx_proverbs.30.10" />
+        <verse sID="rlxx_proverbs.30.11" osisID="rlxx_proverbs.30.11" />ἔκγονον κακὸν πατέρα καταρᾶται, τὴν δὲ μητέρα οὐκ εὐλογεῖ·<verse eID="rlxx_proverbs.30.11" />
+        <verse sID="rlxx_proverbs.30.12" osisID="rlxx_proverbs.30.12" />ἔκγονον κακὸν δίκαιον ἑαυτὸν κρίνει, τὴν δὲ ἔξοδον αὐτοῦ οὐκ ἀπένιψεν·<verse eID="rlxx_proverbs.30.12" />
+        <verse sID="rlxx_proverbs.30.13" osisID="rlxx_proverbs.30.13" />ἔκγονον κακὸν ὑψηλοὺς ὀφθαλμοὺς ἔχει, τοῖς δὲ βλεφάροις αὐτοῦ ἐπαίρεται·<verse eID="rlxx_proverbs.30.13" />
+        <verse sID="rlxx_proverbs.30.14" osisID="rlxx_proverbs.30.14" />ἔκγονον κακὸν μαχαίρας τοὺς ὀδόντας ἔχει καὶ τὰς μύλας τομίδας, ὥστε ἀναλίσκειν καὶ κατεσθίειν τοὺς ταπεινοὺς ἀπὸ τῆς γῆς καὶ τοὺς πένητας αὐτῶν ἐξ ἀνθρώπων. –––<verse eID="rlxx_proverbs.30.14" />
+      </p>
+      <chapter eID="rlxx_proverbs.30" />
+      <chapter sID="rlxx_proverbs.24" osisID="rlxx_proverbs.24" />
+      <title>Chapter 24</title>
+      <p>
+        <verse sID="rlxx_proverbs.24.23" osisID="rlxx_proverbs.24.23" />Ταῦτα δὲ λέγω ὑμῖν τοῖς σοφοῖς ἐπιγινώσκειν· αἰδεῖσθαι πρόσωπον ἐν κρίσει οὐ καλόν·<verse eID="rlxx_proverbs.24.23" />
+        <verse sID="rlxx_proverbs.24.24" osisID="rlxx_proverbs.24.24" />ὁ εἰπὼν τὸν ἀσεβῆ Δίκαιός ἐστιν, ἐπικατάρατος λαοῖς ἔσται καὶ μισητὸς εἰς ἔθνη·<verse eID="rlxx_proverbs.24.24" />
+        <verse sID="rlxx_proverbs.24.25" osisID="rlxx_proverbs.24.25" />οἱ δὲ ἐλέγχοντες βελτίους φανοῦνται, ἐπ' αὐτοὺς δὲ ἥξει εὐλογία ἀγαθή·<verse eID="rlxx_proverbs.24.25" />
+        <verse sID="rlxx_proverbs.24.26" osisID="rlxx_proverbs.24.26" />χείλη δὲ φιλήσουσιν ἀποκρινόμενα λόγους ἀγαθούς.<verse eID="rlxx_proverbs.24.26" />
+        <verse sID="rlxx_proverbs.24.27" osisID="rlxx_proverbs.24.27" />ἑτοίμαζε εἰς τὴν ἔξοδον τὰ ἔργα σου καὶ παρασκευάζου εἰς τὸν ἀγρὸν καὶ πορεύου κατόπισθέν μου καὶ ἀνοικοδομήσεις τὸν οἶκόν σου. μὴ ἴσθι ψευδὴς μάρτυς ἐπὶ σὸν πολίτην μηδὲ πλατύνου σοῖς χείλεσιν·<verse eID="rlxx_proverbs.24.27" />
+        <verse sID="rlxx_proverbs.24.29" osisID="rlxx_proverbs.24.29" />μὴ εἴπῃς Ὃν τρόπον ἐχρήσατό μοι χρήσομαι αὐτῷ, τείσομαι δὲ αὐτὸν ἅ με ἠδίκησεν.<verse eID="rlxx_proverbs.24.29" />
+        <verse sID="rlxx_proverbs.24.30" osisID="rlxx_proverbs.24.30" />ὥσπερ γεώργιον ἀνὴρ ἄφρων, καὶ ὥσπερ ἀμπελὼν ἄνθρωπος ἐνδεὴς φρενῶν·<verse eID="rlxx_proverbs.24.30" />
+        <verse sID="rlxx_proverbs.24.31" osisID="rlxx_proverbs.24.31" />ἐὰν ἀφῇς αὐτόν, χερσωθήσεται καὶ χορτομανήσει ὅλος καὶ γίνεται ἐκλελειμμένος, οἱ δὲ φραγμοὶ τῶν λίθων αὐτοῦ κατασκάπτονται.<verse eID="rlxx_proverbs.24.31" />
+        <verse sID="rlxx_proverbs.24.32" osisID="rlxx_proverbs.24.32" />ὕστερον ἐγὼ μετενόησα, ἐπέβλεψα τοῦ ἐκλέξασθαι παιδείαν.<verse eID="rlxx_proverbs.24.32" />
+        <verse sID="rlxx_proverbs.24.33" osisID="rlxx_proverbs.24.33" />ὀλίγον νυστάζω, ὀλίγον δὲ καθυπνῶ, ὀλίγον δὲ ἐναγκαλίζομαι χερσὶν στήθη·<verse eID="rlxx_proverbs.24.33" />
+        <verse sID="rlxx_proverbs.24.34" osisID="rlxx_proverbs.24.34" />ἐὰν δὲ τοῦτο ποιῇς, ἥξει προπορευομένη ἡ πενία σου καὶ ἡ ἔνδειά σου ὥσπερ ἀγαθὸς δρομεύς. –––<verse eID="rlxx_proverbs.24.34" />
+      </p>
+      <chapter eID="rlxx_proverbs.24" />
+      <chapter sID="rlxx_proverbs.30" osisID="rlxx_proverbs.30" />
+      <title>Chapter 30</title>
+      <p>
+        <verse sID="rlxx_proverbs.30.15" osisID="rlxx_proverbs.30.15" />Τῇ βδέλλῃ τρεῖς θυγατέρες ἦσαν ἀγαπήσει ἀγαπώμεναι, καὶ αἱ τρεῖς αὗται οὐκ ἐνεπίμπλασαν αὐτήν, καὶ ἡ τετάρτη οὐκ ἠρκέσθη εἰπεῖν Ἱκανόν·<verse eID="rlxx_proverbs.30.15" />
+        <verse sID="rlxx_proverbs.30.16" osisID="rlxx_proverbs.30.16" />ᾅδης καὶ ἔρως γυναικὸς καὶ τάρταρος καὶ γῆ οὐκ ἐμπιπλαμένη ὕδατος καὶ ὕδωρ καὶ πῦρ οὐ μὴ εἴπωσιν Ἀρκεῖ.<verse eID="rlxx_proverbs.30.16" />
+        <verse sID="rlxx_proverbs.30.17" osisID="rlxx_proverbs.30.17" />ὀφθαλμὸν καταγελῶντα πατρὸς καὶ ἀτιμάζοντα γῆρας μητρός, ἐκκόψαισαν αὐτὸν κόρακες ἐκ τῶν φαράγγων, καὶ καταφάγοισαν αὐτὸν νεοσσοὶ ἀετῶν.<verse eID="rlxx_proverbs.30.17" />
+        <verse sID="rlxx_proverbs.30.18" osisID="rlxx_proverbs.30.18" />τρία δέ ἐστιν ἀδύνατά μοι νοῆσαι, καὶ τὸ τέταρτον οὐκ ἐπιγινώσκω·<verse eID="rlxx_proverbs.30.18" />
+        <verse sID="rlxx_proverbs.30.19" osisID="rlxx_proverbs.30.19" />ἴχνη ἀετοῦ πετομένου καὶ ὁδοὺς ὄφεως ἐπὶ πέτρας καὶ τρίβους νηὸς ποντοπορούσης καὶ ὁδοὺς ἀνδρὸς ἐν νεότητι.<verse eID="rlxx_proverbs.30.19" />
+        <verse sID="rlxx_proverbs.30.20" osisID="rlxx_proverbs.30.20" />τοιαύτη ὁδὸς γυναικὸς μοιχαλίδος, ἥ, ὅταν πράξῃ, ἀπονιψαμένη οὐδέν φησιν πεπραχέναι ἄτοπον.<verse eID="rlxx_proverbs.30.20" />
+        <verse sID="rlxx_proverbs.30.21" osisID="rlxx_proverbs.30.21" />διὰ τριῶν σείεται ἡ γῆ, τὸ δὲ τέταρτον οὐ δύναται φέρειν·<verse eID="rlxx_proverbs.30.21" />
+        <verse sID="rlxx_proverbs.30.22" osisID="rlxx_proverbs.30.22" />ἐὰν οἰκέτης βασιλεύσῃ, καὶ ἄφρων πλησθῇ σιτίων,<verse eID="rlxx_proverbs.30.22" />
+        <verse sID="rlxx_proverbs.30.23" osisID="rlxx_proverbs.30.23" />καὶ οἰκέτις ἐὰν ἐκβάλῃ τὴν ἑαυτῆς κυρίαν, καὶ μισητὴ γυνὴ ἐὰν τύχῃ ἀνδρὸς ἀγαθοῦ.<verse eID="rlxx_proverbs.30.23" />
+        <verse sID="rlxx_proverbs.30.24" osisID="rlxx_proverbs.30.24" />τέσσαρα δέ ἐστιν ἐλάχιστα ἐπὶ τῆς γῆς, ταῦτα δέ ἐστιν σοφώτερα τῶν σοφῶν·<verse eID="rlxx_proverbs.30.24" />
+        <verse sID="rlxx_proverbs.30.25" osisID="rlxx_proverbs.30.25" />οἱ μύρμηκες, οἷς μὴ ἔστιν ἰσχὺς καὶ ἑτοιμάζονται θέρους τὴν τροφήν·<verse eID="rlxx_proverbs.30.25" />
+        <verse sID="rlxx_proverbs.30.26" osisID="rlxx_proverbs.30.26" />καὶ οἱ χοιρογρύλλιοι, ἔθνος οὐκ ἰσχυρόν, οἳ ἐποιήσαντο ἐν πέτραις τοὺς ἑαυτῶν οἴκους·<verse eID="rlxx_proverbs.30.26" />
+        <verse sID="rlxx_proverbs.30.27" osisID="rlxx_proverbs.30.27" />ἀβασίλευτόν ἐστιν ἡ ἀκρὶς καὶ ἐκστρατεύει ἀφ' ἑνὸς κελεύσματος εὐτάκτως·<verse eID="rlxx_proverbs.30.27" />
+        <verse sID="rlxx_proverbs.30.28" osisID="rlxx_proverbs.30.28" />καὶ καλαβώτης χερσὶν ἐρειδόμενος καὶ εὐάλωτος ὢν κατοικεῖ ἐν ὀχυρώμασιν βασιλέως.<verse eID="rlxx_proverbs.30.28" />
+        <verse sID="rlxx_proverbs.30.29" osisID="rlxx_proverbs.30.29" />τρία δέ ἐστιν, ἃ εὐόδως πορεύεται, καὶ τὸ τέταρτον, ὃ καλῶς διαβαίνει·<verse eID="rlxx_proverbs.30.29" />
+        <verse sID="rlxx_proverbs.30.30" osisID="rlxx_proverbs.30.30" />σκύμνος λέοντος ἰσχυρότερος κτηνῶν, ὃς οὐκ ἀποστρέφεται οὐδὲ καταπτήσσει κτῆνος,<verse eID="rlxx_proverbs.30.30" />
+        <verse sID="rlxx_proverbs.30.31" osisID="rlxx_proverbs.30.31" />καὶ ἀλέκτωρ ἐμπεριπατῶν θηλείαις εὔψυχος καὶ τράγος ἡγούμενος αἰπολίου καὶ βασιλεὺς δημηγορῶν ἐν ἔθνει.<verse eID="rlxx_proverbs.30.31" />
+        <verse sID="rlxx_proverbs.30.32" osisID="rlxx_proverbs.30.32" />ἐὰν πρόῃ σεαυτὸν εἰς εὐφροσύνην καὶ ἐκτείνῃς τὴν χεῖρά σου μετὰ μάχης, ἀτιμασθήσῃ. ἄμελγε γάλα, καὶ ἔσται βούτυρον· ἐὰν δὲ ἐκπιέζῃς μυκτῆρας, ἐξελεύσεται αἷμα· ἐὰν δὲ ἐξέλκῃς λόγους, ἐξελεύσονται κρίσεις καὶ μάχαι. –––<verse eID="rlxx_proverbs.30.32" />
+      </p>
+      <chapter eID="rlxx_proverbs.30" />
+      <chapter sID="rlxx_proverbs.31" osisID="rlxx_proverbs.31" />
+      <title>Chapter 31</title>
+      <p>
+        <verse sID="rlxx_proverbs.31.1" osisID="rlxx_proverbs.31.1" />Οἱ ἐμοὶ λόγοι εἴρηνται ὑπὸ θεοῦ, βασιλέως χρηματισμός, ὃν ἐπαίδευσεν ἡ μήτηρ αὐτοῦ.<verse eID="rlxx_proverbs.31.1" />
+        <verse sID="rlxx_proverbs.31.2" osisID="rlxx_proverbs.31.2" />τί, τέκνον, τηρήσεις; τί; ῥήσεις θεοῦ· πρωτογενές, σοὶ λέγω, υἱέ· τί, τέκνον ἐμῆς κοιλίας; τί, τέκνον ἐμῶν εὐχῶν;<verse eID="rlxx_proverbs.31.2" />
+        <verse sID="rlxx_proverbs.31.3" osisID="rlxx_proverbs.31.3" />μὴ δῷς γυναιξὶ σὸν πλοῦτον καὶ τὸν σὸν νοῦν καὶ βίον εἰς ὑστεροβουλίαν.<verse eID="rlxx_proverbs.31.3" />
+        <verse sID="rlxx_proverbs.31.4" osisID="rlxx_proverbs.31.4" />μετὰ βουλῆς πάντα ποίει, μετὰ βουλῆς οἰνοπότει· οἱ δυνάσται θυμώδεις εἰσίν, οἶνον δὲ μὴ πινέτωσαν,<verse eID="rlxx_proverbs.31.4" />
+        <verse sID="rlxx_proverbs.31.5" osisID="rlxx_proverbs.31.5" />ἵνα μὴ πιόντες ἐπιλάθωνται τῆς σοφίας καὶ ὀρθὰ κρῖναι οὐ μὴ δύνωνται τοὺς ἀσθενεῖς.<verse eID="rlxx_proverbs.31.5" />
+        <verse sID="rlxx_proverbs.31.6" osisID="rlxx_proverbs.31.6" />δίδοτε μέθην τοῖς ἐν λύπαις καὶ οἶνον πίνειν τοῖς ἐν ὀδύναις,<verse eID="rlxx_proverbs.31.6" />
+        <verse sID="rlxx_proverbs.31.7" osisID="rlxx_proverbs.31.7" />ἵνα ἐπιλάθωνται τῆς πενίας καὶ τῶν πόνων μὴ μνησθῶσιν ἔτι.<verse eID="rlxx_proverbs.31.7" />
+        <verse sID="rlxx_proverbs.31.8" osisID="rlxx_proverbs.31.8" />ἄνοιγε σὸν στόμα λόγῳ θεοῦ καὶ κρῖνε πάντας ὑγιῶς·<verse eID="rlxx_proverbs.31.8" />
+        <verse sID="rlxx_proverbs.31.9" osisID="rlxx_proverbs.31.9" />ἄνοιγε σὸν στόμα καὶ κρῖνε δικαίως, διάκρινε δὲ πένητα καὶ ἀσθενῆ. –––<verse eID="rlxx_proverbs.31.9" />
+      </p>
+      <chapter eID="rlxx_proverbs.31" />
+      <chapter sID="rlxx_proverbs.25" osisID="rlxx_proverbs.25" />
+      <title>Chapter 25</title>
+      <p>
+        <verse sID="rlxx_proverbs.25.1" osisID="rlxx_proverbs.25.1" />Αὗται αἱ παιδεῖαι Σαλωμῶντος αἱ ἀδιάκριτοι, ἃς ἐξεγράψαντο οἱ φίλοι Εζεκιου τοῦ βασιλέως τῆς Ιουδαίας.<verse eID="rlxx_proverbs.25.1" />
+        <verse sID="rlxx_proverbs.25.2" osisID="rlxx_proverbs.25.2" />Δόξα θεοῦ κρύπτει λόγον, δόξα δὲ βασιλέως τιμᾷ πράγματα.<verse eID="rlxx_proverbs.25.2" />
+        <verse sID="rlxx_proverbs.25.3" osisID="rlxx_proverbs.25.3" />οὐρανὸς ὑψηλός, γῆ δὲ βαθεῖα, καρδία δὲ βασιλέως ἀνεξέλεγκτος.<verse eID="rlxx_proverbs.25.3" />
+        <verse sID="rlxx_proverbs.25.4" osisID="rlxx_proverbs.25.4" />τύπτε ἀδόκιμον ἀργύριον, καὶ καθαρισθήσεται καθαρὸν ἅπαν·<verse eID="rlxx_proverbs.25.4" />
+        <verse sID="rlxx_proverbs.25.5" osisID="rlxx_proverbs.25.5" />κτεῖνε ἀσεβεῖς ἐκ προσώπου βασιλέως, καὶ κατορθώσει ἐν δικαιοσύνῃ ὁ θρόνος αὐτοῦ.<verse eID="rlxx_proverbs.25.5" />
+        <verse sID="rlxx_proverbs.25.6" osisID="rlxx_proverbs.25.6" />μὴ ἀλαζονεύου ἐνώπιον βασιλέως μηδὲ ἐν τόποις δυναστῶν ὑφίστασο·<verse eID="rlxx_proverbs.25.6" />
+        <verse sID="rlxx_proverbs.25.7" osisID="rlxx_proverbs.25.7" />κρεῖσσον γάρ σοι τὸ ῥηθῆναι Ἀνάβαινε πρός με, ἢ ταπεινῶσαί σε ἐν προσώπῳ δυνάστου. ἃ εἶδον οἱ ὀφθαλμοί σου, λέγε.<verse eID="rlxx_proverbs.25.7" />
+        <verse sID="rlxx_proverbs.25.8" osisID="rlxx_proverbs.25.8" />μὴ πρόσπιπτε εἰς μάχην ταχέως, ἵνα μὴ μεταμεληθῇς ἐπ' ἐσχάτων. ἡνίκα ἄν σε ὀνειδίσῃ ὁ σὸς φίλος,<verse eID="rlxx_proverbs.25.8" />
+        <verse sID="rlxx_proverbs.25.9" osisID="rlxx_proverbs.25.9" />ἀναχώρει εἰς τὰ ὀπίσω, μὴ καταφρόνει,<verse eID="rlxx_proverbs.25.9" />
+        <verse sID="rlxx_proverbs.25.10" osisID="rlxx_proverbs.25.10" />μή σε ὀνειδίσῃ μὲν ὁ φίλος, ἡ δὲ μάχη σου καὶ ἡ ἔχθρα οὐκ ἀπέσται, ἀλλ' ἔσται σοι ἴση θανάτῳ.<verse eID="rlxx_proverbs.25.10" />
+        <verse sID="rlxx_proverbs.25.10a" osisID="rlxx_proverbs.25.10a" />χάρις καὶ φιλία ἐλευθεροῖ, ἃς τήρησον σεαυτῷ, ἵνα μὴ ἐπονείδιστος γένῃ, ἀλλὰ φύλαξον τὰς ὁδούς σου εὐσυναλλάκτως.<verse eID="rlxx_proverbs.25.10a" />
+        <verse sID="rlxx_proverbs.25.11" osisID="rlxx_proverbs.25.11" />μῆλον χρυσοῦν ἐν ὁρμίσκῳ σαρδίου, οὕτως εἰπεῖν λόγον.<verse eID="rlxx_proverbs.25.11" />
+        <verse sID="rlxx_proverbs.25.12" osisID="rlxx_proverbs.25.12" />εἰς ἐνώτιον χρυσοῦν σάρδιον πολυτελὲς δέδεται, λόγος σοφὸς εἰς εὐήκοον οὖς. ὥσπερ ἔξοδος χιόνος ἐν ἀμήτῳ κατὰ καῦμα ὠφελεῖ, οὕτως ἄγγελος πιστὸς τοὺς ἀποστείλαντας αὐτόν· ψυχὰς γὰρ τῶν αὐτῷ χρωμένων ὠφελεῖ.<verse eID="rlxx_proverbs.25.12" />
+        <verse sID="rlxx_proverbs.25.14" osisID="rlxx_proverbs.25.14" />ὥσπερ ἄνεμοι καὶ νέφη καὶ ὑετοὶ ἐπιφανέστατοι, οὕτως οἱ καυχώμενοι ἐπὶ δόσει ψευδεῖ.<verse eID="rlxx_proverbs.25.14" />
+        <verse sID="rlxx_proverbs.25.15" osisID="rlxx_proverbs.25.15" />ἐν μακροθυμίᾳ εὐοδία βασιλεῦσιν, γλῶσσα δὲ μαλακὴ συντρίβει ὀστᾶ.<verse eID="rlxx_proverbs.25.15" />
+        <verse sID="rlxx_proverbs.25.16" osisID="rlxx_proverbs.25.16" />μέλι εὑρὼν φάγε τὸ ἱκανόν, μήποτε πλησθεὶς ἐξεμέσῃς.<verse eID="rlxx_proverbs.25.16" />
+        <verse sID="rlxx_proverbs.25.17" osisID="rlxx_proverbs.25.17" />σπάνιον εἴσαγε σὸν πόδα πρὸς τὸν σεαυτοῦ φίλον, μήποτε πλησθείς σου μισήσῃ σε.<verse eID="rlxx_proverbs.25.17" />
+        <verse sID="rlxx_proverbs.25.18" osisID="rlxx_proverbs.25.18" />ῥόπαλον καὶ μάχαιρα καὶ τόξευμα ἀκιδωτόν, οὕτως καὶ ἀνὴρ ὁ καταμαρτυρῶν τοῦ φίλου αὐτοῦ μαρτυρίαν ψευδῆ.<verse eID="rlxx_proverbs.25.18" />
+        <verse sID="rlxx_proverbs.25.19" osisID="rlxx_proverbs.25.19" />ὀδοὺς κακοῦ καὶ ποὺς παρανόμου ὀλεῖται ἐν ἡμέρᾳ κακῇ.<verse eID="rlxx_proverbs.25.19" />
+        <verse sID="rlxx_proverbs.25.20" osisID="rlxx_proverbs.25.20" />ὥσπερ ὄξος ἕλκει ἀσύμφορον, οὕτως προσπεσὸν πάθος ἐν σώματι καρδίαν λυπεῖ.<verse eID="rlxx_proverbs.25.20" />
+        <verse sID="rlxx_proverbs.25.20a" osisID="rlxx_proverbs.25.20a" />ὥσπερ σὴς ἱματίῳ καὶ σκώληξ ξύλῳ, οὕτως λύπη ἀνδρὸς βλάπτει καρδίαν.<verse eID="rlxx_proverbs.25.20a" />
+        <verse sID="rlxx_proverbs.25.21" osisID="rlxx_proverbs.25.21" />ἐὰν πεινᾷ ὁ ἐχθρός σου, τρέφε αὐτόν, ἐὰν διψᾷ, πότιζε αὐτόν·<verse eID="rlxx_proverbs.25.21" />
+        <verse sID="rlxx_proverbs.25.22" osisID="rlxx_proverbs.25.22" />τοῦτο γὰρ ποιῶν ἄνθρακας πυρὸς σωρεύσεις ἐπὶ τὴν κεφαλὴν αὐτοῦ, ὁ δὲ κύριος ἀνταποδώσει σοι ἀγαθά.<verse eID="rlxx_proverbs.25.22" />
+        <verse sID="rlxx_proverbs.25.23" osisID="rlxx_proverbs.25.23" />ἄνεμος βορέας ἐξεγείρει νέφη, πρόσωπον δὲ ἀναιδὲς γλῶσσαν ἐρεθίζει.<verse eID="rlxx_proverbs.25.23" />
+        <verse sID="rlxx_proverbs.25.24" osisID="rlxx_proverbs.25.24" />κρεῖττον οἰκεῖν ἐπὶ γωνίας δώματος ἢ μετὰ γυναικὸς λοιδόρου ἐν οἰκίᾳ κοινῇ.<verse eID="rlxx_proverbs.25.24" />
+        <verse sID="rlxx_proverbs.25.25" osisID="rlxx_proverbs.25.25" />ὥσπερ ὕδωρ ψυχρὸν ψυχῇ διψώσῃ προσηνές, οὕτως ἀγγελία ἀγαθὴ ἐκ γῆς μακρόθεν. ὥσπερ εἴ τις πηγὴν φράσσοι καὶ ὕδατος ἔξοδον λυμαίνοιτο, οὕτως ἄκοσμον δίκαιον πεπτωκέναι ἐνώπιον ἀσεβοῦς.<verse eID="rlxx_proverbs.25.25" />
+        <verse sID="rlxx_proverbs.25.27" osisID="rlxx_proverbs.25.27" />ἐσθίειν μέλι πολὺ οὐ καλόν, τιμᾶν δὲ χρὴ λόγους ἐνδόξους.<verse eID="rlxx_proverbs.25.27" />
+        <verse sID="rlxx_proverbs.25.28" osisID="rlxx_proverbs.25.28" />ὥσπερ πόλις τὰ τείχη καταβεβλημένη καὶ ἀτείχιστος, οὕτως ἀνὴρ ὃς οὐ μετὰ βουλῆς τι πράσσει.<verse eID="rlxx_proverbs.25.28" />
+      </p>
+      <chapter eID="rlxx_proverbs.25" />
+      <chapter sID="rlxx_proverbs.26" osisID="rlxx_proverbs.26" />
+      <title>Chapter 26</title>
+      <p>
+        <verse sID="rlxx_proverbs.26.1" osisID="rlxx_proverbs.26.1" />ὥσπερ δρόσος ἐν ἀμήτῳ καὶ ὥσπερ ὑετὸς ἐν θέρει, οὕτως οὐκ ἔστιν ἄφρονι τιμή.<verse eID="rlxx_proverbs.26.1" />
+        <verse sID="rlxx_proverbs.26.2" osisID="rlxx_proverbs.26.2" />ὥσπερ ὄρνεα πέταται καὶ στρουθοί, οὕτως ἀρὰ ματαία οὐκ ἐπελεύσεται οὐδενί.<verse eID="rlxx_proverbs.26.2" />
+        <verse sID="rlxx_proverbs.26.3" osisID="rlxx_proverbs.26.3" />ὥσπερ μάστιξ ἵππῳ καὶ κέντρον ὄνῳ, οὕτως ῥάβδος ἔθνει παρανόμῳ.<verse eID="rlxx_proverbs.26.3" />
+        <verse sID="rlxx_proverbs.26.4" osisID="rlxx_proverbs.26.4" />μὴ ἀποκρίνου ἄφρονι πρὸς τὴν ἐκείνου ἀφροσύνην, ἵνα μὴ ὅμοιος γένῃ αὐτῷ·<verse eID="rlxx_proverbs.26.4" />
+        <verse sID="rlxx_proverbs.26.5" osisID="rlxx_proverbs.26.5" />ἀλλὰ ἀποκρίνου ἄφρονι κατὰ τὴν ἀφροσύνην αὐτοῦ, ἵνα μὴ φαίνηται σοφὸς παρ' ἑαυτῷ.<verse eID="rlxx_proverbs.26.5" />
+        <verse sID="rlxx_proverbs.26.6" osisID="rlxx_proverbs.26.6" />ἐκ τῶν ἑαυτοῦ ποδῶν ὄνειδος πίεται ὁ ἀποστείλας δι' ἀγγέλου ἄφρονος λόγον.<verse eID="rlxx_proverbs.26.6" />
+        <verse sID="rlxx_proverbs.26.7" osisID="rlxx_proverbs.26.7" />ἀφελοῦ πορείαν σκελῶν καὶ παροιμίαν ἐκ στόματος ἀφρόνων.<verse eID="rlxx_proverbs.26.7" />
+        <verse sID="rlxx_proverbs.26.8" osisID="rlxx_proverbs.26.8" />ὃς ἀποδεσμεύει λίθον ἐν σφενδόνῃ, ὅμοιός ἐστιν τῷ διδόντι ἄφρονι δόξαν.<verse eID="rlxx_proverbs.26.8" />
+        <verse sID="rlxx_proverbs.26.9" osisID="rlxx_proverbs.26.9" />ἄκανθαι φύονται ἐν χειρὶ τοῦ μεθύσου, δουλεία δὲ ἐν χειρὶ τῶν ἀφρόνων.<verse eID="rlxx_proverbs.26.9" />
+        <verse sID="rlxx_proverbs.26.10" osisID="rlxx_proverbs.26.10" />πολλὰ χειμάζεται πᾶσα σὰρξ ἀφρόνων· συντρίβεται γὰρ ἡ ἔκστασις αὐτῶν.<verse eID="rlxx_proverbs.26.10" />
+        <verse sID="rlxx_proverbs.26.11" osisID="rlxx_proverbs.26.11" />ὥσπερ κύων ὅταν ἐπέλθῃ ἐπὶ τὸν ἑαυτοῦ ἔμετον καὶ μισητὸς γένηται, οὕτως ἄφρων τῇ ἑαυτοῦ κακίᾳ ἀναστρέψας ἐπὶ τὴν ἑαυτοῦ ἁμαρτίαν. ἔστιν αἰσχύνη ἐπάγουσα ἁμαρτίαν, καὶ ἔστιν αἰσχύνη δόξα καὶ χάρις.<verse eID="rlxx_proverbs.26.11" />
+        <verse sID="rlxx_proverbs.26.12" osisID="rlxx_proverbs.26.12" />εἶδον ἄνδρα δόξαντα παρ' ἑαυτῷ σοφὸν εἶναι, ἐλπίδα μέντοι ἔσχεν μᾶλλον ἄφρων αὐτοῦ.<verse eID="rlxx_proverbs.26.12" />
+        <verse sID="rlxx_proverbs.26.13" osisID="rlxx_proverbs.26.13" />λέγει ὀκνηρὸς ἀποστελλόμενος εἰς ὁδόν Λέων ἐν ταῖς ὁδοῖς.<verse eID="rlxx_proverbs.26.13" />
+        <verse sID="rlxx_proverbs.26.14" osisID="rlxx_proverbs.26.14" />ὥσπερ θύρα στρέφεται ἐπὶ τοῦ στρόφιγγος, οὕτως ὀκνηρὸς ἐπὶ τῆς κλίνης αὐτοῦ.<verse eID="rlxx_proverbs.26.14" />
+        <verse sID="rlxx_proverbs.26.15" osisID="rlxx_proverbs.26.15" />κρύψας ὀκνηρὸς τὴν χεῖρα ἐν τῷ κόλπῳ αὐτοῦ οὐ δυνήσεται ἐπενεγκεῖν ἐπὶ τὸ στόμα.<verse eID="rlxx_proverbs.26.15" />
+        <verse sID="rlxx_proverbs.26.16" osisID="rlxx_proverbs.26.16" />σοφώτερος ἑαυτῷ ὀκνηρὸς φαίνεται τοῦ ἐν πλησμονῇ ἀποκομίζοντος ἀγγελίαν.<verse eID="rlxx_proverbs.26.16" />
+        <verse sID="rlxx_proverbs.26.17" osisID="rlxx_proverbs.26.17" />ὥσπερ ὁ κρατῶν κέρκου κυνός, οὕτως ὁ προεστὼς ἀλλοτρίας κρίσεως.<verse eID="rlxx_proverbs.26.17" />
+        <verse sID="rlxx_proverbs.26.18" osisID="rlxx_proverbs.26.18" />ὥσπερ οἱ ἰώμενοι προβάλλουσιν λόγους εἰς ἀνθρώπους, ὁ δὲ ἀπαντήσας τῷ λόγῳ πρῶτος ὑποσκελισθήσεται,<verse eID="rlxx_proverbs.26.18" />
+        <verse sID="rlxx_proverbs.26.19" osisID="rlxx_proverbs.26.19" />οὕτως πάντες οἱ ἐνεδρεύοντες τοὺς ἑαυτῶν φίλους, ὅταν δὲ φωραθῶσιν, λέγουσιν ὅτι Παίζων ἔπραξα.<verse eID="rlxx_proverbs.26.19" />
+        <verse sID="rlxx_proverbs.26.20" osisID="rlxx_proverbs.26.20" />ἐν πολλοῖς ξύλοις θάλλει πῦρ, ὅπου δὲ οὐκ ἔστιν δίθυμος, ἡσυχάζει μάχη.<verse eID="rlxx_proverbs.26.20" />
+        <verse sID="rlxx_proverbs.26.21" osisID="rlxx_proverbs.26.21" />ἐσχάρα ἄνθραξιν καὶ ξύλα πυρί, ἀνὴρ δὲ λοίδορος εἰς ταραχὴν μάχης.<verse eID="rlxx_proverbs.26.21" />
+        <verse sID="rlxx_proverbs.26.22" osisID="rlxx_proverbs.26.22" />λόγοι κερκώπων μαλακοί, οὗτοι δὲ τύπτουσιν εἰς ταμίεια σπλάγχνων.<verse eID="rlxx_proverbs.26.22" />
+        <verse sID="rlxx_proverbs.26.23" osisID="rlxx_proverbs.26.23" />ἀργύριον διδόμενον μετὰ δόλου ὥσπερ ὄστρακον ἡγητέον. χείλη λεῖα καρδίαν καλύπτει λυπηράν.<verse eID="rlxx_proverbs.26.23" />
+        <verse sID="rlxx_proverbs.26.24" osisID="rlxx_proverbs.26.24" />χείλεσιν πάντα ἐπινεύει ἀποκλαιόμενος ἐχθρός, ἐν δὲ τῇ καρδίᾳ τεκταίνεται δόλους·<verse eID="rlxx_proverbs.26.24" />
+        <verse sID="rlxx_proverbs.26.25" osisID="rlxx_proverbs.26.25" />ἐάν σου δέηται ὁ ἐχθρὸς μεγάλῃ τῇ φωνῇ, μὴ πεισθῇς· ἑπτὰ γάρ εἰσιν πονηρίαι ἐν τῇ ψυχῇ αὐτοῦ. ὁ κρύπτων ἔχθραν συνίστησιν δόλον, ἐκκαλύπτει δὲ τὰς ἑαυτοῦ ἁμαρτίας εὔγνωστος ἐν συν<verse eID="rlxx_proverbs.26.25" />
+        <verse sID="rlxx_proverbs.26.26" osisID="rlxx_proverbs.26.26" />εδρίοις.<verse eID="rlxx_proverbs.26.26" />
+        <verse sID="rlxx_proverbs.26.27" osisID="rlxx_proverbs.26.27" />ὁ ὀρύσσων βόθρον τῷ πλησίον ἐμπεσεῖται εἰς αὐτόν, ὁ δὲ κυλίων λίθον ἐφ' ἑαυτὸν κυλίει.<verse eID="rlxx_proverbs.26.27" />
+        <verse sID="rlxx_proverbs.26.28" osisID="rlxx_proverbs.26.28" />γλῶσσα ψευδὴς μισεῖ ἀλήθειαν, στόμα δὲ ἄστεγον ποιεῖ ἀκαταστασίας.<verse eID="rlxx_proverbs.26.28" />
+      </p>
+      <chapter eID="rlxx_proverbs.26" />
+      <chapter sID="rlxx_proverbs.27" osisID="rlxx_proverbs.27" />
+      <title>Chapter 27</title>
+      <p>
+        <verse sID="rlxx_proverbs.27.1" osisID="rlxx_proverbs.27.1" />μὴ καυχῶ τὰ εἰς αὔριον· οὐ γὰρ γινώσκεις τί τέξεται ἡ ἐπιοῦσα.<verse eID="rlxx_proverbs.27.1" />
+        <verse sID="rlxx_proverbs.27.2" osisID="rlxx_proverbs.27.2" />ἐγκωμιαζέτω σε ὁ πέλας καὶ μὴ τὸ σὸν στόμα, ἀλλότριος καὶ μὴ τὰ σὰ χείλη.<verse eID="rlxx_proverbs.27.2" />
+        <verse sID="rlxx_proverbs.27.3" osisID="rlxx_proverbs.27.3" />βαρὺ λίθος καὶ δυσβάστακτον ἄμμος, ὀργὴ δὲ ἄφρονος βαρυτέρα ἀμφοτέρων.<verse eID="rlxx_proverbs.27.3" />
+        <verse sID="rlxx_proverbs.27.4" osisID="rlxx_proverbs.27.4" />ἀνελεήμων θυμὸς καὶ ὀξεῖα ὀργή, ἀλλ' οὐδένα ὑφίσταται ζῆλος.<verse eID="rlxx_proverbs.27.4" />
+        <verse sID="rlxx_proverbs.27.5" osisID="rlxx_proverbs.27.5" />κρείσσους ἔλεγχοι ἀποκεκαλυμμένοι κρυπτομένης φιλίας.<verse eID="rlxx_proverbs.27.5" />
+        <verse sID="rlxx_proverbs.27.6" osisID="rlxx_proverbs.27.6" />ἀξιοπιστότερά ἐστιν τραύματα φίλου ἢ ἑκούσια φιλήματα ἐχθροῦ.<verse eID="rlxx_proverbs.27.6" />
+        <verse sID="rlxx_proverbs.27.7" osisID="rlxx_proverbs.27.7" />ψυχὴ ἐν πλησμονῇ οὖσα κηρίοις ἐμπαίζει, ψυχῇ δὲ ἐνδεεῖ καὶ τὰ πικρὰ γλυκεῖα φαίνεται.<verse eID="rlxx_proverbs.27.7" />
+        <verse sID="rlxx_proverbs.27.8" osisID="rlxx_proverbs.27.8" />ὥσπερ ὅταν ὄρνεον καταπετασθῇ ἐκ τῆς ἰδίας νοσσιᾶς, οὕτως ἄνθρωπος δουλοῦται, ὅταν ἀποξενωθῇ ἐκ τῶν ἰδίων τόπων.<verse eID="rlxx_proverbs.27.8" />
+        <verse sID="rlxx_proverbs.27.9" osisID="rlxx_proverbs.27.9" />μύροις καὶ οἴνοις καὶ θυμιάμασιν τέρπεται καρδία, καταρρήγνυται δὲ ὑπὸ συμπτωμάτων ψυχή.<verse eID="rlxx_proverbs.27.9" />
+        <verse sID="rlxx_proverbs.27.10" osisID="rlxx_proverbs.27.10" />φίλον σὸν ἢ φίλον πατρῷον μὴ ἐγκαταλίπῃς, εἰς δὲ τὸν οἶκον τοῦ ἀδελφοῦ σου μὴ εἰσέλθῃς ἀτυχῶν· κρείσσων φίλος ἐγγὺς ἢ ἀδελφὸς μακρὰν οἰκῶν.<verse eID="rlxx_proverbs.27.10" />
+        <verse sID="rlxx_proverbs.27.11" osisID="rlxx_proverbs.27.11" />σοφὸς γίνου, υἱέ, ἵνα εὐφραίνηταί μου ἡ καρδία, καὶ ἀπόστρεψον ἀπὸ σοῦ ἐπονειδίστους λόγους. πανοῦργος κακῶν ἐπερχομένων ἀπεκρύβη, ἄφρονες δὲ ἐπελθόντες ζημίαν τείσουσιν.<verse eID="rlxx_proverbs.27.11" />
+        <verse sID="rlxx_proverbs.27.13" osisID="rlxx_proverbs.27.13" />ἀφελοῦ τὸ ἱμάτιον αὐτοῦ, παρῆλθεν γάρ· ὑβριστὴς ὅστις τὰ ἀλλότρια λυμαίνεται.<verse eID="rlxx_proverbs.27.13" />
+        <verse sID="rlxx_proverbs.27.14" osisID="rlxx_proverbs.27.14" />ὃς ἂν εὐλογῇ φίλον τὸ πρωὶ μεγάλῃ τῇ φωνῇ, καταρωμένου οὐδὲν διαφέρειν δόξει.<verse eID="rlxx_proverbs.27.14" />
+        <verse sID="rlxx_proverbs.27.15" osisID="rlxx_proverbs.27.15" />σταγόνες ἐκβάλλουσιν ἄνθρωπον ἐν ἡμέρᾳ χειμερινῇ ἐκ τοῦ οἴκου αὐτοῦ, ὡσαύτως καὶ γυνὴ λοίδορος ἐκ τοῦ ἰδίου οἴκου.<verse eID="rlxx_proverbs.27.15" />
+        <verse sID="rlxx_proverbs.27.16" osisID="rlxx_proverbs.27.16" />βορέας σκληρὸς ἄνεμος, ὀνόματι δὲ ἐπιδέξιος καλεῖται.<verse eID="rlxx_proverbs.27.16" />
+        <verse sID="rlxx_proverbs.27.17" osisID="rlxx_proverbs.27.17" />σίδηρος σίδηρον ὀξύνει, ἀνὴρ δὲ παροξύνει πρόσωπον ἑταίρου.<verse eID="rlxx_proverbs.27.17" />
+        <verse sID="rlxx_proverbs.27.18" osisID="rlxx_proverbs.27.18" />ὃς φυτεύει συκῆν, φάγεται τοὺς καρποὺς αὐτῆς· ὃς δὲ φυλάσσει τὸν ἑαυτοῦ κύριον, τιμηθήσεται.<verse eID="rlxx_proverbs.27.18" />
+        <verse sID="rlxx_proverbs.27.19" osisID="rlxx_proverbs.27.19" />ὥσπερ οὐχ ὅμοια πρόσωπα προσώποις, οὕτως οὐδὲ αἱ καρδίαι τῶν ἀνθρώπων.<verse eID="rlxx_proverbs.27.19" />
+        <verse sID="rlxx_proverbs.27.20" osisID="rlxx_proverbs.27.20" />ᾅδης καὶ ἀπώλεια οὐκ ἐμπίμπλανται, ὡσαύτως καὶ οἱ ὀφθαλμοὶ τῶν ἀνθρώπων ἄπληστοι.<verse eID="rlxx_proverbs.27.20" />
+        <verse sID="rlxx_proverbs.27.20a" osisID="rlxx_proverbs.27.20a" />βδέλυγμα κυρίῳ στηρίζων ὀφθαλμόν, καὶ οἱ ἀπαίδευτοι ἀκρατεῖς γλώσσῃ.<verse eID="rlxx_proverbs.27.20a" />
+        <verse sID="rlxx_proverbs.27.21" osisID="rlxx_proverbs.27.21" />δοκίμιον ἀργύρῳ καὶ χρυσῷ πύρωσις, ἀνὴρ δὲ δοκιμάζεται διὰ στόματος ἐγκωμιαζόντων αὐτόν.<verse eID="rlxx_proverbs.27.21" />
+        <verse sID="rlxx_proverbs.27.21a" osisID="rlxx_proverbs.27.21a" />καρδία ἀνόμου ἐκζητεῖ κακά, καρδία δὲ εὐθὴς ἐκζητεῖ γνῶσιν.<verse eID="rlxx_proverbs.27.21a" />
+        <verse sID="rlxx_proverbs.27.22" osisID="rlxx_proverbs.27.22" />ἐὰν μαστιγοῖς ἄφρονα ἐν μέσῳ συνεδρίου ἀτιμάζων, οὐ μὴ περιέλῃς τὴν ἀφροσύνην αὐτοῦ.<verse eID="rlxx_proverbs.27.22" />
+        <verse sID="rlxx_proverbs.27.23" osisID="rlxx_proverbs.27.23" />γνωστῶς ἐπιγνώσῃ ψυχὰς ποιμνίου σου καὶ ἐπιστήσεις καρδίαν σου σαῖς ἀγέλαις· ὅτι οὐ τὸν αἰῶνα ἀνδρὶ κράτος καὶ ἰσχύς, οὐδὲ παραδίδωσιν ἐκ γενεᾶς εἰς γενεάν.<verse eID="rlxx_proverbs.27.23" />
+        <verse sID="rlxx_proverbs.27.25" osisID="rlxx_proverbs.27.25" />ἐπιμελοῦ τῶν ἐν τῷ πεδίῳ χλωρῶν καὶ κερεῖς πόαν καὶ σύναγε χόρτον ὀρεινόν,<verse eID="rlxx_proverbs.27.25" />
+        <verse sID="rlxx_proverbs.27.26" osisID="rlxx_proverbs.27.26" />ἵνα ἔχῃς πρόβατα εἰς ἱματισμόν· τίμα πεδίον, ἵνα ὦσίν σοι ἄρνες.<verse eID="rlxx_proverbs.27.26" />
+        <verse sID="rlxx_proverbs.27.27" osisID="rlxx_proverbs.27.27" />υἱέ, παρ' ἐμοῦ ἔχεις ῥήσεις ἰσχυρὰς εἰς τὴν ζωήν σου καὶ εἰς τὴν ζωὴν σῶν θεραπόντων.<verse eID="rlxx_proverbs.27.27" />
+      </p>
+      <chapter eID="rlxx_proverbs.27" />
+      <chapter sID="rlxx_proverbs.28" osisID="rlxx_proverbs.28" />
+      <title>Chapter 28</title>
+      <p>
+        <verse sID="rlxx_proverbs.28.1" osisID="rlxx_proverbs.28.1" />φεύγει ἀσεβὴς μηδενὸς διώκοντος, δίκαιος δὲ ὥσπερ λέων πέποιθεν.<verse eID="rlxx_proverbs.28.1" />
+        <verse sID="rlxx_proverbs.28.2" osisID="rlxx_proverbs.28.2" />δι' ἁμαρτίας ἀσεβῶν κρίσεις ἐγείρονται, ἀνὴρ δὲ πανοῦργος κατασβέσει αὐτάς.<verse eID="rlxx_proverbs.28.2" />
+        <verse sID="rlxx_proverbs.28.3" osisID="rlxx_proverbs.28.3" />ἀνδρεῖος ἐν ἀσεβείαις συκοφαντεῖ πτωχούς. ὥσπερ ὑετὸς λάβρος καὶ ἀνωφελής,<verse eID="rlxx_proverbs.28.3" />
+        <verse sID="rlxx_proverbs.28.4" osisID="rlxx_proverbs.28.4" />οὕτως οἱ ἐγκαταλείποντες τὸν νόμον ἐγκωμιάζουσιν ἀσέβειαν, οἱ δὲ ἀγαπῶντες τὸν νόμον περιβάλλουσιν ἑαυτοῖς τεῖχος.<verse eID="rlxx_proverbs.28.4" />
+        <verse sID="rlxx_proverbs.28.5" osisID="rlxx_proverbs.28.5" />ἄνδρες κακοὶ οὐ νοήσουσιν κρίμα, οἱ δὲ ζητοῦντες τὸν κύριον συνήσουσιν ἐν παντί.<verse eID="rlxx_proverbs.28.5" />
+        <verse sID="rlxx_proverbs.28.6" osisID="rlxx_proverbs.28.6" />κρείσσων πτωχὸς πορευόμενος ἐν ἀληθείᾳ πλουσίου ψευδοῦς.<verse eID="rlxx_proverbs.28.6" />
+        <verse sID="rlxx_proverbs.28.7" osisID="rlxx_proverbs.28.7" />φυλάσσει νόμον υἱὸς συνετός· ὃς δὲ ποιμαίνει ἀσωτίαν, ἀτιμάζει πατέρα.<verse eID="rlxx_proverbs.28.7" />
+        <verse sID="rlxx_proverbs.28.8" osisID="rlxx_proverbs.28.8" />ὁ πληθύνων τὸν πλοῦτον αὐτοῦ μετὰ τόκων καὶ πλεονασμῶν τῷ ἐλεῶντι πτωχοὺς συνάγει αὐτόν.<verse eID="rlxx_proverbs.28.8" />
+        <verse sID="rlxx_proverbs.28.9" osisID="rlxx_proverbs.28.9" />ὁ ἐκκλίνων τὸ οὖς αὐτοῦ τοῦ μὴ εἰσακοῦσαι νόμου καὶ αὐτὸς τὴν προσευχὴν αὐτοῦ ἐβδέλυκται.<verse eID="rlxx_proverbs.28.9" />
+        <verse sID="rlxx_proverbs.28.10" osisID="rlxx_proverbs.28.10" />ὃς πλανᾷ εὐθεῖς ἐν ὁδῷ κακῇ, εἰς διαφθορὰν αὐτὸς ἐμπεσεῖται· οἱ δὲ ἄνομοι διελεύσονται ἀγαθὰ καὶ οὐκ εἰσελεύσονται εἰς αὐτά. σοφὸς παρ' ἑαυτῷ ἀνὴρ πλούσιος, πένης δὲ νοήμων καταγνώσεται αὐτοῦ.<verse eID="rlxx_proverbs.28.10" />
+        <verse sID="rlxx_proverbs.28.12" osisID="rlxx_proverbs.28.12" />διὰ βοήθειαν δικαίων πολλὴ γίνεται δόξα, ἐν δὲ τόποις ἀσεβῶν ἁλίσκονται ἄνθρωποι.<verse eID="rlxx_proverbs.28.12" />
+        <verse sID="rlxx_proverbs.28.13" osisID="rlxx_proverbs.28.13" />ὁ ἐπικαλύπτων ἀσέβειαν ἑαυτοῦ οὐκ εὐοδωθήσεται, ὁ δὲ ἐξηγούμενος ἐλέγχους ἀγαπηθήσεται.<verse eID="rlxx_proverbs.28.13" />
+        <verse sID="rlxx_proverbs.28.14" osisID="rlxx_proverbs.28.14" />μακάριος ἀνήρ, ὃς καταπτήσσει πάντα δι' εὐλάβειαν, ὁ δὲ σκληρὸς τὴν καρδίαν ἐμπεσεῖται κακοῖς.<verse eID="rlxx_proverbs.28.14" />
+        <verse sID="rlxx_proverbs.28.15" osisID="rlxx_proverbs.28.15" />λέων πεινῶν καὶ λύκος διψῶν ὃς τυραννεῖ πτωχὸς ὢν ἔθνους πενιχροῦ.<verse eID="rlxx_proverbs.28.15" />
+        <verse sID="rlxx_proverbs.28.16" osisID="rlxx_proverbs.28.16" />βασιλεὺς ἐνδεὴς προσόδων μέγας συκοφάντης, ὁ δὲ μισῶν ἀδικίαν μακρὸν χρόνον ζήσεται.<verse eID="rlxx_proverbs.28.16" />
+        <verse sID="rlxx_proverbs.28.17" osisID="rlxx_proverbs.28.17" />ἄνδρα τὸν ἐν αἰτίᾳ φόνου ὁ ἐγγυώμενος φυγὰς ἔσται καὶ οὐκ ἐν ἀσφαλείᾳ.<verse eID="rlxx_proverbs.28.17" />
+        <verse sID="rlxx_proverbs.28.17a" osisID="rlxx_proverbs.28.17a" />παίδευε υἱόν, καὶ ἀγαπήσει σε καὶ δώσει κόσμον τῇ σῇ ψυχῇ· οὐ μὴ ὑπακούσῃς ἔθνει παρανόμῳ.<verse eID="rlxx_proverbs.28.17a" />
+        <verse sID="rlxx_proverbs.28.18" osisID="rlxx_proverbs.28.18" />ὁ πορευόμενος δικαίως βεβοήθηται, ὁ δὲ σκολιαῖς ὁδοῖς πορευόμενος ἐμπλακήσεται.<verse eID="rlxx_proverbs.28.18" />
+        <verse sID="rlxx_proverbs.28.19" osisID="rlxx_proverbs.28.19" />ὁ ἐργαζόμενος τὴν ἑαυτοῦ γῆν πλησθήσεται ἄρτων, ὁ δὲ διώκων σχολὴν πλησθήσεται πενίας.<verse eID="rlxx_proverbs.28.19" />
+        <verse sID="rlxx_proverbs.28.20" osisID="rlxx_proverbs.28.20" />ἀνὴρ ἀξιόπιστος πολλὰ εὐλογηθήσεται, ὁ δὲ κακὸς οὐκ ἀτιμώρητος ἔσται.<verse eID="rlxx_proverbs.28.20" />
+        <verse sID="rlxx_proverbs.28.21" osisID="rlxx_proverbs.28.21" />ὃς οὐκ αἰσχύνεται πρόσωπα δικαίων, οὐκ ἀγαθός· ὁ τοιοῦτος ψωμοῦ ἄρτου ἀποδώσεται ἄνδρα.<verse eID="rlxx_proverbs.28.21" />
+        <verse sID="rlxx_proverbs.28.22" osisID="rlxx_proverbs.28.22" />σπεύδει πλουτεῖν ἀνὴρ βάσκανος καὶ οὐκ οἶδεν ὅτι ἐλεήμων κρατήσει αὐτοῦ.<verse eID="rlxx_proverbs.28.22" />
+        <verse sID="rlxx_proverbs.28.23" osisID="rlxx_proverbs.28.23" />ὁ ἐλέγχων ἀνθρώπου ὁδοὺς χάριτας ἕξει μᾶλλον τοῦ γλωσσοχαριτοῦντος.<verse eID="rlxx_proverbs.28.23" />
+        <verse sID="rlxx_proverbs.28.24" osisID="rlxx_proverbs.28.24" />ὃς ἀποβάλλεται πατέρα ἢ μητέρα καὶ δοκεῖ μὴ ἁμαρτάνειν, οὗτος κοινωνός ἐστιν ἀνδρὸς ἀσεβοῦς.<verse eID="rlxx_proverbs.28.24" />
+        <verse sID="rlxx_proverbs.28.25" osisID="rlxx_proverbs.28.25" />ἄπληστος ἀνὴρ κρίνει εἰκῇ· ὃς δὲ πέποιθεν ἐπὶ κύριον, ἐν ἐπιμελείᾳ ἔσται.<verse eID="rlxx_proverbs.28.25" />
+        <verse sID="rlxx_proverbs.28.26" osisID="rlxx_proverbs.28.26" />ὃς πέποιθεν θρασείᾳ καρδίᾳ, ὁ τοιοῦτος ἄφρων· ὃς δὲ πορεύεται σοφίᾳ, σωθήσεται.<verse eID="rlxx_proverbs.28.26" />
+        <verse sID="rlxx_proverbs.28.27" osisID="rlxx_proverbs.28.27" />ὃς δίδωσιν πτωχοῖς, οὐκ ἐνδεηθήσεται· ὃς δὲ ἀποστρέφει τὸν ὀφθαλμὸν αὐτοῦ, ἐν πολλῇ ἀπορίᾳ ἔσται.<verse eID="rlxx_proverbs.28.27" />
+        <verse sID="rlxx_proverbs.28.28" osisID="rlxx_proverbs.28.28" />ἐν τόποις ἀσεβῶν στένουσι δίκαιοι, ἐν δὲ τῇ ἐκείνων ἀπωλείᾳ πληθυνθήσονται δίκαιοι.<verse eID="rlxx_proverbs.28.28" />
+      </p>
+      <chapter eID="rlxx_proverbs.28" />
+      <chapter sID="rlxx_proverbs.29" osisID="rlxx_proverbs.29" />
+      <title>Chapter 29</title>
+      <p>
+        <verse sID="rlxx_proverbs.29.1" osisID="rlxx_proverbs.29.1" />κρείσσων ἀνὴρ ἐλέγχων ἀνδρὸς σκληροτραχήλου· ἐξαπίνης γὰρ φλεγομένου αὐτοῦ οὐκ ἔστιν ἴασις.<verse eID="rlxx_proverbs.29.1" />
+        <verse sID="rlxx_proverbs.29.2" osisID="rlxx_proverbs.29.2" />ἐγκωμιαζομένων δικαίων εὐφρανθήσονται λαοί, ἀρχόντων δὲ ἀσεβῶν στένουσιν ἄνδρες.<verse eID="rlxx_proverbs.29.2" />
+        <verse sID="rlxx_proverbs.29.3" osisID="rlxx_proverbs.29.3" />ἀνδρὸς φιλοῦντος σοφίαν εὐφραίνεται πατὴρ αὐτοῦ· ὃς δὲ ποιμαίνει πόρνας, ἀπολεῖ πλοῦτον.<verse eID="rlxx_proverbs.29.3" />
+        <verse sID="rlxx_proverbs.29.4" osisID="rlxx_proverbs.29.4" />βασιλεὺς δίκαιος ἀνίστησιν χώραν, ἀνὴρ δὲ παράνομος κατασκάπτει.<verse eID="rlxx_proverbs.29.4" />
+        <verse sID="rlxx_proverbs.29.5" osisID="rlxx_proverbs.29.5" />ὃς παρασκευάζεται ἐπὶ πρόσωπον τοῦ ἑαυτοῦ φίλου δίκτυον, περιβάλλει αὐτὸ τοῖς ἑαυτοῦ ποσίν.<verse eID="rlxx_proverbs.29.5" />
+        <verse sID="rlxx_proverbs.29.6" osisID="rlxx_proverbs.29.6" />ἁμαρτάνοντι ἀνδρὶ μεγάλη παγίς, δίκαιος δὲ ἐν χαρᾷ καὶ ἐν εὐφροσύνῃ ἔσται.<verse eID="rlxx_proverbs.29.6" />
+        <verse sID="rlxx_proverbs.29.7" osisID="rlxx_proverbs.29.7" />ἐπίσταται δίκαιος κρίνειν πενιχροῖς, ὁ δὲ ἀσεβὴς οὐ συνήσει γνῶσιν, καὶ πτωχῷ οὐχ ὑπάρχει νοῦς ἐπιγνώμων.<verse eID="rlxx_proverbs.29.7" />
+        <verse sID="rlxx_proverbs.29.8" osisID="rlxx_proverbs.29.8" />ἄνδρες λοιμοὶ ἐξέκαυσαν πόλιν, σοφοὶ δὲ ἀπέστρεψαν ὀργήν.<verse eID="rlxx_proverbs.29.8" />
+        <verse sID="rlxx_proverbs.29.9" osisID="rlxx_proverbs.29.9" />ἀνὴρ σοφὸς κρίνει ἔθνη, ἀνὴρ δὲ φαῦλος ὀργιζόμενος καταγελᾶται καὶ οὐ καταπτήσσει. ἄνδρες αἱμάτων μέτοχοι μισήσουσιν ὅσιον, οἱ δὲ εὐθεῖς ἐκζητήσουσιν ψυχὴν αὐτοῦ.<verse eID="rlxx_proverbs.29.9" />
+        <verse sID="rlxx_proverbs.29.11" osisID="rlxx_proverbs.29.11" />ὅλον τὸν θυμὸν αὐτοῦ ἐκφέρει ἄφρων, σοφὸς δὲ ταμιεύεται κατὰ μέρος.<verse eID="rlxx_proverbs.29.11" />
+        <verse sID="rlxx_proverbs.29.12" osisID="rlxx_proverbs.29.12" />βασιλέως ὑπακούοντος λόγον ἄδικον πάντες οἱ ὑπ' αὐτὸν παράνομοι.<verse eID="rlxx_proverbs.29.12" />
+        <verse sID="rlxx_proverbs.29.13" osisID="rlxx_proverbs.29.13" />δανιστοῦ καὶ χρεοφειλέτου ἀλλήλοις συνελθόντων ἐπισκοπὴν ποιεῖται ἀμφοτέρων ὁ κύριος.<verse eID="rlxx_proverbs.29.13" />
+        <verse sID="rlxx_proverbs.29.14" osisID="rlxx_proverbs.29.14" />βασιλέως ἐν ἀληθείᾳ κρίνοντος πτωχοὺς ὁ θρόνος αὐτοῦ εἰς μαρτύριον κατασταθήσεται.<verse eID="rlxx_proverbs.29.14" />
+        <verse sID="rlxx_proverbs.29.15" osisID="rlxx_proverbs.29.15" />πληγαὶ καὶ ἔλεγχοι διδόασιν σοφίαν, παῖς δὲ πλανώμενος αἰσχύνει γονεῖς αὐτοῦ.<verse eID="rlxx_proverbs.29.15" />
+        <verse sID="rlxx_proverbs.29.16" osisID="rlxx_proverbs.29.16" />πολλῶν ὄντων ἀσεβῶν πολλαὶ γίνονται ἁμαρτίαι, οἱ δὲ δίκαιοι ἐκείνων πιπτόντων κατάφοβοι γίνονται.<verse eID="rlxx_proverbs.29.16" />
+        <verse sID="rlxx_proverbs.29.17" osisID="rlxx_proverbs.29.17" />παίδευε υἱόν σου, καὶ ἀναπαύσει σε καὶ δώσει κόσμον τῇ ψυχῇ σου.<verse eID="rlxx_proverbs.29.17" />
+        <verse sID="rlxx_proverbs.29.18" osisID="rlxx_proverbs.29.18" />οὐ μὴ ὑπάρξῃ ἐξηγητὴς ἔθνει παρανόμῳ, ὁ δὲ φυλάσσων τὸν νόμον μακαριστός.<verse eID="rlxx_proverbs.29.18" />
+        <verse sID="rlxx_proverbs.29.19" osisID="rlxx_proverbs.29.19" />λόγοις οὐ παιδευθήσεται οἰκέτης σκληρός· ἐὰν γὰρ καὶ νοήσῃ, ἀλλ' οὐχ ὑπακούσεται.<verse eID="rlxx_proverbs.29.19" />
+        <verse sID="rlxx_proverbs.29.20" osisID="rlxx_proverbs.29.20" />ἐὰν ἴδῃς ἄνδρα ταχὺν ἐν λόγοις, γίνωσκε ὅτι ἐλπίδα ἔχει μᾶλλον ἄφρων αὐτοῦ.<verse eID="rlxx_proverbs.29.20" />
+        <verse sID="rlxx_proverbs.29.21" osisID="rlxx_proverbs.29.21" />ὃς κατασπαταλᾷ ἐκ παιδός, οἰκέτης ἔσται, ἔσχατον δὲ ὀδυνηθήσεται ἐφ' ἑαυτῷ.<verse eID="rlxx_proverbs.29.21" />
+        <verse sID="rlxx_proverbs.29.22" osisID="rlxx_proverbs.29.22" />ἀνὴρ θυμώδης ὀρύσσει νεῖκος, ἀνὴρ δὲ ὀργίλος ἐξώρυξεν ἁμαρτίας.<verse eID="rlxx_proverbs.29.22" />
+        <verse sID="rlxx_proverbs.29.23" osisID="rlxx_proverbs.29.23" />ὕβρις ἄνδρα ταπεινοῖ, τοὺς δὲ ταπεινόφρονας ἐρείδει δόξῃ κύριος.<verse eID="rlxx_proverbs.29.23" />
+        <verse sID="rlxx_proverbs.29.24" osisID="rlxx_proverbs.29.24" />ὃς μερίζεται κλέπτῃ, μισεῖ τὴν ἑαυτοῦ ψυχήν· ἐὰν δὲ ὅρκου προτεθέντος ἀκούσαντες μὴ ἀναγγείλωσιν, φοβηθέντες καὶ αἰσχυνθέντες ἀνθρώπους ὑπεσκελί<verse eID="rlxx_proverbs.29.24" />
+        <verse sID="rlxx_proverbs.29.25" osisID="rlxx_proverbs.29.25" />σθησαν· ὁ δὲ πεποιθὼς ἐπὶ κύριον εὐφρανθήσεται. ἀσέβεια ἀνδρὶ δίδωσιν σφάλμα· ὃς δὲ πέποιθεν ἐπὶ τῷ δεσπότῃ, σωθήσεται.<verse eID="rlxx_proverbs.29.25" />
+        <verse sID="rlxx_proverbs.29.26" osisID="rlxx_proverbs.29.26" />πολλοὶ θεραπεύουσιν πρόσωπα ἡγουμένων, παρὰ δὲ κυρίου γίνεται τὸ δίκαιον ἀνδρί.<verse eID="rlxx_proverbs.29.26" />
+        <verse sID="rlxx_proverbs.29.27" osisID="rlxx_proverbs.29.27" />βδέλυγμα δικαίοις ἀνὴρ ἄδικος, βδέλυγμα δὲ ἀνόμῳ κατευθύνουσα ὁδός. –––<verse eID="rlxx_proverbs.29.27" />
+      </p>
+      <chapter eID="rlxx_proverbs.29" />
+      <chapter sID="rlxx_proverbs.31" osisID="rlxx_proverbs.31" />
+      <title>Chapter 31</title>
+      <p>
+        <verse sID="rlxx_proverbs.31.10" osisID="rlxx_proverbs.31.10" />Γυναῖκα ἀνδρείαν τίς εὑρήσει; τιμιωτέρα δέ ἐστιν λίθων πολυτελῶν ἡ τοιαύτη.<verse eID="rlxx_proverbs.31.10" />
+        <verse sID="rlxx_proverbs.31.11" osisID="rlxx_proverbs.31.11" />θαρσεῖ ἐπ' αὐτῇ ἡ καρδία τοῦ ἀνδρὸς αὐτῆς, ἡ τοιαύτη καλῶν σκύλων οὐκ ἀπορήσει·<verse eID="rlxx_proverbs.31.11" />
+        <verse sID="rlxx_proverbs.31.12" osisID="rlxx_proverbs.31.12" />ἐνεργεῖ γὰρ τῷ ἀνδρὶ ἀγαθὰ πάντα τὸν βίον.<verse eID="rlxx_proverbs.31.12" />
+        <verse sID="rlxx_proverbs.31.13" osisID="rlxx_proverbs.31.13" />μηρυομένη ἔρια καὶ λίνον ἐποίησεν εὔχρηστον ταῖς χερσὶν αὐτῆς.<verse eID="rlxx_proverbs.31.13" />
+        <verse sID="rlxx_proverbs.31.14" osisID="rlxx_proverbs.31.14" />ἐγένετο ὡσεὶ ναῦς ἐμπορευομένη μακρόθεν, συνάγει δὲ αὕτη τὸν βίον.<verse eID="rlxx_proverbs.31.14" />
+        <verse sID="rlxx_proverbs.31.15" osisID="rlxx_proverbs.31.15" />καὶ ἀνίσταται ἐκ νυκτῶν καὶ ἔδωκεν βρώματα τῷ οἴκῳ καὶ ἔργα ταῖς θεραπαίναις.<verse eID="rlxx_proverbs.31.15" />
+        <verse sID="rlxx_proverbs.31.16" osisID="rlxx_proverbs.31.16" />θεωρήσασα γεώργιον ἐπρίατο, ἀπὸ δὲ καρπῶν χειρῶν αὐτῆς κατεφύτευσεν κτῆμα.<verse eID="rlxx_proverbs.31.16" />
+        <verse sID="rlxx_proverbs.31.17" osisID="rlxx_proverbs.31.17" />ἀναζωσαμένη ἰσχυρῶς τὴν ὀσφὺν αὐτῆς ἤρεισεν τοὺς βραχίονας αὐτῆς εἰς ἔργον.<verse eID="rlxx_proverbs.31.17" />
+        <verse sID="rlxx_proverbs.31.18" osisID="rlxx_proverbs.31.18" />ἐγεύσατο ὅτι καλόν ἐστιν τὸ ἐργάζεσθαι, καὶ οὐκ ἀποσβέννυται ὅλην τὴν νύκτα ὁ λύχνος αὐτῆς.<verse eID="rlxx_proverbs.31.18" />
+        <verse sID="rlxx_proverbs.31.19" osisID="rlxx_proverbs.31.19" />τοὺς πήχεις αὐτῆς ἐκτείνει ἐπὶ τὰ συμφέροντα, τὰς δὲ χεῖρας αὐτῆς ἐρείδει εἰς ἄτρακτον.<verse eID="rlxx_proverbs.31.19" />
+        <verse sID="rlxx_proverbs.31.20" osisID="rlxx_proverbs.31.20" />χεῖρας δὲ αὐτῆς διήνοιξεν πένητι, καρπὸν δὲ ἐξέτεινεν πτωχῷ.<verse eID="rlxx_proverbs.31.20" />
+        <verse sID="rlxx_proverbs.31.21" osisID="rlxx_proverbs.31.21" />οὐ φροντίζει τῶν ἐν οἴκῳ ὁ ἀνὴρ αὐτῆς, ὅταν που χρονίζῃ· πάντες γὰρ οἱ παρ' αὐτῆς ἐνδιδύσκονται.<verse eID="rlxx_proverbs.31.21" />
+        <verse sID="rlxx_proverbs.31.22" osisID="rlxx_proverbs.31.22" />δισσὰς χλαίνας ἐποίησεν τῷ ἀνδρὶ αὐτῆς, ἐκ δὲ βύσσου καὶ πορφύρας ἑαυτῇ ἐνδύματα.<verse eID="rlxx_proverbs.31.22" />
+        <verse sID="rlxx_proverbs.31.23" osisID="rlxx_proverbs.31.23" />περίβλεπτος δὲ γίνεται ἐν πύλαις ὁ ἀνὴρ αὐτῆς, ἡνίκα ἂν καθίσῃ ἐν συνεδρίῳ μετὰ τῶν γερόντων κατοίκων τῆς γῆς.<verse eID="rlxx_proverbs.31.23" />
+        <verse sID="rlxx_proverbs.31.24" osisID="rlxx_proverbs.31.24" />σινδόνας ἐποίησεν καὶ ἀπέδοτο, περιζώματα δὲ τοῖς Χαναναίοις.<verse eID="rlxx_proverbs.31.24" />
+        <verse sID="rlxx_proverbs.31.25" osisID="rlxx_proverbs.31.25" />στόμα αὐτῆς διήνοιξεν προσεχόντως καὶ ἐννόμως καὶ τάξιν ἐστείλατο τῇ γλώσσῃ αὐτῆς.<verse eID="rlxx_proverbs.31.25" />
+        <verse sID="rlxx_proverbs.31.26" osisID="rlxx_proverbs.31.26" />ἰσχὺν καὶ εὐπρέπειαν ἐνεδύσατο καὶ εὐφράνθη ἐν ἡμέραις ἐσχάταις.<verse eID="rlxx_proverbs.31.26" />
+        <verse sID="rlxx_proverbs.31.27" osisID="rlxx_proverbs.31.27" />στεγναὶ διατριβαὶ οἴκων αὐτῆς, σῖτα δὲ ὀκνηρὰ οὐκ ἔφαγεν.<verse eID="rlxx_proverbs.31.27" />
+        <verse sID="rlxx_proverbs.31.28" osisID="rlxx_proverbs.31.28" />τὸ στόμα δὲ ἀνοίγει σοφῶς καὶ νομοθέσμως, ἡ δὲ ἐλεημοσύνη αὐτῆς ἀνέστησεν τὰ τέκνα αὐτῆς, καὶ ἐπλούτησαν, καὶ ὁ ἀνὴρ αὐτῆς ᾔνεσεν αὐτήν<verse eID="rlxx_proverbs.31.28" />
+        <verse sID="rlxx_proverbs.31.29" osisID="rlxx_proverbs.31.29" />Πολλαὶ θυγατέρες ἐκτήσαντο πλοῦτον, πολλαὶ ἐποίησαν δυνατά, σὺ δὲ ὑπέρκεισαι καὶ ὑπερῆρας πάσας.<verse eID="rlxx_proverbs.31.29" />
+        <verse sID="rlxx_proverbs.31.30" osisID="rlxx_proverbs.31.30" />ψευδεῖς ἀρέσκειαι καὶ μάταιον κάλλος γυναικός· γυνὴ γὰρ συνετὴ εὐλογεῖται, φόβον δὲ κυρίου αὕτη αἰνείτω.<verse eID="rlxx_proverbs.31.30" />
+        <verse sID="rlxx_proverbs.31.31" osisID="rlxx_proverbs.31.31" />δότε αὐτῇ ἀπὸ καρπῶν χειρῶν αὐτῆς, καὶ αἰνείσθω ἐν πύλαις ὁ ἀνὴρ αὐτῆς.<verse eID="rlxx_proverbs.31.31" />
+      </p>
+      <chapter eID="rlxx_proverbs.31" />
+    </div>
+  </osisText>
+</osis>

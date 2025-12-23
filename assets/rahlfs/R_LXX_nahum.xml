@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="rlxx_nahum" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="rlxx_nahum">
+        <title>Nahum (Duodecim prophetae)</title>
+        <creator>ITSERR-Italian Strengthening of the ESFRI RI RESILIENCE: WP8-uBIQUity; PRIN 2022- Resilient Septuagint. An Initial Exploration of the Semantics of Killing and Healing in the Septuagint and its Reception in Patristic and Late Antique Sources (3rd cent. BCE – 5th cent. CE)</creator>
+        <subject>Nahum</subject>
+        <date event="original">3rd-1st cent. BCE</date>
+        <date event="eversion">2025-07-23</date>
+        <date event="edition">2006 (1rst ed.: A. Rahlfs, 1935)</date>
+        <description type="x-edition">A. Rahlfs - R. Hanhart (eds.), Septuaginta: Id est Vetus
+                    Testamentum graece iuxta LXX interpretes. Editio altera, Stuttgart: Deutsche
+                    Bibelgesellschaft, 2006 (1rst ed.: A. Rahlfs, 1935)</description>
+        <description type="x-apparatus_n">1</description>
+        <identifier type="ISBN">978-3-438-05119-6</identifier>
+        <relation type="x-isAPartOf">R-LXX</relation>
+        <rights>© Deutsche Bibelgesellschaft, Stuttgart. All rights reserved.</rights>
+        <refSystem>Greek: Scriptures</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="rlxx_nahum">
+      <title>ΝΑΟΥΜ</title>
+      <chapter sID="rlxx_nahum.1" osisID="rlxx_nahum.1" />
+      <title>Chapter 1</title>
+      <p>
+        <verse sID="rlxx_nahum.1.1" osisID="rlxx_nahum.1.1" />Λῆμμα Νινευη· βιβλίον ὁράσεως Ναουμ τοῦ Ελκεσαίου.<verse eID="rlxx_nahum.1.1" />
+        <verse sID="rlxx_nahum.1.2" osisID="rlxx_nahum.1.2" />Θεὸς ζηλωτὴς καὶ ἐκδικῶν κύριος, ἐκδικῶν κύριος μετὰ θυμοῦ ἐκδικῶν κύριος τοὺς ὑπεναντίους αὐτοῦ, καὶ ἐξαίρων αὐτὸς τοὺς ἐχθροὺς αὐτοῦ.<verse eID="rlxx_nahum.1.2" />
+        <verse sID="rlxx_nahum.1.3" osisID="rlxx_nahum.1.3" />κύριος μακρόθυμος, καὶ μεγάλη ἡ ἰσχὺς αὐτοῦ, καὶ ἀθῳῶν οὐκ ἀθῳώσει κύριος. ἐν συντελείᾳ καὶ ἐν συσσεισμῷ ἡ ὁδὸς αὐτοῦ, καὶ νεφέλαι κονιορτὸς ποδῶν αὐτοῦ.<verse eID="rlxx_nahum.1.3" />
+        <verse sID="rlxx_nahum.1.4" osisID="rlxx_nahum.1.4" />ἀπειλῶν θαλάσσῃ καὶ ξηραίνων αὐτὴν καὶ πάντας τοὺς ποταμοὺς ἐξερημῶν· ὠλιγώθη ἡ Βασανῖτις καὶ ὁ Κάρμηλος, καὶ τὰ ἐξανθοῦντα τοῦ Λιβάνου ἐξέλιπεν.<verse eID="rlxx_nahum.1.4" />
+        <verse sID="rlxx_nahum.1.5" osisID="rlxx_nahum.1.5" />τὰ ὄρη ἐσείσθησαν ἀπ' αὐτοῦ, καὶ οἱ βουνοὶ ἐσαλεύθησαν· καὶ ἀνεστάλη ἡ γῆ ἀπὸ προσώπου αὐτοῦ, ἡ σύμπασα καὶ πάντες οἱ κατοικοῦντες ἐν αὐτῇ.<verse eID="rlxx_nahum.1.5" />
+        <verse sID="rlxx_nahum.1.6" osisID="rlxx_nahum.1.6" />ἀπὸ προσώπου ὀργῆς αὐτοῦ τίς ὑποστήσεται; καὶ τίς ἀντιστήσεται ἐν ὀργῇ θυμοῦ αὐτοῦ; ὁ θυμὸς αὐτοῦ τήκει ἀρχάς, καὶ αἱ πέτραι διεθρύβησαν ἀπ' αὐτοῦ.<verse eID="rlxx_nahum.1.6" />
+        <verse sID="rlxx_nahum.1.7" osisID="rlxx_nahum.1.7" />χρηστὸς κύριος τοῖς ὑπομένουσιν αὐτὸν ἐν ἡμέρᾳ θλίψεως καὶ γινώσκων τοὺς εὐλαβουμένους αὐτόν·<verse eID="rlxx_nahum.1.7" />
+        <verse sID="rlxx_nahum.1.8" osisID="rlxx_nahum.1.8" />καὶ ἐν κατακλυσμῷ πορείας συντέλειαν ποιήσεται τοὺς ἐπεγειρομένους, καὶ τοὺς ἐχθροὺς αὐτοῦ διώξεται σκότος.<verse eID="rlxx_nahum.1.8" />
+        <verse sID="rlxx_nahum.1.9" osisID="rlxx_nahum.1.9" />τί λογίζεσθε ἐπὶ τὸν κύριον; συντέλειαν αὐτὸς ποιήσεται, οὐκ ἐκδικήσει δὶς ἐπὶ τὸ αὐτὸ ἐν θλίψει·<verse eID="rlxx_nahum.1.9" />
+        <verse sID="rlxx_nahum.1.10" osisID="rlxx_nahum.1.10" />ὅτι ἕως θεμελίου αὐτῶν χερσωθήσεται καὶ ὡς σμῖλαξ περιπλεκομένη βρωθήσεται καὶ ὡς καλάμη ξηρασίας μεστή.<verse eID="rlxx_nahum.1.10" />
+        <verse sID="rlxx_nahum.1.11" osisID="rlxx_nahum.1.11" />ἐκ σοῦ ἐξελεύσεται λογισμὸς κατὰ τοῦ κυρίου πονηρὰ λογιζόμενος ἐναντία.<verse eID="rlxx_nahum.1.11" />
+        <verse sID="rlxx_nahum.1.12" osisID="rlxx_nahum.1.12" />τάδε λέγει κύριος κατάρχων ὑδάτων πολλῶν Καὶ οὕτως διασταλήσονται, καὶ ἡ ἀκοή σου οὐκ ἐνακουσθήσεται ἔτι.<verse eID="rlxx_nahum.1.12" />
+        <verse sID="rlxx_nahum.1.13" osisID="rlxx_nahum.1.13" />καὶ νῦν συντρίψω τὴν ῥάβδον αὐτοῦ ἀπὸ σοῦ καὶ τοὺς δεσμούς σου διαρρήξω·<verse eID="rlxx_nahum.1.13" />
+        <verse sID="rlxx_nahum.1.14" osisID="rlxx_nahum.1.14" />καὶ ἐντελεῖται ὑπὲρ σοῦ κύριος, οὐ σπαρήσεται ἐκ τοῦ ὀνόματός σου ἔτι· ἐξ οἴκου θεοῦ σου ἐξολεθρεύσω τὰ γλυπτὰ καὶ χωνευτά· θήσομαι ταφήν σου, ὅτι ταχεῖς.<verse eID="rlxx_nahum.1.14" />
+      </p>
+      <chapter eID="rlxx_nahum.1" />
+      <chapter sID="rlxx_nahum.2" osisID="rlxx_nahum.2" />
+      <title>Chapter 2</title>
+      <p>
+        <verse sID="rlxx_nahum.2.1" osisID="rlxx_nahum.2.1" />Ἰδοὺ ἐπὶ τὰ ὄρη οἱ πόδες εὐαγγελιζομένου καὶ ἀπαγγέλλοντος εἰρήνην· ἑόρταζε, Ιουδα, τὰς ἑορτάς σου, ἀπόδος τὰς εὐχάς σου, διότι οὐ μὴ προσθήσωσιν ἔτι τοῦ διελθεῖν διὰ σοῦ εἰς παλαίωσιν Συντετέλεσται, ἐξῆρται.<verse eID="rlxx_nahum.2.1" />
+        <verse sID="rlxx_nahum.2.2" osisID="rlxx_nahum.2.2" />ἀνέβη ἐμφυσῶν εἰς πρόσωπόν σου ἐξαιρούμενος ἐκ θλίψεως· σκόπευσον ὁδόν, κράτησον ὀσφύος, ἄνδρισαι τῇ ἰσχύι σφόδρα,<verse eID="rlxx_nahum.2.2" />
+        <verse sID="rlxx_nahum.2.3" osisID="rlxx_nahum.2.3" />διότι ἀπέστρεψεν κύριος τὴν ὕβριν Ιακωβ καθὼς ὕβριν τοῦ Ισραηλ, διότι ἐκτινάσσοντες ἐξετίναξαν αὐτοὺς καὶ τὰ κλήματα αὐτῶν, διέφθειραν<verse eID="rlxx_nahum.2.3" />
+        <verse sID="rlxx_nahum.2.4" osisID="rlxx_nahum.2.4" />ὅπλα δυναστείας αὐτῶν ἐξ ἀνθρώπων, ἄνδρας δυνατοὺς ἐμπαίζοντας ἐν πυρί· αἱ ἡνίαι τῶν ἁρμάτων αὐτῶν ἐν ἡμέρᾳ ἑτοιμασίας αὐτοῦ, καὶ οἱ ἱππεῖς θορυβηθήσονται<verse eID="rlxx_nahum.2.4" />
+        <verse sID="rlxx_nahum.2.5" osisID="rlxx_nahum.2.5" />ἐν ταῖς ὁδοῖς, καὶ συγχυθήσονται τὰ ἅρματα καὶ συμπλακήσονται ἐν ταῖς πλατείαις· ἡ ὅρασις αὐτῶν ὡς λαμπάδες πυρὸς καὶ ὡς ἀστραπαὶ διατρέχουσαι.<verse eID="rlxx_nahum.2.5" />
+        <verse sID="rlxx_nahum.2.6" osisID="rlxx_nahum.2.6" />καὶ μνησθήσονται οἱ μεγιστᾶνες αὐτῶν καὶ φεύξονται ἡμέρας καὶ ἀσθενήσουσιν ἐν τῇ πορείᾳ αὐτῶν καὶ σπεύσουσιν ἐπὶ τὰ τείχη καὶ ἑτοιμάσουσιν τὰς προφυλακὰς αὐτῶν.<verse eID="rlxx_nahum.2.6" />
+        <verse sID="rlxx_nahum.2.7" osisID="rlxx_nahum.2.7" />πύλαι τῶν ποταμῶν διηνοίχθησαν, καὶ τὰ βασίλεια διέπεσεν,<verse eID="rlxx_nahum.2.7" />
+        <verse sID="rlxx_nahum.2.8" osisID="rlxx_nahum.2.8" />καὶ ἡ ὑπόστασις ἀπεκαλύφθη, καὶ αὕτη ἀνέβαινεν, καὶ αἱ δοῦλαι αὐτῆς ἤγοντο καθὼς περιστεραὶ φθεγγόμεναι ἐν καρδίαις αὐτῶν.<verse eID="rlxx_nahum.2.8" />
+        <verse sID="rlxx_nahum.2.9" osisID="rlxx_nahum.2.9" />καὶ Νινευη, ὡς κολυμβήθρα ὕδατος τὰ ὕδατα αὐτῆς, καὶ αὐτοὶ φεύγοντες οὐκ ἔστησαν, καὶ οὐκ ἦν ὁ ἐπιβλέπων.<verse eID="rlxx_nahum.2.9" />
+        <verse sID="rlxx_nahum.2.10" osisID="rlxx_nahum.2.10" />διήρπαζον τὸ ἀργύριον, διήρπαζον τὸ χρυσίον, καὶ οὐκ ἦν πέρας τοῦ κόσμου αὐτῆς· βεβάρυνται ὑπὲρ πάντα τὰ σκεύη τὰ ἐπιθυμητὰ αὐτῆς.<verse eID="rlxx_nahum.2.10" />
+        <verse sID="rlxx_nahum.2.11" osisID="rlxx_nahum.2.11" />ἐκτιναγμὸς καὶ ἀνατιναγμὸς καὶ ἐκβρασμὸς καὶ καρδίας θραυσμὸς καὶ ὑπόλυσις γονάτων καὶ ὠδῖνες ἐπὶ πᾶσαν ὀσφύν, καὶ τὸ πρόσωπον πάντων ὡς πρόσκαυμα χύτρας.<verse eID="rlxx_nahum.2.11" />
+        <verse sID="rlxx_nahum.2.12" osisID="rlxx_nahum.2.12" />ποῦ ἐστιν τὸ κατοικητήριον τῶν λεόντων καὶ ἡ νομὴ ἡ οὖσα τοῖς σκύμνοις, οὗ ἐπορεύθη λέων τοῦ εἰσελθεῖν ἐκεῖ, σκύμνος λέοντος καὶ οὐκ ἦν ὁ ἐκφοβῶν;<verse eID="rlxx_nahum.2.12" />
+        <verse sID="rlxx_nahum.2.13" osisID="rlxx_nahum.2.13" />λέων ἥρπασεν τὰ ἱκανὰ τοῖς σκύμνοις αὐτοῦ καὶ ἀπέπνιξεν τοῖς λέουσιν αὐτοῦ καὶ ἔπλησεν θήρας νοσσιὰν αὐτοῦ καὶ τὸ κατοικητήριον αὐτοῦ ἁρπαγῆς.<verse eID="rlxx_nahum.2.13" />
+        <verse sID="rlxx_nahum.2.14" osisID="rlxx_nahum.2.14" />ἰδοὺ ἐγὼ ἐπὶ σέ, λέγει κύριος παντοκράτωρ, καὶ ἐκκαύσω ἐν καπνῷ πλῆθός σου, καὶ τοὺς λέοντάς σου καταφάγεται ῥομφαία, καὶ ἐξολεθρεύσω ἐκ τῆς γῆς τὴν θήραν σου, καὶ οὐ μὴ ἀκουσθῇ οὐκέτι τὰ ἔργα σου.<verse eID="rlxx_nahum.2.14" />
+      </p>
+      <chapter eID="rlxx_nahum.2" />
+      <chapter sID="rlxx_nahum.3" osisID="rlxx_nahum.3" />
+      <title>Chapter 3</title>
+      <p>
+        <verse sID="rlxx_nahum.3.1" osisID="rlxx_nahum.3.1" />Ὦ πόλις αἱμάτων ὅλη ψευδὴς ἀδικίας πλήρης, οὐ ψηλαφηθήσεται θήρα.<verse eID="rlxx_nahum.3.1" />
+        <verse sID="rlxx_nahum.3.2" osisID="rlxx_nahum.3.2" />φωνὴ μαστίγων καὶ φωνὴ σεισμοῦ τροχῶν καὶ ἵππου διώκοντος καὶ ἅρματος ἀναβράσσοντος<verse eID="rlxx_nahum.3.2" />
+        <verse sID="rlxx_nahum.3.3" osisID="rlxx_nahum.3.3" />καὶ ἱππέως ἀναβαίνοντος καὶ στιλβούσης ῥομφαίας καὶ ἐξαστραπτόντων ὅπλων καὶ πλήθους τραυματιῶνκαὶ βαρείας πτώσεως· καὶ οὐκ ἦν πέρας τοῖς ἔθνεσιν αὐτῆς, καὶ ἀσθενήσουσιν ἐν τοῖς σώμασιν αὐτῶν<verse eID="rlxx_nahum.3.3" />
+        <verse sID="rlxx_nahum.3.4" osisID="rlxx_nahum.3.4" />ἀπὸ πλήθους πορνείας. πόρνη καλὴ καὶ ἐπιχαρὴς ἡγουμένη φαρμάκων ἡ πωλοῦσα ἔθνη ἐν τῇ πορνείᾳ αὐτῆς καὶ φυλὰς ἐν τοῖς φαρμάκοις αὐτῆς,<verse eID="rlxx_nahum.3.4" />
+        <verse sID="rlxx_nahum.3.5" osisID="rlxx_nahum.3.5" />ἰδοῦ ἐγὼ ἐπὶ σέ, λέγει κύριος ὁ θεὸς ὁ παντοκράτωρ, καὶ ἀποκαλύψω τὰ ὀπίσω σου ἐπὶ τὸ πρόσωπόν σου καὶ δείξω ἔθνεσιν τὴν αἰσχύνην σου καὶ βασιλείαις τὴν ἀτιμίαν σου<verse eID="rlxx_nahum.3.5" />
+        <verse sID="rlxx_nahum.3.6" osisID="rlxx_nahum.3.6" />καὶ ἐπιρρίψω ἐπὶ σὲ βδελυγμὸν κατὰ τὰς ἀκαθαρσίας σου καὶ θήσομαί σε εἰς παράδειγμα,<verse eID="rlxx_nahum.3.6" />
+        <verse sID="rlxx_nahum.3.7" osisID="rlxx_nahum.3.7" />καὶ ἔσται πᾶς ὁ ὁρῶν σε ἀποπηδήσεται ἀπὸ σοῦ καὶ ἐρεῖ Δειλαία Νινευη· τίς στενάξει αὐτήν; πόθεν ζητήσω παράκλησιν αὐτῇ;<verse eID="rlxx_nahum.3.7" />
+        <verse sID="rlxx_nahum.3.8" osisID="rlxx_nahum.3.8" />ἑτοίμασαι μερίδα, ἅρμοσαι χορδήν, ἑτοίμασαι μερίδα, Αμων ἡ κατοικοῦσα ἐν ποταμοῖς, ὕδωρ κύκλῳ αὐτῆς, ἧς ἡ ἀρχὴ θάλασσα καὶ ὕδωρ τὰ τείχη αὐτῆς,<verse eID="rlxx_nahum.3.8" />
+        <verse sID="rlxx_nahum.3.9" osisID="rlxx_nahum.3.9" />καὶ Αἰθιοπία ἡ ἰσχὺς αὐτῆς καὶ Αἴγυπτος, καὶ οὐκ ἔστιν πέρας τῆς φυγῆς, καὶ Λίβυες ἐγένοντο βοηθοὶ αὐτῆς.<verse eID="rlxx_nahum.3.9" />
+        <verse sID="rlxx_nahum.3.10" osisID="rlxx_nahum.3.10" />καὶ αὐτὴ εἰς μετοικεσίαν πορεύσεται αἰχμάλωτος, καὶ τὰ νήπια αὐτῆς ἐδαφιοῦσιν ἐπ' ἀρχὰς πασῶν τῶν ὁδῶν αὐτῆς, καὶ ἐπὶ πάντα τὰ ἔνδοξα αὐτῆς βαλοῦσιν κλήρους, καὶ πάντες οἱ μεγιστᾶνες αὐτῆς δεθήσονται χειροπέδαις.<verse eID="rlxx_nahum.3.10" />
+        <verse sID="rlxx_nahum.3.11" osisID="rlxx_nahum.3.11" />καὶ σὺ μεθυσθήσῃ καὶ ἔσῃ ὑπερεωραμένη, καὶ σὺ ζητήσεις σεαυτῇ στάσιν ἐξ ἐχθρῶν.<verse eID="rlxx_nahum.3.11" />
+        <verse sID="rlxx_nahum.3.12" osisID="rlxx_nahum.3.12" />πάντα τὰ ὀχυρώματά σου συκαῖ σκοποὺς ἔχουσαι· ἐὰν σαλευθῶσιν, καὶ πεσοῦνται εἰς στόμα ἔσθοντος.<verse eID="rlxx_nahum.3.12" />
+        <verse sID="rlxx_nahum.3.13" osisID="rlxx_nahum.3.13" />ἰδοὺ ὁ λαός σου ὡς γυναῖκες ἐν σοί· τοῖς ἐχθροῖς σου ἀνοιγόμεναι ἀνοιχθήσονται πύλαι τῆς γῆς σου, καὶ καταφάγεται πῦρ τοὺς μοχλούς σου.<verse eID="rlxx_nahum.3.13" />
+        <verse sID="rlxx_nahum.3.14" osisID="rlxx_nahum.3.14" />ὕδωρ περιοχῆς ἐπίσπασαι σεαυτῇ καὶ κατακράτησον τῶν ὀχυρωμάτων σου, ἔμβηθι εἰς πηλὸν καὶ συμπατήθητι ἐν ἀχύροις, κατακράτησον ὑπὲρ πλίνθον·<verse eID="rlxx_nahum.3.14" />
+        <verse sID="rlxx_nahum.3.15" osisID="rlxx_nahum.3.15" />ἐκεῖ καταφάγεταί σε πῦρ, ἐξολεθρεύσει σε ῥομφαία, καταφάγεταί σε ὡς ἀκρίς, καὶ βαρυνθήσῃ ὡς βροῦχος.<verse eID="rlxx_nahum.3.15" />
+        <verse sID="rlxx_nahum.3.16" osisID="rlxx_nahum.3.16" />ἐπλήθυνας τὰς ἐμπορίας σου ὑπὲρ τὰ ἄστρα τοῦ οὐρανοῦ· βροῦχος ὥρμησεν καὶ ἐξεπετάσθη.<verse eID="rlxx_nahum.3.16" />
+        <verse sID="rlxx_nahum.3.17" osisID="rlxx_nahum.3.17" />ἐξήλατο ὡς ἀττέλεβος ὁ σύμμικτός σου, ὡς ἀκρὶς ἐπιβεβηκυῖα ἐπὶ φραγμὸν ἐν ἡμέραις πάγους· ὁ ἥλιος ἀνέτειλεν, καὶ ἀφήλατο, καὶ οὐκ ἔγνω τὸν τόπον αὐτῆς· οὐαὶ αὐτοῖς.<verse eID="rlxx_nahum.3.17" />
+        <verse sID="rlxx_nahum.3.18" osisID="rlxx_nahum.3.18" />ἐνύσταξαν οἱ ποιμένες σου, βασιλεὺς Ἀσσύριος ἐκοίμισεν τοὺς δυνάστας σου· ἀπῆρεν ὁ λαός σου ἐπὶ τὰ ὄρη, καὶ οὐκ ἦν ὁ ἐκδεχόμενος.<verse eID="rlxx_nahum.3.18" />
+        <verse sID="rlxx_nahum.3.19" osisID="rlxx_nahum.3.19" />οὐκ ἔστιν ἴασις τῇ συντριβῇ σου, ἐφλέγμανεν ἡ πληγή σου· πάντες οἱ ἀκούοντες τὴν ἀγγελίαν σου κροτήσουσιν χεῖρας ἐπὶ σέ· διότι ἐπὶ τίνα οὐκ ἐπῆλθεν ἡ κακία σου διὰ παντός;<verse eID="rlxx_nahum.3.19" />
+      </p>
+      <chapter eID="rlxx_nahum.3" />
+    </div>
+  </osisText>
+</osis>
